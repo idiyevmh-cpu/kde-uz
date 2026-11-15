@@ -41,5 +41,11 @@ Loyihadagi barça tarjimalar **yangi özbek lotin alifbosi** qoidalariga qat'iy 
 Köngilli sifatida tarjima jarayoniga qöşiliş uçun quyidagi qadamlarni bajaring:
 
 1. **Repozitoriyni nusxalang (Fork)** va öz kompyuteringizga yuklab oling:
+
+Meniki
    ```bash
-   git clone [https://github.com/idiyevm-cpu/kde-uz.git](https://github.com/idiyevm-cpu/kde-uz.git)
+   git clone [https://github.com/idiyevm-cpu/kde-uz.git]
+
+Originali
+
+https://invent.kde.org/localization/l10n-uz/-/tree/master/trunk6/messages?ref_type=heads

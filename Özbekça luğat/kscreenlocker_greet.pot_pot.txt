@@ -1,0 +1,19 @@
+Warning: Caps Lock on - Ogohlantiriş: Caps Lock yoqilgan
+The session is locked - Seans qulflangan
+The session has been locked by %1 - Seans %1 tomonidan qulflangan
+Password - Parol
+(or place your fingerprint on the reader) - (yoki barmoq izingizni skanerga qöying)
+(or use your smartcard) - (yoki smart-kartangizdan foydalaning)
+&Switch Users - Foydalanuvçilarni &almaştiriş
+Un&lock - Qulfdan &çiqariş
+Unlocking failed - Qulfdan çiqariş muvaffaqiyatsiz böldi
+Greeter for the KDE Plasma Workspaces Screen locker - KDE Plasma iş maydonlari ekran qulflagiçi salomlaşuvçisi
+Starts the greeter in testing mode - Salomlaşuvçini sinov rejimida işga tuşiradi
+Starts the greeter with the selected shell theme (only in Testing mode) - Salomlaşuvçini tanlangan qobiq mavzusi bilan işga tuşiradi (faqat sinov rejimida)
+Lock immediately, ignoring any grace time etc. - Har qanday imtiyozli vaqtni va boşqalarni eʼtiborsiz qoldirib, darhol qulflaş.
+Delay till the lock user interface gets shown in milliseconds. - Qulflaş foydalanuvçi interfeysi körsatilgunça keçikiş (millisekundlarda).
+Don't show any lock user interface. - Heç qanday qulflaş foydalanuvçi interfeysi körsatilmasin.
+Smartcard - Smart-karta
+Fingerprint - Barmoq izi
+Face - Yuz
+Universal 2 Factor - Universal 2 Factor (U2F)

@@ -1,0 +1,23 @@
+On-Screen Keyboard - Ekrandagi klaviatura
+Disabled - Öçirilgan
+Touch and Tablet - Sensorli ekran va planşet
+Touch, Tablet, Mouse, and Touchpad - Sensorli ekran, planşet, siçqonça va taçpad
+Configure On-Screen Keyboards… - Ekrandagi klaviaturalarni sozlaş…
+On-Screen Keyboard: unavailable
+Click or tap to configure on-screen keyboard settings - Ekrandagi klaviatura: mavjud emas
+Ekrandagi klaviatura sozlamalarini sozlaş uçun bosing yoki teging
+Configured not to show automatically
+Click or tap to configure on-screen keyboard settings - Avtomatik körsatilmaslik uçun sozlangan
+Ekrandagi klaviatura sozlamalarini sozlaş uçun bosing yoki teging
+No supported text field is currently active
+Click or tap to show in hardware keyboard emulation mode. - Ayni paytda qöllab-quvvatlanadigan matn maydoni faol emas
+Uskunaviy klaviatura emulyatsiyasi rejimida körsatiş uçun bosing yoki teging.
+On-Screen Keyboard is visible
+Click or tap to hide the on-screen keyboard. - Ekrandagi klaviatura körinmoqda
+Ekrandagi klaviaturani yaşiriş uçun bosing yoki teging.
+Shows automatically when tapping a text field
+Tap to configure on-screen keyboard settings - Matn maydoniga tegilganda avtomatik körsatiladi
+Ekrandagi klaviatura sozlamalarini sozlaş uçun teging
+Shows automatically when interacting with a text field
+Click or tap to configure on-screen keyboard settings - Matn maydoni bilan özaro işlaganda avtomatik körsatiladi
+Ekrandagi klaviatura sozlamalarini sozlaş uçun bosing yoki teging

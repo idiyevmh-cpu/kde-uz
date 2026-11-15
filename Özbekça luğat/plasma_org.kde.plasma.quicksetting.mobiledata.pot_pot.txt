@@ -1,0 +1,6 @@
+Mobile Data - Mobil maʼlumotlar
+Not Available -  Körib çiqişni iloji yöq
+APN needs to be configured in the settings - APN sozlamalarda sozlanişi kerak
+On - Yoqilgan
+Off - Öçirilgan
+No SIM inserted - SIM-karta örnatilmagan

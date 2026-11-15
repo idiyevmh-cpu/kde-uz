@@ -1,0 +1,4 @@
+Memory Shortage Avoided - Xotira yetişmovçiligining oldi olindi
+<command>%1</command> has been terminated by the Linux kernel because the system is low on memory. Consider closing unused applications or browser tabs. - Tizimda xotira kam bölganligi sababli Linux yadrosi tomonidan <command>%1</command> töxtatildi. Foydalanilmayotgan ilovalarni yoki brauzer varaqlarini yopişni körib çiqing.
+The background service <command>%1</command> has been terminated by the Linux kernel because the system is low on memory. Consider closing unused applications or browser tabs. - Tizimda xotira kam bölganligi sababli Linux yadrosi tomonidan fon xizmati <command>%1</command> töxtatildi. Foydalanilmayotgan ilovalarni yoki brauzer varaqlarini yopişni körib çiqing.
+Restart Application - Ilovani qayta işga tuşiriş

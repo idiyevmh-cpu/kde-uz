@@ -1,0 +1,64 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+We need a few details to complete the setup. - Sozlamalarni yakunlaş uçun bizga bir neçta maʼlumot kerak.
+This user will be an administrator. - Uşbu foydalanuvçi administrator böladi.
+This user will have administrative privileges on the system.<nl/><nl/>This means that they can change system settings, install software, and access all files on the system.<nl/><nl/>Choose a strong password for this user. - Uşbu foydalanuvçiga tizimda maʼmur huquqlari beriladi.<nl/><nl/>Bu şuni anglatadiki, ular tizim sozlamalarini özgartirişlari, dasturlarni örnatişlari va tizimdagi barça fayllarga kirişlari mumkin.<nl/><nl/>Uşbu foydalanuvçi uçun kuçli parol tanlang.
+Full Name - Töliq ism
+Username - Foydalanuvçi nomi
+Password - Parol
+Confirm Password - Parolni tasdiqlang
+Passwords must match - Parollar mos kelişi kerak
+Edit APN - APNni tahrirlaş
+Name - Ism
+APN - APN
+Username - Foydalanuvçi nomi
+Password - Parol
+Network type - Tarmoq turi
+4G/3G/2G - 4G/3G/2G
+3G/2G - 3G/2G
+2G - 2G
+Only 4G - Faqat 4G
+Only 3G - Faqat 3G
+Only 2G - Faqat 2G
+Any - Har qanday
+Please configure your APN below for mobile data, further information will be available with your carrier. - Iltimos, mobil maʼlumotlar uçun quyida APN sozlamalarini örnating, qöşimça maʼlumotni operatoringizdan olişingiz mumkin.
+You are connected to the mobile network. - Siz mobil tarmoqqa ulangansiz.
+Please insert a SIM card into your device. - Iltimos, qurilmangizga SIM-kartani joylaştiring.
+Your device does not have a modem available. - Sizning qurilmangizda modem mavjud emas.
+Mobile Data - Mobil maʼlumotlar
+Edit - Tahrirlaş
+Delete - Öçiriş
+Add APN - APN qöşiş
+Your device is almost ready.<nl/><nl/>After clicking <interface>Confirm</interface>, the system will finish initial setup. - Qurilmangiz deyarli tayyor.<nl/><nl/>Bosgandan keyin <interface>Tasdiqlaş</interface>, Tizim dastlabki sozlamalarni yakunlaydi.
+Your device is now ready.<br /><br />Enjoy <b>%1</b>! - Qurilmangiz hozir tayyor.<br /><br />Bahramand böling <b>%1</b>!
+Your device is now ready.<br /><br />After clicking <b>Finish</b> you will be able to sign in to your new account.<br /><br />Enjoy <b>%1</b>! - Qurilmangiz hozir tayyor.<br /><br />Bosgandan keyin <b>Yakunlaş</b> Yangi hisobingizga kirişingiz mumkin böladi. <br /><br />Enjoy <b>%1</b>!
+What should this device be called? - Bu qurilma qanday nomlanişi kerak?
+Hostname: - Hostname:
+Hostname cannot be empty. - Hostname böş böla olmaydi.
+Hostname cannot be “localhost” or “localhost.localdomain”. - Hostname "localhost" yoki "localhost.localdomain" bölişi mumkin emas.
+Hostname is too long (maximum 253 characters). - Hostname juda uzun (maksimal 253 belgidan oşmaydi).
+Hostname cannot start with a dot. - Hostname nuqtadan boşlamasligi kerak.
+Hostname cannot end with a dot. - Hostnameni nuqta bilan tugaşi mumkin emas.
+Hostname cannot contain consecutive dots. - Hostnameda ketma-ket nuqtalar bölişi mumkin emas.
+Hostname labels cannot be empty. - Hostname yorliqlari böş böla olmaydi.
+Each hostname label must be at most 63 characters. - Har bir hostname yorliği eng köpi bilan 63 belgidan iborat bölişi kerak.
+Hostnames may contain letters, numbers, and hyphens. Each label must start and end with a letter or number. - Hostnamelar harflar, raqamlar va tirelardan iborat bölişi mumkin. Har bir yorliq harf yoki raqam bilan boşlanişi va tugaşi kerak.
+Select your keyboard layout and language. - Klaviatura tartibingizni va tilingizni tanlang.
+Please select your preferred language. - Iltimos, afzal tilingizni tanlang.
+Search languages… - Tillarni qidiring…
+Dark Theme - Qoronği mavzu
+Select your time zone. - Vaqt zonasini tanlang.
+Connect to a WiFi network for network access. - Tarmoqqa ulaniş uçun WiFi tarmoğiga ulaning.
+Connect to - Ulaning
+Password: - Parol:
+Invalid input. - Notöğri kiriş.
+Plasma Setup - Plasma sozlamalari
+Make Plasma yours - Plasmani özingizga moslaştiring
+© 2021-2024 KDE Community - © 2021-2024 KDE hamjamiyati
+Remove the Plasma Setup autologin configuration. - Plasma sozlamalarida avtologin sozlamasini olib taşlang.
+Begin Setup - Sozlaşni boşlang
+Powered by<br/><b>%1</b> - Tomonidan quvvatlanadi<br/><b>%1</b>
+Back - Orqaga
+Next - Oldinga
+Confirm - Tasdiqlaş
+Finish - Tugatiş

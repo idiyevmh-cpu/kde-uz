@@ -1,0 +1,57 @@
+Import the VPN configuration from "%1"? - "%1" dan VPN sozlamalari import qilinsinmi?
+Import VPN Configuration - VPN sozlamasini import qiliş
+Import - Import qiliş
+Failed to import VPN connection: %1 - VPN ulanişini import qilib bölmadi: %1
+Connection imported. - Ulaniş import qilindi.
+my_shared_connection - mening_ulaşilgan_ulanişim
+Export VPN Connection - VPN ulanişini eksport qiliş
+Do you want to save changes made to the connection '%1'? - '%1' ulanişiga kiritilgan özgarişlarni saqlamoqçimisiz?
+Save Changes - Özgarişlarni saqlaş
+Import VPN Connection - VPN ulanişini import qiliş
+VPN connections (%1) - VPN ulanişlari (%1)
+No file was provided - Heç qanday fayl taqdim etilmadi
+Unknown VPN type - Nomaʼlum VPN turi
+ (Copy) -  (Nusxa)
+Choose a Connection Type - Ulaniş turini tanlang
+Configuration - Moslaş
+General - Umumiy
+Ask for PIN on modem detection - Modem aniqlanganda PIN kodni söraş
+Show virtual connections - Virtual ulanişlarni körsatiş
+Create new connections as system connections - Yangi ulanişlarni tizim ulanişlari sifatida yaratiş
+Hotspot - Hotspot (ulaniş nuqtasi)
+Name: - Nomi:
+Password: - Parol:
+Hotspot name must not be empty - Kiriş nuqtasi nomi böş bölmasligi kerak
+Hotspot password must either be empty or consist of anywhere from 8 up to 64 characters - Kiriş nuqtasi paroli böş bölişi yoki 8 dan 64 tagaça belgidan iborat bölişi kerak
+Hotspot password must either be empty or consist of one of the following:<ul><li>Exactly 5 or 13 any characters</li><li>Exactly 10 or 26 hexadecimal characters:<br/>abcdef, ABCDEF or 0-9</li></ul> - Kiriş nuqtasi paroli böş bölişi yoki quyidagilardan biridan iborat bölişi kerak:<ul><li>Aynan 5 yoki 13 ta har qanday belgi</li><li>Aynan 10 yoki 26 ta ön oltilik belgi:<br/>abcdef, ABCDEF yoki 0-9</li></ul>
+%1 - %1
+Connect - Ulaş
+Disconnect - &Uziş
+Cannot connect to this network because it was not detected. - Uşbu tarmoqqa ulanib bölmadi, çunki u aniqlanmadi.
+Duplicate - Nusxasini yaratiş
+Forget - Esda saqlamaslik
+Export - Eksport qiliş
+Connected - Ulangan
+Connecting - Ulanmoqda
+Available - Mavjud
+Add new connection - Yangi ulaniş qöşiş
+Forget selected connection - Tanlangan ulanişni esdan çiqariş
+Export selected connection - Tanlangan ulanişni eksport qiliş
+Configure - Sozlaş
+Connect - Ulaş
+Cancel - &Bekor qiliş
+Enter Password - Parolni kiriting
+Network: %1 - Tarmoq: %1
+Password must be a valid WEP key - Parol yaroqli WEP kaliti bölişi kerak
+Password must be between 8 and 64 characters - Parol 8 va 64 belgi orasida bölişi kerak
+Connection imported. - Ulaniş import qilindi.
+Connection exported to %1. - Ulaniş %1 ga eksport qilindi.
+Failed to export VPN connection: %1 - VPN ulanişini eksport qilib bölmadi: %1
+Failed to import VPN connection: %1 - VPN ulanişini import qilib bölmadi: %1
+Connection name: - Ulaniş nomi:
+Forget Connection - Ulanişni esda saqlamaslik
+Do you want to forget the connection '%1'? - '%1' ulanişini esdan çiqarişni xohlaysizmi?
+Import VPN Connection - VPN ulanişini import qiliş
+Export VPN Connection - VPN ulanişini eksport qiliş
+Import the VPN configuration from "%1"? - "%1" dan VPN sozlamalari import qilinsinmi?
+Import - Import qiliş

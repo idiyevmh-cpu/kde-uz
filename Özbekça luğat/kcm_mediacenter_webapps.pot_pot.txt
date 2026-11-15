@@ -1,0 +1,16 @@
+Web Apps - Veb-ilovalar
+Add Web App - Veb-ilova qöşiş
+Installed web apps - Örnatilgan veb-ilovalar
+OK - OK
+Cancel - &Bekor qiliş
+Name - Ism
+URL - URL
+User agent (empty for default) - Foydalanuvçi agenti (standart uçun böş)
+User Agent - Foydalanuvçi: 
+Default user agent - Standart foydalanuvçi agenti (User Agent)
+Edit - Tahrirlaş
+Edit web app %1 - %1 veb-ilovasini tahrirlaş
+Name (leave blank for current) - Nom (joriy uçun böş qoldiring)
+User Agent (leave blank for default) - Foydalanuvçi agenti (standart uçun böş qoldiring)
+Delete - Öçiriş
+Delete web app %1? - %1 veb-ilovasi öçirilsinmi?

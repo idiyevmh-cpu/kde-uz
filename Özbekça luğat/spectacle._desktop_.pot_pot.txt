@@ -1,0 +1,24 @@
+Source text - Tarjima text
+Screenshot Capture Utility - Ekranni rasmga oliş (skrinşot) vositasi
+Spectacle - Spectacle
+Take screenshots and screen recordings - Ekranni rasmga va videoga oliş
+snapshot;capture;print;screenshot;snipping;snipping tool;snip; - rasm;skrinşot;yozib oliş;tasvir;ekran;qirqiş;snipping;ekranni rasmga oliş;video;
+Capture Entire Desktop - Butun iş stolini rasmga oliş
+Capture Current Monitor - Joriy monitorni rasmga oliş
+Capture Active Window - Faol oynani rasmga oliş
+Capture Rectangular Region - Törtburçak sohani rasmga oliş
+Capture Window Under Cursor - Kursor ostidagi oynani rasmga oliş
+Start/Stop Region Recording - Tanlangan sohani videoga olişni boşlaş/töxtatiş
+Start/Stop Screen Recording - Ekranni videoga olişni boşlaş/töxtatiş
+Start/Stop Window Recording - Oynani videoga olişni boşlaş/töxtatiş
+Launch without taking a screenshot - Ekranni rasmga olmasdan işga tuşiriş
+New Screenshot Saved - Yangi skrinşot saqlandi
+A new screenshot was captured and saved - Yangi skrinşot olindi va saqlandi
+Recording Started - Video yozib oliş boşlandi
+A recording was started - Ekranni videoga yoziş boşlandi
+Saving Recording - Yozuv saqlanmoqda
+A recording is being saved - Video yozuv faylga saqlanmoqda
+Recording Saved - Yozuv saqlandi
+A recording was captured and saved - Video yozuv muvaffaqiyatli saqlandi
+Text Extracted - Matn ajratib olindi
+Text has been extracted from image using OCR - OCR yordamida rasmdan matn ajratib olindi

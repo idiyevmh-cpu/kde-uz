@@ -1,0 +1,26 @@
+Scroll to source - Manba kodiga suriş
+Jump to label - Belgiga (nişonga) ötiş
+Copy - Nusxa oliş
+Select All - Barçasini tanlaş
+Compiler Explorer - Kompilyator tadqiqotçisi
+&Open Current File in Compiler Explorer - &Joriy faylni Compiler Explorer-da oçiş
+No file open - Oçiq fayl yöq
+CompilerExplorer - CompilerExplorer
+Do you really want to close %1? - Haqiqatan ham %1 ni yopmoqçimisiz?
+Languages - Tillar
+Compilers - Kompilyatorlar
+Compiler options… - Kompilyator variantlari…
+Compile - Kompilyatsiya qiliş
+Options - Parametrlar
+Demangle Identifiers - Identifikatorlarni demangllaş (demangle)
+Filter Library Functions - Kutubxona funksiyalarini filtrlaş
+Filter Unused Labels - Işlatilmagan belgilarni filtrlaş
+Filter Comments - Izohlarni filtrlaş
+Intel Syntax - Intel sintaksisi
+Change URL… - URL manzilni özgartiriş…
+Enter URL - URL manzilni kiriting
+Enter URL for the CompilerExplorer instance, e.g. “http://localhost:10240” - CompilerExplorer uçun URL manzilini kiriting (masalan, “http://localhost:10240”)
+Compiler returned: %1 - Kompilyator qaytardi: %1
+Reveal linked code - Boğlangan kodni körsatiş
+CompilerExplorer - CompilerExplorer
+'%1' compiler flags were found. Output may not be useful. - '%1' kompilyator bayroqlari topildi. Çiqiş foydali bölmasligi mumkin.

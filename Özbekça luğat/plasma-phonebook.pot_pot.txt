@@ -1,0 +1,33 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+%1 %2 - %1 %2
+Phonebook - Phonebook
+View and edit contacts - Kontaktlarni köriş va tahrirlaş
+Adding contact - Kontakt qöşilmoqda
+Editing contact - Kontakt tahrirlanmoqda
+Photo - Photo
+Add profile picture - Profil rasmini qöşiş
+Name - Ism
+Phone - Phone
++1 555 2368 - +1 555 2368
+Add phone number - Telefon raqamini qöşiş
+Email - Elektron poçta
+user@example.org - foydalanuvçi@example.org
+Add email address - Elektron poçta qöşiş
+Instant Messenger - Xabar almaşiş vositasi
+protocol:person@example.com - protokol:şaxs@example.com
+Add instant messenger address - Messenjer manzilini qöşiş
+Birthday - Tuğilgan kun
+Note: - Izoh
+Import contacts - Kontaktlarni import qiliş
+add Contact - kontakt qöşiş
+No contacts - Kontaktlar yöq
+Edit - Tahrirlaş
+Delete contact - Kontaktni öçiriş
+Remove Contact - Aloqani olib taşlaş
+Are you sure you want to delete <b>%1</b> from your Contacts? - Haqiqatan ham <b>%1</b> ni kontaktlaringizdan öçirmoqçimisiz?
+Call - Örnatiş
+Send SMS - SMS jönatiş
+Send E-Mail - Elektron poçta yuboriş
+E-Mail - Elektron poçta
+Send Message - Xabar yuboriş

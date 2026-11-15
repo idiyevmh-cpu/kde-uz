@@ -1,0 +1,4 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Unable to load document: %1 - Hujjatni yuklab bölmadi: %1
+This document appears malformed. Here is a best approximation of the document's intended appearance. - Uşbu hujjat buzuq körinadi. Bu yerda hujjatning taxminiy körinişi keltirilgan.

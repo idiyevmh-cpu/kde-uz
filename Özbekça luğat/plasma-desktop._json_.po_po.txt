@@ -1,0 +1,132 @@
+Activity Pager - Faoliyatlar peyjeri
+Dwell Clicker - Kutib bosgiç (Dwell Clicker)
+Icons-Only Task Manager - Faqat belgilarli vazifalar boşqaruvçisi
+Keyboard Layout - Tugmalar tartibi
+Application Menu - Ilovalar menyusi
+Application Launcher - Dasturlarni işga tuşiruvçi
+Input Method Panel - Kiritiş usuli paneli
+Minimize All Windows - Barça oynalarni qayiriş
+Pager - Peyjer
+Show Activity Manager - Faoliyatlar boşqaruvçisini körsatiş
+Peek at Desktop - Iş stoliga qaraş
+Icons-and-Text Task Manager - Belgilar va matnli vazifalar boşqaruvçisi
+Trashcan - Çiqindilar qutisi
+Window List - Oynalar röyxati
+Desktop - Iş stoli
+Folder View - Jild körinişi
+Panel - Panel
+Accessibility - Qulayliklar
+Activities - Faoliyatlar
+File Search - Fayllarni qidiriş
+Date & Time - Sana va vaqt
+Locations - Manzillar
+Game Controller - Öyin kontrolleri
+Background Services - Fon xizmatlari
+Keyboard - Tugmatag
+Shortcuts - Tezkor tugmalar
+Desktop Session - Iş stoli seansi
+Splash Screen - Salomlaşiş ekrani
+Quick Settings - Tezkor sozlamalar
+Mouse - Siçqonça
+Recent Files - Yaqinda oçilgan fayllar
+KRunner Settings - KRunner sozlamalari
+Plasma Search - Plasma qidiruvi
+Spell Check - Imloni tekşiriş
+Drawing Tablet - Çiziş planşeti
+Touchpad - Taçpad
+Touchscreen - Sensorli ekran
+General Behavior - Umumiy xatti-harakat
+Screenreader - Ekranni öqigiç
+Application Menu Bar - Ilovalar menyu paneli
+Default Panel - Birlamçi panel
+Empty Panel - Böş panel
+Global Shortcuts - Global tezkor tugmalar
+KWin - KWin
+Plasma Desktop Shell - Plasma iş stoli qobiği
+Device Auto-Mount - Qurilmalarni avtomatik ulaş
+Removable Device Automounter - Olinadigan qurilmalarni avtomatik ulovçi
+Panel Toolbox - Panel vositalar töplami
+Switch between activities - Faoliyatlar örtasida almaşiş
+Automatically click when pointer remains still for a set amount of time - Körsatkiç belgilangan vaqt davomida harakatsiz turganda avtomatik bosing
+App bar displaying only icons - Faqat belgilarni körsatadigan ilovalar paneli
+Show/switch keyboard layout - Klaviatura terilmasini körsatiş/almaştiriş
+A launcher based on cascading popup menus - Kaskadli qalqib çiquvçi menyularga asoslangan işga tuşirgiç
+Launcher to start applications - Ilovalarni boşlaş uçun işga tuşirgiç
+A generic input method panel - Umumiy kiritiş usuli paneli
+Shows the desktop by minimizing all windows - Barça oynalarni yiğiş orqali iş stolini körsatadi
+Switch between virtual desktops - Virtual iş stollari örtasida almaşiş
+Shows the activity manager - Faoliyatlar boşqaruvçisini körsatadi
+Temporarily shows the desktop by moving windows away - Oynalarni çetga surib, iş stolini vaqtinça körsatadi
+Window bar displaying icons and text - Belgilar va matnni körsatuvçi oynalar paneli
+Provides access to the files sent to trash - Çiqindilar qutisiga yuborilgan fayllarga kirişni taʼminlaydi
+Show open windows in a menu - Oçiq oynalarni menyuda körsatiş
+A clean and simple layout - Toza va oddiy tartib
+Display the contents of folders - Jildlar tarkibini körsatiş
+Desktop view furniture - Iş stoli körinişi jihozlari
+Configure Accessibility Options - Maxsus imkoniyatlar parametrlarini sozlaş
+Activities help you to focus on a specific task - Faoliyatlar sizga maʼlum bir vazifaga diqqatni jamlaşga yordam beradi
+Configure File Search - Fayllarni qidirişni sozlaş
+Date and Time - Sana va vaqt
+Location for Personal Files - Şaxsiy fayllar uçun joylaşuv
+Test and Configure Game Controllers - Öyin kontrollerlarini sinaş va sozlaş
+Configure background services - Fon xizmatlarini sozlaş
+Keyboard Hardware and Layout - Klaviatura uskunasi va terilmasi
+Configure Keyboard Shortcuts - Klaviatura tezkor tugmalarini sozlaş
+Desktop Session Login and Logout - Iş stoli seansiga kiriş va çiqiş
+Choose splash screen theme - Salomlaşiş ekrani mavzusini tanlaş
+Landing page with some basic settings - Baʼzi asosiy sozlamalarga ega boş sahifa
+Mouse Controls - Siçqonça boşqaruvi
+Manage your file activity history preferences - Fayl faoliyati tarixi sozlamalarini boşqariş
+Configure KRunner behavior - KRunner xatti-harakatini sozlaş
+Configure search settings - Qidiruv sozlamalarini sozlaş
+Spell Checker Dictionaries and Options - Imlo tekşirgiç luğatlari va parametrlari
+Configure drawing tablets and pens - Çiziş planşetlari va qalamlarini sozlaş
+Touchpad settings - Taçpad sozlamalari
+Configure general workspace behavior - Umumiy iş maydoni xatti-harakatini sozlaş
+Manages Screenreader - Ekranni öqigiçni boşqaradi
+Panel containing the global menu applet - Global menyu apletini öz içiga olgan panel
+Default panel featuring application launcher, task manager and system tray - Ilovalarni işga tuşirgiç, vazifalar boşqaruvçisi va tizim treyiga ega birlamçi panel
+Empty panel - Böş panel
+Find global shortcuts and perform their associated actions - Global tezkor tugmalarni topiş va ularga boğliq amallarni bajariş
+Interact with the Plasma Compositor - Plasma kompozitori bilan özaro işlaş
+Interact with the Plasma desktop shell - Plasma iş stoli qobiği bilan özaro işlaş
+Configure automatic mounting of disks and volumes - Disklar va tomlarni avtomatik ulaşni sozlaş
+Automatically mounts devices as needed - Qurilmalarni zaruratga qarab avtomatik ulaydi
+Manage Plasma panel - Plasma panelini boşqariş
+The Plasma Team - Plasma jamoasi
+Sebastian Sauer - Sebastian Sauer
+Eike Hein - Eike Hein
+Andrey Butirsky - Andrey Butirsky
+Martin Graesslin - Martin Graesslin
+Mikel Johnson - Mikel Johnson
+Weng Xuetian - Weng Xuetian
+Sebastian Kügler - Sebastian Kügler
+Gregor Tätzner - Gregor Tätzner
+Petri Damstén - Petri Damstén
+Heena - Heena
+Marco Martin - Marco Martin
+Kai Uwe Broulik - Kai Uwe Broulik
+Aaron Seigo - Aaron Seigo
+David Edmundson - David Edmundson
+Fushan Wen - Fushan Wen
+Plasma Team - Plasma jamoasi
+access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,visible bell,visual bell,keyboard,keys,sticky keys,bounce keys,slow keys,mouse navigation,num pad,numpad,activation gestures,gestures,sticky,modifier keys,modifier,locking keys,screen reader,narrator,keyboard filters,assist,assistive,feedback,number pad cursor,orca,speech,move mouse with num pad,mouse num pad emulation,mouse number pad,numberpad mouse,mouse emulation,shake cursor,shake cursor effect,shake pointer,shake pointer effect,shake mouse,shake mouse effect,color,color blind,color blindness,color correction,color blind correction,colorblindness correction,protanopia,deuteranopia,tritanopia,invert colors,zoom,magnify,magnifier,zoom effect, magnifier effect - ruhsat,maxsus imkoniyatlar,kar,eşitiş qobiliyati past,qönğiroq,tovuşli qönğiroq,vizual qönğiroq,klaviatura,tugmalar,yopişqoq tugmalar,sekin tugmalar,siçqonça navigatsiyasi,raqamli klaviatura,imo-işoralar,ekran öquvçi,ovoz,orca,ranglar,kattalaştiriş
+activities,activity,workspaces,alternate desktops,activity privacy,virtual desktops - faoliyatlar,faoliyat,iş maydonlari,muqobil iş stollari,maxfiylik,virtual iş stollari
+search,find,files,archives,documents,filesystem,hidden files,file content,folders,directory,directories,baloo,index,indexing,indexer - qidiriş,topiş,fayllar,arxivlar,hujjatlar,fayl tizimi,yaşirin fayllar,fayl tarkibi,jildlar,baloo,indekslaş
+clock,date,time,time zone,timezone,ntp,synchronize,calendar,local time,region time,watch,location,place,country,countries,hours,minutes,seconds,weeks,months,years,utc - soat,sana,vaqt,vaqt mintaqasi,ntp,sinxronlaştiriş,taqvim,mahalliy vaqt,hududiy vaqt,joylaşuv,mamlakat,soatlar,daqiqalar,soniyalar,haftalar,oylar,yillar,utc
+konqueror,dolphin,files,filemanager,path,paths,desktop,directory,directories,downloads,music,documents,movies,pictures,locations,file path,default folders,folders,videos,images,photos,songs,home - konqueror,dolphin,fayllar,fayl boşqaruvçisi,yöl,iş stoli,jildlar,yuklanmalar,musiqa,hujjatlar,filmlar,rasmlar,joylar,videolar,uy
+joystick,gamepad,controller,hardware,games,gaming,pad,devices,joypad,analog sticks,calibrate,calibration,directional buttons,axis,videogames,button,buttons,inputs - joystik,geympad,kontroller,uskunalar,öyinlar,qurilmalar,kalibrlaş,tugmalar,kiritiş
+KDED,daemon,services,background,ram - KDED,demon,xizmatlar,fon,ram,tezkor xotira
+keyboard,keyboard repeat,click volume,input devices,repeat,volume,numlock,numpad,number pad,keyboard type,keyboard model,keyboard layout,key layout,language,alternate keyboard,keyboard switching,ctrl key,caps lock,esperanto,circumflex,tilde,cedilla,diacritics,accents,function keys,kill x server,LED keyboard,compose key,hardware,type,typing,shift,meta,alt,alt gr,fn,space bar,spacebar,qwerty,qwertz,azerty,dvorak - klaviatura,klaviatura takrori,kiritiş qurilmalari,ovoz balandligi,klaviatura turi,klaviatura modeli,klaviatura terilmasi,til,almaştiriş,yoziş,shift,meta,alt,probil
+keys,global key bindings,key scheme,key bindings,shortcuts,application shortcuts,global shortcuts,keyboard,hotkeys,macro,keybind,keybinds,keybindings - tugmalar,global tugmalar birikmasi,tezkor tugmalar,ilova tezkor tugmalari,klaviatura
+ksmserver,session,login,logout,confirmation,save,restore,efi,uefi,bios,hibernate,shutdown,reboot,save apps,startup,start-up,start,firmware - ksmserver,seans,kiriş,çiqiş,tasdiqlaş,saqlaş,tiklaş,efi,uefi,bios,kutiş rejimi,öçiriş,qayta işga tuşiriş
+splash screen,splash theme,start-up,startup,loading,starting screen,loading screen,logo,start screen,welcome screen - salomlaşiş ekrani,salomlaşiş mavzusi,işga tuşiş,yuklaniş,logotip,kutib oliş ekrani
+mouse,mouse acceleration,mouse threshold,mouse buttons,selection,cursor shape,input devices,button mapping,click,icons,feedback,pointers,double click,single click,right click,left click,middle click,left mapping,right handed,left handed,pointer device,mouse wheel,mouse emulation,mouse navigation,mouse scrolling,mouse sensitivity,cursor sensitivity,hardware,cursor,scrolling speed,flat,adaptive,scroll wheel,invert scroll direction,reverse scroll,reversed scrolling,acceleration profile - siçqonça,tezlaniş,siçqonça tugmalari,kursor şakli,kiritiş qurilmalari,bosiş,ikki marta bosiş,öng tugma,çap tugma,örta tugma,aylantiriş,tezlik
+history,recentlyused,activity privacy, privacy,clear history,wipe - tarix,yaqinda işlatilgan,faoliyat maxfiyligi,maxfiylik,tarixni tozalaş
+search,file,baloo,runners,krunner,launcher,app launcher,desktop search,k runner,find,plugins,computer search,overview,web search keywords - qidiruv,fayl,baloo,krunner,işga tuşirgiç,iş stoli qidiruvi,topiş,plaginlar
+spell,spellings,grammar check,grammatical check,spell check,autocorrect,auto correct,words,phrases,wrong words,linguistics,semantic,alphabet,correction,sonnet - imlo,grammatika,tekşiriş,avtotöğrilaş,sözlar,alifbo,tuzatiş
+drawing,tablet,wacom,pen,stylus,graphics tablet - çiziş,planşet,wacom,qalam,stilus,grafik planşet
+touchpad,trackpad,synaptics,alps,elantech,elan,cirque,libinput,hardware,laptop,touch devices,click,left click,right click,middle click,click emulation,tap,tap to click,tap-to-click,fingers,two fingers tap,three fingers tap,four fingers tap,swipe,gestures,natural scrolling,invert scroll,inverted scrolling,reverse scroll,reversed scrolling,acceleration,palm rejection,left-handed mode,left handed mode,right-handed mode,right handed mode,disable while typing - taçpad,trekpad,sensorli qurilmalar,bosiş,imo-işoralar,tabiiy aylantiriş,suriş
+touchscreen,touch,laptop,screen,display - sensorli ekran,sensor,noutbuk,ekran,displey
+plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,click,single click,double click,middle click,animation speed,behavior,open files,select files,scrollbar,visual feedback,status,click to open,click to select,touch,tablet,touch mode,tablet mode,copy,paste,selected,selection,primary,primary selection,drag and drop,drag,drop,dragging,dropping,move files,copy files - plasma,iş maydoni,qobiq,maslahatlar,bosiş,animatsiya tezligi,xatti-harakat,fayllarni oçiş,nusxalaş,qöyiş,sudrab olib ötiş
+Automount,Mount,Disk,Disks,Removable,Device,Devices,Automatic,usb - Avtomatik ulaş,Ulaş,Disk,Disklar,Olinadigan,Qurilma,Qurilmalar,Avtomatik,usb

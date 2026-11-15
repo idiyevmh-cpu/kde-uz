@@ -1,0 +1,129 @@
+Desktop ID - Iş stoli ID-si
+Icon - Nişonça
+Name - Ism
+PID - PID
+The unique Process ID that identifies this process. - Uşbu jarayonni identifikatsiya qiluvçi noyob jarayon ID-si.
+Parent PID - Ota jarayon PID-si
+Login - Kiriş
+The user who owns this process. - Uşbu jarayonning egasi bölgan foydalanuvçi.
+UID - UID
+Username - Foydalanuvçi nomi
+Can Login - Tizimga kira oladi
+EUID - EUID
+suid - suid
+fsuid - fsuid
+gid - gid
+egid - egid
+sgid - sgid
+fsgid - fsgid
+Tracer Pid - Kuzatuvçi PID (Tracer Pid)
+tty - tty
+The controlling terminal on which this process is running. - Uşbu jarayon işlayotgan boşqaruv terminali.
+User Time - Foydalanuvçi vaqti
+System Time - Tizim vaqti
+Total Time - Umumiy vaqt
+Time - Vaqt
+The total user and system time that this process has been running for - Uşbu jarayon işlagan umumiy foydalanuvçi va tizim vaqti
+Start Time - Boşlaş vaqti
+User CPU Usage - Foydalanuvçi protsessor sarfi
+User CPU - Foydalanuvçi protsessori
+System CPU Usage - Tizim protsessori sarfi
+System CPU - Tizim protsessori
+Total CPU Usage - Umumiy protsessor sarfi
+CPU - Protsessor
+The current total CPU usage of the process. - Jarayonning joriy umumiy protsessor sarfi.
+Group User CPU Usage - Guruh foydalanuvçi protsessor sarfi
+The amount of userspace CPU used by this process and all its children. - Uşbu jarayon va uning barça bola jarayonlari tomonidan işlatilgan foydalanuvçi protsessori miqdori.
+Group System CPU Usage - Guruh tizim protsessor sarfi
+The amount of system CPU used by this process and all its children. - Uşbu jarayon va uning barça bola jarayonlari tomonidan işlatilgan tizim protsessori miqdori.
+Group Total CPU Usage - Guruh umumiy protsessor sarfi
+Group CPU - Guruh protsessori
+The total amount of CPU used by this process and all its children. - Uşbu jarayon va uning barça bola jarayonlari tomonidan işlatilgan umumiy protsessor miqdori.
+Nice Level - Nice darajasi
+The priority with which this process is being run. For the normal scheduler, this ranges from 19 (very nice, least priority) to -19 (top priority). - Uşbu jarayon bajarilayotgan ustuvorlik darajasi. Oddiy rejalaştiruvçi uçun bu 19 dan (eng past ustuvorlik) -19 gaça (eng yuqori ustuvorlik) böladi.
+Scheduler - Rejalaştiruvçi
+IO Priority Class - IO ustuvorlik sinfi
+IO Nice Level - IO Nice darajasi
+VM Size - VM ölçami
+This is the amount of virtual memory space that the process is using, included shared libraries, graphics memory, files on disk, and so on. This number is almost meaningless. - Jarayon işlatayotgan virtual xotira maydoni miqdori.
+Resident Memory Usage - Rezident xotira sarfi
+Resident - Rezident
+This is the amount of physical memory that this process is using and includes the amount of memory used by shared libraries. - Jarayon işlatayotgan jismoniy xotira miqdori.
+Private Memory Usage - Xususiy xotira sarfi
+Private - Xususiy
+This is the amount of physical memory that this process is using by itself, and approximates the Private memory usage of the process. It does not include any swapped out memory, nor the code size of its shared libraries. - Jarayonning xususiy xotira sarfi.
+Shared Memory Usage - Bölişilgan xotira sarfi
+Shared - Bölişilgan
+This is approximately the amount of real physical memory that this process's shared libraries are using. This memory is shared among all processes that use this library. - Jarayonning umumiy kutubxonalari işlatayotgan jismoniy xotira miqdori.
+Proportional Memory Usage - Proporsional xotira sarfi
+Proportional - Proporsional
+This is an approximation of the real amount of physical memory that this process is using. It is calculated by dividing this process' shared memory usage by the number of processes sharing that memory, then adding this process' private memory. This value may not be available for certain processes. - Jarayon işlatayotgan haqiqiy jismoniy xotira miqdori.
+Memory Usage - Xotira sarfi
+Memory - Xotira
+This is an approximation of the real amount of physical memory that this process is using. It will use the Proportional Memory Usage if available, the Private Memory Usage if that has a value, and the Resident Memory Usage otherwise. - Jarayon işlatayotgan haqiqiy jismoniy xotira miqdori.
+Swap Usage - Svop (Swap) sarfi
+Swap - Svop (Swap)
+This is an approximation of the amount of swap memory this process is using. - Uşbu jarayon işlatayotgan svop (swap) xotira miqdori.
+Name - Ism
+The process name. - Jarayon nomi.
+Command - Buyruq
+The command with which this process was launched. - Uşbu jarayonni işga tuşirgan buyruq.
+Status - Holati
+IO Characters Read - Öqilgan IO belgilari
+IO Characters Written - Yozilgan IO belgilari
+IO Read Syscalls - IO öqiş tizim çaqiruvlari
+IO Read Syscalls Rate - IO öqiş tizim çaqiruvlari tezligi
+IO Write Syscalls - IO yoziş tizim çaqiruvlari
+IO Write Syscalls Rate - IO yoziş tizim çaqiruvlari tezligi
+IO Characters Actually Read - Haqiqatda öqilgan IO belgilari
+IO Characters Read Rate - IO belgilarini öqiş tezligi
+The read rate for all of a process' IO, including disk cache and other nonphysical IO. - Jarayonning barça IO öqiş tezligi.
+IO Characters Written Rate - IO belgilarini yoziş tezligi
+The write rate for all of a process' IO, including disk cache and other nonphysical IO. - Jarayonning barça IO yoziş tezligi.
+Disk Read Rate - Diskdan öqiş tezligi
+Read - Öqiş
+The rate of data being read from disk. - Diskdan maʼlumotlarni öqiş tezligi.
+Disk Write Rate - Diskka yoziş tezligi
+Write - Yoziş
+The rate of data being written to the disk. - Diskka maʼlumotlarni yoziş tezligi.
+Threads - Oqimlar (Threads)
+GPU %1 - GPU %1
+%1 GPU - %1 GPU
+GPU - GPU
+GPU Usage - GPU sarfi
+GPU Memory - GPU xotirasi
+Displays which GPU the process is using - Jarayon qaysi GPU-dan foydalanayotganini körsatadi
+Download Speed - Yuklab oliş tezligi
+Download - Yuklab oliş
+Upload Speed - Yuklaş tezligi
+Upload - Yuklaş
+Normal - Oddiy
+Very low priority - Juda past ustuvorlik
+Low priority - Past ustuvorlik
+Very high priority - Juda yuqori ustuvorlik
+High priority - Yuqori ustuvorlik
+None - Yöq
+Real Time - Haqiqiy vaqt (Real Time)
+Best Effort - Eng yaxşi uriniş (Best Effort)
+Idle - Kutiş rejimida (Idle)
+Unknown - Nomaʼlum
+running - işlamoqda
+sleeping - uxlamoqda
+disk sleep - disk uyqusi
+zombie - zombi
+stopped - töxtatilgan
+paging - sahifalaş
+finished - yakunlandi
+unknown - nomaʼlum
+FIFO - FIFO
+Round Robin - Round Robin (navbatma-navbat)
+Interactive - Interaktiv
+Batch - Töplam (Batch)
+Idle - Kutiş rejimida (Idle)
+Success - Muvaffaqiyat
+Insufficient permissions. - Ruxsatlar yetarli emas.
+No matching process was found. - Mos keladigan jarayon topilmadi.
+Not supported on the current system. - Joriy tizimda qöllab-quvvatlanmaydi.
+The user cancelled. - Foydalanuvçi bekor qildi.
+An unspecified error occurred. - Nomaʼlum xatolik yuz berdi.
+An unknown error occurred. - Nomaʼlum xatolik yuz berdi.

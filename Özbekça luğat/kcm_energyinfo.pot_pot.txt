@@ -1,0 +1,70 @@
+No history information for this time span - Uşbu vaqt oraliği uçun tarix maʼlumotlari yöq
+Battery - Batareya nazoratçisi
+Rechargeable - Qayta quvvatlanuvçi
+Charge state - Quvvat holati
+Current charge - Joriy quvvat
+Health - Holati (salomatligi)
+Charge Cycles - Quvvatlaş davrlari (sikllari)
+Vendor - Işlab çiqaruvçi
+Model - Model
+Serial Number - Seriya raqami
+Technology - Texnologiya
+Energy - Energiya
+Consumption - Isteʼmol
+W - Vt
+Voltage - Kuçlaniş
+V - V
+Remaining energy - Qolgan energiya
+Wh - Vt·soat
+Last full charge - Oxirgi töliq quvvatlaniş
+Original charge capacity - Dastlabki quvvat siğimi
+Environment - Muhit
+Temperature - Harorat
+Yes - Ha
+No - Yöq
+%1% - %1%
+%1 %2 - %1 %2
+%1 °C - %1 °C
+Not charging - Quvvatlanmayapti
+Charging - Quvvatlanmoqda
+Discharging - Quvvati sarflanmoqda
+Fully charged - Töliq quvvatlandi
+Lithium ion - Litiy-ion
+Lithium polymer - Litiy-polimer
+Lithium iron phosphate - Litiy-temir-fosfat
+Lead acid - Qörğoşin-kislotali
+Nickel cadmium - Nikel-kadmiy
+Nickel metal hydride - Nikel-metall-gidrid
+Unknown technology - Nomaʼlum texnologiya
+No energy information available on this system - Uşbu tizimda energiya maʼlumotlari mavjud emas
+PDA Battery - KPK batareyasi
+UPS Battery - UPS batareyasi
+Internal Battery - Içki batareya
+Mouse Battery - Siçqonça batareyasi
+Keyboard Battery - Klaviatura batareyasi
+Keyboard/Mouse Battery - Klaviatura/Siçqonça batareyasi
+Camera Battery - Kamera batareyasi
+Phone Battery - Telefon batareyasi
+Monitor Battery - Monitor batareyasi
+Gaming Input Battery - Geympad batareyasi
+Bluetooth Battery - Bluetooth batareyasi
+Tablet Battery - Planşet batareyasi
+Headphone Battery - Quloqçin batareyasi
+Headset Battery - Garnitura batareyasi
+Touchpad Battery - Taçpad batareyasi
+%1% (Charging) - %1% (Quvvatlanmoqda)
+%1% - %1%
+%.0f %1 - %.0f %1
+%.0f %1 - %.0f %1
+Charge Percentage - Quvvat foizi
+Energy Consumption - Energiya isteʼmoli
+Last hour - Oxirgi soat
+Last 2 hours - Oxirgi 2 soat
+Last 12 hours - Oxirgi 12 soat
+Last 24 hours - Oxirgi 24 soat
+Last 48 hours - Oxirgi 48 soat
+Last 7 days - Oxirgi 7 kun
+Timespan - Vaqt oraliği
+Timespan of data to display - Körsatiladigan maʼlumotlarning vaqt oraliği
+Refresh - Yangilaş
+%1: - %1%

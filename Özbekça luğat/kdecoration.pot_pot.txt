@@ -1,0 +1,18 @@
+Source text - Tarjima text
+Window menu - Oyna menyusi
+Application menu - Ilova menyusi
+On one desktop - Bitta iş stolida
+On all desktops - Barça iş stollarida
+Minimize - Qayiriş (Yiğiş)
+Restore - Qayta tiklaş
+Maximize - Kattalaştiriş (Butun ekranga yoyiş)
+Close - Yopiş
+Context help - Matnli yordam
+Unshade - Yoyiş (Soyani oçiş)
+Shade - Soyalaş (Yiğib qöyiş)
+Don't keep below other windows - Boşqa oynalar ostida uşlab turmaslik
+Keep below other windows - Boşqa oynalar ostida uşlab turiş
+Don't keep above other windows - Boşqa oynalar ustida uşlab turmaslik
+Keep above other windows - Boşqa oynalar ustida uşlab turiş
+The window is hidden from Screencast. Press to make it visible - Oyna ekran yozib olişdan yaşirilgan. Körinadigan qiliş uçun bosing
+Hide from Screencast - Ekran yozib olişdan yaşiriş

@@ -1,0 +1,3 @@
+Switch to activity %1 - %1 faoliyatiga ötiş
+Show Activity Manager - Faoliyatlar boşqaruvçisini körsatiş
+&Configure Activities… - Faoliyatlarni &sozlaş…

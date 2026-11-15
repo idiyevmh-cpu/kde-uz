@@ -1,0 +1,43 @@
+Processor: - Protsessor:
+Unknown Type - Nomaʼlum tur
+Graphics Processor %1: - Grafik protsessor %1:
+Graphics Processor: - Grafik protsessor:
+integrated - örnatilgan (integratsiyalaşgan)
+discrete - diskret
+virtual - virtual
+Graphics Platform: - Grafika platformasi:
+Kernel Version: - Yadro versiyasi:
+%1 (%2-bit) - %1 (%2-bit)
+Manufacturer: - Işlab çiqaruvçi:
+Product Name: - Mahsulot nomi:
+System Version: - Tizim versiyasi:
+Serial Number: - Seriya raqami:
+Unknown: - Nomaʼlum:
+U-Boot Version: - U-Boot versiyasi:
+KDE Frameworks Version: - KDE Frameworks versiyasi:
+Qt Version: - Qt versiyasi:
+Memory: - Xotira:
+%1 of RAM (%2 usable) - %1 RAM (%2 işlatilişi mumkin)
+%1 of RAM - %1 operativ xotira (RAM)
+%1 of usable RAM - %1 işlatilişi mumkin bölgan RAM
+Unknown - Nomaʼlum
+Some memory is reserved for use by the kernel or system hardware such as integrated graphics memory. - Xotiraning bir qismi yadro yoki apparat vositalari uçun ajratilgan.
+The amount of usable memory may be lower than the displayed amount because some memory is reserved for use by the kernel or system hardware, such as integrated graphics memory. - Işlatilişi mumkin bölgan xotira miqdori körsatilganidan kamroq bölişi mumkin.
+The amount of memory displayed may be lower than the installed amount because some memory is reserved for use by the kernel or system hardware, such as integrated graphics memory. - Körsatilgan xotira hajmi örnatilganidan kamroq bölişi mumkin, çunki maʼlum qismi yadro yoki tizim qurilmalari tomonidan band qilingan.
+Operating System: - Operatsion tizim:
+%1 %2 - %1 %2
+%1 %2 Build: %3 - %1 %2 Yiğiş: %3
+KDE Plasma Version: - KDE Plasma versiyasi:
+: - :
+Serial Number - Seriya raqami
+Copy - Nusxa oliş
+Serial number copied to clipboard - Seriya raqami vaqtinçalik xotiraga nusxalandi
+Show - Körsatiş
+Software - Dasturiy taʼminot
+Hardware - Apparat taʼminoti
+Launch %1… - %1 ni işga tuşiriş…
+See more detailed system information - Batafsil tizim maʼlumotlarini köriş
+Copy Details - Tafsilotlarni nusxalaş
+System information copied to clipboard - Tizim maʼlumotlari vaqtinçalik xotiraga nusxalandi
+In current language - Joriy tilda
+In English - Ingliz tilida

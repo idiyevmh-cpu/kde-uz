@@ -1,0 +1,3 @@
+Snap backend - Snap bekendi
+Integrates Snap applications into Discover - Snap ilovalarini Discover-ga integratsiya qiladi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez

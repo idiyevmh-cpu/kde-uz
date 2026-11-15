@@ -1,0 +1,2 @@
+Text - Matn
+Adds support for reading plain text documents - Oddiy matn hujjatlarini öqişni qöllab-quvvatlaydi

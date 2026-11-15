@@ -1,0 +1,85 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+%1 Network (%2) - %1 tarmoği (%2)
+Enable Bluetooth - Bluetooth-ni yoqiş
+Disconnect - Uziş
+Connect - Ulaniş
+Unblock the device first to be able to connect to it - Unga ulaniş uçun avval qurilmani blokdan çiqaring
+Type: - Turi:
+%1% - %1%
+Battery: - Batareya:
+Address: - Manzil:
+Adapter: - Adapter:
+Name: - Nomi:
+Trusted - Işonçli
+Blocked - Bloklangan
+When enabled, all incoming connections from this device will be rejected. - Yoqilganda, uşbu qurilmadan barça kiruvçi ulanişlar rad etiladi.
+Send File - Fayl yuboriş
+Setup NAP Network… - NAP tarmoğini sozlaş…
+Setup DUN Network… - DUN tarmoğini sozlaş…
+Forget - Unutiş
+Device information - Qurilma maʼlumotlari
+Connecting… - Ulanmoqda…
+Disconnecting… - Uzilmoqda…
+Pair - Juftlaş
+Forget device - Qurilmani unutiş
+Are you sure you want to forget the device %1? - Haqiqatan ham %1 qurilmasini unutmoqçimisiz?
+Auto-accept incoming connections - Kiruvçi ulanişlarni avtomatik qabul qiliş
+Reject all connections from this device - Uşbu qurilmadan barça ulanişlarni rad etiş
+Device details - Qurilma tafsilotlari
+Type: %1 - Turi: %1
+Address: %1 - Manzil: %1
+Battery: %1 - Batareya: %1
+Change name - Nomini özgartiriş
+Connected - Ulangan
+%1% Battery - %1% batareya
+Forget \"%1\" - “%1” ni unutiş
+Settings - Sozlamalar
+Device: - Qurilma:
+Enabled: - Yoqilgan:
+Visible: - Körinuvçan:
+On login: - Tizimga kirişda:
+Disable Bluetooth - Bluetooth-ni öçiriş
+Restore previous status - Oldingi holatni tiklaş
+When receiving files: - Fayllar qabul qilinganda:
+Ask for confirmation - Tasdiqlaşni söraş
+Accept for trusted devices - Işonçli qurilmalar uçun qabul qiliş
+Always accept - Har doim qabul qiliş
+Save files in: - Fayllarni bu yerda saqlaş:
+Select folder - Jildni tanlaş
+Pair Device… - Qurilmani juftlaş…
+Configure… - Sozlaş…
+Enabled - Yoqilgan
+No Bluetooth adapters found - Bluetooth adapterlari topilmadi
+Connect an external Bluetooth adapter - Taşqi Bluetooth adapterni ulang
+Bluetooth is disabled - Bluetooth öçirilgan
+Enable - Yoqiş
+No devices paired - Juftlangan qurilmalar yöq
+Click <interface>Pair Device…</interface> to pair some - Ularni juftlaş uçun <interface>Qurilmani juftlaş…</interface> tugmasini bosing
+Bluetooth - Bluetooth
+Paired devices - Juftlangan qurilmalar
+Available devices - Mavjud qurilmalar
+Phone - Telefon
+Modem - Modem
+Computer - Kompyuter
+Network - Tarmoq
+Headset - Garnitura
+Headphones - Quloqçinlar
+Multimedia - Multimedia
+Keyboard - Klaviatura
+Mouse - Siçqonça
+Game controller - Öyin kontrolleri
+Tablet - Planşet
+Peripheral - Periferiya
+Camera - Kamera
+Printer - Printer
+Imaging - Tasvirlaş
+Wearable - Taqiladigan qurilma
+Toy - Öyinçoq
+Health - Salomatlik
+File transfer - Fayl uzatiş
+Send file - Fayl yuboriş
+Input - Kiritiş
+Audio - Audio
+Other - Boşqa
+,  - , 

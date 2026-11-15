@@ -1,0 +1,70 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Failed writing temporary file - Vaqtinçalik faylga yozib bölmadi
+Failed removing file - Faylni öçiriş muvaffaqiyatsiz tugadi
+Failed renaming temporary file - Vaqtinçalik fayl nomini özgartiriş muvaffaqiyatsiz tugadi
+Enable overprint preview: - Ustma-ust çop etişni (overprint) oldindan körişni yoqiş:
+Never - Heç qaçon
+Always - Hamişa
+Automatic - Avtomatik
+Enhance thin lines: - Yupqa çiziqlarni kuçaytiriş:
+No - Yöq
+Solid - Tutaş (Solid)
+Shape - Şakl
+Default scaling mode when printing: - Çop etişda standart masştablaş rejimi:
+Fit to printable area - Çop etiladigan maydonga siğdiriş
+Fit to full page - Töliq sahifaga siğdiriş
+None; print original size - Yöq; asl ölçamda çop etiş
+Enabling this option will allow Okular to contact 3rd-party OCSP servers to check if the certificates used for digital signing have been revoked since their creation. - Uşbu parametrni yoqiş Okular-ga raqamli imzo uçun foydalanilgan sertifikatlar yaratilganidan beri bekor qilinganligini tekşiriş uçun uçinçi tomon OCSP serverlariga murojaat qiliş imkonini beradi.
+Check revocation of digital signatures' certificates using 3rd-party servers - Uçinçi tomon serverlari orqali raqamli imzolar sertifikatlarining bekor qilinganligini tekşiriş
+Signature backend: - Imzo bekendi:
+These signatures can only be validated by modern Okular users with GnuPG backend activated - Uşbu imzolar faqat GnuPG bekendi yoqilgan zamonaviy Okular foydalanuvçilari tomonidan tasdiqlanişi mumkin
+Allow PGP keys for signatures (Okular extension) - Imzolar uçun PGP kalitlariga ruxsat beriş (Okular kengaytmasi)
+Certificate Database - Sertifikatlar maʼlumotlar bazasi
+Default: - Standart:
+Custom: - Maxsus:
+Available Certificates - Mavjud sertifikatlar
+&Load Signatures - &Imzolarni yuklaş
+Failed renaming temporary file: %1 - Vaqtinçalik fayl nomini özgartirib bölmadi: %1
+PDF Options - PDF parametrlari
+Print annotations - Izohlarni çop etiş
+Include annotations in the printed document - Çop etilgan hujjatga izohlarni kiritiş
+Includes annotations in the printed document. You can disable this if you want to print the original unannotated document. - Çop etilgan hujjatga izohlarni kiritadi. Agar izohlarsiz asl hujjatni çop etmoqçi bölsangiz, buni öçirib qöyişingiz mumkin.
+Force rasterization - Majburiy rastrlaş
+Rasterize into an image before printing - Çop etişdan oldin tasvirga rastrlaş
+Forces the rasterization of each page into an image before printing it. This usually gives somewhat worse results, but is useful when printing documents that appear to print incorrectly. - Çop etişdan oldin har bir sahifani tasvirga majburiy rastrlaydi. Bu odatda biroz yomonroq natija beradi, lekin notöğri çop etilayotgan hujjatlarni çop etişda foydalidir.
+Scaling mode for the printed pages - Çop etiladigan sahifalar uçun masştablaş rejimi
+Scale mode: - Masştablaş rejimi:
+PDF v. %1.%2 - PDF v. %1.%2
+Format - Format
+Encrypted - Şifrlangan
+Unencrypted - Şifrlanmagan
+Security - Xavfsizlik
+Yes - Ha
+Optimized - Optimallaştirilgan
+Signed by: %1
+
+Date: %2 - Imzolovçi: %1
+
+Sana: %2
+Using Poppler %1 - Poppler %1 işlatilmoqda
+Using Poppler %1
+
+Built against Poppler %2 - Poppler %1 işlatilmoqda
+
+Poppler %2 asosida qurilgan
+PDF - PDF
+PDF Backend Configuration - PDF bekendi sozlamalari
+Some errors were found in the document, Okular might not be able to show the content correctly - Hujjatda baʼzi xatolar topildi, Okular tarkibni töğri körsata olmasligi mumkin
+These signatures only work between modern versions of Okular with the GnuPG based backend activated - Uşbu imzolar faqat GnuPG asosidagi bekend yoqilgan zamonaviy Okular versiyalari orasida işlaydi
+Enable PGP Signatures - PGP imzolarini yoqiş
+Issued to - Kimga berilgan
+E-mail - Elektron poçta
+Expiration date - Amal qiliş muddati
+List certificates - Sertifikatlar röyxati
+You are using a Poppler library built without NSS support.
+Adding Digital Signatures isn't available for that reason - Siz NSS qöllab-quvvatlovisiz qurilgan Poppler kutubxonasidan foydalanmoqdasiz. Şu sababli raqamli imzolarni qöşiş imkoniyati mavjud emas
+forever - muddatsiz
+Restart needed - Qayta işga tuşiriş zarur
+You need to restart Okular after changing the NSS directory settings - NSS jildi sozlamalarini özgartirgandan söng Okular-ni qayta işga tuşirişingiz kerak
+Enter password to open: %1 - Oçiş uçun parolni kiriting: %1

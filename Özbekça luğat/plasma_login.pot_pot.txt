@@ -1,0 +1,37 @@
+%1 (X11) (%2) - %1 (X11) (%2)
+%1 (Wayland) (%2) - %1 (Wayland) (%2)
+%1 (X11) - %1 (X11)
+%1 (Wayland) - %1 (Wayland)
+%1 (%2) - %1 (%2)
+Plasma Login failed to start.
+This usually indicates a severe problem with your system.
+You can try restarting by pressing the power button to shut down.
+
+You can get additional support from your distribution. - Plasma Login işga tuşmadi.
+Uşbu holat odatda tizimingizda jiddiy muammo borligini bildiradi.
+Tizimni öçiriş uçun quvvat tugmasini bosib qayta işga tuşirişga urinib körişingiz mumkin.
+
+Qöşimça yordamni distributivingizdan olişingiz mumkin.
+Plasma Login failed to start.
+This usually indicates a severe problem with your system.
+You can try restarting by pressing the power button to shut down.
+
+Get additional support at: {support_url} - Plasma Login işga tuşmadi.
+Uşbu holat odatda tizimingizda jiddiy muammo borligini bildiradi.
+Tizimni öçiriş uçun quvvat tugmasini bosib qayta işga tuşirişga urinib körişingiz mumkin.
+
+Qöşimça yordamni şu yerdan oling: {support_url}
+Switch layout - Joylaşuvni almaştiriş
+Username - Foydalanuvçi nomi
+Password - Parol
+Log In - Tizimga kiriş
+Caps Lock is on - Caps Lock yoqilgan
+Hibernate - Gipernatsiya
+Sleep - Uyqu
+Restart - Qayta işga tuşiriş
+Shut Down - Tizimni öçiriş
+Other… - Boşqa…
+Type in Username and Password - Foydalanuvçi nomi va parolini kiriting
+List Users - Foydalanuvçilar röyxati
+Login Failed - Tizimga kiriş muvaffaqiyatsiz tugadi
+Desktop Session: %1 - Iş stoli seansi: %1

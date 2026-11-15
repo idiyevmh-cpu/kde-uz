@@ -1,0 +1,19 @@
+Desktop folder: - Iş stoli jildi:
+This folder contains all the files you see on your desktop. - Uşbu jild iş stolingizda körinadigan barça fayllarni öz içiga oladi.
+Documents folder: - Hujjatlar jildi:
+This folder will be used by default to open or save documents. - Uşbu jild hujjatlarni oçiş yoki saqlaş uçun standart sifatida işlatiladi.
+Downloads folder: - Yuklab olinganlar jildi:
+This folder will be used by default to save your downloaded items. - Uşbu jild yuklab olingan fayllarni saqlaş uçun standart sifatida işlatiladi.
+Videos folder: - Videolar jildi:
+This folder will be used by default to open or save video files. - Uşbu jild video fayllarni oçiş yoki saqlaş uçun standart hisoblanadi.
+Pictures folder: - Rasmlar jildi:
+This folder will be used by default to open or save image files. - Uşbu jild rasm fayllarini oçiş yoki saqlaş uçun standart hisoblanadi.
+Music folder: - Musiqalar jildi:
+This folder will be used by default to open or save music files. - Uşbu jild musiqa fayllarini oçiş yoki saqlaş uçun standart hisoblanadi.
+Public folder: - Umumiy (ommaviy) jild:
+This folder will be used by default for publicly-shared files when network sharing is enabled. - Uşbu jild tarmoqda umumiy ulaşiş yoqilganda ommaviy fayllar uçun standart sifatida işlatiladi.
+Templates folder: - Andozalar jildi:
+This folder will be used by default to open or save file templates. - Uşbu jild fayl andozalarini oçiş yoki saqlaş uçun standart hisoblanadi.
+Projects folder: - Loyihalar jildi:
+This folder will be used by default to open or save projects. - Uşbu jild loyihalarni oçiş yoki saqlaş uçun standart hisoblanadi.
+Choose new location - Yangi joylaşuvni tanlaş

@@ -1,0 +1,18 @@
+General - Umumiy
+Maximum columns: - Maksimal ustunlar:
+Maximum rows: - Maksimal qatorlar:
+Appearance: - Köriniş:
+Show launcher names - Işga tuşirgiçlar nomlarini körsatiş
+Enable popup - Qalqib çiquvçi oynani yoqiş
+Title: - Sarlavha:
+Show: - Faylni qirib taşlaş
+Custom title - Maxsus sarlavha
+Launch %1 - %1 ni işga tuşiriş
+Add Launcher… - Işga tuşirgiç qöşiş…
+Edit Launcher… - Işga tuşirgiçni tahrirlaş…
+Remove Launcher - Işga tuşirgiçni olib taşlaş
+Quicklaunch - Tezkor işga tuşirgiç
+Add launchers by Drag and Drop or by using the context menu. - Işga tuşirgiçlarni sudrab olib keliş yoki kontekst menyusi orqali qöşing.
+Hide icons - Nişonçalarni yaşiriş
+Show hidden icons - Yaşirin nişonçalarni körsatiş
+Add Launcher… - Işga tuşirgiç qöşiş…

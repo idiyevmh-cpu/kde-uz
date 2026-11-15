@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Plasma Settings - Plasma sozlamalari
+Configuration tools for your phone - Telefoningiz uçun sozlaş vositalari
+Plasma Settings allows you to configure and tweak your KDE Plasma mobile to make it better meet your needs. - Plasma Settings ilovasi KDE Plasma Mobile muhitini ehtiyojlaringizga töliq moslaştiriş va sozlaş imkonini beradi.

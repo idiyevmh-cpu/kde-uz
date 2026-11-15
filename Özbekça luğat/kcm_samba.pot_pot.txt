@@ -1,0 +1,7 @@
+User-Created Shares - Foydalanuvçi yaratgan umumiy jildlar
+Remote Share Mounts - Ulangan masofaviy umumiy jildlar
+There are no directories shared by users - Foydalanuvçilar tomonidan ulaşilgan jildlar yöq
+There are no Samba shares mounted on this system - Uşbu tizimda ulangan Samba resurslari yöq
+Path: - 1 yangi xat, %2.
+Shared at: - Ulaşilgan vaqti:
+Open folder properties to change share settings - Ulaşiş sozlamalarini özgartiriş uçun papka xususiyatlarini oçing

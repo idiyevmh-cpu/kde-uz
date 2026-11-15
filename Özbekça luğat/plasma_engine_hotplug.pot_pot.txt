@@ -1,0 +1,1 @@
+Failed to resolve service action for %1. - %1 uçun xizmat amalini aniqlab bölmadi.

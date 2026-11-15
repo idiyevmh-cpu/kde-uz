@@ -1,0 +1,441 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Duplicate Fonts - Takroriy şriftlar
+Scanning for duplicate fonts. Please wait… - Takroriy şriftlar qidirilmoqda. Iltimos, kuting…
+No duplicate fonts found. - Takroriy şriftlar topilmadi.
+Delete Marked Files - Belgilangan fayllarni öçiriş
+%1 duplicate font found. - %1 ta takroriy şrift topildi.
+Are you sure you wish to delete: %1 - Haqiqatan ham öçirmoqçimisiz: %1
+Are you sure you wish to delete: - Haqiqatan ham öçirmoqçimisiz:
+Cancel font scan? - Şriftlarni tekşiriş bekor qilinsinmi?
+Canceling… - Bekor qilinmoqda…
+Font/File - Şrift/Fayl
+Size - Ölçami
+Date - Sana
+Links To - Havola:
+Open in Font Viewer - Şriftlarni köriş dasturida oçiş
+Properties - Xossalar
+Unmark for Deletion - Öçiriş belgisini olib taşlaş
+Mark for Deletion - Öçiriş uçun belgilaş
+Open font in font viewer? - Şriftni şriftlarni köriş dasturida oçmoqçimisiz?
+Family - Oilasi (Garnitura)
+Style - Uslub
+Foundry - Işlab çiqaruvçi
+FontConfig Match - FontConfig mosligi
+File Type - Fayl turi
+File Name - Fayl nomi
+File Location - Fayl joylaşuvi
+Writing System - Yozuv tizimi
+Set Criteria - Mezonlarni belgilaş
+Symbol/Other - Belgi/Boşqa
+Filter by %1… - %1 böyiça filtrlaş…
+Font - Şrift
+Status - Holati
+This column shows the status of the font family, and of the individual font styles. - Bu ustun şrift oilasining va alohida şrift uslublarining holatini körsatadi.
+<p>This list shows your installed fonts. The fonts are grouped by family, and the number in square brackets represents the number of styles in which the family is available. e.g.</p><ul><li>Times [4]<ul><li>Regular</li><li>Bold</li><li>Bold Italic</li><li>Italic</li></ul></li></ul> - <p>Bu röyxat örnatilgan şriftlaringizni körsatadi. Şriftlar oilasi böyiça guruhlangan va kvadrat qavslar içidagi raqam uşbu oila mavjud bölgan uslublar sonini bildiradi. Masalan:</p><ul><li>Times [4]<ul><li>Oddiy (Regular)</li><li>Qalin (Bold)</li><li>Qalin kursiv (Bold Italic)</li><li>Kursiv (Italic)</li></ul></li></ul>
+…plus %1 more - …yana %1 ta
+%1 [%2] - %1 [%2]
+Delete - Öçiriş
+Enable - Yoqiş
+Disable - Öçiriş (nofaol qiliş)
+Print… - Çop etiş…
+Reload - Qayta yuklaş
+Open all %1 fonts in font viewer? - Barça %1 ta şriftni şriftlarni köriş dasturida oçmoqçimisiz?
+All Fonts - Barça şriftlar
+Personal Fonts - Şaxsiy şriftlar
+System Fonts - Tizim şriftlari
+Unclassified - Tasniflanmagan
+Group - Guruh
+<p>Do you really want to remove '<b>%1</b>'?</p><p><i>This will only remove the group, and not the actual fonts.</i></p> - <p>Haqiqatan ham '<b>%1</b>' guruhini olib taşlamoqçimisiz?</p><p><i>Bu faqat guruhni olib taşlaydi, şriftlarning özini emas.</i></p>
+Remove Group - Guruhni olib taşlaş
+Remove - Olib taşlaş
+Remove group - Guruhni olib taşlaş
+<h3>Font Groups</h3><p>This list displays the font groups available on your system. There are 2 main types of font groups:<ul><li><b>Standard</b> are special groups used by the font manager.<ul>%1</ul></li><li><b>Custom</b> are groups created by you. To add a font family to one of these groups simply drag it from the list of fonts, and drop onto the desired group. To remove a family from the group, drag the font onto the "All Fonts" group.</li></ul></p> - <h3>Şrift guruhlari</h3><p>Uşbu röyxat tizimingizda mavjud bölgan şrift guruhlarini körsatadi. Şrift guruhlarining 2 ta asosiy turi mavjud:<ul><li><b>Standart</b> — şrift boşqaruvçisi tomonidan foydalaniladigan maxsus guruhlar.<ul>%1</ul></li><li><b>Maxsus</b> — siz yaratgan guruhlar. Şrift oilasini uşbu guruhlardan biriga qöşiş uçun uni şriftlar röyxatidan tortib, kerakli guruh ustiga taşlang. Oilani guruhdan olib taşlaş uçun şriftni "Barça şriftlar" guruhiga tortib ötkazing.</li></ul></p>
+<li><i>All Fonts</i> contains all the fonts installed on your system.</li><li><i>Unclassified</i> contains all fonts that have not yet been placed within a "Custom" group.</li> - <li><i>Barça şriftlar</i> tizimingizda örnatilgan barça şriftlarni öz içiga oladi.</li><li><i>Tasniflanmagan</i> hali "Maxsus" guruhga joylaştirilmagan barça şriftlarni öz içiga oladi.</li>
+<li><i>All Fonts</i> contains all the fonts installed on your system - both  "System" and "Personal".</li><li><i>System</i> contains all fonts that are installed system-wide (i.e. available to all users).</li><li><i>Personal</i> contains your personal fonts.</li><li><i>Unclassified</i> contains all fonts that have not yet been placed within a "Custom" group.</li> - <li><i>Barça şriftlar</i> tizimingizda örnatilgan barça — ham "Tizim", ham "Şaxsiy" şriftlarni öz içiga oladi.</li><li><i>Tizim</i> butun tizim böylab örnatilgan (yaʼni barça foydalanuvçilar uçun mavjud) şriftlarni öz içiga oladi.</li><li><i>Şaxsiy</i> sizning şaxsiy şriftlaringizni öz içiga oladi.</li><li><i>Tasniflanmagan</i> hali "Maxsus" guruhga joylaştirilmagan barça şriftlarni öz içiga oladi.</li>
+<qt>A group named <b>'%1'</b> already exists.</qt> - <qt><b>'%1'</b> nomli guruh allaqaçon mavjud.</qt>
+Rename… - Nomini özgartiriş…
+Export… - Eksport qiliş…
+Add to "%1". - "%1" guruhiga qöşiş.
+Remove from current group. - Joriy guruhdan olib taşlaş.
+Move to personal folder. - Şaxsiy jildga köçiriş.
+Move to system folder. - Tizim jildiga köçiriş.
+Skip - Ötkazib yuboriş
+AutoSkip - Avtomatik ötkazib yuboriş
+<h3>Cancel?</h3><p>Are you sure you wish to cancel?</p> - <h3>Bekor qilinsinmi?</h3><p>Haqiqatan ham bekor qilmoqçimisiz?</p>
+<h3>Finished</h3><p>Please note that any open applications will need to be restarted in order for any changes to be noticed.</p> - <h3>Yakunlandi</h3><p>Özgartirişlar kuçga kirişi uçun barça oçiq ilovalarni qayta işga tuşiriş kerakligiga eʼtibor bering.</p>
+Do not show this message again - Bu xabar boşqa körsatilmasin
+Installing - Örnatilmoqda
+Uninstalling - Öçirilmoqda
+Enabling - Yoqilmoqda
+Moving - Köçirilmoqda
+Updating - Yangilanmoqda
+Removing - Olib taşlanmoqda
+Disabling - Nofaol qilinmoqda
+Updating font configuration. Please wait… - Şrift konfiguratsiyasi yangilanmoqda. Iltimos, kuting…
+Unable to start backend. - Orqa fon xizmatini (backend) işga tuşirib bölmadi.
+Backend died, but has been restarted. Please try again. - Orqa fon xizmati töxtab qoldi, lekin qayta işga tuşirildi. Iltimos, qayta urinib köring.
+<h3>Error</h3> - <h3>Xato</h3>
+Failed to download <i>%1</i> - <i>%1</i> faylini yuklab bölmadi
+System backend died. Please try again.<br><i>%1</i> - Tizim orqa fon xizmati töxtab qoldi. Iltimos, qayta urinib köring.<br><i>%1</i>
+<i>%1</i> is a bitmap font, and these have been disabled on your system. - <i>%1</i> rastrli şrift bölganligi sababli, bunday şriftlar tizimingizda öçirib qöyilgan.
+<i>%1</i> contains the font <b>%2</b>, which is already installed on your system. - <i>%1</i> tizimingizda allaqaçon örnatilgan <b>%2</b> şriftini öz içiga oladi.
+<i>%1</i> is not a font. - <i>%1</i> şrift emas.
+Could not remove all files associated with <i>%1</i> - <i>%1</i> bilan boğliq barça fayllarni olib taşlab bölmadi
+Failed to start the system daemon.<br><i>%1</i> - Tizim xizmatini (demonni) işga tuşirib bölmadi.<br><i>%1</i>
+<i>%1</i> already exists. - <i>%1</i> allaqaçon mavjud.
+<i>%1</i> does not exist. - <i>%1</i> mavjud emas.
+Permission denied.<br><i>%1</i> - Ruxsat berilmadi.<br><i>%1</i>
+Unsupported action.<br><i>%1</i> - Qöllab-quvvatlanmaydigan amal.<br><i>%1</i>
+Authentication failed.<br><i>%1</i> - Autentifikatsiya xatosi.<br><i>%1</i>
+Unexpected error while processing: <i>%1</i> - Qayta işlaş vaqtida kutilmagan xatolik: <i>%1</i>
+Create New Group… - Yangi guruh yaratiş…
+Remove Group… - Guruhni olib taşlaş…
+Enable Fonts in Group… - Guruhdagi şriftlarni yoqiş…
+Disable Fonts in Group… - Guruhdagi şriftlarni öçiriş (nofaol qiliş)…
+This displays a preview of the selected font. - Bu yerda tanlangan şriftning namunasi körsatiladi.
+Find Duplicates… - Takroriylarini topiş…
+Scan for Duplicate Fonts… - Takroriy şriftlarni qidiriş…
+Install from File… - Fayldan örnatiş…
+Install fonts from a local file - Mahalliy fayldan şriftlarni örnatiş
+Get New Fonts… - Yangi şriftlarni oliş…
+Download new fonts - Yangi şriftlarni yuklab oliş
+Delete Selected Fonts… - Tanlangan şriftlarni öçiriş…
+Change Preview Text… - Namuna matnini özgartiriş…
+Add Fonts - Şriftlarni qöşiş
+Failed to save list of fonts to print. - Çop etiş uçun şriftlar röyxatini saqlab bölmadi.
+Failed to start font printer. - Şrift çop etiş vositasini işga tuşirib bölmadi.
+There are no printable fonts. You can only print non-bitmap and enabled fonts. - Çop etiladigan şriftlar yöq. Siz faqat rastrli bölmagan va yoqilgan şriftlarni çop etişingiz mumkin.
+Cannot Print - Çop etib bölmadi
+You did not select anything to delete. - Öçiriş uçun heç narsa tanlamadingiz.
+Nothing to Delete - Öçiriş uçun heç narsa yöq
+<p>Do you really want to delete</p><p>'<b>%1</b>'?</p> - <p>Haqiqatan ham</p><p>'<b>%1</b>' şriftini öçirmoqçimisiz?</p>
+Delete Font - Şriftni öçiriş
+Do you really want to delete this font? - Haqiqatan ham bu şriftni öçirmoqçimisiz?
+Delete Fonts - Şriftlarni öçiriş
+Deleting font(s)… - Şrift(lar) öçirilmoqda…
+You did not select anything to move. - Köçiriş uçun heç narsa tanlamadingiz.
+Nothing to Move - Köçiriş uçun heç narsa yöq
+<p>Do you really want to move</p><p>'<b>%1</b>'</p><p>from <i>%2</i> to <i>%3</i>?</p> - <p>Haqiqatan ham</p><p>'<b>%1</b>' şriftini</p><p><i>%2</i> jildidan <i>%3</i> jildiga köçirmoqçimisiz?</p>
+Move Font - Şriftni köçiriş
+Move - Köçiriş
+<p>Do you really want to move this font from <i>%2</i> to <i>%3</i>?</p> - <p>Haqiqatan ham bu şriftni <i>%2</i> jildidan <i>%3</i> jildiga köçirmoqçimisiz?</p>
+Move Fonts - Şriftlarni köçiriş
+Moving font(s)… - Şrift(lar) köçirilmoqda…
+Export Group - Guruhni eksport qiliş
+No files? - Fayllar yöqmi?
+Failed to open %1 for writing - Yoziş uçun %1 faylini oçib bölmadi
+Create New Group - Yangi guruh yaratiş
+Name of new group: - Yangi guruh nomi:
+New Group - Yangi guruh
+Preview Text - Namuna matni
+Please enter new text: - Iltimos, yangi matnni kiriting:
+Scanning font list… - Şriftlar röyxati tekşirilmoqda…
+No fonts - Şriftlar yöq
+1 Font - 1 ta şrift
+<table><tr><td align="right">Enabled:</td><td>%1</td></tr><tr><td align="right">Disabled:</td><td>%2</td></tr><tr><td align="right">Partially enabled:</td><td>%3</td></tr><tr><td align="right">Total:</td><td>%4</td></tr></table> - <table><tr><td align="right">Yoqilgan:</td><td>%1</td></tr><tr><td align="right">Öçirilgan:</td><td>%2</td></tr><tr><td align="right">Qisman yoqilgan:</td><td>%3</td></tr><tr><td align="right">Jami:</td><td>%4</td></tr></table>
+<table><tr><td align="right">Enabled:</td><td>%1</td></tr><tr><td align="right">Disabled:</td><td>%2</td></tr><tr><td align="right">Total:</td><td>%3</td></tr></table> - <table><tr><td align="right">Yoqilgan:</td><td>%1</td></tr><tr><td align="right">Öçirilgan:</td><td>%2</td></tr><tr><td align="right">Jami:</td><td>%3</td></tr></table>
+Do you wish to install the font(s) for personal use (only available to you), or system-wide (available to all users)? - Şrift(lar)ni şaxsiy foydalaniş uçun (faqat sizga mavjud) yoki butun tizim böylab (barça foydalanuvçilarga mavjud) örnatmoqçimisiz?
+Where to Install - Qayerga örnatilsin
+Looking for any associated files… - Boğliq fayllar qidirilmoqda…
+Scanning Files… - Fayllar tekşirilmoqda…
+Looking for additional files to install… - Örnatiş uçun qöşimça fayllar qidirilmoqda…
+Looking for files associated with %1 - %1 bilan boğliq fayllar qidirilmoqda
+Installing font(s)… - Şrift(lar) örnatilmoqda…
+You did not select anything to enable. - Yoqiş uçun heç narsa tanlamadingiz.
+You did not select anything to disable. - Öçiriş uçun heç narsa tanlamadingiz.
+Nothing to Enable - Yoqiş uçun heç narsa yöq
+Nothing to Disable - Öçiriş uçun heç narsa yöq
+<p>Do you really want to enable</p><p>'<b>%1</b>'?</p> - <p>Haqiqatan ham</p><p>'<b>%1</b>' şriftini yoqmoqçimisiz?</p>
+<p>Do you really want to disable</p><p>'<b>%1</b>'?</p> - <p>Haqiqatan ham</p><p>'<b>%1</b>' şriftini öçirmoqçimisiz?</p>
+<p>Do you really want to enable</p><p>'<b>%1</b>', contained within group '<b>%2</b>'?</p> - <p>Haqiqatan ham '<b>%2</b>' guruhidagi</p><p>'<b>%1</b>' şriftini yoqmoqçimisiz?</p>
+<p>Do you really want to disable</p><p>'<b>%1</b>', contained within group '<b>%2</b>'?</p> - <p>Haqiqatan ham '<b>%2</b>' guruhidagi</p><p>'<b>%1</b>' şriftini öçirmoqçimisiz?</p>
+Enable Font - Şriftni yoqiş
+Disable Font - Şriftni öçiriş
+Do you really want to enable this font? - Haqiqatan ham bu şriftni yoqmoqçimisiz?
+Do you really want to disable this font? - Haqiqatan ham bu şriftni öçirmoqçimisiz?
+<p>Do you really want to enable this font contained within group '<b>%2</b>'?</p> - <p>Haqiqatan ham '<b>%2</b>' guruhidagi uşbu şriftni yoqmoqçimisiz?</p>
+<p>Do you really want to disable this font contained within group '<b>%2</b>'?</p> - <p>Haqiqatan ham '<b>%2</b>' guruhidagi uşbu şriftni öçirmoqçimisiz?</p>
+Enable Fonts - Şriftlarni yoqiş
+Disable Fonts - Şriftlarni öçiriş
+Enabling font(s)… - Şrift(lar) yoqilmoqda…
+Disabling font(s)… - Şrift(lar) öçirilmoqda…
+Print Font Samples - Şrift namunalarini çop etiş
+Select size to print font: - Şriftni çop etiş uçun ölçamni tanlang:
+Waterfall - Şarşara (Waterfall)
+12pt - 12 pt
+18pt - 18 pt
+24pt - 24 pt
+36pt - 36 pt
+48pt - 48 pt
+Can only install fonts to either "%1" or "%2". - Şriftlarni faqat "%1" yoki "%2" jildiga örnatiş mumkin.
+You cannot install a fonts package directly. Please extract %1, and install the components individually. - Şriftlar paketini töğridan-töğri örnatib bölmaydi. Iltimos, %1 paketini ajratib oling va qismlarni alohida örnating.
+Cannot copy fonts - Şriftlardan nusxa olib bölmadi
+Cannot move fonts - Şriftlarni köçirib bölmadi
+Only fonts may be deleted. - Faqat şriftlarni öçiriş mumkin.
+Can only remove fonts from either "%1" or "%2". - Şriftlarni faqat "%1" yoki "%2" jildidan olib taşlaş mumkin.
+Please specify "%1" or "%2". - Iltimos, "%1" yoki "%2" ni körsating.
+No special methods supported. - Maxsus usullar qöllab-quvvatlanmaydi.
+Fonts - Şriftlar
+Failed to start the system daemon - Tizim xizmatini (demonni) işga tuşirib bölmadi
+Backend died - Orqa fon xizmati töxtab qoldi
+%1 is a bitmap font, and these have been disabled on your system. - %1 rastrli şrift bölganligi sababli, bunday şriftlar tizimingizda öçirib qöyilgan.
+%1 contains the font <b>%2</b>, which is already installed on your system. - %1 tizimingizda allaqaçon örnatilgan <b>%2</b> şriftini öz içiga oladi.
+%1 is not a font. - %1 şrift emas.
+Could not remove all files associated with %1 - %1 bilan boğliq barça fayllarni olib taşlab bölmadi
+Unknown - Nomaʼlum
+Aa - Aa
+AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789 - AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzÖöĞğŞşÇç0123456789
+No characters found. - Belgilar topilmadi.
+The quick brown fox jumps over the lazy dog - Oq çoynakka oq qopqoq, kök çoynakka kök qopqoq
+ABCDEFGHIJKLMNOPQRSTUVWXYZ - ABCDEFGHIJKLMNOPQRSTUVWXYZÖĞŞÇʼ
+abcdefghijklmnopqrstuvwxyz - abcdefghijklmnopqrstuvwxyzöğşçʼ
+0123456789.:,;(*!?'/\")£$€%^&-+@~#<>{}[] - 0123456789.:,;(*!?'/\")£$€%^&-+@~#<>{}[]
+ERROR: Could not determine font's name. - XATO: Şriftning nomini aniqlab bölmadi.
+%2 [1 pixel] - %2 [1 piksel]
+Personal - Şaxsiy
+System - Tizim
+All - Hammasi
+Administrator - Administrator
+Thin - Inglizça yupqa (Thin)
+Extra Light - Juda oç (Extra Light)
+Ultra Light - Öta oç (Ultra Light)
+Light - Oç (Light)
+Regular - Muntazam (Regular)
+Normal - Oddiy (Normal)
+Medium - Örtaça (Medium)
+Demi Bold - Yarim qalin (Demi Bold)
+Semi Bold - Yarim qalin (Semi Bold)
+Bold - Qalin (Bold)
+Extra Bold - Juda qalin (Extra Bold)
+Ultra Bold - Öta qalin (Ultra Bold)
+Black - Qora (Black)
+Heavy - Oğir (Heavy)
+Roman - Tik (Roman)
+Italic - Kursiv (Italic)
+Oblique - Qiya (Oblique)
+Ultra Condensed - Öta ziç (Ultra Condensed)
+Extra Condensed - Juda ziç (Extra Condensed)
+Condensed - Ziç (Condensed)
+Semi Condensed - Yarim ziç (Semi Condensed)
+Semi Expanded - Yarim kengaytirilgan (Semi Expanded)
+Expanded - Kengaytirilgan (Expanded)
+Extra Expanded - Juda kengaytirilgan (Extra Expanded)
+Ultra Expanded - Öta kengaytirilgan (Ultra Expanded)
+Monospaced - Bir xil kenglikdagi (Monospaced)
+Charcell - Katakçali (Charcell)
+Proportional - Mutanosib (Proportional)
+Other, Control - Boşqa, boşqaruv
+Other, Format - Boşqa, formatlaş
+Other, Not Assigned - Boşqa, tayinlanmagan
+Other, Private Use - Boşqa, şaxsiy foydalaniş
+Other, Surrogate - Boşqa, surrogat
+Letter, Lowercase - Harf, kiçik harf
+Letter, Modifier - Harf, modifikator
+Letter, Other - Harf, boşqa
+Letter, Titlecase - Harf, sarlavha harfi
+Letter, Uppercase - Harf, katta harf
+Mark, Spacing Combining - Belgi, oraliqli birikuvçi
+Mark, Enclosing - Belgi, örab oluvçi
+Mark, Non-Spacing - Belgi, oraliqsiz
+Number, Decimal Digit - Son, önlik raqam
+Number, Letter - Son, harfli
+Number, Other - Son, boşqa
+Punctuation, Connector - Tiniş belgisi, boğlovçi
+Punctuation, Dash - Tiniş belgisi, tire
+Punctuation, Close - Tiniş belgisi, yopuvçi
+Punctuation, Final Quote - Tiniş belgisi, yopuvçi qöştirnoq
+Punctuation, Initial Quote - Tiniş belgisi, oçuvçi qöştirnoq
+Punctuation, Other - Tiniş belgisi, boşqa
+Punctuation, Open - Tiniş belgisi, oçuvçi
+Symbol, Currency - Belgi, valyuta
+Symbol, Modifier - Belgi, modifikator
+Symbol, Math - Belgi, matematik
+Symbol, Other - Belgi, boşqa
+Separator, Line - Ajratuvçi, satr
+Separator, Paragraph - Ajratuvçi, xatboşi
+Separator, Space - Ajratuvçi, böş joy
+Category - Turkum
+UCS-4 - UCS-4
+UTF-16 - UTF-16
+UTF-8 - UTF-8
+XML Decimal Entity - XML önlik obʼekti
+Show Face: - Köriniş:
+Install… - Örnatiş…
+Change Text… - Matnni özgartiriş…
+Could not read font. - Şriftni öqib bölmadi.
+Preview String - Namuna satri
+Please enter new string: - Yangi satrni kiriting:
+&Main Toolbar - &Asosiy asboblar paneli
+Preview Type - Körib çiqiş turi
+Standard Preview - Standart namuna
+All Characters - Barça belgilar
+Unicode Block: %1 - Yunikod bloki: %1
+Unicode Script: %1 - Yunikod yozuvi: %1
+Basic Latin - Asosiy lotin
+Latin-1 Supplement - Lotin-1 qöşimçasi
+Latin Extended-A - Kengaytirilgan lotin-A
+Latin Extended-B - Kengaytirilgan lotin-B
+IPA Extensions - IPA kengaytmalari
+Spacing Modifier Letters - Oraliqli modifikator harflar
+Combining Diacritical Marks - Birikuvçi diakritik belgilar
+Greek and Coptic - Yunon va kopt
+Cyrillic - Kirill
+Cyrillic Supplement - Kirill qöşimçasi
+Armenian - Arman
+Hebrew - Ivrit
+Arabic - Arab
+Syriac - Suryoniy
+Arabic Supplement - Arab qöşimçasi
+Thaana - Taana
+NKo - Nko
+Devanagari - Devanagari
+Bengali - Bengal
+Gurmukhi - Gurmukhi
+Gujarati - Gujarot
+Oriya - Oriya
+Tamil - Tamil
+Telugu - Telugu
+Kannada - Kannada
+Malayalam - Malayalam
+Sinhala - Singal
+Thai - Tay
+Lao - Laos
+Tibetan - Tibet
+Myanmar - Myanma
+Georgian - Gruzin
+Hangul Jamo - Hangil Çamo
+Ethiopic - Efiopiya
+Ethiopic Supplement - Efiopiya qöşimçasi
+Cherokee - Çeroki
+Unified Canadian Aboriginal Syllabics - Birlaşgan Kanada aborigenlari böğin yozuvi
+Ogham - Ogam
+Runic - Runik
+Tagalog - Tagalog
+Hanunoo - Xanunoo
+Buhid - Buxid
+Tagbanwa - Tagbanva
+Khmer - Kxmer
+Mongolian - Möğul
+Limbu - Limbu
+Tai Le - Tay Le
+New Tai Lue - Yangi Tay Li
+Khmer Symbols - Kxmer belgilari
+Buginese - Bugiy
+Balinese - Baliy
+Phonetic Extensions - Fonetik kengaytmalar
+Phonetic Extensions Supplement - Fonetik kengaytmalar qöşimçasi
+Combining Diacritical Marks Supplement - Birikuvçi diakritik belgilar qöşimçasi
+Latin Extended Additional - Qöşimça kengaytirilgan lotin
+Greek Extended - Kengaytirilgan yunon
+General Punctuation - Umumiy tiniş belgilari
+Superscripts and Subscripts - Satr usti va satr osti belgilari
+Currency Symbols - Valyuta belgilari
+Combining Diacritical Marks for Symbols - Belgilar uçun birikuvçi diakritik belgilar
+Letter-Like Symbols - Harfga öxşaş belgilar
+Number Forms - Son şakllari
+Arrows - Körsatkiçlar (strelkalar)
+Mathematical Operators - Matematik operatorlar
+Miscellaneous Technical - Turli texnik belgilar
+Control Pictures - Boşqaruv tasvirlari
+Optical Character Recognition - Belgilarni optik aniqlaş (OCR)
+Enclosed Alphanumerics - Qobiqqa olingan harf va raqamlar
+Box Drawing - Ramka çiziş belgilari
+Block Elements - Blok elementlari
+Geometric Shapes - Geometrik şakllar
+Miscellaneous Symbols - Turli belgilar
+Dingbats - Bezak belgilari (Dingbats)
+Miscellaneous Mathematical Symbols-A - Turli matematik belgilar-A
+Supplemental Arrows-A - Qöşimça körsatkiçlar-A
+Braille Patterns - Brayl namunalari
+Supplemental Arrows-B - Qöşimça körsatkiçlar-B
+Miscellaneous Mathematical Symbols-B - Turli matematik belgilar-B
+Supplemental Mathematical Operators - Qöşimça matematik operatorlar
+Miscellaneous Symbols and Arrows - Turli belgilar va körsatkiçlar
+Glagolitic - Glagolitsa
+Latin Extended-C - Kengaytirilgan lotin-C
+Coptic - Kopt
+Georgian Supplement - Gruzin qöşimçasi
+Tifinagh - Tifinag
+Ethiopic Extended - Kengaytirilgan efiopiya
+Supplemental Punctuation - Qöşimça tiniş belgilari
+CJK Radicals Supplement - CJK iyeroglif kalitlari qöşimçasi
+Kangxi Radicals - Kansi luğati iyeroglif kalitlari
+Ideographic Description Characters - Iyerogliflarni tavsiflaş belgilari
+CJK Symbols and Punctuation - CJK belgilari va tiniş belgilari
+Hiragana - Xiragana
+Katakana - Katakana
+Bopomofo - Bopomofo
+Hangul Compatibility Jamo - Hangil moslaşuvçan Çamo
+Kanbun - Kanbun
+Bopomofo Extended - Kengaytirilgan Bopomofo
+CJK Strokes - CJK çiziqlari
+Katakana Phonetic Extensions - Katakana fonetik kengaytmalari
+Enclosed CJK Letters and Months - Qobiqqa olingan CJK harflari va oylari
+CJK Compatibility - CJK mosligi
+CJK Unified Ideographs Extension A - Unifikatsiyalangan CJK iyerogliflari (A kengaytmasi)
+Yijing Hexagram Symbols - I-szin geksagramma belgilari
+CJK Unified Ideographs - Unifikatsiyalangan CJK iyerogliflari
+Yi Syllables - I yozuvi böğinlari
+Yi Radicals - I yozuvi kalitlari
+Modifier Tone Letters - Ohangni özgartiruvçi harflar
+Latin Extended-D - Kengaytirilgan lotin-D
+Syloti Nagri - Siloti Nagri
+Phags-pa - Pagba-lama kvadrat yozuvi
+Hangul Syllables - Hangil böğinlari
+High Surrogates - Yuqori surrogatlar
+High Private Use Surrogates - Şaxsiy foydalaniş uçun yuqori surrogatlar
+Low Surrogates - Quyi surrogatlar
+Private Use Area - Şaxsiy foydalaniş sohasi
+CJK Compatibility Ideographs - CJK moslaşuvçan iyerogliflari
+Alphabetic Presentation Forms - Alifbo taqdimot şakllari
+Arabic Presentation Forms-A - Arab taqdimot şakllari-A
+Variation Selectors - Variant tanlağiçlar
+Vertical Forms - Vertikal şakllar
+Combining Half Marks - Birikuvçi yarim belgilar
+CJK Compatibility Forms - CJK moslaşuvçan şakllari
+Small Form Variants - Kiçik şakl variantlari
+Arabic Presentation Forms-B - Arab taqdimot şakllari-B
+Half-Width and Full-Width Forms - Yarim kenglikdagi va töliq kenglikdagi şakllar
+Specials - Maxsus belgilar
+Linear B Syllabary - Çiziqli B böğin yozuvi
+Linear B Ideograms - Çiziqli B ideogrammalari
+Aegean Numbers - Egey raqamlari
+Ancient Greek Numbers - Qadimgi yunon raqamlari
+Old Italic - Qadimgi kursiv (etrusk)
+Gothic - Gotik
+Ugaritic - Ugarit
+Old Persian - Qadimgi fors mixxati
+Deseret - Dezeret
+Shavian - Bernard Şou alifbosi
+Osmanya - Usmoniya (Somali)
+Cypriot Syllabary - Kipr böğin yozuvi
+Phoenician - Finikiya
+Kharoshthi - Kxaroştxi
+Cuneiform - Mixxat
+Cuneiform Numbers and Punctuation - Mixxat raqamlari va tiniş belgilari
+Byzantine Musical Symbols - Vizantiya musiqa belgilari
+Musical Symbols - Musiqa belgilari
+Ancient Greek Musical Notation - Qadimgi yunon musiqa notalari
+Tai Xuan Jing Symbols - Tay Syuan Szin belgilari
+Counting Rod Numerals - Sanoq çöpçalaridagi raqamlar
+Mathematical Alphanumeric Symbols - Matematik harf-raqam belgilari
+CJK Unified Ideographs Extension B - Unifikatsiyalangan CJK iyerogliflari (B kengaytmasi)
+CJK Compatibility Ideographs Supplement - CJK moslaşuvçan iyerogliflari qöşimçasi
+Tags - Teglar
+Variation Selectors Supplement - Variant tanlağiçlar qöşimçasi
+Supplementary Private Use Area-A - Qöşimça şaxsiy foydalaniş sohasi-A
+Supplementary Private Use Area-B - Qöşimça şaxsiy foydalaniş sohasi-B
+Braille - Brayl yozuvi
+Canadian Aboriginal - Kanada aborigenlari yozuvi
+Common - Umumiy yozuv
+Cypriot - Kipr yozuvi
+Greek - Yunon yozuvi
+Han - Xan yozuvi
+Hangul - Hangil yozuvi
+Inherited - Meros qolgan yozuv
+Latin - Lotin yozuvi
+Linear B - Çiziqli B yozuvi
+Nko - Nko yozuvi
+Phags Pa - Pagba-lama yozuvi
+Yi - I yozuvi

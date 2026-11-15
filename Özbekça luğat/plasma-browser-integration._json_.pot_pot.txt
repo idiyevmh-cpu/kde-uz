@@ -1,0 +1,5 @@
+Source text - Tarjima text
+Plasma Browser Integration Flatpak Integration - Plasma brauzer integratsiyasining Flatpak bilan integratsiyasi
+Plasma Browser Integration Installation Reminder - Plasma brauzer integratsiyasini örnatiş eslatmasi
+Automatically enables support for Firefox Flatpak - Firefox Flatpak uçun qöllab-quvvatlaşni avtomatik yoqadi
+Provides a link to the browser extension if the Plasma Browser Integration host is installed - Plasma brauzer integratsiyasi örnatilgan bölsa, brauzer kengaytmasiga havola taqdim etadi

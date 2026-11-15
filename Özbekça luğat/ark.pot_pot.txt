@@ -1,0 +1,371 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+&Archive - &Arxiv
+Extracting Files - Fayllarni ajratib oliş
+Source archive - Manba arxivi
+Destination - Manzil jildi
+The following files could not be extracted: - Quyidagi fayllarni ajratib olib bölmadi:
+There was an error while extracting <filename>%1</filename>. Any further archive will not be extracted. - <filename>%1</filename> arxivini ajratib olişda xatolik yuz berdi. Keyingi arxivlar ajratib olinmaydi.
+There was an error while extracting <filename>%1</filename>:<nl/><message>%2</message><nl/>Any further archive will not be extracted. - <filename>%1</filename> arxivini ajratib olişda xatolik yuz berdi:<nl/><message>%2</message><nl/>Keyingi arxivlar ajratib olinmaydi.
+There was an error while extracting <filename>%1</filename>. - <filename>%1</filename> arxivini ajratib olişda xatolik yuz berdi.
+There was an error while extracting <filename>%1</filename>:<nl/><message>%2</message> - <filename>%1</filename> arxivini ajratib olişda xatolik yuz berdi:<nl/><message>%2</message>
+The archive could not be extracted to <filename>%1</filename> because Ark can only extract to local destinations. - Arxivni <filename>%1</filename> manziliga ajratib olib bölmadi, çunki Ark faqat mahalliy jildlargagina ajratib oladi.
+Compress - Siqiş (arxivlaş)
+Compress to… - Arxivga siqiş…
+Compress to "%1" - "%1" arxiviga siqiş
+Archive - Arxiv
+Extract to… - …ga ajratib oliş
+Extract here - Şu yerga ajratib oliş
+Extract and trash archive - Ajratib oliş va arxivni çiqindilar qutisiga taşlaş
+Extract - Ajratib oliş
+Extract here - Şu yerga ajratib oliş
+Ark - Ark
+KDE Archiving tool - KDE arxivlaş vositasi
+© 1997–2025 The Ark Developers - © 1997–2025 Ark dasturçilari
+Elvis Angelaccio - Elvis Angelaccio
+Maintainer - Taʼminotçi
+Ragnar Thomsen - Ragnar Thomsen
+Maintainer, KF5 port - Taʼminotçi, KF5 ga ötkağizuvçi
+Raphael Kubo da Costa - Raphael Kubo da Costa
+Former Maintainer - Oldingi taʼminotçi
+Harald Hvaal - Harald Hvaal
+Henrique Pinto - Henrique Pinto
+Helio Chissini de Castro - Helio Chissini de Castro
+Former maintainer - Oldingi taʼminotçi
+Georg Robbers - Georg Robbers
+Roberto Selbach Teixeira - Roberto Selbach Teixeira
+Francois-Xavier Duranceau - Francois-Xavier Duranceau
+Emily Ezust (Corel Corporation) - Emily Ezust (Corel Corporation)
+Michael Jarrett (Corel Corporation) - Michael Jarrett (Corel Corporation)
+Robert Palmbos - Robert Palmbos
+Vladyslav Batyrenko - Vladyslav Batyrenko
+Advanced editing functionalities - Kengaytirilgan tahrirlaş imkoniyatlari
+Bryce Corkins - Bryce Corkins
+Icons - Nişonçalar
+Liam Smit - Liam Smit
+Ideas, help with the icons - Ğoyalar, nişonçalar böyiça yordam
+Andrew Smith - Andrew Smith
+bkisofs code - bkisofs kodi
+URLs to open. - Oçiladigan URL manzillar.
+Show a dialog for specifying the options for the operation (extract/add) - Amal (ajratib oliş/qöşiş) parametrlarini körsatiş uçun muloqot oynasini çiqariş
+Destination folder to extract to. Defaults to current path if not specified. - Ajratib olinadigan manzil jildi. Körsatilmasa, joriy yöl ishlatiladi.
+Open destination folder after extraction. - Ajratib olingandan söng manzil jildini oçiş.
+Query the user for an archive filename and add specified files to it. Quit when finished. - Foydalanuvçidan arxiv fayli nomini söraş va körsatilgan fayllarni unga qöşiş. Tugaganda dasturdan çiqiş.
+Add the specified files to 'filename'. Create archive if it does not exist. Quit when finished. - Körsatilgan fayllarni 'filename' arxiviga qöşiş. Arxiv mavjud bölmasa, uni yaratiş. Tugaganda dasturdan çiqiş.
+Change the current dir to the first entry and add all other entries relative to this one. - Joriy katalogni birinçi elementga özgartiriş va qolgan barça elementlarni şunga nisbatan qöşiş.
+Automatically choose a filename, with the selected suffix (for example rar, tar.gz, zip or any other supported types) - Tanlangan kengaytma (masalan, rar, tar.gz, zip yoki qöllab-quvvatlanadigan boşqa turlar) bilan fayl nomini avtomatik tanlaş
+Use the batch interface instead of the usual dialog. This option is implied if more than one url is specified. - Oddiy muloqot oynasi örniga paketli interfeysdan foydalaniş. Bittadan ortiq URL körsatilganda bu parametr öz-özidan qöllaniladi.
+The destination argument will be set to the path of the first file supplied. - Manzil argumenti sifatida berilgan birinçi faylning yöli olinadi.
+Archive contents will be read, and if detected to not be a single folder or a single file archive, a subfolder with the name of the archive will be created. - Arxiv tarkibi öqiladi va agar u bitta jild yoki bitta fayldan iborat emasligi aniqlansa, arxiv nomi bilan ichki jild yaratiladi.
+List supported MIME types. - Qöllab-quvvatlanadigan MIME turlarini röyxatlaş.
+Unable to find Ark's KPart component, please check your installation. - Ark'ning KPart komponenti topilmadi, iltimos, dastur töğri örnatilganini tekşiring.
+Sidebar - Yon panel
+Welcome Page - Xuş kelibsiz sahifasi
+Show the welcome page - Xuş kelibsiz sahifasini körsatiş
+This switches between having a <emphasis>Menubar</emphasis> and having a <interface>Hamburger Menu</interface> button. Both contain mostly the same commands and configuration options. - Bu amal <emphasis>Menyu satri</emphasis> va <interface>Gamburger menyusi</interface> tugmasi örtasida almaştiradi. Ikkalasida ham deyarli bir xil buyruqlar va sozlaş parametrlari mavjud.
+Lock Sidebar - Yon panelni mahkamlaş
+Open Archive - Arxivni oçiş
+Create New Archive - Yangi arxiv yaratiş
+Welcome to %1 - %1 dasturiga xuş kelibsiz
+No recent files - Yaqinda oçilgan fayllar yöq
+Copy &Location - &Manzilidan nusxa oliş
+&Open Containing Folder - &Joylashgan jildini oçiş
+&Remove - &Olib taşlaş
+Welcome - Xuş kelibsiz
+Open Archive… - Arxivni oçiş…
+New Archive - Yangi arxiv
+Clear Recent Files - Yaqinda oçilgan fayllar röyxatini tozalaş
+Recent Files - Yaqinda oçilgan fayllar
+Help - Yordam
+Visit homepage - Bosh sahifaga ötiş
+Read handbook - Qöllanmani öqiş
+Show on startup - Işga tuşganda körsatiş
+Close Welcome Page - Xuş kelibsiz sahifasini yopiş
+Advanced Options - Qöşimça parametrlar
+Add - Qöşiş
+Files/Folders to Compress - Siqiladigan fayl va jildlar
+Compress to Archive - Arxivga siqiş
+No input files were given. - Kiruvçi fayllar körsatilmadi.
+You need to either supply a filename for the archive or a suffix (such as rar, tar.gz) with the <command>--autofilename</command> argument. - <command>--autofilename</command> argumenti bilan birga arxiv fayli nomini yoki kengaytmasini (masalan, rar, tar.gz) körsatişingiz kerak.
+The archive <filename>%1</filename> already exists. Do you wish to overwrite it? - <filename>%1</filename> arxivi allaqaçon mavjud. Uni ustidan yozib almaştirişni xohlaysizmi?
+File Exists - Fayl mavjud
+Whether to show a warning when creating zip archives with AES encryption. - AES şifrlaşi bilan ZIP arxivlar yaratilayotganda ogohlantiriş körsatilsinmi.
+Default action when opening archive entries. - Arxiv elementlarini oçişda birlamçi amal.
+Close Ark after extraction. - Ajratib olingandan söng Ark dasturini yopiş.
+Preserve paths when extracting. - Ajratib olişda fayl yöllarini saqlab qoliş.
+Extract to a subfolder if the archive has more than one top-level entry. - Agar arxivda bittadan ortiq yuqori darajali element bölsa, içki jildga ajratib oliş.
+How the main window is divided. - Asosiy oyna qanday taqsimlanişi.
+Whether to show the information panel. - Maʼlumot paneli körsatilsinmi.
+Whether to limit the preview according to file size. - Fayl hajmiga qarab oldindan köriş çeklansinmi.
+Preview file size limit in megabytes. - Oldindan köriş uçun fayl hajmi çeklovi (megabaytda).
+Failed to locate program <filename>%1</filename> on disk. - Diskda <filename>%1</filename> dasturi topilmadi.
+Extraction failed. Make sure that enough space is available. - Ajratib oliş muvaffaqiyatsiz tugadi. Diskda yetarli böş joy borligiga işonç hosil qiling.
+Extraction failed. Make sure you provided the correct password and that enough space is available. - Ajratib oliş muvaffaqiyatsiz tugadi. Parol töğri kiritilganiga va diskda yetarli böş joy borligiga işonç hosil qiling.
+Could not move the extracted file to the destination directory. - Ajratib olingan faylni manzil katalogiga köçirib bölmadi.
+Extraction failed because the disk is full. - Disk tölib qolganligi sababli ajratib oliş muvaffaqiyatsiz tugadi.
+Extraction failed: Incorrect password - Ajratib oliş muvaffaqiyatsiz tugadi: parol notöğri
+Incorrect password. - Parol notöğri.
+Ark does not currently support testing this archive. - Ark hozirça uşbu arxivni tekşirişni qöllab-quvvatlamaydi.
+Protection of the list of files is not possible with the %1 format. - %1 formatida fayllar röyxatini himoyalaş imkoni yöq.
+Protection of the archive with password is not possible with the %1 format. - %1 formatida arxivni parol bilan himoyalaş imkoni yöq.
+It is not possible to set compression level for the %1 format. - %1 formati uçun siqiş darajasini belgilab bölmaydi.
+It is not possible to set compression method for the %1 format. - %1 formati uçun siqiş usulini belgilab bölmaydi.
+The %1 format does not support multi-volume archives. - %1 formati köp jildli (multi-volume) arxivlarni qöllab-quvvatlamaydi.
+Compression - Siqiş
+Level: - Daraja:
+Min - Min
+Method: - Usul:
+Max - Maks
+Password Protection - Parol bilan himoyalaş
+Encryption method: - Şifrlaş usuli:
+Ask for password before showing the list of files in the archive - Arxivdagi fayllar röyxatini körsatişdan oldin parol söraş
+This encryption method may not be supported by older archiving software. - Uşbu şifrlaş usuli eskiroq arxivlaş dasturlarida qöllab-quvvatlanmasligi mumkin.
+Multi-volume Archive - Köp qismli arxiv
+Create multi-volume archive - Köp qismli arxiv yaratiş
+Volume size: - Qism hajmi:
+ megabytes -  megabayt
+Automatically add .%1 - Avtomatik .%1 qöşiş
+The chosen password does not match the given verification password. - Tanlangan parol tasdiqlaş paroliga mos kelmadi.
+Folder: - Jild:
+Filename: - Fayl nomi:
+Type archive name… - Arxiv nomini kiriting…
+Type: - Turi:
+Extension: - Kengaytma:
+Extract - Ajratib oliş
+Extract - Ajratib oliş
+The subfolder name may not contain the character '/'. - Içki jild nomida '/' belgisi bölmasligi kerak.
+The folder <filename>%1</filename> already exists. Are you sure you want to extract here? - <filename>%1</filename> jildi allaqaçon mavjud. Haqiqatan ham şu yerga ajratib olmoqçimisiz?
+Folder exists - Jild mavjud
+Extract here - Şu yerga ajratib oliş
+Retry - Qayta uriniş
+The folder <filename>%1</filename> could not be created. - <filename>%1</filename> jildini yaratib bölmadi.
+<filename>%1</filename> already exists, but is not a folder. - <filename>%1</filename> allaqaçon mavjud, lekin u jild emas.
+Please check your permissions to create it. - Iltimos, uni yaratiş uçun ruxsatlaringiz borligini tekşiring.
+Extract multiple archives - Bir neçta arxivni ajratib oliş
+Extraction Dialog - Ajratib oliş muloqot oynasi
+Extract All Files - Barça fayllarni ajratib oliş
+E&xtraction into subfolder: - &Içki jildga ajratib oliş:
+Options - Parametrlar
+Open &destination folder after extraction - Ajratib olingandan söng &manzil jildini oçiş
+Close &Ark after extraction - Ajratib olingandan söng &Ark dasturini yopiş
+&Preserve paths when extracting - Ajratib olişda &yöllarni saqlab qoliş
+&Automatically create subfolders - &Içki jildlarni avtomatik yaratiş
+Extract - Ajratib oliş
+Sele&cted files only - &Faqat tanlangan fayllar
+All &files - Barça &fayllar
+Open destination folder after extraction - Ajratib olingandan söng manzil jildini oçiş
+Close Ark after extraction - Ajratib olingandan söng Ark dasturini yopiş
+Preserve paths when extracting - Ajratib olişda yöllarni saqlab qoliş
+Whether to check by default the extraction into subfolder checkbox in the Extraction Dialog, when the archive has more than one top-level entry. - Arxivda bittadan ortiq yuqori darajali element bölganda, ajratib oliş muloqot oynasidagi «Içki jildga ajratib oliş» katakçasi birlamçi ravishda belgilansinmi.
+Extract to a subfolder if the archive has more than one top-level entry - Agar arxivda bittadan ortiq yuqori darajali element bölsa, içki jildga ajratib oliş
+When clicking a file in an archive or pressing the Return key: - Arxivdagi fayl ustiga bosilganda yoki Enter tugmasi bosilganda:
+Pre&view the file with internal previewer - Faylni &içki köruvçi yordamida köriş
+Open the fi&le with associated application - Faylni &biriktirilgan ilova yordamida oçiş
+Show a warning when creating zip archives with AES encryption - AES şifrlaşi bilan ZIP arxivlar yaratilayotganda ogohlantiriş körsatiş
+No suitable plugin found. Ark does not seem to support this file type. - Mos plagin topilmadi. Ark uşbu fayl turini qöllab-quvvatlamaydigan körinadi.
+Failed to load a suitable plugin. Make sure any executables needed to handle the archive type are installed. - Mos plaginni yuklab bölmadi. Uşbu arxiv turi bilan işlaş uçun zarur dasturlar örnatilganiga işonç hosil qiling.
+Could not load the archive because it contains ill-formed entries and might be a malicious archive. - Arxivda notöğri tuzilgan yozuvlar borligi va u zararli arxiv bölişi mumkinligi sababli uni yuklab bölmadi.
+Loading archive - Arxiv yuklanmoqda
+Archive - Arxiv
+No space available on device <filename>%1</filename> - <filename>%1</filename> qurilmasida böş joy qolmagan
+Extracting all files - Barça fayllar ajratib olinmoqda
+Extracting one file - Bitta fayl ajratib olinmoqda
+Destination - Manzil jildi
+Could not write to destination <filename>%1</filename>.<nl/>Check whether you have sufficient permissions. - <filename>%1</filename> manziliga yozib bölmadi.<nl/>Yetarli ruxsatlaringiz borligini tekşiring.
+Compressing a file - Fayl siqilmoqda
+Moving a file - Fayl köçirilmoqda
+Copying a file - Fayldan nusxa olinmoqda
+Deleting a file from the archive - Arxivdan fayl öçirilmoqda
+Adding comment - Izoh qöşilmoqda
+Testing archive - Arxiv tekşirilmoqda
+The plugin cannot be used because one or more required executables are missing. Check your installation. - Bir yoki bir neçta zarur bajariluvçi fayllar topilmaganligi sababli plagindan foydalanib bölmaydi. Örnatilgan dasturlarni tekşiring.
+Name - Nomi
+Description - Tavsifi
+Disable preview for files larger than: - Quyidagi hajmdan katta fayllar uçun oldindan körişni öçiriş:
+Properties for %1 - %1 xossalari
+yes - ha
+no - yöq
+yes (%1 volumes) - ha (%1 qism)
+%1 file - %1 ta fayl
+, %1 folder - , %1 ta jild
+only file contents (%1) - faqat fayl tarkibi (%1)
+yes (%1) - ha (%1)
+Calculating… - Hisoblanmoqda…
+Archive name: - Arxiv nomi:
+Archive type: - Arxiv turi:
+Mime-type: - MIME turi:
+Opened read-only: - Faqat öqiş uçun oçilgan:
+Password-protected: - Parol bilan himoyalangan:
+Has comment: - Izohi bor:
+Number of entries: - Elementlar soni:
+Unpacked size: - Yoyilgan hajmi:
+Packed size: - Siqilgan hajmi:
+Compression ratio: - Siqiş nisbati:
+Last modified: - Oxirgi özgartirilgan:
+MD5 hash: - MD5 xesh:
+SHA-1 hash: - SHA-1 xesh:
+SHA-256 hash: - SHA-256 xesh:
+Multi-volume: - Köp qismli:
+Compression method(s): - Siqiş usul(lar)i:
+File Already Exists - Fayl allaqaçon mavjud
+The archive <filename>%1</filename> is password protected. Please enter the password. - <filename>%1</filename> arxivi parol bilan himoyalangan. Iltimos, parolni kiriting.
+Incorrect password, please try again. - Parol notöğri, iltimos, qayta urinib köring.
+The archive you're trying to open is corrupt.<nl/>Some files may be missing or damaged. - Siz oçmoqçi bölgan arxiv buzilgan.<nl/>Baʼzi fayllar yetişmasligi yoki şikaştlangan bölişi mumkin.
+Corrupt archive - Buzilgan arxiv
+Open as Read-Only - Faqat öqiş uçun oçiş
+Don't Open - Oçilmasin
+Don't ask again. - Boşqa söralmasin.
+Error during extraction - Ajratib olişda xatolik
+Extraction of the entry:<nl/>    <filename>%1</filename><nl/>failed with the error message:<nl/>    %2<nl/><nl/>Do you want to continue extraction?<nl/> - Quyidagi elementni ajratib oliş:<nl/>    <filename>%1</filename><nl/>uşbu xatolik xabari bilan muvaffaqiyatsiz tugadi:<nl/>    %2<nl/><nl/>Ajratib olişni davom ettirişni xohlaysizmi?<nl/>
+Name - Nomi
+Original Size - Asl hajmi
+Compressed Size - Siqilgan hajmi
+Rate - Nisbat
+Owner - Egasi
+Group - Guruh
+Mode - Rejim
+CRC checksum - CRC nazorat yiğindisi
+BLAKE2 checksum - BLAKE2 nazorat yiğindisi
+Method - Usul
+Version - Versiya
+Date - Sana
+?? - ??
+Adding files is not supported for this archive. - Uşbu arxivga fayllar qöşiş qöllab-quvvatlanmaydi.
+You can only add local files to an archive. - Arxivga faqat mahalliy fayllarni qöşiş mumkin.
+&Archive - &Arxiv
+&File - &Fayl
+&Settings - &Sozlamalar
+Main Toolbar - Asosiy asboblar paneli
+&Help - &Yordam
+Closing preview - Oldindan köriş yopilmoqda
+Please wait while the preview is being closed… - Iltimos, oldindan köriş oynasi yopilgunça kuting…
+The internal viewer cannot preview this file. - Içki köruvçi uşbu faylni körsata olmaydi.
+The internal viewer cannot preview this type of file<nl/>(%1).<nl/><nl/>Do you want to try to view it as plain text? - Içki köruvçi uşbu turdagi faylni körsata olmaydi<nl/>(%1).<nl/><nl/>Uni oddiy matn sifatida körişga urinib körişni xohlaysizmi?
+Cannot Preview File - Faylni oldindan körib bölmadi
+Preview as Text - Matn sifatida köriş
+The internal viewer cannot preview this unknown type of file.<nl/><nl/>Do you want to try to view it as plain text? - Içki köruvçi uşbu nomaʼlum turdagi faylni körsata olmaydi.<nl/><nl/>Uni oddiy matn sifatida körişga urinib körişni xohlaysizmi?
+About Viewer Component - Köruvçi komponenti haqida
+No archive loaded - Heç qanday arxiv yuklanmagan
+Symbolic Link - Ramziy havola
+Unknown size - Nomaʼlum hajm
+One file selected - Bitta fayl tanlandi
+Information Panel - Maʼlumot paneli
+Unknown file type - Nomaʼlum fayl turi
+Owner: - Egasi:
+Group: - Guruh:
+Target: - Manzil:
+Job Tracker - Vazifalar kuzatuvçisi
+<b>Job Description</b> - <b>Vazifa tavsifi</b>
+Some Information about the job - Vazifa haqida maʼlumot
+%p% - %p%
+Files with the following paths already exist. Remove them if you really want to overwrite. - Quyidagi yöllarda fayllar allaqaçon mavjud. Agar haqiqatan ham ustidan yozmoqçi bölsangiz, ularni öçiring.
+Files with the following paths already exist. Do you want to continue overwriting them? - Quyidagi yöllarda fayllar allaqaçon mavjud. Ularning ustidan yozişni davom ettirişni xohlaysizmi?
+Comment - Izoh
+Comment has been modified. - Izoh özgartirildi.
+Save - Saqlaş
+Type to search… - Qidiriş uçun yozing…
+Ark can extract archives to local destinations only. - Ark arxivlarni faqat mahalliy jildlargagina ajratib oladi.
+Show Information Panel - Maʼlumot panelini körsatiş
+Save Copy As… - Nusxasini boşqa nom bilan saqlaş…
+&Open in External Application - &Taşqi ilovada oçiş
+Open &With… - …&bilan oçiş
+Click to open the selected file with an external program - Tanlangan faylni taşqi dastur yordamida oçiş uçun bosing
+Pre&view - &Oldindan köriş
+Click to preview the selected file - Tanlangan faylni oldindan köriş uçun bosing
+E&xtract All - &Barçasini ajratib oliş
+Click to open an extraction dialog, where you can choose how to extract all the files in the archive - Arxivdagi barça fayllarni qanday ajratib olişni tanlaş muloqot oynasini oçiş uçun bosing
+&Extract - &Ajratib oliş
+Click to open an extraction dialog, where you can choose to extract either all files or just the selected ones - Barça fayllarni yoki faqat tanlanganlarini ajratib oliş muloqot oynasini oçiş uçun bosing
+Add &Files… - &Fayllarni qöşiş…
+Click to add files to the archive - Arxivga fayllar qöşiş uçun bosing
+Remove from Archive - Arxivdan olib taşlaş
+&Properties - &Xossalar
+Click to see properties for archive - Arxiv xossalarini köriş uçun bosing
+Click to add or edit comment - Izoh qöşiş yoki tahrirlaş uçun bosing
+&Test Integrity - &Butunlikni tekşiriş
+Click to test the archive for integrity - Arxiv butunligini tekşiriş uçun bosing
+Adding files to existing password-protected archives with no header-encryption is currently not supported.<nl/><nl/>Extract the files and create a new archive if you want to add files. - Sarlavhasi şifrlanmagan, parol bilan himoyalangan mavjud arxivlarga fayl qöşiş hozirça qöllab-quvvatlanmaydi.<nl/><nl/>Agar fayl qöşmoqçi bölsangiz, fayllarni ajratib oling va yangi arxiv yarating.
+Testing password-protected archives with no header-encryption is currently not supported. - Sarlavhasi şifrlanmagan, parol bilan himoyalangan arxivlarni tekşiriş hozirça qöllab-quvvatlanmaydi.
+Edit &Comment - Izohni &tahrirlaş
+Add &Comment - Izoh &qöşiş
+The archive passed the integrity test. - Arxiv butunlik tekşiruvidan muvaffaqiyatli ötdi.
+Test Results - Tekşiruv natijalari
+The archive failed the integrity test. - Arxiv butunlik tekşiruvidan ötmadi.
+Extract To… - …ga ajratib oliş
+Quick Extract To… - Tezkor ajratib oliş…
+General - Umumiy
+Extraction - Ajratib oliş
+Plugins - Plaginlar
+Previews - Oldindan köriş
+<filename>%1</filename> is a directory. - <filename>%1</filename> — bu katalog.
+Could not overwrite <filename>%1</filename>. Check whether you have write permission. - <filename>%1</filename> ustidan yozib bölmadi. Yoziş huquqingiz borligini tekşiring.
+The archive <filename>%1</filename> will be created as soon as you add a file. - Fayl qöşişingiz bilanoq <filename>%1</filename> arxivi yaratiladi.
+The archive <filename>%1</filename> was not found. - <filename>%1</filename> arxivi topilmadi.
+The archive <filename>%1</filename> could not be loaded, as it was not possible to read from it. - <filename>%1</filename> arxivini öqib bölmaganligi sababli uni yuklab bölmadi.
+The archive is empty or Ark could not open its content. - Arxiv böş yoki Ark uning tarkibini oça olmadi.
+Ark does not currently support ISO files with UDF filesystem. - Ark hozirça UDF fayl tizimiga ega ISO fayllarni qöllab-quvvatlamaydi.
+Loading the archive <filename>%1</filename> failed with the following error:<nl/><message>%2</message> - <filename>%1</filename> arxivini yuklaş quyidagi xatolik bilan tugadi:<nl/><message>%2</message>
+Ark cannot open symlinks. - Ark ramziy havolalarni (symlink) oça olmaydi.
+The file <filename>%1</filename> was modified. Do you want to update the archive? - <filename>%1</filename> fayli özgartirildi. Arxivni yangilaşni xohlaysizmi?
+File Modified - Fayl özgartirildi
+Update - Yangilaş
+Ignore - Eʼtiborsiz qoldiriş
+Add Files - Fayllarni qöşiş
+Add Files to %1 - %1 arxiviga fayllar qöşiş
+Filename can't contain slashes and can't be equal to "." or ".." - Fayl nomida qiya çiziqlar bölmasligi va u "." yoki ".." ga teng bölmasligi kerak
+Folders can't be moved into themselves. - Jildlarni özining içiga köçirib bölmaydi.
+Moving a folder into itself - Jildni özining içiga köçiriş
+Entries with the same names can't be pasted to the same destination. - Bir xil nomdagi elementlarni bitta manzilga joylaştirib bölmaydi.
+Deleting this file is not undoable. Are you sure you want to do this? - Uşbu faylni öçirişni ortga qaytarib bölmaydi. Haqiqatan ham buni bajarmoqçimisiz?
+Delete File - Faylni öçiriş
+Save Copy As - Nusxasini boşqa nom bilan saqlaş
+The archive could not be saved as <filename>%1</filename>. Try saving it to another location. - Arxivni <filename>%1</filename> sifatida saqlab bölmadi. Uni boşqa joyga saqlab köring.
+The archive <filename>%1</filename> does not exist anymore, therefore it cannot be copied to the specified location. - <filename>%1</filename> arxivi endi mavjud emas, şuning uçun uni körsatilgan joyga nusxalab bölmaydi.
+Listing the archive failed. - Arxiv tarkibini röyxatlaş muvaffaqiyatsiz tugadi.
+Extraction failed due to an unknown error. - Nomaʼlum xatolik tufayli ajratib oliş muvaffaqiyatsiz tugadi.
+Extraction failed due to one or more corrupt files. Any extracted files may be damaged. - Bir yoki bir neçta buzilgan fayllar tufayli ajratib oliş muvaffaqiyatsiz tugadi. Ajratib olingan fayllar şikaştlangan bölişi mumkin.
+Delete operation failed. Try upgrading 7z or disabling the 7z plugin in the configuration dialog. - Öçiriş amali muvaffaqiyatsiz tugadi. 7z dasturini yangilab köring yoki sozlamalar oynasida 7z plaginini öçirib qöying.
+ARJ old - ARJ (eski)
+ARJ - ARJ
+GOST256 - GOST 256
+GOST256L - GOST 256L
+GOST 40-bit - GOST 40-bit
+unknown - nomaʼlum
+Failed to find all archive volumes. - Arxivning barça qismlarini topib bölmadi.
+Your unrar executable is version %1, which is too old to handle this archive. Please update to a more recent version. - Sizdagi unrar dasturi %1 versiyada bölib, uşbu arxiv bilan işlaş uçun juda eskilik qiladi. Iltimos, uni yangiroq versiyaga yangilang.
+Unrar reported a non-RAR archive. The installed unrar version (%1) is old. Try updating your unrar. - Unrar dasturi fayl RAR arxivi emasligini xabar qildi. Örnatilgan unrar versiyasi (%1) eski. Unrar dasturini yangilab köring.
+One or more wrong checksums - Bir yoki bir neçta nazorat yiğindisi xato
+Extraction failed. - Ajratib oliş muvaffaqiyatsiz tugadi.
+Not enough memory for loading the archive. - Arxivni yuklaş uçun tezkor xotira yetarli emas.
+Wrong password. - Parol notöğri.
+Extraction failed due to unsupported compression method (%1). - Qöllab-quvvatlanmaydigan siqiş usuli (%1) tufayli ajratib oliş muvaffaqiyatsiz tugadi.
+Extraction failed due to unsupported encryption method. - Qöllab-quvvatlanmaydigan şifrlaş usuli tufayli ajratib oliş muvaffaqiyatsiz tugadi.
+unknown - nomaʼlum
+The archive may be corrupt or has header-encryption, which is currently not supported. - Arxiv buzilgan yoki sarlavhasi şifrlangan bölib, bunday arxivlar hozirça qöllab-quvvatlanmaydi.
+Fatal error, extraction aborted. - Jiddiy xatolik, ajratib oliş töxtatildi.
+Extraction of encrypted 7-zip entries is currently not supported. - 7-zip arxivlaridagi şifrlangan elementlarni ajratib oliş hozirça qöllab-quvvatlanmaydi.
+The archive reader could not be initialized. - Arxiv öqigicini işga tuşirib bölmadi.
+Archive corrupted or insufficient permissions. - Arxiv buzilgan yoki unga kiriş uçun ruxsat yetarli emas.
+Failed to create a temporary file for writing data. - Maʼlumotlarni yoziş uçun vaqtinçalik fayl yaratib bölmadi.
+The archive writer could not be initialized. - Arxiv yozuvçisini işga tuşirib bölmadi.
+Could not open the archive for writing entries. - Elementlarni yoziş uçun arxivni oçib bölmadi.
+The compression type '%1' is not supported by Ark. - '%1' siqiş turi Ark tomonidan qöllab-quvvatlanmaydi.
+Could not set the compression method. - Siqiş usulini belgilab bölmadi.
+Could not set the compression level. - Siqiş darajasini belgilab bölmadi.
+Could not compress entry, operation aborted. - Elementni siqib bölmadi, amal töxtatildi.
+Could not compress entry. - Elementni siqib bölmadi.
+Failed to open archive: %1 - Arxivni oçib bölmadi: %1
+Failed to write archive. - Arxivni yozib bölmadi.
+Failed to add entry: %1 - Elementni qöşib bölmadi: %1
+Failed to set compression options for entry: %1 - Element uçun siqiş parametrlarini belgilab bölmadi: %1
+Failed to read metadata for entry: %1 - Element metamaʼlumotlarini öqib bölmadi: %1
+Failed to delete entry: %1 - Elementni öçirib bölmadi: %1
+Failed to create directory: %1 - Katalogni yaratib bölmadi: %1
+Failed to open '%1':<nl/>%2 - '%1' faylini oçib bölmadi:<nl/>%2
+Failed to open file for writing: %1 - Faylni yoziş uçun oçib bölmadi: %1
+Failed to read data for entry: %1 - Element maʼlumotlarini öqib bölmadi: %1
+Failed to write data for entry: %1 - Element maʼlumotlarini yozib bölmadi: %1
+Failed to locate entry: %1 - Elementni topib bölmadi: %1
+Failed to move entry: %1 - Elementni köçirib bölmadi: %1
+Failed to copy entry: %1 - Elementdan nusxa olib bölmadi: %1
+Failed to set metadata for entry: %1 - Element metamaʼlumotlarini belgilab bölmadi: %1

@@ -1,0 +1,97 @@
+Source text - Tarjima text
+Device Notifier - Qurilmalar bildirişnomasi
+Device Status - Qurilma holati
+Open with File Manager - Fayl boşqaruvçisida oçiş
+Plasma Widgets - Plasma vidjetlari
+Wallpaper Plugins - Fon rasmi plaginlari
+Request for Donation - Hayriya sörovi
+Shows a yearly request to donate to KDE - KDE loyihasiga yordam beriş böyiça yillik hayriya sörovini körsatadi
+Application - Ilova
+KDE Free Space Notifier Daemon - Diskdagi böş joyni nazorat qiluvçi KDE xizmati
+Low Disk Space - Diskda joy kam qoldi
+Warning - Ogohlantiriş
+Used for warning notifications - Ogohlantiruvçi bildirişnomalar uçun işlatiladi
+Running low on disk space - Diskda böş joy tugab bormoqda
+You are running low on disk space - Disk xotirasida böş joy kam qolmoqda
+Desktop Shell Scripting Console - Iş stoli qobiği skriptlaş konsoli
+Color Schemes - Ranglar sxemalari
+Color scheme editor - Rang sxemasi tahrirçisi
+KColorSchemeEditor - Rang sxemalari tahrirçisi (KColorSchemeEditor)
+Plasma color scheme editor - Plasma rang sxemalari tahrirçisi
+Pointers - Körsatkiçlar (kursorlar)
+Plasma Styles - Plasma uslublari
+Icons - Belgilar (ikonkalar)
+Install... - Örnatiş...
+KFontInst - Şrift örnatuvçisi (KFontInst)
+Font Installer - Şriftlarni örnatuvçi
+KFontView - Şriftlarni köruvçi (KFontView)
+Font Viewer - Şrift köruvçi
+Manage system-wide fonts. - Butun tizim miqyosidagi şriftlarni boşqariş.
+Modifying the system-wide font configuration requires privileges. - Tizim şriftlari konfiguratsiyasini özgartiriş maʼmuriy huquqlarni talab qiladi.
+Fonts - Şriftlar
+Global Themes - Global mavzular
+GNOME/GTK Application Styles - GNOME/GTK ilovalari uslublari
+Trash - Çiqindilar qutisi (Savat)
+Contains removed files - Öçirilgan fayllarni saqlaydi
+Klipper - Almaşiş buferi (Klipper)
+Clipboard Tool - Almaşiş buferi vositasi
+A cut & paste history utility - Qirqiş va qöyiş tarixi vositasi
+KRunner - KRunner
+Run command on clipboard contents - Almaşiş buferi tarkibi böyiça buyruqni bajariş
+Secret Prompter - Maxfiy söz sörovçisi
+Notification Manager - Bildirişnomalar menejeri
+Summary for unread inhibited notifications - Öqilmagan yaşirin bildirişnomalar xulosasi
+Plasma - Plasma
+Plasma by KDE - KDE tomonidan taqdim etilgan Plasma
+Internal Services - Içki xizmatlar
+Development - Dasturlaş
+Translation - Tarjima
+Web Development - Veb-dasturlaş
+Editors - Tahrirçilar
+Education - Taʼlim
+Languages - Tillar
+Mathematics - Matematika
+Miscellaneous - Har xil
+Science - Fan
+Teaching Tools - Öqitiş vositalari
+Arcade - Arkada
+Board Games - Stol öyinlari
+Card Games - Qarta öyinlari
+Games - Öyinlar
+Games for Kids - Bolalar uçun öyinlar
+Logic Games - Mantiqiy öyinlar
+Rogue-like Games - Roguelike öyinlari
+Tactics & Strategy - Taktika va strategiya
+Graphics - Grafika
+Help - Yordam
+Internet - Internet
+Terminal Applications - Terminal ilovalari
+KDE Menu - KDE menyusi
+More Applications - Boşqa ilovalar
+Multimedia - Multimedia
+Network - Tarmoq
+Office - Ofis
+Science & Math - Fan va matematika
+Settings - Sozlamalar
+System - Tizim
+Toys - Köngiloçar vositalar
+Lost & Found - Yöqolgan va topilganlar
+Accessibility - Maxsus imkoniyatlar
+Desktop - Iş stoli
+Utilities - Kommunal xizmatlar (utilitalar)
+File - Fayl
+Peripherals - Taşqi qurilmalar
+PIM - Şaxsiy maʼlumotlar menejeri (PIM)
+X-Utilities - X-utilitalari
+X Window Utilities - X Window utilitalari
+Linux Kernel - Linux yadrosi (Kernel)
+The core of the operating system - Operatsion tizimning asosiy yadrosi
+Catastrophe - Favqulodda xatolik (Halokat)
+A very serious error has occurred - Juda jiddiy xatolik yuz berdi
+Plasma Windowed - Oynali Plasma
+Run Plasmoids as simple applications - Plasmoidlarni oddiy ilovalar sifatida işga tuşiriş
+File Search - Fayl qidiruvi
+Searches for files by name and content - Fayllarni nomi va mazmuni böyiça qidiradi
+Plasma Session Restore - Plasma seansini qayta tiklaş
+Plasma Session Save - Plasma seansini saqlaş
+Wallpapers - Fon rasmlari

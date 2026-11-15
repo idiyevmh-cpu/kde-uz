@@ -1,0 +1,8 @@
+Gateway: - Şlyuz:
+Group name: - Guruh nomi:
+User password: - Foydalanuvçi paroli:
+Group password: - Guruh paroli:
+User name: - Foydalanuvçi nomi:
+Phase1 algorithms: - 1-bosqiç algoritmlari:
+Phase2 algorithms: - 2-bosqiç algoritmlari:
+Domain: - Domen:

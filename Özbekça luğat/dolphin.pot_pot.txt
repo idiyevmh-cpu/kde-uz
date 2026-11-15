@@ -1,0 +1,1022 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Acting as an Administrator — Be careful! - Administrator sifatida harakat qilyapsiz — Ehtiyot böling!
+Acting as Admin - Administrator sifatida
+Finish - Tugatiş
+Finish acting as an administrator - Administrator sifatida harakat qilişni tugatiş
+Act as Administrator Again - Yana administrator sifatida harakat qiliş
+Administrator authorization has expired. - Administrator avtorizatsiyasi muddati tugadi.
+Act as Administrator - Administrator sifatida harakat qiliş
+<application>Dolphin</application> requires <application>%1</application> to manage system-controlled files, but it is not installed.<nl/>Press %2 to install <application>%1</application> or %3 to cancel. - <application>Dolphin</application> tizim tomonidan boşqariladigan fayllarni boşqariş uçun <application>%1</application> dasturini talab qiladi, ammo u örnatilmagan.<nl/><application>%1</application> dasturini örnatiş uçun %2 tugmasini yoki bekor qiliş uçun %3 tugmasini bosing.
+<ol>%1</ol> - <ol>%1</ol>
+<li>%1</li> - <li>%1</li>
+<para>Make use of your administrator rights in Dolphin:<numberedlist><numbereditem>Navigate to the file or folder you want to change.</numbereditem><numbereditem>Activate the "%1" action either under <interface>Open Menu|More|View</interface> or <interface>Menu Bar|View</interface>.<nl/>Default shortcut: <shortcut>%2</shortcut></numbereditem><numbereditem>After authorization you can manage files as an administrator.</numbereditem></numberedlist></para> - <para>Dolphin dasturida administrator huquqlaringizdan foydalaning:<numberedlist><numbereditem>Özgartirmoqçi bölgan fayl yoki jildga öting.</numbereditem><numbereditem><interface>Menyuni oçiş|Köproq|Köriniş</interface> yoki <interface>Menyu paneli|Köriniş</interface> ostidagi "%1" amalini faollaştiring.<nl/>Andoza tugmalar birikmasi: <shortcut>%2</shortcut></numbereditem><numbereditem>Avtorizatsiyadan söng fayllarni administrator sifatida boşqarişingiz mumkin.</numbereditem></numberedlist></para>
+How to Administrate - Administrator huquqlaridan qanday foydalaniladi
+<para>You are about to use administrator privileges. While acting as an administrator you can change or replace any file or folder on this system. This includes items which are critical for this system to function.</para><para>You are able to <emphasis>delete every users' data</emphasis> on this computer and to <emphasis>break this installation beyond repair.</emphasis> Adding just one letter in a folder or file name or its contents can render a system <emphasis>unbootable.</emphasis></para><para>There is probably not going to be another warning even if you are about to break this system.</para><para>You might want to <emphasis>backup files and folders</emphasis> before proceeding.</para> - <para>Siz administrator imtiyozlaridan foydalaniş arafasidasiz. Administrator sifatida harakat qilganda uşbu tizimdagi istalgan fayl yoki jildni özgartirişingiz yoki almaştirişingiz mumkin. Bunga tizimning işlaşi uçun muhim bölgan elementlar ham kiradi.</para><para>Siz uşbu kompyuterdagi <emphasis>barça foydalanuvçilarning maʼlumotlarini öçirib taşlaşingiz</emphasis> va <emphasis>tizimni tiklab bölmaydigan darajada buzişingiz</emphasis> mumkin. Jild yoki fayl nomiga yoxud uning tarkibiga atigi bitta harf qöşiş ham tizimni <emphasis>yuklanmaydigan</emphasis> holatga keltirişi mumkin.</para><para>Hatto tizimni buziş arafasida bölganingizda ham ehtimol boşqa ogohlantiriş berilmaydi.</para><para>Davom etişdan oldin <emphasis>fayl va jildlarning zaxira nusxasini olişingiz</emphasis> tavsiya etiladi.</para>
+Risks of Acting as an Administrator - Administrator sifatida harakat qiliş xavflari
+I Understand and Accept These Risks - Men bu xavflarni tuşunaman va qabul qilaman
+Do not warn me about these risks again - Bu xavflar haqida menga boşqa ogohlantirilmasin
+Empty Trash - Çiqindilar qutisini böşatiş
+Configure Trash… - Çiqindilar qutisini sozlaş…
+Restore to Former Location - Avvalgi joyiga qaytariş
+Create New - Yangi yaratiş
+Open Path - Yölni oçiş
+Open Path in New Tab - Yölni yangi tabda oçiş
+Open Path in New Window - Yölni yangi oynada oçiş
+Middle Click - Örta tugmani bosiş
+Shift+Middle Click - Shift+Örta tugmani bosiş
+Go back - Orqaga qaytiş
+Return to the previously viewed folder. - Oldin körilgan jildga qaytiş.
+Go forward - Oldinga ötiş
+This undoes a <interface>Go|Back</interface> action. - Bu <interface>Ötiş|Orqaga</interface> amalini bekor qiladi.
+Confirmation - Tasdiqlaş
+&Quit %1 - %1 dasturidan &çiqiş
+C&lose Current Tab - Joriy tabni &yopiş
+You have multiple tabs open in this window, are you sure you want to quit? - Uşbu oynada bir neçta tab oçiq, haqiqatan ham çiqmoqçimisiz?
+Do not ask again - Boşqa söralmasin
+Show &Terminal Panel - &Terminal panelini körsatiş
+The program '%1' is still running in the Terminal panel. Are you sure you want to quit? - Terminal panelida '%1' dasturi hali ham işlamoqda. Haqiqatan ham çiqmoqçimisiz?
+Cannot paste: The clipboard is empty. - Qöyib bölmadi: Vaqtinçalik xotira böş.
+Cannot paste: You do not have permission to write into this folder. - Qöyib bölmadi: Sizda uşbu jildga yoziş huquqi yöq.
+Open %1 - %1 ni oçiş
+Open Preferred Search Tool - Afzal körilgan qidiruv vositasini oçiş
+Are you sure you want to open 1 terminal window? - Haqiqatan ham 1 ta terminal oynasini oçmoqçimisiz?
+Open %1 Terminal - %1 ta terminalni oçiş
+Cannot create new file: You do not have permission to create items in this folder. - Yangi fayl yaratib bölmadi: Sizda uşbu jildda elementlar yaratiş huquqi yöq.
+Cannot create new folder: You do not have permission to create items in this folder. - Yangi jild yaratib bölmadi: Sizda uşbu jildda elementlar yaratiş huquqi yöq.
+Cannot create new subfolder: Select a single folder you can write to. - Yangi qism jild yaratib bölmadi: Yoziş huquqingiz bölgan bitta jildni tanlang.
+Configure - Sozlaş
+New &Window - &Yangi oyna
+Open a new Dolphin window - Yangi Dolphin oynasini oçiş
+This opens a new window just like this one with the current location.<nl/>You can drag and drop items between windows. - Bu joriy manzilga ega xuddi şunday yangi oynani oçadi.<nl/>Elementlarni oynalar orasida sudrab taşişingiz mumkin.
+New Tab - Yangi tab
+This opens a new <emphasis>Tab</emphasis> with the current location.<nl/>Tabs allow you to quickly switch between multiple locations and views within this window. You can drag and drop items between tabs. - Bu joriy manzilga ega yangi <emphasis>Tab</emphasis>ni oçadi.<nl/>Tablar uşbu oyna içida bir neçta manzillar va körinişlar orasida tez almaşiş imkonini beradi. Elementlarni tablar orasida sudrab taşişingiz mumkin.
+Add to Places - Joylarga qöşiş
+This adds the selected folder to the Places panel. - Bu tanlangan jildni Joylar paneliga qöşadi.
+Close Tab - Tabni yopiş
+Close Tab - Tabni yopiş
+This closes the currently viewed tab. If no more tabs are left, this closes the whole window instead. - Bu joriy körilayotgan tabni yopadi. Agar boşqa tablar qolmagan bölsa, butun oynani yopadi.
+This closes this window. - Bu uşbu oynani yopadi.
+<para><emphasis>Cut, Copy</emphasis> and <emphasis>Paste</emphasis> work between many applications and are among the most used commands. That's why their <emphasis>keyboard shortcuts</emphasis> are prominently placed right next to each other on the keyboard: <shortcut>Ctrl+X</shortcut>, <shortcut>Ctrl+C</shortcut> and <shortcut>Ctrl+V</shortcut>.</para> - <para><emphasis>Kesiş, Nusxa oliş</emphasis> va <emphasis>Qöyiş</emphasis> köplab dasturlar orasida işlaydi va eng köp işlatiladigan buyruqlardan hisoblanadi. Şuning uçun ularning <emphasis>klaviatura tugmalar birikmalari</emphasis> klaviaturada yonma-yon joylaşgan: <shortcut>Ctrl+X</shortcut>, <shortcut>Ctrl+C</shortcut> va <shortcut>Ctrl+V</shortcut>.</para>
+Cut… - Kesiş…
+This copies the items in your current selection to the <emphasis>clipboard</emphasis>.<nl/>Use the <emphasis>Paste</emphasis> action afterwards to copy them from the clipboard to a new location. The items will be removed from their initial location. - Bu joriy tanlovdagi elementlarni <emphasis>vaqtinçalik xotiraga</emphasis> nusxalaydi.<nl/>Ularni vaqtinçalik xotiradan yangi joyga nusxalaş uçun keyin <emphasis>Qöyiş</emphasis> amalidan foydalaning. Elementlar dastlabki joyidan olib taşlanadi.
+Copy… - Nusxa oliş…
+This copies the items in your current selection to the <emphasis>clipboard</emphasis>.<nl/>Use the <emphasis>Paste</emphasis> action afterwards to copy them from the clipboard to a new location. - Bu joriy tanlovdagi elementlarni <emphasis>vaqtinçalik xotiraga</emphasis> nusxalaydi.<nl/>Ularni vaqtinçalik xotiradan yangi joyga nusxalaş uçun keyin <emphasis>Qöyiş</emphasis> amalidan foydalaning.
+Paste - Qöyiş
+This copies the items from your <emphasis>clipboard</emphasis> to the currently viewed folder.<nl/>If the items were added to the clipboard by the <emphasis>Cut</emphasis> action they are removed from their old location. - Bu elementlarni <emphasis>vaqtinçalik xotiradan</emphasis> joriy körilayotgan jildga nusxalaydi.<nl/>Agar elementlar vaqtinçalik xotiraga <emphasis>Kesiş</emphasis> amali orqali qöşilgan bölsa, ular eski joyidan olib taşlanadi.
+Copy to Other View - Boşqa körinişga nusxalaş
+Copy to Other View… - Boşqa körinişga nusxalaş…
+This copies the selected items from the view in focus to the other view. (Only available while in Split View mode.) - Bu tanlangan elementlarni fokusdagi körinişdan boşqa körinişga nusxalaydi. (Faqat Oynani böliş rejimida mavjud.)
+Copy to Other View - Boşqa körinişga nusxalaş
+Move to Other View - Boşqa körinişga köçiriş
+Move to Other View… - Boşqa körinişga köçiriş…
+This moves the selected items from the view in focus to the other view. (Only available while in Split View mode.) - Bu tanlangan elementlarni fokusdagi körinişdan boşqa körinişga köçiradi. (Faqat Oynani böliş rejimida mavjud.)
+Move to Other View - Boşqa körinişga köçiriş
+Focus Other View - Boşqa körinişga fokus beriş
+Move keyboard focus to the inactive view. - Klaviatura fokusini faol bölmagan körinişga ötkaziş.
+Filter… - Filtrlaş…
+Show Filter Bar - Filtr panelini körsatiş
+This opens the <emphasis>Filter Bar</emphasis> at the bottom of the window.<nl/> There you can enter text to filter the files and folders currently displayed. Only those that contain the text in their name will be kept in view. - Bu oynaning pastki qismida <emphasis>Filtr panelini</emphasis> oçadi.<nl/> U yerda hozir körsatilayotgan fayl va jildlarni filtrlaş uçun matn kiritişingiz mumkin. Faqat nomida uşbu matn mavjud bölganlari körinişda qoladi.
+Toggle Filter Bar - Filtr panelini yoqiş/öçiriş
+Filter - Filtr
+Search… - Qidiriş…
+Search for files and folders - Fayl va jildlarni qidiriş
+<para>This helps you find files and folders by opening a <emphasis>search bar</emphasis>. There you can enter search terms and specify settings to find the items you are looking for.</para> - <para>Bu <emphasis>qidiruv panelini</emphasis> oçiş orqali fayl va jildlarni topişga yordam beradi. U yerda qidiruv sözlarini kiritişingiz va qidirayotgan elementlaringizni topiş uçun sozlamalarni belgilaşingiz mumkin.</para>
+Toggle Search Bar - Qidiruv panelini yoqiş/öçiriş
+Search - Qidiriş
+Select Files and Folders - Fayl va jildlarni tanlaş
+Select - Tanlaş
+<para>This application only knows which files or folders should be acted on if they are <emphasis>selected</emphasis> first. Press this to toggle a <emphasis>Selection Mode</emphasis> which makes selecting and deselecting as easy as pressing an item once.</para><para>While in this mode, a quick access bar at the bottom shows available actions for the currently selected items.</para> - <para>Uşbu dastur qaysi fayl yoki jildlar ustida amal bajarilişi kerakligini faqat ular avval <emphasis>tanlangan</emphasis> bölsagina biladi. Elementni bir marta bosiş orqali tanlaş va tanlovni bekor qilişni osonlaştiruvçi <emphasis>Tanlaş rejimini</emphasis> yoqiş yoki öçiriş uçun buni bosing.</para><para>Uşbu rejimda pastki qismdagi tezkor kiriş paneli joriy tanlangan elementlar uçun mavjud amallarni körsatadi.</para>
+This selects all files and folders in the current location. - Bu joriy manzildagi barça fayl va jildlarni tanlaydi.
+Invert Selection - Tanlovni teskari qiliş
+This selects all items that you have currently <emphasis>not</emphasis> selected instead. - Bu hozirda siz <emphasis>tanlamagan</emphasis> barça elementlarni tanlaydi.
+<para>This presents a second view side-by-side with the current view, so you can see the contents of two folders at once and easily move items between them.</para><para>The view that is not "in focus" will be dimmed. </para>Click this button again to close one of the views. - <para>Bu joriy köriniş bilan yonma-yon ikkinçi körinişni taqdim etadi, şuning uçun siz bir vaqtning özida ikkita jildning tarkibini körişingiz va ular orasida elementlarni osonlik bilan köçirişingiz mumkin.</para><para>"Fokusda" bölmagan köriniş xiralaştiriladi. </para>Körinişlardan birini yopiş uçun uşbu tugmani yana bosing.
+Split View To Tabs - Bölingan körinişni tablarga ötkaziş
+If the view has been split, this will move both views to tabs and close split view. - Agar köriniş bölingan bölsa, bu ikkala körinişni ham tablarga köçiradi va bölingan körinişni yopadi.
+If the view has been split, this will pop the view in focus out into a new window. - Agar köriniş bölingan bölsa, bu fokusdagi körinişni yangi oynaga çiqaradi.
+Stash - Vaqtinça joylaş (Stash)
+Opens the stash virtual directory in a split window - Vaqtinça joylaş (stash) virtual jildini bölingan oynada oçadi
+Refresh view - Körinişni yangilaş
+<para>This refreshes the folder view.</para><para>If the contents of this folder have changed, refreshing will re-scan this folder and show you a newly-updated view of the files and folders contained here.</para><para>If the view is split, this refreshes the one that is currently in focus.</para> - <para>Bu jild körinişini yangilaydi.</para><para>Agar uşbu jild tarkibi özgargan bölsa, yangilaş uşbu jildni qayta tekşirib çiqadi va bu yerdagi fayl hamda jildlarning yangilangan körinişini körsatadi.</para><para>Agar köriniş bölingan bölsa, bu hozirda fokusda bölganini yangilaydi.</para>
+Stop - Töxtatiş
+Stop loading - Yuklaşni töxtatiş
+This stops the loading of the contents of the current folder. - Bu joriy jild tarkibini yuklaşni töxtatadi.
+Editable Location - Tahrirlanadigan manzil
+This toggles the <emphasis>Location Bar</emphasis> to be editable so you can directly enter a location you want to go to.<nl/>You can also switch to editing by clicking to the right of the location and switch back by confirming the edited location. - Bu özmoqçi bölgan manzilingizni bevosita kiritişingiz uçun <emphasis>Manzil panelini</emphasis> tahrirlanadigan holatga ötkazadi.<nl/>Şuningdek, manzilning öng tomoniga bosiş orqali tahrirlaşga ötişingiz va tahrirlangan manzilni tasdiqlaş orqali orqaga qaytişingiz mumkin.
+Replace Location - Manzilni almaştiriş
+This switches to editing the location and selects it so you can quickly enter a different location. - Bu manzilni tahrirlaşga ötadi va boşqa manzilni tezda kiritişingiz uçun uni tanlaydi.
+Undo close tab - Yopilgan tabni tiklaş
+This returns you to the previously closed tab. - Bu sizni oldin yopilgan tabga qaytaradi.
+This undoes the last change you made to files or folders.<nl/>Such changes include <interface>creating</interface>, <interface>renaming</interface> and <interface>moving</interface> them to a different location or to the <filename>Trash</filename>. <nl/>Any changes that cannot be undone will ask for your confirmation beforehand. - Bu fayl yoki jildlarga kiritgan oxirgi özgartirişingizni bekor qiladi.<nl/>Bunday özgartirişlarga ularni <interface>yaratiş</interface>, <interface>nomini özgartiriş</interface> va boşqa joyga yoki <filename>Çiqindilar qutisiga</filename> <interface>köçiriş</interface> kiradi. <nl/>Bekor qilib bölmaydigan har qanday özgartirişlar oldindan tasdiqlaşingizni söraydi.
+This redoes the last change you undid.<nl/>Such changes include <interface>creating</interface>, <interface>renaming</interface> and <interface>moving</interface> files or folders to a different location or to the <filename>Trash</filename>.<nl/>Any changes that cannot be undone will ask for your confirmation beforehand. - Bu siz bekor qilgan oxirgi özgartirişni qayta bajaradi.<nl/>Bunday özgartirişlarga fayl yoki jildlarni <interface>yaratiş</interface>, <interface>nomini özgartiriş</interface> va boşqa joyga yoki <filename>Çiqindilar qutisiga</filename> <interface>köçiriş</interface> kiradi.<nl/>Bekor qilib bölmaydigan har qanday özgartirişlar oldindan tasdiqlaşingizni söraydi.
+Go to your <filename>Home</filename> folder.<nl/>Every user account has their own <filename>Home</filename> that contains their personal files, as well as hidden folders for their applications' data and configuration files. - <filename>Uy</filename> jildingizga ötiş.<nl/>Har bir foydalanuvçi hisobi şaxsiy fayllari hamda dasturlarining maʼlumotlari va sozlama fayllari uçun yaşirin jildlarni öz içiga olgan öz <filename>Uy</filename> jildiga ega.
+Compare Files - Fayllarni soliştiriş
+Manage Disk Space Usage - Disk maydonidan foydalanişni boşqariş
+<para>This opens a preferred search tool for the viewed location.</para><para>Use <emphasis>More Search Tools</emphasis> menu to configure it.</para> - <para>Bu körilayotgan manzil uçun afzal körilgan qidiruv vositasini oçadi.</para><para>Uni sozlaş uçun <emphasis>Boşqa qidiruv vositalari</emphasis> menyusidan foydalaning.</para>
+Open Terminal - Terminalni oçiş
+<para>This opens a <emphasis>terminal</emphasis> application for the viewed location.</para><para>To learn more about terminals use the help features in the terminal application.</para> - <para>Bu körilayotgan manzil uçun <emphasis>terminal</emphasis> dasturini oçadi.</para><para>Terminallar haqida köproq maʼlumot oliş uçun terminal dasturidagi yordam imkoniyatlaridan foydalaning.</para>
+Open Terminal Here - Terminalni şu yerda oçiş
+<para>This opens <emphasis>terminal</emphasis> applications for the selected items' locations.</para><para>To learn more about terminals use the help features in the terminal application.</para> - <para>Bu tanlangan elementlarning manzillari uçun <emphasis>terminal</emphasis> dasturlarini oçadi.</para><para>Terminallar haqida köproq maʼlumot oliş uçun terminal dasturidagi yordam imkoniyatlaridan foydalaning.</para>
+&Bookmarks - &Xatçöplar
+<para>This switches between having a <emphasis>Menubar</emphasis> and having an <interface>%1</interface> button. Both contain mostly the same actions and configuration options.</para><para>The Menubar takes up more space but allows for fast and organized access to all actions an application has to offer.</para><para>The %1 button is simpler and small which makes triggering advanced actions more time consuming.</para> - <para>Bu <emphasis>Menyu paneli</emphasis> va <interface>%1</interface> tugmasi orasida almaşadi. Ikkalasi ham deyarli bir xil amallar va sozlaş parametrlarini öz içiga oladi.</para><para>Menyu paneli köproq joy egallaydi, ammo dastur taqdim etadigan barça amallarga tez va tartibli kiriş imkonini beradi.</para><para>%1 tugmasi soddaroq va kiçikroq bölib, bu qöşimça amallarni işga tuşirişga köproq vaqt ketişiga olib keladi.</para>
+Go to Tab %1 - %1-tabga ötiş
+Last Tab - Oxirgi tab
+Go to Last Tab - Oxirgi tabga ötiş
+Next Tab - Keyingi tab
+Go to Next Tab - Keyingi tabga ötiş
+Previous Tab - Oldingi tab
+Go to Previous Tab - Oldingi tabga ötiş
+Show Target - Möljalni körsatiş
+Open in New Tab - Yangi tabda oçiş
+Open in New Tabs - Yangi tablarda oçiş
+Open in New Window - Yangi oynada oçiş
+Open in Split View - Bölingan körinişda oçiş
+&Window Color Scheme - &Oyna rang sxemasi
+Unlock Panels - Panellarni qulfdan çiqariş
+Lock Panels - Panellarni qulflaş
+This switches between having panels <emphasis>locked</emphasis> or <emphasis>unlocked</emphasis>.<nl/>Unlocked panels can be dragged to the other side of the window and have a close button.<nl/>Locked panels are embedded more cleanly. - Bu panellarni <emphasis>qulflangan</emphasis> yoki <emphasis>qulfdan çiqarilgan</emphasis> holatga ötkazadi.<nl/>Qulfdan çiqarilgan panellarni oynaning boşqa tomoniga sudrab ötkaziş mumkin va ularda yopiş tugmasi böladi.<nl/>Qulflangan panellar esa tartibliroq joylaştiriladi.
+Information - Maʼlumot
+<para>To show or hide panels like this go to <interface>Menu|Panels</interface> or <interface>View|Panels</interface>.</para> - <para>Bunday panellarni körsatiş yoki yaşiriş uçun <interface>Menyu|Panellar</interface> yoki <interface>Köriniş|Panellar</interface> bölimiga öting.</para>
+<para> This toggles the <emphasis>information</emphasis> panel at the right side of the window.</para><para>The panel provides in-depth information about the items your mouse is hovering over or about the selected items. Otherwise it informs you about the currently viewed folder.<nl/>For single items a preview of their contents is provided.</para> - <para> Bu oynaning öng tomonidagi <emphasis>maʼlumot</emphasis> panelini yoqadi yoki öçiradi.</para><para>Panel siçqonça kursori ustiga olib borilgan elementlar yoki tanlangan elementlar haqida batafsil maʼlumot beradi. Aks holda u joriy körilayotgan jild haqida maʼlumot beradi.<nl/>Yagona elementlar uçun ularning tarkibini oldindan köriş imkoniyati taqdim etiladi.</para>
+<para>This panel provides in-depth information about the items your mouse is hovering over or about the selected items. Otherwise it informs you about the currently viewed folder.<nl/>For single items a preview of their contents is provided.</para><para>You can configure which and how details are given here by right-clicking.</para> - <para>Uşbu panel siçqonça kursori ustiga olib borilgan elementlar yoki tanlangan elementlar haqida batafsil maʼlumot beradi. Aks holda u joriy körilayotgan jild haqida maʼlumot beradi.<nl/>Yagona elementlar uçun ularning tarkibini oldindan köriş imkoniyati taqdim etiladi.</para><para>Bu yerda qaysi tafsilotlar va qanday körsatilişini siçqonçaning öng tugmasini bosiş orqali sozlaşingiz mumkin.</para>
+Folders - Jildlar
+This toggles the <emphasis>folders</emphasis> panel at the left side of the window.<nl/><nl/>It shows the folders of the <emphasis>file system</emphasis> in a <emphasis>tree view</emphasis>. - Bu oynaning çap tomonidagi <emphasis>jildlar</emphasis> panelini yoqadi yoki öçiradi.<nl/><nl/>U <emphasis>fayl tizimi</emphasis> jildlarini <emphasis>daraxtsimon körinişda</emphasis> körsatadi.
+<para>This panel shows the folders of the <emphasis>file system</emphasis> in a <emphasis>tree view</emphasis>.</para><para>Click a folder to go there. Click the arrow to the left of a folder to see its subfolders. This allows quick switching between any folders.</para> - <para>Uşbu panel <emphasis>fayl tizimi</emphasis> jildlarini <emphasis>daraxtsimon körinişda</emphasis> körsatadi.</para><para>Jildga ötiş uçun uning ustiga bosing. Jildning qism jildlarini köriş uçun uning çap tomonidagi körsatkiçni bosing. Bu istalgan jildlar orasida tez almaşiş imkonini beradi.</para>
+Terminal - Terminal
+<para>This toggles the <emphasis>terminal</emphasis> panel at the bottom of the window.<nl/>The location in the terminal will always match the folder view so you can navigate using either.</para><para>The terminal panel is not needed for basic computer usage but can be useful for advanced tasks. To learn more about terminals use the help features in a standalone terminal application like Konsole.</para> - <para>Bu oynaning pastki qismidagi <emphasis>terminal</emphasis> panelini yoqadi yoki öçiradi.<nl/>Terminaldagi manzil har doim jild körinişiga mos keladi, şuning uçun har ikkalasi yordamida harakatlanişingiz mumkin.</para><para>Terminal paneli oddiy kompyuterdan foydalaniş uçun zarur emas, ammo murakkab vazifalar uçun foydali bölişi mumkin. Terminallar haqida köproq maʼlumot oliş uçun Konsole kabi alohida terminal dasturidagi yordam imkoniyatlaridan foydalaning.</para>
+<para>This is the <emphasis>terminal</emphasis> panel. It behaves like a normal terminal but will match the location of the folder view so you can navigate using either.</para><para>The terminal panel is not needed for basic computer usage but can be useful for advanced tasks. To learn more about terminals use the help features in a standalone terminal application like Konsole.</para> - <para>Bu <emphasis>terminal</emphasis> paneli. U oddiy terminal kabi işlaydi, ammo jild körinişi manziliga mos keladi, şuning uçun har ikkalasi yordamida harakatlanişingiz mumkin.</para><para>Terminal paneli oddiy kompyuterdan foydalaniş uçun zarur emas, ammo murakkab vazifalar uçun foydali bölişi mumkin. Terminallar haqida köproq maʼlumot oliş uçun Konsole kabi alohida terminal dasturidagi yordam imkoniyatlaridan foydalaning.</para>
+Focus Terminal Panel - Terminal paneliga fokus beriş
+Move keyboard focus to and from the Terminal panel. - Klaviatura fokusini Terminal paneliga va undan boşqa joyga ötkaziş.
+Follow Directory Switch - Jild almaşişini kuzatiş
+Determines if current working directory must be kept in sync with terminal whenever directory is changed. - Jild har safar özgarganda joriy işçi jild terminal bilan sinxronlaştirilişi kerakligini belgilaydi.
+Places - Joylar
+Show Hidden Places - Yaşirin joylarni körsatiş
+This displays all places in the places panel that have been hidden. They will appear semi-transparent and allow you to uncheck their "Hide" property. - Bu joylar panelidagi yaşirilgan barça joylarni körsatadi. Ular yarim şaffof körinadi va ularning "Yaşiriş" xossasidan belgini olib taşlaş imkonini beradi.
+<para>This toggles the <emphasis>places</emphasis> panel at the left side of the window.</para><para>It allows you to go to locations you have bookmarked and to access disk or media attached to the computer or to the network. It also contains sections to find recently saved files or files of a certain type.</para> - <para>Bu oynaning çap tomonidagi <emphasis>joylar</emphasis> panelini yoqadi yoki öçiradi.</para><para>U xatçöpga qöşilgan manzillarga ötiş hamda kompyuterga yoki tarmoqqa ulangan disk va axborot taşuvçilarga kiriş imkonini beradi. Şuningdek, u yaqinda saqlangan fayllarni yoki maʼlum turdagi fayllarni topiş bölimlarini öz içiga oladi.</para>
+<para>This is the <emphasis>Places</emphasis> panel. It allows you to go to locations you have bookmarked and to access disk or media attached to the computer or to the network. It also contains sections to find recently saved files or files of a certain type.</para><para>Click on an entry to go there. Click with the right mouse button instead to open any entry in a new tab or new window.</para><para>New entries can be added by dragging folders onto this panel. Right-click any section or entry to hide it. Right-click an empty space on this panel and select <interface>Show Hidden Places</interface> to display it again.</para> - <para>Bu <emphasis>Joylar</emphasis> paneli. U xatçöpga qöşilgan manzillarga ötiş hamda kompyuterga yoki tarmoqqa ulangan disk va axborot taşuvçilarga kiriş imkonini beradi. Şuningdek, u yaqinda saqlangan fayllarni yoki maʼlum turdagi fayllarni topiş bölimlarini öz içiga oladi.</para><para>U yerga ötiş uçun yozuv ustiga bosing. Istalgan yozuvni yangi tabda yoki yangi oynada oçiş uçun esa siçqonçaning öng tugmasi bilan bosing.</para><para>Jildlarni uşbu panelga sudrab taşlaş orqali yangi yozuvlarni qöşiş mumkin. Istalgan bölim yoki yozuvni yaşiriş uçun ustiga öng tugmani bosing. Uni qayta körsatiş uçun uşbu paneldagi böş joyga öng tugmani bosing va <interface>Yaşirin joylarni körsatiş</interface> bandini tanlang.</para>
+Focus Places Panel - Joylar paneliga fokus beriş
+Move keyboard focus to and from the Places panel. - Klaviatura fokusini Joylar paneliga va undan boşqa joyga ötkaziş.
+Show Panels - Panellarni körsatiş
+Cannot rename: You do not have permission to rename items in this folder. - Nomini özgartirib bölmadi: Sizda uşbu jilddagi elementlarning nomini özgartiriş huquqi yöq.
+Cannot delete: You do not have permission to remove items from this folder. - Öçirib bölmadi: Sizda uşbu jilddan elementlarni olib taşlaş huquqi yöq.
+Cannot cut: You do not have permission to move items from this folder. - Kesib bölmadi: Sizda uşbu jilddan elementlarni köçiriş huquqi yöq.
+Cannot duplicate here: You do not have permission to create items in this folder. - Bu yerda nusxa yaratib bölmadi: Sizda uşbu jildda elementlar yaratiş huquqi yöq.
+Cannot copy to other view: No files selected. - Boşqa körinişga nusxalab bölmadi: Heç qanday fayl tanlanmagan.
+Cannot move to other view: No files selected. - Boşqa körinişga köçirib bölmadi: Heç qanday fayl tanlanmagan.
+Cannot copy to other view: The other view already contains these items. - Boşqa körinişga nusxalab bölmadi: Boşqa körinişda uşbu elementlar allaqaçon mavjud.
+Cannot move to other view: The other view already contains these items. - Boşqa körinişga köçirib bölmadi: Boşqa körinişda uşbu elementlar allaqaçon mavjud.
+Cannot copy to other view: You do not have permission to write into the destination folder. - Boşqa körinişga nusxalab bölmadi: Sizda maqsadli jildga yoziş huquqi yöq.
+Cannot move to other view: You do not have permission to write into the destination folder. - Boşqa körinişga köçirib bölmadi: Sizda maqsadli jildga yoziş huquqi yöq.
+Cannot move to other view: You do not have permission to move items from this folder. - Boşqa körinişga köçirib bölmadi: Sizda uşbu jilddan elementlarni köçiriş huquqi yöq.
+<para>Go to the folder that contains the currently viewed one.</para><para>All files and folders are organized in a hierarchical <emphasis>file system</emphasis>. At the top of this hierarchy is a directory that contains all data connected to this computer—the <emphasis>root directory</emphasis>.</para> - <para>Joriy körilayotgan jildni öz içiga olgan jildga ötiş.</para><para>Barça fayl va jildlar iyerarxik <emphasis>fayl tizimida</emphasis> taşkil etilgan. Uşbu iyerarxiyaning eng yuqori qismida uşbu kompyuterga ulangan barça maʼlumotlarni öz içiga oluvçi katalog — <emphasis>ildiz katalogi (root)</emphasis> joylaşgan.</para>
+Close - Yopiş
+Split View: Close Left Pane - Bölingan köriniş: Çap panelni yopiş
+Close Left View - Çap körinişni yopiş
+Close Left View - Çap körinişni yopiş
+Pop out Left View - Çap körinişni yangi oynaga çiqariş
+Move left split view to a new window - Çap bölingan körinişni yangi oynaga köçiriş
+Close - Yopiş
+Split View: Close Right Pane - Bölingan köriniş: Öng panelni yopiş
+Close Right View - Öng körinişni yopiş
+Close Right View - Öng körinişni yopiş
+Pop out Right View - Öng körinişni yangi oynaga çiqariş
+Move right split view to a new window - Öng bölingan körinişni yangi oynaga köçiriş
+Split - Böliş
+Split View - Oynani böliş
+Split view - Bölingan köriniş
+Pop out - Yangi oynaga çiqariş
+<para>This is the <emphasis>Menubar</emphasis>. It provides access to commands and configuration options. Left-click on any of the menus on this bar to see its contents.</para><para>The Menubar can be hidden by unchecking <interface>Settings|Show Menubar</interface>. Then most of its contents become available through a <interface>Menu</interface> button on the <emphasis>Toolbar</emphasis>.</para> - <para>Bu <emphasis>Menyu paneli</emphasis>. U buyruqlar va sozlaş parametrlariga kiriş imkonini beradi. Uşbu paneldagi istalgan menyuning tarkibini köriş uçun uning ustiga siçqonçaning çap tugmasini bosing.</para><para>Menyu panelini <interface>Sozlamalar|Menyu panelini körsatiş</interface> bandidan belgini olib taşlaş orqali yaşiriş mumkin. Şunda uning tarkibining katta qismi <emphasis>Asboblar panelidagi</emphasis> <interface>Menyu</interface> tugmasi orqali mavjud böladi.</para>
+<para>This is the <emphasis>Toolbar</emphasis>. It allows quick access to frequently used actions.</para><para>It is highly customizable. All items you see in the <interface>Menu</interface> or in the <interface>Menubar</interface> can be placed on the Toolbar. Just right-click on it and select <interface>Configure Toolbars…</interface> or find this action within the <interface>menu</interface>.</para><para>The location of the bar and the style of its buttons can also be changed in the right-click menu. Right-click a button if you want to show or hide its text.</para> - <para>Bu <emphasis>Asboblar paneli</emphasis>. U tez-tez işlatiladigan amallarga tezkor kiriş imkonini beradi.</para><para>Uni keng miqyosda moslaştiriş mumkin. <interface>Menyu</interface> yoki <interface>Menyu panelida</interface> körgan barça elementlaringizni Asboblar paneliga joylaştiriş mumkin. Buning uçun uning ustiga siçqonçaning öng tugmasini bosib, <interface>Asboblar panelini sozlaş…</interface> bandini tanlang yoki uşbu amalni <interface>menyu</interface> içidan toping.</para><para>Panelning joylaşuvi va tugmalarining uslubini ham öng tugma menyusida özgartiriş mumkin. Agar tugma matnini körsatiş yoki yaşirişni xohlasangiz, tugma ustiga öng tugmani bosing.</para>
+<para>Here you can see the <emphasis>folders</emphasis> and <emphasis>files</emphasis> that are at the location described in the <interface>Location Bar</interface> above. This area is the central part of this application where you navigate to the files you want to use.</para><para>For an elaborate and general introduction to this application <link url='https://userbase.kde.org/Dolphin/File_Management#Introduction_to_Dolphin'>click here</link>. This will open an introductory article from the <emphasis>KDE UserBase Wiki</emphasis>.</para><para>For brief explanations of all the features of this <emphasis>view</emphasis> <link url='help:/dolphin/dolphin-view.html'>click here</link> instead. This will open a page from the <emphasis>Handbook</emphasis> that covers the basics.</para> - <para>Bu yerda yuqoridagi <interface>Manzil panelida</interface> körsatilgan manzildagi <emphasis>jildlar</emphasis> va <emphasis>fayllarni</emphasis> körişingiz mumkin. Bu maydon siz foydalanmoqçi bölgan fayllarga ötadigan dasturning markaziy qismidir.</para><para>Uşbu dastur bilan batafsil va umumiy tanişiş uçun <link url='https://userbase.kde.org/Dolphin/File_Management#Introduction_to_Dolphin'>bu yerga bosing</link>. Bu <emphasis>KDE UserBase Wiki</emphasis>dan kiriş maqolasini oçadi.</para><para>Uşbu <emphasis>körinişning</emphasis> barça xususiyatlarining qisqaça tuşuntirişlari uçun esa <link url='help:/dolphin/dolphin-view.html'>bu yerga bosing</link>. Bu <emphasis>Qöllanmadan</emphasis> asosiy maʼlumotlarni qamrab olgan sahifani oçadi.</para>
+<para>This opens a window that lists the <emphasis>keyboard shortcuts</emphasis>.<nl/>There you can set up key combinations to trigger an action when they are pressed simultaneously. All commands in this application can be triggered this way.</para> - <para>Bu <emphasis>klaviatura tugmalar birikmalari</emphasis> röyxatini körsatuvçi oynani oçadi.<nl/>U yerda bir vaqtning özida bosilganda amalni işga tuşiradigan tugmalar birikmalarini sozlaşingiz mumkin. Uşbu dasturdagi barça buyruqlarni şu tarzda işga tuşiriş mumkin.</para>
+<para>This opens a window in which you can change which buttons appear on the <emphasis>Toolbar</emphasis>.</para><para>All items you see in the <interface>Menu</interface> can also be placed on the Toolbar.</para> - <para>Bu <emphasis>Asboblar panelida</emphasis> qaysi tugmalar paydo bölişini özgartirişingiz mumkin bölgan oynani oçadi.</para><para><interface>Menyuda</interface> körgan barça elementlaringizni Asboblar paneliga ham joylaştiriş mumkin.</para>
+This opens a window where you can change a multitude of settings for this application. For an explanation of the various settings go to the chapter <emphasis>Configuring Dolphin</emphasis> in <interface>Help|Dolphin Handbook</interface>. - Bu uşbu dastur uçun köplab sozlamalarni özgartirişingiz mumkin bölgan oynani oçadi. Turli sozlamalarning tuşuntirişi uçun <interface>Yordam|Dolphin qöllanmasi</interface>dagi <emphasis>Dolphin dasturini sozlaş</emphasis> bobiga öting.
+<para>This opens the Handbook for this application. It provides explanations for every part of <emphasis>Dolphin</emphasis>.</para><para>If you want more elaborate introductions to the different features of <emphasis>Dolphin</emphasis> <link url='https://userbase.kde.org/Dolphin/File_Management'>click here</link>. It will open the dedicated page in the KDE UserBase Wiki.</para> - <para>Bu uşbu dastur uçun Qöllanmani oçadi. U <emphasis>Dolphin</emphasis>ning har bir qismi uçun tuşuntirişlarni taqdim etadi.</para><para>Agar <emphasis>Dolphin</emphasis>ning turli imkoniyatlari bilan batafsilroq tanişmoqçi bölsangiz, <link url='https://userbase.kde.org/Dolphin/File_Management'>bu yerga bosing</link>. U KDE UserBase Wiki-dagi maxsus sahifani oçadi.</para>
+<para>This is the button that invokes the help feature you are using right now! Click it, then click any component of this application to ask "What's this?" about it. The mouse cursor will change appearance if no help is available for a spot.</para><para>There are two other ways to get help: The <link url='help:/dolphin/index.html'>Dolphin Handbook</link> and the <link url='https://userbase.kde.org/Dolphin/File_Management'>KDE UserBase Wiki</link>.</para><para>The "What's this?" help is missing in most other windows so don't get too used to this.</para> - <para>Bu siz hozir foydalanayotgan yordam xususiyatini çaqiradigan tugma! Uni bosing, söngra uşbu dasturning istalgan qismi haqida "Bu nima?" deb söraş uçun uning ustiga bosing. Agar biror joy uçun yordam mavjud bölmasa, siçqonça kursori öz körinişini özgartiradi.</para><para>Yordam olişning yana ikkita usuli mavjud: <link url='help:/dolphin/index.html'>Dolphin qöllanmasi</link> va <link url='https://userbase.kde.org/Dolphin/File_Management'>KDE UserBase Wiki</link>.</para><para>"Bu nima?" yordami aksariyat boşqa oynalarda mavjud emas, şuning uçun bunga juda örganib qolmang.</para>
+<para>This opens a window that will guide you through reporting errors or flaws in this application or in other KDE software.</para><para>High-quality bug reports are much appreciated. To learn how to make your bug report as effective as possible <link url='https://community.kde.org/Get_Involved/Bug_Reporting'>click here</link>.</para> - <para>Bu uşbu dasturdagi yoki boşqa KDE dasturiy taʼminotidagi xatolar va kamçiliklar haqida xabar beriş böyiça sizga yöriqnoma körsatadigan oynani oçadi.</para><para>Yuqori sifatli xato hisobotlari juda qadrlanadi. Xato haqidagi hisobotingizni qanday qilib imkon qadar samarali qilişni örganiş uçun <link url='https://community.kde.org/Get_Involved/Bug_Reporting'>bu yerga bosing</link>.</para>
+<para>This opens a <emphasis>web page</emphasis> where you can donate to support the continued work on this application and many other projects by the <emphasis>KDE</emphasis> community.</para><para>Donating is the easiest and fastest way to efficiently support KDE and its projects. KDE projects are available for free therefore your donation is needed to cover things that require money like servers, contributor meetings, etc.</para><para><emphasis>KDE e.V.</emphasis> is the non-profit organization behind the KDE community.</para> - <para>Bu uşbu dastur va <emphasis>KDE</emphasis> hamjamiyatining boşqa köplab loyihalari ustida davom etayotgan işlarni qöllab-quvvatlaş uçun xayriya qilişingiz mumkin bölgan <emphasis>veb-sahifani</emphasis> oçadi.</para><para>Xayriya qiliş KDE va uning loyihalarini samarali qöllab-quvvatlaşning eng oson va tez usulidir. KDE loyihalari bepul taqdim etiladi, şuning uçun xayriyangiz serverlar, iştirokçilar uçraşuvlari va hokazolar kabi mablağ talab qiladigan narsalarni qoplaş uçun zarur.</para><para><emphasis>KDE e.V.</emphasis> — KDE hamjamiyati ortidagi notijorat taşkilotdir.</para>
+With this you can change the language this application uses.<nl/>You can even set secondary languages which will be used if texts are not available in your preferred language. - Buning yordamida uşbu dastur işlatadigan tilni özgartirişingiz mumkin.<nl/>Hatto afzal körgan tilingizda matnlar mavjud bölmaganda işlatiladigan ikkilamçi tillarni ham belgilaşingiz mumkin.
+This opens a window that informs you about the version, license, used libraries and maintainers of this application. - Bu sizga uşbu dasturning versiyasi, litsenziyasi, işlatilgan kutubxonalari va taʼminotçilari haqida maʼlumot beruvçi oynani oçadi.
+This opens a window with information about <emphasis>KDE</emphasis>. The KDE community are the people behind this free software.<nl/>If you like using this application but don't know about KDE or want to see a cute dragon have a look! - Bu <emphasis>KDE</emphasis> haqida maʼlumotga ega oynani oçadi. KDE hamjamiyati — uşbu erkin dasturiy taʼminot ortida turgan insonlardir.<nl/>Agar uşbu dasturdan foydalaniş sizga yoqsa, lekin KDE haqida bilmasangiz yoki yoqimtoy ajdarhoni körişni xohlasangiz, bir nazar taşlang!
+Defocus Terminal Panel - Terminal panelidan fokusni oliş
+Defocus Terminal Panel - Terminal panelidan fokusni oliş
+Defocus Places Panel - Joylar panelidan fokusni oliş
+Enter server URL (e.g. smb://[ip address]) - Server URL manzilini kiriting (masalan, smb://[ip manzil])
+Empty Trash - Çiqindilar qutisini böşatiş
+Empties Trash to create free space - Böş joy yaratiş uçun Çiqindilar qutisini böşatadi
+Add Network Folder - Tarmoq jildini qöşiş
+Open KDE Connect - KDE Connect-ni oçiş
+Location Bar - Manzil paneli
+Could not find package %1. - %1 paketi topilmadi.
+Installation exited without reporting success. (%1) - Örnatiş muvaffaqiyatli yakunlangani haqida xabar bermasdan çiqdi. (%1)
+Installing <application>%1</application> failed: %2 (%3)<nl/>Please try installing <application>%1</application> manually instead. - <application>%1</application> dasturini örnatiş muvaffaqiyatsiz tugadi: %2 (%3)<nl/>Buning örniga <application>%1</application> dasturini qölda örnatişga urinib köring.
+&Edit File Type… - Fayl turini &tahrirlaş…
+Select Items Matching… - Mos keluvçi elementlarni tanlaş…
+Unselect Items Matching… - Mos keluvçi elementlardan tanlovni olib taşlaş…
+Unselect All - Barçasidan tanlovni olib taşlaş
+App&lications - &Dasturlar
+&Network Folders - &Tarmoq jildlari
+Trash - Çiqindilar qutisi
+Autostart - Avto-işga tuşiriş
+Find File… - Faylni topiş…
+Open &Terminal - &Terminalni oçiş
+Select - Tanlaş
+Select all items matching this pattern: - Uşbu namunaga mos keluvçi barça elementlarni tanlaş:
+Unselect - Tanlovni olib taşlaş
+Unselect all items matching this pattern: - Uşbu namunaga mos keluvçi barça elementlardan tanlovni olib taşlaş:
+&Edit - &Tahrirlaş
+Selection - Tanlov
+&View - &Köriniş
+&Go - Ö&tiş
+Tools - Asboblar
+Dolphin Toolbar - Dolphin asboblar paneli
+Recently Closed Tabs - Yaqinda yopilgan tablar
+Empty Recently Closed Tabs - Yaqinda yopilgan tablar röyxatini böşatiş
+New Tab - Yangi tab
+Detach Tab - Tabni ajratiş
+Unpin Tab - Tabni qadoqdan çiqariş
+Pin Tab - Tabni qadoqlaş
+Rename Tab - Tab nomini özgartiriş
+Close Other Tabs - Boşqa tablarni yopiş
+Close Tabs to the Left - Çapdagi tablarni yopiş
+Close Tabs to the Right - Öngdagi tablarni yopiş
+Close Tab - Tabni yopiş
+Rename Tab - Tab nomini özgartiriş
+New tab name: - Yangi tab nomi:
+Open a new tab - Yangi tab oçiş
+Location View - Manzil körinişi
+%1 | (%2) - %1 | (%2)
+(%1) | %2 - (%1) | %2
+Location Bar - Manzil paneli
+Main Toolbar - Asosiy asboblar paneli
+<para>This describes the location of the files and folders displayed below.</para><para>The name of the currently viewed folder can be read at the very right. To the left of it is the name of the folder that contains it. The whole line is called the <emphasis>path</emphasis> to the current location because following these folders from left to right leads here.</para><para>This interactive path is more powerful than one would expect. To learn more about the basic and advanced features of the location bar <link url='help:/dolphin/location-bar.html'>click here</link>. This will open the dedicated page in the Handbook.</para> - <para>Bu quyida körsatilgan fayl va jildlarning joylaşuvini tavsiflaydi.</para><para>Joriy körilayotgan jildning nomini eng öng tomonda öqiş mumkin. Uning çap tomonida esa uni öz içiga olgan jildning nomi joylaşgan. Butun satr joriy manzilga eltuvçi <emphasis>yöl</emphasis> deb ataladi, çunki uşbu jildlarga çapdan öngga qarab ergaşiş şu yerga olib keladi.</para><para>Bu interaktiv yöl kutilganidan köra köproq imkoniyatlarga ega. Manzil panelining asosiy va qöşimça xususiyatlari haqida köproq maʼlumot oliş uçun <link url='help:/dolphin/location-bar.html'>bu yerga bosing</link>. Bu Qöllanmadagi maxsus sahifani oçadi.</para>
+This folder is not writable for you. - Uşbu jildga yoziş huquqingiz yöq.
+Running Dolphin as root can be dangerous. Please be careful. - Dolphin dasturini root sifatida işga tuşiriş xavfli bölişi mumkin. Iltimos, ehtiyot böling.
+Loading folder… - Jild yuklanmoqda…
+Sorting… - Saralanmoqda…
+Searching… - Qidirilmoqda…
+No items found. - Heç qanday element topilmadi.
+Open as File - Fayl sifatida oçiş
+Trying to open a file as a folder: <filename>%1</filename> - Faylni jild sifatida oçişga uriniş: <filename>%1</filename>
+Dolphin does not support web pages, the web browser has been launched - Dolphin veb-sahifalarni qöllab-quvvatlamaydi, veb-brauzer işga tuşirildi
+Protocol not supported by Dolphin, default application has been launched - Protokol Dolphin tomonidan qöllab-quvvatlanmaydi, andoza dastur işga tuşirildi
+Invalid protocol '%1' - Notöğri protokol '%1'
+Invalid protocol - Notöğri protokol
+Authorization required to enter this folder. - Uşbu jildga kiriş uçun avtorizatsiya talab qilinadi.
+Create missing folder - Mavjud bölmagan jildni yaratiş
+Create the folder at this path and open it - Uşbu yölda jildni yaratiş va uni oçiş
+You do not have permission to create the folder - Sizda jildni yaratiş huquqi yöq
+Open with %1 - %1 bilan oçiş
+Current location changed, <filename>%1</filename> is no longer accessible. - Joriy manzil özgardi, <filename>%1</filename> endi mavjud emas.
+Keep Filter When Changing Folders - Jildlarni özgartirganda filtrni saqlab qoliş
+Filter… - Filtrlaş…
+Invalid expression - Notöğri ifoda
+Match case - Katta-kiçik harfni inobatga oliş
+Plain Text - Oddiy matn
+Glob Pattern - Glob naqşi
+Regular Expression - Muntazam ifoda (RegExp)
+Hide Filter Bar - Filtr panelini yaşiriş
+Hide - Yaşiriş
+Unhide - Yaşirişdan çiqariş
+Move to New Folder… - Yangi jildga köçiriş…
+Other - Boşqa
+Other folder icon options - Boşqa jild nişonçasi parametrlari
+Red - Qizil
+Yellow - Sariq
+Orange - Zarğaldoq
+Green - Yaşil
+Cyan - Moviy (Cyan)
+Default - Andoza
+Blue - Kök
+Violet - Binafşa
+Brown - Jigarrang
+Grey - Kulrang
+Bookmark - Xatçöp
+Cloud - Bulut
+Development - Dasturlaş
+Games - Öyinlar
+Mail - Poçta
+Music - Musiqa
+Print - Bosib çiqariş
+Compressed - Siqilgan
+Temporary - Vaqtinçalik
+Important - Muhim
+Set folder icon to %1 - Jild nişonçasini %1 qilib belgilaş
+hidden - yaşirin
+, link to %1 at %2 - , %2 manzilidagi %1 ga havola
+, %1 - , %1
+, %1 %2 - , %1 %2
+%1 at location %2 - %2 manzilidagi %1
+in a grid layout in selection mode in location %1 - %1 manzilida tanlaş rejimida jadval körinişida
+in a grid layout in location %1 - %1 manzilida jadval körinişida
+%1 selected item in a grid layout in selection mode in location %2 - %2 manzilida tanlaş rejimida jadval körinişida %1 ta element tanlangan
+%1 selected item in a grid layout in location %2 - %2 manzilida jadval körinişida %1 ta element tanlangan
+in selection mode in location %1 - %1 manzilida tanlaş rejimida
+in location %1 - %1 manzilida
+%1 selected item in selection mode in location %2 - %2 manzilida tanlaş rejimida %1 ta element tanlangan
+%1 selected item in location %2 - %2 manzilida %1 ta element tanlangan
+Selection mode enabled - Tanlaş rejimi yoqildi
+Selection mode disabled - Tanlaş rejimi öçirildi
+"%1" - "%1"
+"%1" and "%2" - "%1" va "%2"
+"%1", "%2" and "%3" - "%1", "%2" va "%3"
+"%1", "%2", "%3" and "%4" - "%1", "%2", "%3" va "%4"
+"%1", "%2", "%3", "%4" and "%5" - "%1", "%2", "%3", "%4" va "%5"
+One Selected File - Bitta tanlangan fayl
+One Selected Folder - Bitta tanlangan jild
+One Selected Item - Bitta tanlangan element
+One File - Bitta fayl
+One Folder - Bitta jild
+One Item - Bitta element
+%1 item - %1 ta element
+%1 × %2 - %1 × %2
+File Search is disabled. Enable it in System Settings to see this information. - Fayl qidiruvi öçirilgan. Bu maʼlumotni köriş uçun Tizim sozlamalarida uni yoqing.
+File Search indexes only file names. Enable indexing of file content in System Settings to see this information. - Fayl qidiruvi faqat fayl nomlarini indekslaydi. Bu maʼlumotni köriş uçun Tizim sozlamalarida fayl tarkibini indekslaşni yoqing.
+This folder is not indexed by File Search. - Uşbu jild Fayl qidiruvi tomonidan indekslanmagan.
+This information comes from File Search, which this version of Dolphin was built without. - Bu maʼlumot Fayl qidiruvidan olinadi, Dolphin dasturining uşbu talqini esa usiz yiğilgan.
+0 - 9 - 0 - 9
+Others - Boşqalar
+Folders - Jildlar
+Small - Kiçik
+Medium - Örtaça
+Big - Katta
+Today - Bugun
+Yesterday - Keça
+dddd - dddd
+%1 - %1
+One Week Ago - Bir hafta avval
+Two Weeks Ago - Ikki hafta avval
+Three Weeks Ago - Uç hafta avval
+Earlier this Month - Şu oyning boşida
+'Yesterday' (MMMM, yyyy) - 'Keça' (MMMM, yyyy)
+%1 - %1
+dddd (MMMM, yyyy) - dddd (MMMM, yyyy)
+%1 - %1
+'One Week Ago' (MMMM, yyyy) - 'Bir hafta avval' (MMMM, yyyy)
+%1 - %1
+'Two Weeks Ago' (MMMM, yyyy) - 'Ikki hafta avval' (MMMM, yyyy)
+%1 - %1
+'Three Weeks Ago' (MMMM, yyyy) - 'Uç hafta avval' (MMMM, yyyy)
+%1 - %1
+'Earlier on' MMMM, yyyy - MMMM, yyyy 'boşida'
+%1 - %1
+MMMM, yyyy - MMMM, yyyy
+%1 - %1
+Read,  - Öqiş, 
+Write,  - Yoziş, 
+Execute,  - Bajariş, 
+Forbidden - Taqiqlangan
+User: %1 | Group: %2 | Others: %3 - Foydalanuvçi: %1 | Guruh: %2 | Boşqalar: %3
+Name - Nomi
+Size - Hajmi
+Modified - Özgartirilgan
+The date format can be selected in settings. - Sana formatini sozlamalarda tanlaş mumkin.
+Created - Yaratilgan
+Accessed - Kirilgan vaqti
+Type - Turi
+Rating - Baho
+Tags - Teglar
+Comment - Izoh
+Title - Sarlavha
+Document - Hujjat
+Author - Muallif
+Publisher - Naşriyotçi
+Page Count - Sahifalar soni
+Word Count - Sözlar soni
+Line Count - Satrlar soni
+Date Photographed - Suratga olingan sana
+Image - Rasm
+Dimensions - Ölçamlari
+Height - Balandligi
+Orientation - Joylanişi
+Width - Kengligi
+Album - Albom
+Audio - Audio
+Artist - Ijroçi
+Audio Codec - Audio kodek
+Bitrate - Bitreyt
+Duration - Davomiyligi
+Genre - Janr
+Release Year - Çiqarilgan yili
+Track - Trek
+Aspect Ratio - Tomonlar nisbati
+Video - Video
+Color Space - Rang maydoni
+Frame Rate - Kadrlar çastotasi
+Pixel Format - Piksel formati
+Video Codec - Video kodek
+Path - Yöl
+Other - Boşqa
+Folder Name - Jild nomi
+File Extension - Fayl kengaytmasi
+Deletion Time - Öçirilgan vaqti
+Link Destination - Havola manzili
+Downloaded From - Yuklab olingan manzil
+Permissions - Ruxsatlar
+The permission format can be changed in settings. Options are Symbolic, Numeric (Octal) or Combined formats - Ruxsatlar formatini sozlamalarda özgartiriş mumkin. Variantlar: Ramziy, Raqamli (Sakkizlik) yoki Aralaş formatlar
+Owner - Egasi
+User Group - Foydalanuvçi guruhi
+Unknown error. - Nomaʼlum xato.
+%1 and a half stars - %1 yarim yulduz
+%1 star - %1 yulduz
+Running <application>Dolphin</application> with <command>sudo</command> is discouraged. Please run <icode>%1</icode> instead. - <application>Dolphin</application> dasturini <command>sudo</command> orqali işga tuşiriş tavsiya etilmaydi. Buning örniga <icode>%1</icode> buyruğidan foydalaning.
+Dolphin - Dolphin
+File Manager - Fayl boşqaruvçisi
+© 2006–%1 The Dolphin Developers - © 2006–%1 Dolphin dasturçilari
+Felix Ernst - Felix Ernst
+Maintainer (since 2021) and developer - Taʼminotçi (2021-yildan beri) va dasturçi
+Méven Car - Méven Car
+Maintainer (since 2021) and developer (since 2019) - Taʼminotçi (2021-yildan beri) va dasturçi (2019-yildan beri)
+Elvis Angelaccio - Elvis Angelaccio
+Maintainer (2018–2021) and developer - Taʼminotçi (2018–2021) va dasturçi
+Emmanuel Pescosta - Emmanuel Pescosta
+Maintainer (2014–2018) and developer - Taʼminotçi (2014–2018) va dasturçi
+Frank Reininghaus - Frank Reininghaus
+Maintainer (2012–2014) and developer - Taʼminotçi (2012–2014) va dasturçi
+Peter Penz - Peter Penz
+Maintainer and developer (2006–2012) - Taʼminotçi va dasturçi (2006–2012)
+Sebastian Trüg - Sebastian Trüg
+Developer - Dasturçi
+David Faure - David Faure
+Aaron J. Seigo - Aaron J. Seigo
+Rafael Fernández López - Rafael Fernández López
+Kevin Ottens - Kevin Ottens
+Holger Freyther - Holger Freyther
+Max Blazejak - Max Blazejak
+Michael Austin - Michael Austin
+Documentation - Hujjatlar
+Yuma Kakei - Yuma Kakei
+The files and folders passed as arguments will be selected. - Argument sifatida uzatilgan fayl va jildlar tanlanadi.
+Dolphin will get started with a split view. - Dolphin bölingan köriniş bilan işga tuşadi.
+Dolphin will explicitly open in a new window. - Dolphin alohida yangi oynada oçiladi.
+Set up Dolphin for administrative tasks. - Dolphin dasturini maʼmuriy vazifalar uçun sozlaş.
+Start Dolphin Daemon (only required for DBus Interface). - Dolphin xizmatini (Daemon) işga tuşiriş (faqat DBus interfeysi uçun talab qilinadi).
+Document to open - Oçiladigan hujjat
+Hidden files shown - Yaşirin fayllar körsatilgan
+Limit folders panel to home directory if inside home - Uy jildi içida bölganda jildlar panelini uy jildi bilan çeklaş
+Automatic scrolling - Avtomatik aylantiriş (varaqlaş)
+Cut - Kesiş
+Copy - Nusxa oliş
+Rename… - Nomini özgartiriş…
+Move to Trash - Çiqindilar qutisiga köçiriş
+Delete - Öçiriş
+Show Hidden Files - Yaşirin fayllarni körsatiş
+Limit to Home Directory - Uy jildi bilan çeklaş
+Automatic Scrolling - Avtomatik aylantiriş
+Properties - Xossalar
+Previews shown - Oldindan köriş körsatilgan
+Auto-Play media files - Media fayllarni avto-ijro etiş
+Show item on hover - Kursor olib borilganda elementni körsatiş
+Date display format - Sanani körsatiş formati
+Preview - Oldindan köriş
+Auto-Play media files - Media fayllarni avto-ijro etiş
+Show item on hover - Kursor olib borilganda elementni körsatiş
+Configure… - Sozlaş…
+Condensed Date - Qisqartirilgan sana
+Select which data should be shown: - Qaysi maʼlumotlar körsatilişi kerakligini tanlang:
+%1 item selected - %1 ta element tanlandi
+play - ijro etiş
+pause - vaqtinça töxtatiş
+Size of icons in the Places Panel (-1 means "automatic") - Joylar panelidagi nişonçalar ölçami (-1 "avtomatik" degan maʼnoni anglatadi)
+Terminal cannot be shown because Konsole is not installed. Please install it and then reopen the panel. - Konsole örnatilmaganligi sababli terminalni körsatib bölmaydi. Iltimos, uni örnating va panelni qayta oçing.
+Install Konsole - Konsole dasturini örnatiş
+Save this search to quickly access it again in the future - Kelajakda yana tez kiriş uçun uşbu qidiruvni saqlaş
+Filter - Filtr
+Quit searching - Qidiruvdan çiqiş
+Here - Şu yerda
+Everywhere - Hamma joyda
+<para>This helps you find files and folders.<list><item>Enter a <emphasis>search term</emphasis> in the input field.</item><item>Decide where to search by pressing the location buttons below the search field. “Here” refers to the location that was open prior to starting a search, so navigating to a different location first can narrow down the search.</item><item>Press the “%1” button to further refine the manner of searching or the results.</item><item>Press the “Save” icon to add the current search configuration to the <emphasis>Places panel</emphasis>.</item></list></para> - <para>Bu fayl va jildlarni topişga yordam beradi.<list><item>Kiritiş maydoniga <emphasis>qidiruv sözini</emphasis> kiriting.</item><item>Qidiruv maydoni ostidagi manzil tugmalarini bosiş orqali qayerdan qidirişni hal qiling. “Şu yerda” qidiruvni boşlaşdan oldin oçiq bölgan manzilni bildiradi, şuning uçun avval boşqa manzilga ötiş qidiruv doirasini toraytirişi mumkin.</item><item>Qidiriş usulini yoki natijalarni yanada aniqlaştiriş uçun “%1” tugmasini bosing.</item><item>Joriy qidiruv sozlamalarini <emphasis>Joylar paneliga</emphasis> qöşiş uçun “Saqlaş” nişonçasini bosing.</item></list></para>
+Search in file contents… - Fayl tarkibidan qidiriş…
+Limit the search to <filename>%1</filename> and its subfolders. - Qidiruvni <filename>%1</filename> va uning qism jildlari bilan çeklaş.
+Search all directories from the root up. - Ildiz (root) katalogdan boşlab barça kataloglardan qidiriş.
+Search all indexed locations.<nl/><nl/>Configure which locations are indexed in <interface>System Settings|Workspace|Search</interface>. - Barça indekslangan manzillardan qidiriş.<nl/><nl/>Qaysi manzillar indekslanişini <interface>Tizim sozlamalari|Iş maydoni|Qidiruv</interface> bölimida sozlang.
+Remove Filter - Filtrni olib taşlaş
+Location - Manzil
+What - Nima
+SearchTool - Qidiruv vositasi
+Search results for “%1” in %2 - %2 içida “%1” böyiça qidiruv natijalari
+Files containing “%1” in %2 - %2 içida “%1” mavjud bölgan fayllar
+Search items tagged “%1” in %2 - %2 içida “%1” tegi qöyilgan elementlarni qidiriş
+Search items tagged “%1” and “%2” in %3 - %3 içida “%1” va “%2” teglari qöyilgan elementlarni qidiriş
+%1 search results in %2 - %2 içida %1 qidiruv natijalari
+Search results in %1 - %1 içida qidiruv natijalari
+Search results for “%1” - “%1” böyiça qidiruv natijalari
+Files containing “%1” - “%1” mavjud bölgan fayllar
+Search items tagged “%1” - “%1” tegi qöyilgan elementlarni qidiriş
+Search items tagged “%1” and “%2” - “%1” va “%2” teglari qöyilgan elementlarni qidiriş
+%1 search results - %1 qidiruv natijalari
+Search results - Qidiruv natijalari
+Simple search - Oddiy qidiruv
+File Indexing - Fayllarni indekslaş
+Search in: - Qayerdan qidirilsin:
+File names - Fayl nomlari
+Search using: - Qidiruv vositasi:
+<para>For searching in file contents <application>%1</application> attempts to use third-party search tools if they are available on this system and are expected to lead to better or faster results. <application>ripgrep</application> and <application>ripgrep-all</application> might improve your search experience if they are installed. <application>ripgrep-all</application> in particular enables searches in more file types (e.g. pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4)).</para><para>The manner in which these search tools are invoked can be configured by editing a script file. Copy it from <filename>%2</filename> to <filename>%3</filename> before modifying your copy. If any issues arise, delete your copy <filename>%3</filename> to revert your changes.</para> - <para>Fayl tarkibidan qidiriş uçun <application>%1</application> agar tizimda mavjud bölsa va yaxşiroq yoki tezroq natijalarga olib kelişi kutilsa, uçinçi tomon qidiruv vositalaridan foydalanişga harakat qiladi. <application>ripgrep</application> va <application>ripgrep-all</application> örnatilgan bölsa, qidiruv tajribangizni yaxşilaşi mumkin. Xususan, <application>ripgrep-all</application> köproq fayl turlarida (masalan, pdf, docx, sqlite, jpg, film tagyozuvlari (mkv, mp4)) qidiriş imkonini beradi.</para><para>Uşbu qidiruv vositalarini çaqiriş usulini skript faylini tahrirlaş orqali sozlaş mumkin. Nusxangizni özgartirişdan oldin uni <filename>%2</filename> manzilidan <filename>%3</filename> manziliga nusxalang. Agar biror muammo yuzaga kelsa, özgartirişlaringizni bekor qiliş uçun <filename>%3</filename> nusxangizni öçirib taşlang.</para>
+Configure %1… - %1 ni sozlaş…
+File Type: - Fayl turi:
+Modified since: - Özgartirilgan sanasi:
+Rating: - Baho:
+Tags: - Teglar:
+For more advanced searches: - Kengaytirilgan qidiruvlar uçun:
+<para>Searching in <filename>%1</filename> using <application>%2</application> is currently not possible because <application>%2</application> is configured to never create a search index of that location.</para> - <para><application>%2</application> yordamida <filename>%1</filename> içida qidiriş hozirda imkonsiz, çunki <application>%2</application> uşbu manzilning qidiruv indeksini heç qaçon yaratmaslikka sozlangan.</para>
+<para>Searching through file contents using <application>%1</application> is currently not possible because <application>%1</application> is configured to never create a search index for file contents.</para> - <para><application>%1</application> yordamida fayl tarkibidan qidiriş hozirda imkonsiz, çunki <application>%1</application> fayl tarkibi uçun qidiruv indeksini heç qaçon yaratmaslikka sozlangan.</para>
+<b>%1</b> - <b>%1</b>
+<para><application>%1</application> uses a database for searching. The database is created by indexing your files in the background based on how <application>%1</application> is configured.<list><item><application>%1</application> provides results extremely quickly.</item><item>Allows searching for file types, dates, tags, etc.</item><item>Only searches in indexed folders. Configure which folders should be indexed in <application>System Settings</application>.</item><item>When the searched locations contain links to other files or folders, those will not be searched or show up in search results.</item><item>Hidden files and folders and their contents might also not be searched depending on how <application>%1</application> is configured.</item></list></para> - <para><application>%1</application> qidiriş uçun maʼlumotlar bazasidan foydalanadi. Maʼlumotlar bazasi <application>%1</application> qanday sozlanganligiga qarab fayllaringizni orqa fonda indekslaş orqali yaratiladi.<list><item><application>%1</application> natijalarni juda tez taqdim etadi.</item><item>Fayl turlari, sanalar, teglar va hokazolar böyiça qidiriş imkonini beradi.</item><item>Faqat indekslangan jildlarda qidiradi. Qaysi jildlar indekslanişi kerakligini <application>Tizim sozlamalari</application>da sozlang.</item><item>Qidirilayotgan manzillarda boşqa fayl yoki jildlarga havolalar bölganda, ular qidirilmaydi va qidiruv natijalarida körinmaydi.</item><item><application>%1</application> qanday sozlanganligiga qarab, yaşirin fayl va jildlar hamda ularning tarkibi ham qidirilmasligi mumkin.</item></list></para>
+File names and contents - Fayl nomlari va tarkibi
+File contents - Fayl tarkibi
+Open %1 - %1 ni oçiş
+Install KFind… - KFind dasturini örnatiş…
+<application>KFind</application> installed successfully. - <application>KFind</application> muvaffaqiyatli örnatildi.
+Installing KFind - KFind örnatilmoqda
+Any Date - Istalgan sana
+Any Type - Istalgan tur
+Any Rating - Istalgan baho
+1 or more - 1 yoki undan yuqori
+2 or more - 2 yoki undan yuqori
+3 or more - 3 yoki undan yuqori
+4 or more - 4 yoki undan yuqori
+5 - 5
+ &&  -  && 
+None - Yöq
+Select the files and folders that should be copied. - Nusxa olinişi kerak bölgan fayl va jildlarni tanlang.
+Cancel Copying - Nusxa olişni bekor qiliş
+Select one file or folder whose location should be copied. - Manzili nusxalanişi kerak bölgan bitta fayl yoki jildni tanlang.
+Select the files and folders that should be copied over. - Boşqa panelga nusxa olinişi kerak bölgan fayl va jildlarni tanlang.
+Select the files and folders that should be cut. - Kesib olinişi kerak bölgan fayl va jildlarni tanlang.
+Cancel Cutting - Kesişni bekor qiliş
+Select the files and folders that should be permanently deleted. - Butunlay öçirilişi kerak bölgan fayl va jildlarni tanlang.
+Cancel - Bekor qiliş
+Select the files and folders that should be duplicated here. - Şu yerda nusxasi yaratilişi kerak bölgan fayl va jildlarni tanlang.
+Cancel Duplicating - Nusxa yaratişni bekor qiliş
+More - Köproq
+Select the files and folders that should be moved over. - Boşqa panelga köçirilişi kerak bölgan fayl va jildlarni tanlang.
+Cancel Moving - Köçirişni bekor qiliş
+Select the files and folders that should be moved to the Trash. - Çiqindilar qutisiga köçirilişi kerak bölgan fayl va jildlarni tanlang.
+<para>The selected files and folders were added to the Clipboard. Now the <emphasis>Paste</emphasis> action can be used to transfer them from the Clipboard to any other location. They can even be transferred to other applications by using their respective <emphasis>Paste</emphasis> actions.</para> - <para>Tanlangan fayl va jildlar vaqtinçalik xotiraga qöşildi. Endi ularni vaqtinçalik xotiradan istalgan boşqa manzilga ötkaziş uçun <emphasis>Qöyiş</emphasis> amalidan foydalaniş mumkin. Hatto ularni tegişli <emphasis>Qöyiş</emphasis> amallari yordamida boşqa dasturlarga ham ötkaziş mumkin.</para>
+Paste from Clipboard - Vaqtinçalik xotiradan qöyiş
+Dismiss This Reminder - Uşbu eslatmani yopiş
+Don't Remind Me Again - Menga boşqa eslatilmasin
+Select the file or folder that should be renamed. Bulk renaming is possible when multiple items are selected. - Nomi özgartirilişi kerak bölgan fayl yoki jildni tanlang. Bir neçta elementlar tanlanganda ommaviy qayta nomlaş mumkin.
+Cancel Renaming - Qayta nomlaşni bekor qiliş
+Copy %2 to the Clipboard - %2 ni vaqtinçalik xotiraga nusxalaş
+Copy the Location of %2 to the Clipboard - %2 manzilini vaqtinçalik xotiraga nusxalaş
+Cut %2 to the Clipboard - %2 ni vaqtinçalik xotiraga kesiş
+Permanently Delete %2 - %2 ni butunlay öçiriş
+Duplicate %2 - %2 nusxasini yaratiş
+Move %2 to the Trash - %2 ni Çiqindilar qutisiga köçiriş
+Rename %2 - %2 nomini özgartiriş
+Selection Mode: Click on files or folders to select or deselect them. - Tanlaş rejimi: Fayl yoki jildlarni tanlaş yoxud tanlovni bekor qiliş uçun ularning ustiga bosing.
+Selection Mode - Tanlaş rejimi
+<title>Selection Mode</title><para>Select files or folders to manage or manipulate them.<list><item>Press on a file or folder to select it.</item><item>Press on an already selected file or folder to deselect it.</item><item>Pressing an empty area does <emphasis>not</emphasis> clear the selection.</item><item>Selection rectangles (created by dragging from an empty area) invert the selection status of items within.</item><item>Moving with <shortcut>arrow keys</shortcut> does <emphasis>not</emphasis> change the selection.</item><item>Pressing <shortcut>%1</shortcut>, <shortcut>%2</shortcut>, or <shortcut>%3</shortcut> toggles the selection.</item></list></para><para>The available action buttons at the bottom change depending on the current selection.</para> - <title>Tanlaş rejimi</title><para>Fayl yoki jildlarni boşqariş va ular ustida amal bajariş uçun ularni tanlang.<list><item>Fayl yoki jildni tanlaş uçun uning ustiga bosing.</item><item>Allaqaçon tanlangan fayl yoki jilddan tanlovni olib taşlaş uçun uning ustiga bosing.</item><item>Böş joyga bosiş tanlovni <emphasis>tozalamaydi</emphasis>.</item><item>Tanlaş töri (böş joydan sudrab yaratiladigan) içidagi elementlarning tanlov holatini teskarisiga özgartiradi.</item><item><shortcut>Yönaliş tugmalari</shortcut> yordamida harakatlaniş tanlovni <emphasis>özgartirmaydi</emphasis>.</item><item><shortcut>%1</shortcut>, <shortcut>%2</shortcut> yoki <shortcut>%3</shortcut> tugmalarini bosiş tanlovni yoqadi/öçiradi.</item></list></para><para>Pastki qismdagi mavjud amal tugmalari joriy tanlovga qarab özgaradi.</para>
+Exit Selection Mode - Tanlaş rejimidan çiqiş
+Context Menu Actions - Kontekst menyusi amallari
+Search… - Qidiriş…
+Download Services… - Xizmatlarni yuklab oliş…
+Shortcuts… - Tugmalar birikmalari…
+Delete - Öçiriş
+Built-in dolphin - Örnatilgan dolphin amallari
+'Copy To' and 'Move To' commands - 'Qayerga nusxalaş' va 'Qayerga köçiriş' buyruqlari
+%1: %2 - %1: %2
+Use system font - Tizim şriftidan foydalaniş
+Icon size - Nişonça ölçami
+Preview size - Oldindan köriş ölçami
+Minimum column width in pixels - Eng kam ustun kengligi (pikselda)
+Minimum width in pixels of a column adjusted to its content - Tarkibiga moslaştirilgan ustunning pikseldagi eng kam kengligi
+Maximum number of visible columns before scrolling - Aylantirişdan oldingi körinadigan ustunlarning eng köp soni
+Adjust column width to its content - Ustun kengligini uning tarkibiga moslaştiriş
+Maximum text width index (0 means unlimited) - Matnning eng katta kengligi indeksi (0 çeksiz degani)
+How we display the size of directories - Kataloglar hajmini körsatiş usuli
+Show the content count - Tarkibdagi elementlar sonini körsatiş
+Show the content size - Tarkib hajmini körsatiş
+Do not show any directory size - Katalog hajmini körsatmaslik
+Recursive directory size limit - Rekursiv katalog hajmi çeklovi
+if true we use short relative dates, if not short dates - agar true bölsa qisqa nisbiy sanalar, aks holda qisqa sanalar işlatiladi
+Permissions style format - Ruxsatlar uslubi formati
+Eliding Mode - Qisqartiriş rejimi
+Show 'Copy To' and 'Move To' commands in context menu - Kontekst menyusida 'Qayerga nusxalaş' va 'Qayerga köçiriş' buyruqlarini körsatiş
+Show 'Add to Places' in context menu. - Kontekst menyusida 'Joylarga qöşiş' bandini körsatiş.
+Show 'Sort By' in context menu. - Kontekst menyusida 'Saralaş' bandini körsatiş.
+Show 'View Mode' in context menu. - Kontekst menyusida 'Köriniş rejimi' bandini körsatiş.
+Show 'Open in New Tab' and 'Open in New Tabs' in context menu. - Kontekst menyusida 'Yangi tabda oçiş' va 'Yangi tablarda oçiş' bandlarini körsatiş.
+Show 'Open in New Window' in context menu. - Kontekst menyusida 'Yangi oynada oçiş' bandini körsatiş.
+Show 'Open In Split View' in context menu. - Kontekst menyusida 'Bölingan körinişda oçiş' bandini körsatiş.
+Show 'Copy Location' in context menu. - Kontekst menyusida 'Manzilni nusxalaş' bandini körsatiş.
+Show 'Duplicate Here' in context menu. - Kontekst menyusida 'Şu yerda nusxa yaratiş' bandini körsatiş.
+Show 'Open Terminal' in context menu. - Kontekst menyusida 'Terminalni oçiş' bandini körsatiş.
+Show 'Copy to other split view' in context menu. - Kontekst menyusida 'Boşqa bölingan körinişga nusxalaş' bandini körsatiş.
+Show 'Move to other split view' in context menu. - Kontekst menyusida 'Boşqa bölingan körinişga köçiriş' bandini körsatiş.
+Position of columns - Ustunlar joylaşuvi
+Left side padding - Çap tomondan böş joy (padding)
+Right side padding - Öng tomondan böş joy (padding)
+Highlight entire row - Butun satrni ajratib körsatiş
+Expandable folders - Yoyiladigan jildlar
+Hidden files shown - Yaşirin fayllar körsatilgan
+When this option is enabled hidden files, such as those starting with a '.', will be shown in the file view. - Uşbu parametr yoqilganda, '.' bilan boşlanadigan kabi yaşirin fayllar fayllar körinişida körsatiladi.
+Version - Talqin
+This option defines the used version of the view properties. - Uşbu parametr köriniş xossalarining foydalanilayotgan talqinini belgilaydi.
+View Mode - Köriniş rejimi
+This option controls the style of the view. Currently supported values include icons (0), details (1), compact (2) and columns (3) views. - Uşbu parametr köriniş uslubini boşqaradi. Hozirda qöllab-quvvatlanadigan qiymatlar: nişonçalar (0), tafsilotlar (1), ixçam (2) va ustunlar (3) körinişlari.
+Zoom Level - Massştab darajasi
+Zoom level of the folder. - Jildning massştab darajasi.
+Previews shown - Oldindan köriş körsatilgan
+When this option is enabled, a preview of the file content is shown as an icon. - Uşbu parametr yoqilganda, fayl tarkibini oldindan köriş nişonça sifatida körsatiladi.
+Grouped Sorting - Guruhlangan saralaş
+When this option is enabled, the sorted items are categorized into groups. - Uşbu parametr yoqilganda, saralangan elementlar guruhlarga ajratiladi.
+Sort files by - Fayllarni saralaş mezoni
+This option defines which attribute (text, size, date, etc.) sorting is performed on. - Uşbu parametr saralaş qaysi atribut (matn, hajm, sana va h.k.) böyiça amalga oşirilişini belgilaydi.
+Group files by - Fayllarni guruhlaş mezoni
+This option defines which attribute items are grouped by when grouped sorting is enabled. An empty value means the grouping criterion follows the sort criterion. - Uşbu parametr guruhlangan saralaş yoqilganda elementlar qaysi atribut böyiça guruhlanişini belgilaydi. Böş qiymat guruhlaş mezoni saralaş mezoniga mos kelişini anglatadi.
+Order in which to sort files - Fayllarni saralaş tartibi
+Show folders first when sorting files and folders - Fayl va jildlarni saralaşda avval jildlarni körsatiş
+Show hidden files and folders last - Yaşirin fayl va jildlarni oxirida körsatiş
+Visible roles - Körinadigan rollar
+Header column widths - Sarlavha ustunlari kengligi
+Properties last changed - Xossalar oxirgi marta özgartirilgan vaqt
+The last time these properties were changed by the user. - Uşbu xossalar foydalanuvçi tomonidan oxirgi marta özgartirilgan vaqt.
+View mode changed once by dynamic view - Köriniş rejimi dinamik köriniş tomonidan bir marta özgartirildi
+Additional Information - Qöşimça maʼlumot
+Select Action - Tanlaş amali
+Custom Action - Maxsus amal
+Should the URL be editable for the user - URL foydalanuvçi tomonidan tahrirlanadigan bölişi kerakmi
+Text completion mode of the URL Navigator - URL navigatorining matnni avtomatik töldiriş rejimi
+Should the full path be shown inside the location bar - Manzil paneli içida töliq yöl körsatilişi kerakmi
+Should the full path be shown in the title bar - Sarlavha panelida töliq yöl körsatilişi kerakmi
+Should an externally called folder open in a new tab in an existing Dolphin instance - Taşqaridan çaqirilgan jild mavjud Dolphin nusxasining yangi tabida oçilişi kerakmi
+Should the tab bar always be shown, even when there is only one tab - Faqat bitta tab bölganda ham tablar paneli har doim körsatilişi kerakmi
+Should tabs have close buttons - Tablarda yopiş tugmalari bölişi kerakmi
+Tab style - Tab uslubi
+Internal config version of Dolphin, mainly Used to determine whether an updated version of Dolphin is running, so as to migrate config entries that were removed/renamed ...etc - Dolphin içki sozlamalari talqini, asosan olib taşlangan/qayta nomlangan sozlama yozuvlarini köçiriş uçun Dolphin-ning yangilangan talqini işlayotganligini aniqlaşda foydalaniladi
+Have the startup settings been modified (internal setting not shown in the UI) - Işga tuşiriş sozlamalari özgartirilganmi (interfeysda körsatilmaydigan içki sozlama)
+Home URL - Uy jildi URL manzili
+Remember open folders and tabs - Oçiq jildlar va tablarni eslab qoliş
+Place two views side by side - Ikkita körinişni yonma-yon joylaştiriş
+Should the filter bar be shown - Filtr paneli körsatilişi kerakmi
+Should the view properties be used for all folders - Köriniş xossalari barça jildlar uçun işlatilişi kerakmi
+Browse through archives - Arxivlarni oddiy jild kabi körib çiqiş
+Ask for confirmation when closing windows with multiple tabs. - Bir neçta tabga ega oynalarni yopişda tasdiqlaşni söraş.
+Ask for confirmation when closing windows with a program that is still running in the Terminal panel. - Terminal panelida dastur hali ham işlayotgan oynalarni yopişda tasdiqlaşni söraş.
+Rename single items inline - Yagona elementlarning nomini öz joyida özgartiriş
+Show selection toggle - Tanlaş belgisi tugmasini körsatiş
+Show a bar for easy pasting after a cut or copy was done using the selection mode bottom bar. - Tanlaş rejimining pastki paneli yordamida kesiş yoki nusxa oliş amalga oşirilgandan söng oson qöyiş uçun panelni körsatiş.
+Close split view - Bölingan körinişni yopiş
+New tab will be open after last one - Yangi tab oxirgisidan keyin oçiladi
+Show item information on hover - Kursor olib borilganda element haqida maʼlumotni körsatiş
+Timestamp since when the view properties are valid - Köriniş xossalari amal qiladigan vaqt belgisi
+Use auto-expanding folders for all view types - Barça köriniş turlari uçun avtomatik yoyiladigan jildlardan foydalaniş
+Statusbar - Holat paneli
+Show zoom slider in the statusbar - Holat panelida massştab surgitini körsatiş
+Lock the layout of the panels - Panellar joylaşuvini qulflaş
+Enlarge Small Previews - Kiçik oldindan köriş tasvirlarini kattalaştiriş
+Choose Natural, Case Sensitive, or Case Insensitive order of sorting the items - Elementlarni saralaşning Tabiiy, Katta-kiçik harfga sezgir yoki Katta-kiçik harfga sezgir bölmagan tartibini tanlang
+Also hide files with application/x-trash mimetype - application/x-trash MIME turiga ega fayllarni ham yaşiriş
+Enable dynamic view - Dinamik körinişni yoqiş
+Ask for confirmation when opening many folders at once. - Bir vaqtning özida köplab jildlarni oçişda tasdiqlaşni söraş.
+Ask for confirmation when opening many terminals at once. - Bir vaqtning özida köplab terminallarni oçişda tasdiqlaşni söraş.
+Ask for confirmation when renaming file changes its type. - Fayl nomini özgartiriş uning turini özgartirganda tasdiqlaşni söraş.
+Text width index - Matn kengligi indeksi
+Place the items closer together - Elementlarni bir-biriga yaqinroq joylaştiriş
+Maximum textlines (0 means unlimited) - Eng köp matn satrlari (0 çeksiz degani)
+Enabled plugins - Yoqilgan plaginlar
+Configure - Sozlaş
+Interface - Interfeys
+View - Köriniş
+Context Menu - Kontekst menyusi
+Trash - Çiqindilar qutisi
+User Feedback - Foydalanuvçi fikr-mulohazasi
+You have unsaved changes. Do you want to apply the changes or discard them? - Saqlanmagan özgartirişlar mavjud. Özgartirişlarni qöllaşni xohlaysizmi yoki ularni rad etasizmi?
+Warning - Ogohlantiriş
+Ask for confirmation in KDE applications when: - KDE dasturlarida quyidagi hollarda tasdiqlaş söralsin:
+Moving files or folders to trash - Fayl yoki jildlarni çiqindilar qutisiga köçirişda
+Emptying trash - Çiqindilar qutisini böşatişda
+Deleting files or folders - Fayl yoki jildlarni butunlay öçirişda
+Renaming a file will change its type - Fayl nomini özgartiriş uning turini özgartirganda
+Renaming a file or folder will hide it - Fayl yoki jild nomini özgartiriş uni yaşirganda
+Ask for confirmation in Dolphin when: - Dolphin dasturida quyidagi hollarda tasdiqlaş söralsin:
+Closing windows with multiple tabs - Bir neçta tabga ega oynalarni yopişda
+Closing windows with a program running in the Terminal panel - Terminal panelida dastur işlayotgan oynalarni yopişda
+Opening many folders at once - Bir vaqtning özida köplab jildlarni oçişda
+Opening many terminals at once - Bir vaqtning özida köplab terminallarni oçişda
+Switching to act as an administrator - Administrator sifatida harakat qilişga ötişda
+When opening an executable file: - Bajariladigan faylni oçişda:
+Always ask - Har doim söralsin
+Open in application - Dasturda oçilsin
+Run script - Skriptni işga tuşiriş
+Folders, tabs, and window state from last time - Oxirgi safargi jildlar, tablar va oyna holati
+Show home location on startup - Işga tuşganda uy manzilini körsatiş
+Enter home location path - Uy manzili yölini kiriting
+Select Home Location - Uy manzilini tanlaş
+Use Current Location - Joriy manzildan foydalaniş
+Use Default Location - Andoza manzildan foydalaniş
+Show on startup: - Işga tuşganda körsatiş:
+Opening Folders: - Jildlarni oçiş:
+Keep a single Dolphin window, opening new folders in tabs - Yangi jildlarni tablarda oçib, bitta Dolphin oynasini saqlab qoliş
+Window: - Oyna:
+Show full path in title bar - Sarlavha panelida töliq yölni körsatiş
+Show filter bar - Filtr panelini körsatiş
+Always show tab bar - Tablar panelini har doim körsatiş
+Tab width: - Tab kengligi:
+Show close button on tabs - Tablarda yopiş tugmasini körsatiş
+Tab width adapts to folder name - Tab kengligi jild nomiga moslaşadi
+Tabs all have the same fixed width - Barça tablar bir xil qatʼiy kenglikka ega
+Tabs span the available width - Tablar mavjud kenglikni töliq egallaydi
+Tab style:  - Tab uslubi: 
+After current tab - Joriy tabdan keyin
+At end of tab bar - Tablar panelining oxirida
+Open new tabs:  - Yangi tablarni oçiş: 
+When closing a split view - Bölingan körinişni yopişda
+Close the active pane - Faol panelni yopiş
+Close the inactive pane - Faol bölmagan panelni yopiş
+Close the right pane - Öng panelni yopiş
+Split view:  - Bölingan köriniş: 
+Open new windows in split view mode - Yangi oynalarni bölingan köriniş rejimida oçiş
+The location for the home folder is invalid or does not exist, it will not be applied. - Uy jildi uçun körsatilgan manzil notöğri yoki mavjud emas, u qöllanilmaydi.
+Folders && Tabs - Jildlar && Tablar
+Previews - Oldindan köriş
+Confirmations - Tasdiqlaşlar
+Panels - Panellar
+Status && Location bars - Holat && Manzil panellari
+Show previews - Oldindan körişni körsatiş
+Auto-play media files - Media fayllarni avto-ijro etiş
+Show item on hover - Kursor olib borilganda elementni körsatiş
+Use &long date, for example '%1' - &Uzun sana formatidan foydalaniş, masalan '%1'
+Use &condensed date, for example '%1' - &Qisqartirilgan sana formatidan foydalaniş, masalan '%1'
+Information Panel: - Maʼlumot paneli:
+Limit to home directory when inside it - Uy jildi içida bölganda uy jildi bilan çeklaş
+Start the folder tree of the Folders panel at your home folder while you are inside it. - Uy jildi içida bölganingizda Jildlar panelining jildlar daraxtini uy jildingizdan boşlang.
+<para>When this is enabled and the current folder is in your home folder, the Folders panel shows only your home folder and the folders inside it. The root folder and the other drives are not shown in the panel then.</para><para>Outside your home folder, the panel shows all folders, starting from the root folder.</para> - <para>Bu yoqilganda va joriy jild uy jildingiz içida bölganda, Jildlar paneli faqat uy jildingizni va uning içidagi jildlarni körsatadi. Şunda ildiz (root) jild va boşqa disklar panelda körsatilmaydi.</para><para>Uy jildingizdan taşqarida panel ildiz jilddan boşlab barça jildlarni körsatadi.</para>
+Folders Panel: - Jildlar paneli:
+Panel settings are also available through their context menu. Open it by pressing the right mouse button on a panel. - Panel sozlamalari ularning kontekst menyusi orqali ham mavjud. Uni panel ustida siçqonçaning öng tugmasini bosiş orqali oçing.
+Show previews in the view for: - Körinişda quyidagilar uçun oldindan körişni körsatiş:
+Show previews for - Oldindan körişni körsatiş:
+files below  - hajmi quyidagidan kiçik fayllar uçun 
+ MiB -  MiB
+files of any size - istalgan hajmdagi fayllar uçun
+no file - heç qanday fayl uçun emas
+Show previews for folders - Jildlar uçun oldindan körişni körsatiş
+<para>Creating <emphasis>previews</emphasis> for remote folders is very intensive in terms of network resource usage.</para><para>Disable this if navigating remote folders in Dolphin is slow or when accessing storage over metered connections.</para> - <para>Masofaviy jildlar uçun <emphasis>oldindan köriş tasvirlarini</emphasis> yaratiş tarmoq resurslaridan juda köp foydalanadi.</para><para>Agar Dolphin-da masofaviy jildlarda harakatlaniş sekin bölsa yoki trafik çeklangan ulanişlar orqali xotiraga kirayotgan bölsangiz, buni öçiring.</para>
+Local storage: - Mahalliy xotira:
+Remote storage: - Masofaviy xotira:
+Small - Kiçik
+Full width - Töliq kenglikda
+Show zoom slider - Massştab surgitini körsatiş
+Disabled - Öçirilgan
+Status Bar: - Holat paneli:
+Make location bar editable - Manzil panelini tahrirlanadigan qiliş
+Location bar: - Manzil paneli:
+Show full path inside location bar - Manzil paneli içida töliq yölni körsatiş
+Behavior - Xatti-harakat
+Icons - Nişonçalar
+Compact - Ixçam
+Details - Tafsilotlar
+Natural - Tabiiy
+Alphabetical, case insensitive - Alifbo tartibida, katta-kiçik harfga sezgir emas
+Alphabetical, case sensitive - Alifbo tartibida, katta-kiçik harfga sezgir
+Sorting mode:  - Saralaş rejimi: 
+Show number of items - Elementlar sonini körsatiş
+Show size of contents, up to  - Tarkib hajmini körsatiş, eng köpi bilan 
+Show no size - Hajmni körsatmaslik
+ level deep -  daraja çuqurlikda
+Folder size: - Jild hajmi:
+Relative (e.g. '%1') - Nisbiy (masalan, '%1')
+Absolute (e.g. '%1') - Mutlaq (masalan, '%1')
+Date style: - Sana uslubi:
+Symbolic (e.g. 'drwxr-xr-x') - Ramziy (masalan, 'drwxr-xr-x')
+Numeric (Octal) (e.g. '755') - Raqamli (Sakkizlik) (masalan, '755')
+Combined (e.g. 'drwxr-xr-x (755)') - Aralaş (masalan, 'drwxr-xr-x (755)')
+Permissions style: - Ruxsatlar uslubi:
+Elide in the middle (e.g. ’Some very… name.txt') - Örtasidan qisqartiriş (masalan, 'Juda uzun… nom.txt')
+Elide at the end (e.g. ’Some very long….txt') - Oxiridan qisqartiriş (masalan, 'Juda uzun nom….txt')
+Long file names: - Uzun fayl nomlari:
+System Font - Tizim şrifti
+Custom Font - Maxsus şrift
+Choose… - Tanlaş…
+Use common display style for all folders - Barça jildlar uçun umumiy körsatiş uslubidan foydalaniş
+Some special views like search, recent files, or trash will still use a custom display style. - Qidiruv, yaqinda işlatilgan fayllar yoki çiqindilar qutisi kabi baʼzi maxsus körinişlar baribir maxsus körsatiş uslubidan foydalanadi.
+Remember display style for each folder - Har bir jild uçun körsatiş uslubini eslab qoliş
+Dolphin will add file system metadata to folders you change view properties for. If that is not possible, a hidden .directory file is created instead. - Dolphin siz köriniş xossalarini özgartirgan jildlarga fayl tizimi metamaʼlumotlarini qöşadi. Agar buning imkoni bölmasa, buning örniga yaşirin .directory fayli yaratiladi.
+Use icons view mode for locations which mostly contain media files - Asosan media fayllarni öz içiga olgan manzillar uçun nişonçalar körinişi rejimidan foydalaniş
+Display style:  - Körsatiş uslubi: 
+Browse compressed files as folders - Siqilgan fayllarni jildlar sifatida köriş
+Open folders during drag operations - Sudrab taşiş jarayonida jildlarni oçiş
+Browsing:  - Köriş: 
+Show item information on hover - Kursor olib borilganda element haqida maʼlumotni körsatiş
+Miscellaneous:  - Har xil: 
+Show selection marker - Tanlaş belgisini körsatiş
+Rename single items inline - Yagona elementlarning nomini öz joyida özgartiriş
+Renaming multiple items is always done with a dialog window. - Bir neçta elementlarning nomini özgartiriş har doim muloqot oynasi orqali amalga oşiriladi.
+Also hide backup files while hiding hidden files - Yaşirin fayllarni yaşirganda zaxira nusxa fayllarini ham yaşiriş
+Backup files are the files whose mime-type is application/x-trash, patterns: %1 - Zaxira nusxa fayllari — MIME turi application/x-trash bölgan fayllardir, namunalar: %1
+Action to trigger when double clicking view background - Köriniş orqa foniga ikki marta bosilganda bajariladigan amal
+Nothing - Heç narsa
+Custom Command - Maxsus buyruq
+Double-click triggers - Ikki marta bosiş amali
+Background:  - Orqa fon: 
+Enter custom command to trigger when double clicking view background - Köriniş orqa foniga ikki marta bosilganda işga tuşiriladigan maxsus buyruqni kiriting
+Command… - Buyruq…
+Use {path} to get the path of the current folder. Example: dolphin {path} - Joriy jild yölini oliş uçun {path} dan foydalaning. Misol: dolphin {path}
+General - Umumiy
+Content Display - Tarkibni körsatiş
+Columns - Ustunlar
+Default icon size: - Andoza nişonça ölçami:
+Preview icon size: - Oldindan köriş nişonçasi ölçami:
+Label font: - Yorliq şrifti:
+Some font styles are reserved by Dolphin and may be overridden. - Baʼzi şrift uslublari Dolphin tomonidan band qilingan va ustidan yozilişi mumkin.
+Small - Kiçik
+Medium - Örtaça
+Large - Katta
+Huge - Juda katta
+Label width: - Yorliq kengligi:
+Unlimited - Çeksiz
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+Maximum lines: - Eng köp satrlar:
+Compact - Ixçam
+Places the items closer together, so that more of them fit in a row. - Bir qatorga köproq siğişi uçun elementlarni bir-biriga yaqinroq joylaştiradi.
+Spacing: - Oraliq masofa:
+Unlimited - Çeksiz
+Small - Kiçik
+Medium - Örtaça
+Large - Katta
+Maximum width: - Eng katta kenglik:
+Expandable - Yoyiladigan
+Folders: - Jildlar:
+By clicking anywhere on the row - Satrning istalgan joyiga bosiş orqali
+By clicking on icon or name - Nişonça yoki nom ustiga bosiş orqali
+Open files and folders: - Fayl va jildlarni oçiş:
+Fixed - Qatʼiy
+Adjust to content - Tarkibga moslaştiriş
+Column width: - Ustun kengligi:
+Size: 1 pixel - Ölçami: 1 piksel
+View Display Style - Körinişni körsatiş uslubi
+Icons - Nişonçalar
+Compact - Ixçam
+Details - Tafsilotlar
+Columns - Ustunlar
+Ascending - Köpayiş böyiça
+Descending - Kamayiş böyiça
+Show folders first - Avval jildlarni körsatiş
+Show hidden files last - Yaşirin fayllarni oxirida körsatiş
+Show preview - Oldindan körişni körsatiş
+Show in groups - Guruhlarda körsatiş
+Show hidden files - Yaşirin fayllarni körsatiş
+Additional Information - Qöşimça maʼlumot
+Choose what to see on each file or folder: - Har bir fayl yoki jildda nimani körişni tanlang:
+View mode: - Köriniş rejimi:
+Sorting: - Saralaş:
+View options: - Köriniş parametrlari:
+Current folder - Joriy jild
+Current folder and sub-folders - Joriy jild va qism jildlar
+All folders - Barça jildlar
+Apply to: - Qöllanilsin:
+Use as default view settings - Andoza köriniş sozlamalari sifatida foydalaniş
+The view properties of all sub-folders will be changed. Do you want to continue? - Barça qism jildlarning köriniş xossalari özgartiriladi. Davom etişni xohlaysizmi?
+The view properties of all folders will be changed. Do you want to continue? - Barça jildlarning köriniş xossalari özgartiriladi. Davom etişni xohlaysizmi?
+Applying View Properties - Köriniş xossalarini qöllaş
+Counting folders: %1 - Jildlar sanalmoqda: %1
+Folders: %1 - Jildlar: %1
+<application>Filelight</application> installed successfully. - <application>Filelight</application> muvaffaqiyatli örnatildi.
+Installing Filelight… - Filelight örnatilmoqda…
+Disk Usage Statistics - current folder - Diskdan foydalaniş statistikasi - joriy jild
+Disk Usage Statistics - current device - Diskdan foydalaniş statistikasi - joriy qurilma
+Disk Usage Statistics - all devices - Diskdan foydalaniş statistikasi - barça qurilmalar
+KDiskFree - KDiskFree
+Free Up Disk Space - Diskda joy böşatiş
+<para>Install additional software to view disk usage statistics<nl/>and identify big files and folders.</para> - <para>Diskdan foydalaniş statistikasini köriş hamda katta fayl va jildlarni<nl/>aniqlaş uçun qöşimça dasturiy taʼminotni örnating.</para>
+Install Filelight… - Filelight dasturini örnatiş…
+Zoom: - Massştab:
+Zoom - Massştab
+Sets the size of the file icons. - Fayl nişonçalari ölçamini belgilaydi.
+Stop - Töxtatiş
+Stop loading - Yuklaşni töxtatiş
+<para>This is the <emphasis>Statusbar</emphasis>. It contains three elements by default (left to right):<list><item>A <emphasis>text field</emphasis> that displays the size of selected items. If only one item is selected the name and type is shown as well.</item><item>A <emphasis>zoom slider</emphasis> that allows you to adjust the size of the icons in the view.</item><item><emphasis>Space information</emphasis> about the current storage device.</item></list></para> - <para>Bu <emphasis>Holat paneli</emphasis>. U andoza böyiça uçta elementni öz içiga oladi (çapdan öngga):<list><item>Tanlangan elementlarning hajmini körsatadigan <emphasis>matn maydoni</emphasis>. Agar faqat bitta element tanlangan bölsa, uning nomi va turi ham körsatiladi.</item><item>Körinişdagi nişonçalar ölçamini moslaştiriş imkonini beruvçi <emphasis>massştab surgiti</emphasis>.</item><item>Joriy maʼlumot saqlaş qurilmasi haqida <emphasis>böş joy maʼlumoti</emphasis>.</item></list></para>
+Show Zoom Slider - Massştab surgitini körsatiş
+%1 free - %1 böş
+%1 free out of %2 (%3% used) - %2 dan %1 böş (%3% band)
+%1 free out of %2 (%3% used) Press to manage disk space usage. - %2 dan %1 böş (%3% band) Disk maydonidan foydalanişni boşqariş uçun bosing.
+Trash Emptied - Çiqindilar qutisi böşatildi
+The Trash was emptied. - Çiqindilar qutisi böşatildi.
+Places - Joylar
+Count of available Network Shares - Mavjud tarmoq ulanişlari soni
+Settings - Sozlamalar
+A subset of Dolphin settings. - Dolphin sozlamalarining bir qismi.
+Loading… - Yuklanmoqda…
+Loading canceled - Yuklaş bekor qilindi
+Select Remote Charset - Masofaviy kodlaş usulini tanlaş
+Default - Andoza
+Reload - Qayta yuklaş
+1 folder selected - 1 ta jild tanlandi
+1 file selected - 1 ta fayl tanlandi
+1 folder - 1 ta jild
+1 file - 1 ta fayl
+%1, %2 (%3) - %1, %2 (%3)
+%1 (%2) - %1 (%2)
+0 folders, 0 files - 0 ta jild, 0 ta fayl
+%1 copy - %1 nusxasi
+Are you sure you want to open 1 item? - Haqiqatan ham 1 ta elementni oçmoqçimisiz?
+Open %1 Item - %1 ta elementni oçiş
+Side Padding - Yon tomondan böş joy
+Automatic Column Widths - Avtomatik ustun kengliklari
+Custom Column Widths - Maxsus ustun kengliklari
+Trash operation completed. - Çiqindilar qutisiga köçiriş amali yakunlandi.
+Delete operation completed. - Öçiriş amali yakunlandi.
+Rename and Hide - Nomini özgartiriş va yaşiriş
+Adding a dot to the beginning of this file's name will hide it from view. Do you still want to rename it? - Uşbu fayl nomining boşiga nuqta qöşiş uni körinişdan yaşiradi. Baribir uning nomini özgartirmoqçimisiz?
+Adding a dot to the beginning of this folder's name will hide it from view. Do you still want to rename it? - Uşbu jild nomining boşiga nuqta qöşiş uni körinişdan yaşiradi. Baribir uning nomini özgartirmoqçimisiz?
+Hide this File? - Uşbu fayl yaşirilsinmi?
+Hide this Folder? - Uşbu jild yaşirilsinmi?
+Rename - Nomini özgartiriş
+This will make the file type unknown. The file's content won't change but applications may no longer recognize it. Do you still want to rename it? - Bu fayl turini nomaʼlum qilib qöyadi. Faylning tarkibi özgarmaydi, biroq dasturlar uni endi tanimasligi mumkin. Baribir uning nomini özgartirmoqçimisiz?
+This will change the file type from "%1" to "%2". The file's content won't change but applications may no longer recognize it. Do you still want to rename it? - Bu fayl turini "%1" dan "%2" ga özgartiradi. Faylning tarkibi özgarmaydi, biroq dasturlar uni endi tanimasligi mumkin. Baribir uning nomini özgartirmoqçimisiz?
+Change File Type - Fayl turini özgartiriş
+The location is empty. - Manzil böş.
+The location '%1' is invalid. - '%1' manzili notöğri.
+No items matching the filter - Filtrga mos keluvçi elementlar yöq
+No items matching the search - Qidiruvga mos keluvçi elementlar yöq
+Trash is empty - Çiqindilar qutisi böş
+No tags - Teglar yöq
+No files tagged with "%1" - "%1" tegi qöyilgan fayllar yöq
+No recently used items - Yaqinda foydalanilgan elementlar yöq
+No shared folders found - Umumiy jildlar topilmadi
+No relevant network resources found - Tegişli tarmoq resurslari topilmadi
+No MTP-compatible devices found - MTP-mos keluvçi qurilmalar topilmadi
+No Apple devices found - Apple qurilmalari topilmadi
+No KDE Connect devices found - KDE Connect qurilmalari topilmadi
+No storage found on this device - Uşbu qurilmada xotira topilmadi
+No Bluetooth devices found - Bluetooth qurilmalari topilmadi
+Folder is empty - Jild böş
+Create Folder… - Jild yaratiş…
+Create Subfolder… - Qism jild yaratiş…
+Create File… - Fayl yaratiş…
+This renames the items in your current selection.<nl/>Renaming multiple items at once results in their new names differing only in a number. - Bu joriy tanlovdagi elementlarning nomini özgartiradi.<nl/>Bir vaqtning özida bir neçta elementlarning nomini özgartiriş ularning yangi nomlari faqat raqam bilan farqlanişiga olib keladi.
+This moves the items in your current selection to the <filename>Trash</filename>.<nl/>The trash is a temporary storage location where items can be deleted later if disk space is needed. - Bu joriy tanlovdagi elementlarni <filename>Çiqindilar qutisiga</filename> köçiradi.<nl/>Çiqindilar qutisi — vaqtinçalik saqlaş joyi bölib, diskda joy kerak bölganda elementlarni keyinroq u yerdan öçirib taşlaş mumkin.
+This deletes the items in your current selection permanently. They cannot be recovered by normal means. - Bu joriy tanlovdagi elementlarni butunlay öçirib taşlaydi. Ularni oddiy vositalar bilan tiklab bölmaydi.
+Delete (using shortcut for Trash) - Öçiriş (Çiqindilar qutisi tugmalar birikmasidan foydalanib)
+Duplicate Here - Şu yerda nusxa yaratiş
+Properties - Xossalar
+This shows a complete list of properties of the currently selected items in a new window.<nl/>If nothing is selected the window will be about the currently viewed folder instead.<nl/>You can configure advanced options there like managing read- and write-permissions. - Bu joriy tanlangan elementlarning töliq xossalari röyxatini yangi oynada körsatadi.<nl/>Agar heç narsa tanlanmagan bölsa, oyna joriy körilayotgan jild haqida böladi.<nl/>U yerda öqiş va yoziş ruxsatlarini boşqariş kabi qöşimça parametrlarni sozlaşingiz mumkin.
+Copy Location - Manzilni nusxalaş
+This will copy the path of the first selected item into the clipboard. - Bu birinçi tanlangan elementning yölini vaqtinçalik xotiraga nusxalaydi.
+Move to Trash… - Çiqindilar qutisiga köçiriş…
+Delete… - Öçiriş…
+Duplicate Here… - Şu yerda nusxa yaratiş…
+Copy Location… - Manzilni nusxalaş…
+<para>This switches to a view mode that focuses on the folder and file icons. This mode makes it easy to distinguish folders from files and to detect items with distinctive <emphasis>file types</emphasis>.</para><para> This mode is handy to browse through pictures when the <interface>Preview</interface> option is enabled.</para> - <para>Bu jild va fayl nişonçalariga asoslangan köriniş rejimiga ötadi. Uşbu rejim jildlarni fayllardan ajratişni va öziga xos <emphasis>fayl turlariga</emphasis> ega elementlarni aniqlaşni osonlaştiradi.</para><para> <interface>Oldindan köriş</interface> parametri yoqilganida uşbu rejim rasmlarni körib çiqiş uçun juda qulaydir.</para>
+<para>This switches to a compact view mode that lists the folders and files in columns with the names beside the icons.</para><para>This helps to give you an overview in folders with many items.</para> - <para>Bu jild va fayllarni ustunlarda, nomlarini esa nişonçalar yonida körsatadigan ixçam köriniş rejimiga ötadi.</para><para>Bu köplab elementlarga ega jildlarni umumiy körib çiqişga yordam beradi.</para>
+<para>This switches to a list view mode that focuses on folder and file details.</para><para>Click on a detail in the column header to sort the items by it. Click again to sort the other way around. To select which details should be displayed click the header with the right mouse button.</para><para>You can view the contents of a folder without leaving the current location by clicking the region to the left of it. This way you can view the contents of multiple folders in the same list.</para> - <para>Bu jild va fayl tafsilotlariga asoslangan röyxat körinişi rejimiga ötadi.</para><para>Elementlarni biror tafsilot böyiça saralaş uçun ustun sarlavhasidagi öşa tafsilot ustiga bosing. Teskari tartibda saralaş uçun yana bir marta bosing. Qaysi tafsilotlar körsatilişi kerakligini tanlaş uçun sarlavha ustiga siçqonçaning öng tugmasini bosing.</para><para>Joriy manzildan çiqmasdan jildning tarkibini köriş uçun uning çap tomonidagi hududga bosişingiz mumkin. Şu tariqa bitta röyxatda bir neçta jildlarning tarkibini körişingiz mumkin.</para>
+<para>This switches to a columns view mode (Miller Columns). Each directory level is shown in its own column, cascading horizontally from left to right.</para><para>Selecting a folder opens its contents in the next column to the right.</para> - <para>Bu ustunlar körinişi rejimiga (Miller ustunlari) ötadi. Har bir katalog darajasi çapdan öngga qarab gorizontal ravişda öz ustunida körsatiladi.</para><para>Jildni tanlaş uning tarkibini öng tomondagi keyingi ustunda oçadi.</para>
+Change View Mode - Köriniş rejimini özgartiriş
+This cycles through all view modes. - Bu barça köriniş rejimlari böylab aylanib çiqadi.
+This increases the icon size. - Bu nişonça ölçamini kattalaştiradi.
+Reset Zoom Level - Massştab darajasini tiklaş
+Zoom To Default - Andoza massştabga qaytariş
+This resets the icon size to default. - Bu nişonça ölçamini andoza holatiga qaytaradi.
+This reduces the icon size. - Bu nişonça ölçamini kiçiklaştiradi.
+Show Previews - Oldindan körişni körsatiş
+Show preview of files and folders - Fayl va jildlarni oldindan körişni körsatiş
+When this is enabled, the icons are based on the actual file or folder contents.<nl/>For example the icons of images become scaled down versions of the images. - Bu yoqilganda, nişonçalar fayl yoki jildning haqiqiy tarkibiga asoslanadi.<nl/>Masalan, rasmlarning nişonçalari öşa rasmlarning kiçraytirilgan nusxalariga aylanadi.
+Sorting - Saralaş
+Folders First - Avval jildlar
+Hidden Files Last - Yaşirin fayllar oxirida
+Sort By - Saralaş mezoni
+Show Field - Maydonni körsatiş
+Show Additional Information - Qöşimça maʼlumotni körsatiş
+Grouping - Guruhlaş
+Group By - Guruhlaş mezoni
+This groups files and folders by a chosen attribute. "None" disables grouping. "Same as Sort" groups by the active sort criterion. - Bu fayl va jildlarni tanlangan atribut böyiça guruhlaydi. "Yöq" guruhlaşni öçiradi. "Saralaş bilan bir xil" faol saralaş mezoni böyiça guruhlaydi.
+None - Yöq
+Same as Sort - Saralaş bilan bir xil
+Show Hidden Files - Yaşirin fayllarni körsatiş
+<para>When this is enabled, <emphasis>hidden</emphasis> files and folders are visible. They will be displayed semi-transparent.</para><para>Hidden items only differ from normal ones in that their name starts with a dot ("."). Typically, there is no need for users to access them, which is why they are hidden.</para><para>Items can also be hidden if their names are listed in a text file named ".hidden". Files with the "application/x-trash" MIME type, such as backup files, can also be hidden by enabling that setting in Configure Dolphin > View > General.</para> - <para>Bu yoqilganda, <emphasis>yaşirin</emphasis> fayl va jildlar körinadigan böladi. Ular yarim şaffof holatda körsatiladi.</para><para>Yaşirin elementlar oddiy elementlardan faqat nomining nuqta (".") bilan boşlanişi bilan farq qiladi. Odatda foydalanuvçilarning ularga kirişiga ehtiyoj bölmaydi, şuning uçun ular yaşirilgan.</para><para>Elementlarning nomlari ".hidden" nomli matn faylida keltirilgan bölsa ham ular yaşirilişi mumkin. Zaxira nusxa fayllari kabi "application/x-trash" MIME turiga ega fayllarni ham Dolphin dasturini sozlaş > Köriniş > Umumiy bölimida uşbu sozlamani yoqiş orqali yaşiriş mumkin.</para>
+Adjust View Display Style… - Körinişni körsatiş uslubini moslaştiriş…
+This opens a window in which all folder view properties can be adjusted. - Bu jild körinişining barça xossalarini moslaştiriş mumkin bölgan oynani oçadi.
+Restore to Defaults - Andoza qiymatlarni tiklaş
+Restore View Settings to Default Values - Köriniş sozlamalarini andoza qiymatlarga tiklaş
+View Settings - Köriniş sozlamalari
+This cycles through all view modes. The dropdown menu contains various view-related actions. - Bu barça köriniş rejimlari böylab aylanib çiqadi. Oçiladigan menyu köriniş bilan boğliq turli amallarni öz içiga oladi.
+Icons - Nişonçalar
+Icons view mode - Nişonçalar körinişi rejimi
+Compact - Ixçam
+Compact view mode - Ixçam köriniş rejimi
+Details - Tafsilotlar
+Details view mode - Tafsilotlar körinişi rejimi
+Columns - Ustunlar
+Columns view mode - Ustunlar körinişi rejimi
+Z-A - Z-A
+A-Z - A-Z
+Largest First - Avval eng kattasi
+Smallest First - Avval eng kiçigi
+Newest First - Avval eng yangisi
+Oldest First - Avval eng eskisi
+Highest First - Avval eng yuqori baholangani
+Lowest First - Avval eng past baholangani
+Descending - Kamayiş tartibida
+Ascending - Köpayiş tartibida
+Actions for Current View - Joriy köriniş uçun amallar
+Actions for %1 - %1 uçun amallar
+Actions for One Selected Item - Bitta tanlangan element uçun amallar
+Updating version information… - Talqin haqidagi maʼlumot yangilanmoqda…
+Zoom - Massştab
+Zoom - Massştab

@@ -1,0 +1,30 @@
+Layout cannot be changed while widgets are locked - Vidjetlar qulflangan vaqtda joylaşuvni özgartirib bölmaydi
+Wallpaper Type: - Fon rasmi turi:
+Wallpaper - Fon rasmi
+Slideshow - Slayd-şou
+Unlocking failed - Qulfdan çiqariş muvaffaqiyatsiz tugadi
+Password - Parol
+Unlock Screen - Ekranni qulfdan çiqariş
+Installing software updates and restarting in 1 second - Dasturiy taʼminot yangilanişlari örnatilmoqda va 1 soniyadan söng qayta işga tuşiriladi
+Restarting in 1 second - 1 soniyadan söng qayta işga tuşiriladi
+Logging out in 1 second - 1 soniyadan söng tizimdan çiqiladi
+Installing software updates and shutting down in 1 second - Dasturiy taʼminot yangilanişlari örnatilmoqda va 1 soniyadan söng öçiriladi
+Shutting down in 1 second - 1 soniyadan söng öçiriladi
+One other user is currently logged in. If the computer is shut down or restarted, that user may lose work. - Hozirda yana bir foydalanuvçi tizimga kirgan. Agar kompyuter öçirilsa yoki qayta işga tuşirilsa, uşbu foydalanuvçi işini yöqotişi mumkin.
+When restarted, the computer will enter UEFI firmware settings. - Qayta işga tuşirilganda kompyuter UEFI dasturiy taʼminot sozlamalariga kiradi.
+When restarted, the computer will enter the firmware setup screen. - Qayta işga tuşirilganda kompyuter mikrodastur sozlamalari ekraniga kiradi.
+When restarted, the computer will enter the boot loader menu. - Qayta işga tuşirilganda kompyuter yuklovçi (boot loader) menyusiga kiradi.
+When restarted, the computer will switch to %1. - Qayta işga tuşirilganda kompyuter %1 ga ötadi.
+Slee&p - &Uyqu
+Slee&p Now - &Hozir uyquga ötiş
+&Hibernate - &Gipernatsiya
+&Hibernate Now - &Hozir uyquga kiritiş
+Install Updates and Restart - Yangilanişlarni örnatiş va qayta işga tuşiriş
+&Restart - &Qayta işga tuşiriş
+&Restart Now - &Hozir qayta işga tuşiriş
+Install Updates and Shut Down - Yangilanişlarni örnatiş va öçiriş
+&Shut Down - &Tizimni öçiriş
+&Shut Down Now - &Hozir öçiriş
+&Log Out - &Çiqiş
+&Log Out Now - &Hozir çiqiş
+&Cancel - &Bekor qiliş

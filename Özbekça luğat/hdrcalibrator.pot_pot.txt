@@ -1,0 +1,16 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+HDR Calibration - HDR kalibrlaş
+Next - Keyingi
+Switches to the next page - Keyingi sahifaga ötadi
+Cancel - Bekor qiliş
+Cancels the calibration process - Kalibrlaş jarayonini bekor qiladi
+To determine the maximum brightness of the screen, adjust the slider until the logo is barely visible - Ekranning maksimal yorqinligini aniqlaş uçun logotip arang köringunça slayderni sozlang
+Configure how bright “100%” on the normal brightness slider should be. Make it as bright as you'd ever use it, as long as the HDR image still looks good and the gradients are smooth.\nTo avoid brightness fluctuations, it's recommended to not exceed the display's maximum average brightness of %1cd/m² - Oddiy yorqinlik slayderida “100%” qançalik yorqin bölişi kerakligini sozlang. HDR tasviri yaxşi körinib, gradientlar silliq bölsa, uni xohlaganingizça yorqin qiling.\nYorqinlik tebranişlarini oldini oliş uçun displeyning maksimal örtaça yorqinligi %1cd/m² dan oşmaslik tavsiya etiladi
+Configure how bright “100%” on the normal brightness slider should be. Make it as bright as you'd ever use it, as long as the HDR image still looks good and the gradients are smooth. - Oddiy yorqinlik slayderida “100%” qançalik yorqin bölişi kerakligini sozlang. HDR tasviri yaxşi körinib, gradientlar silliq bölsa, uni xohlaganingizça yorqin qiling.
+Maximum luminance: %1cd/m² - Maksimal yorqinlik: %1cd/m²
+Reference luminance / paper white: %1cd/m² - Malumot yorqinligi / qoğoz oqi: %1cd/m²
+Assume Windows HDR applications are calibrated for this screen - Windows HDR ilovalari uşbu ekran uçun kalibrlangan deb hisoblansin
+Done - Tayyor
+Finish the calibration process - Kalibrlaş jarayonini yakunlaş
+Many Windows applications come with their own calibration settings, which this system wide configuration conflicts with. If this option is set, their calibration settings will work as expected on this specific display. - Köpgina Windows ilovalari özlarining kalibrlaş sozlamalari bilan birga keladi, bu esa uşbu tizim miqyosidagi konfiguratsiyaga zid keladi. Agar uşbu parametr örnatilgan bölsa, ularning kalibrlaş sozlamalari uşbu maxsus displeyda kutilganidek işlaydi.

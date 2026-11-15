@@ -1,0 +1,19 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Select device: - Qurilmani tanlang:
+Enter a file location or URL: - Fayl joylaşuvi yoki URL manzilni kiriting:
+KDE Connect URL handler - KDE Connect URL işlovçisi
+© 2015–2025 KDE Connect Team - © 2015–2025 KDE Connect jamoasi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Albert Vaca Cintora - Albert Vaca Cintora
+URL to share - Ulaşiş uçun URL
+Select a device - Qurilmani tanlang
+id - id
+Automatically open the file on the remote device, when supported - Qöllab-quvvatlansa, faylni masofaviy qurilmada avtomatik oçiş
+Local file or web URL - Mahalliy fayl yoki veb-URL
+Device to call %1 with: - %1 bilan qönğiroq qilinadigan qurilma:
+Device to open %1 on: - %1 oçiladigan qurilma:
+Device to send a SMS with: - SMS yuboriladigan qurilma:
+Device to send %1 to: - %1 yuboriladigan qurilma:
+Shared content: - Ulaşilgan kontent:
+Couldn't share %1 - %1 ulaşib bölmadi

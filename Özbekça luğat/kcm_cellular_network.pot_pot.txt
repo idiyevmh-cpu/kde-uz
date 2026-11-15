@@ -1,0 +1,105 @@
+Available Networks - Mavjud tarmoqlar
+none - yöq
+Current operator: %1 - Joriy operator: %1
+Scan For Networks - Tarmoqlarni qidiriş
+New APN - Yangi APN
+Edit APN - APNni tahrirlaş
+Name - Nomi
+APN - APN
+Username - Foydalanuvçi nomi
+Password - Parol
+Network type - Tarmoq turi
+4G/3G/2G - 4G/3G/2G
+3G/2G - 3G/2G
+2G - 2G
+Only 4G - Faqat 4G
+Only 3G - Faqat 3G
+Only 2G - Faqat 2G
+Any - Har qanday
+Save profile - Profilni saqlaş
+Modem not available - Modem mavjud emas
+Mobile data - Mobil internet
+No SIM is inserted. - SIM-karta kiritilmagan.
+Mobile data is not available with this modem. - Uşbu modemda mobil internet mavjud emas.
+An APN needs to be configured to have mobile data. - Mobil internet bölişi uçun APN sozlanişi kerak.
+Whether mobile data is enabled. - Mobil internet yoqilganmi yoki yöq.
+Data Usage - Internet sarfi
+View data usage. - Internet sarfini köriş.
+SIM - SIM
+SIM %1 - SIM %1
+View SIM %1 details. - SIM %1 tafsilotlarini köriş.
+Modem %1 - Modem %1
+Modem Control - Modem boşqaruvi
+Force Modem Restart - Modemni majburan qayta işga tuşiriş
+Modem Details - Modem tafsilotlari
+Access Technologies - Kiriş texnologiyalari
+IMEI - IMEI
+Enabled - Yoqilgan
+Manufacturer - Işlab çiqaruvçi
+Model - Model
+Owned Numbers: - Şaxsiy raqamlar:
+Revision - Reviziya
+Signal Quality - Signal sifati
+State - Holati
+Failure Reason - Xatolik sababi
+Registration State - Röyxatdan ötiş holati
+Firmware Version - Mikrodastur versiyasi
+Interface Name - Interfeys nomi
+Metered - Ölçovli (trafik çegaralangan)
+Active NetworkManager Connection - Faol NetworkManager ulanişi
+Device - Qurilma
+Device ID - Qurilma ID
+Drivers: - Drayverlar:
+Plugin - Plagin
+Power State - Quvvat holati
+SIM Path - SIM yöli
+APNs - APNlar
+Edit - Tahrirlaş
+Unable to autodetect connection settings for your carrier. Please find your carrier's APN settings by either contacting support or searching online. - Operatoringiz uçun ulaniş sozlamalarini avtomatik aniqlab bölmadi. Iltimos, qöllab-quvvatlaş xizmatiga murojaat qiliş yoki internetdan qidiriş orqali operatoringizning APN sozlamalarini toping.
+APN List - APN röyxati
+Delete - Öçiriş
+Add APN - APN qöşiş
+Automatically detect APN - APNni avtomatik aniqlaş
+SIM Lock - SIM qulfi
+SIM is locked - SIM qulflangan
+In order to use this SIM, you must first unlock it. - Uşbu SIM-kartadan foydalaniş uçun avval uni qulfdan çiqarişingiz kerak.
+SIM is not locked - SIM qulflanmagan
+You can lock your SIM to require a set PIN code for phone calls and mobile data. - Qönğiroqlar va mobil internet uçun PIN kod talab qiliş maqsadida SIM-kartangizni qulflaşingiz mumkin.
+Lock SIM - SIM-kartani qulflaş
+Disable SIM Lock - SIM qulfini öçiriş
+Disable the SIM lock feature and remove the passcode on the SIM. - SIM qulfi funksiyasini öçiriş va SIM parolini olib taşlaş.
+Change PIN - PIN kodni özgartiriş
+Change the passcode set on the SIM. - SIM-kartada örnatilgan parolni özgartiring.
+Unlock SIM - SIM-kartani qulfdan çiqariş
+Attempts left: %1 - Qolgan urinişlar: %1
+Enter PIN - PIN kodni kiriting
+Change SIM PIN - SIM PIN kodini özgartiriş
+PINs don't match! - PIN kodlar mos kelmadi!
+PINs must be between 4 and 8 digits! - PIN kodlar 4 dan 8 tagaça raqamdan iborat bölişi kerak!
+Current PIN - Joriy PIN
+New PIN - Yangi PIN
+Confirm PIN - PIN kodni tasdiqlang
+Remove SIM PIN - SIM PIN kodini olib taşlaş
+Add SIM PIN - SIM PIN qöşiş
+SIM %1 - SIM %1
+This SIM slot is empty, a SIM card needs to be inserted in order for it to be used. - Uşbu SIM uyasi böş, undan foydalaniş uçun SIM-karta solinişi kerak.
+Roaming - Rouming
+Allow mobile data when on a roaming network. - Rouming tarmoğida bölganda mobil internetga ruxsat beriş.
+Modify APNs - APNlarni özgartiriş
+Configure access point names for your carrier. - Aloqa operatoringiz uçun kiriş nuqtasi nomlarini (APN) sozlang.
+Networks - Tarmoqlar
+Select a network operator. - Tarmoq operatorini tanlang.
+Modify SIM lock settings. - SIM qulfi sozlamalarini özgartiriş.
+View the details of the modem this SIM is connected to. - Uşbu SIM ulangan modem tafsilotlarini köriş.
+SIM Details - SIM tafsilotlari
+Locked - Qulflangan
+Yes - Ha
+No - Yöq
+IMSI - IMSI
+EID - EID
+Operator Code (modem) - Operator kodi (modem)
+Operator Name (modem) - Operator nomi (modem)
+Operator Code (provided by SIM) - Operator kodi (SIM tomonidan taqdim etilgan)
+Operator Name (provided by SIM) - Operator nomi (SIM tomonidan taqdim etilgan)
+SIM ID - SIM ID
+Emergency Numbers - Favqulodda raqamlar

@@ -1,0 +1,9 @@
+Document Switcher - Hujjat almaştirgiçi
+Last Used Views - Oxirgi işlatilgan körinişlar
+Opens a list to walk through the list of last used views. - Oxirgi işlatilgan körinişlar röyxatini körib çiqiş uçun röyxatni oçadi.
+Walk through the list of last used views - Oxirgi işlatilgan körinişlar röyxatini körib çiqiş
+Last Used Views (Reverse) - Oxirgi işlatilgan körinişlar (teskari tartibda)
+Opens a list to walk through the list of last used views in reverse. - Oxirgi işlatilgan körinişlar röyxatini teskari tartibda körib çiqiş uçun röyxatni oçadi.
+Close View - Körinişni yopiş
+Closes the selected view in the list of last used views. - Oxirgi işlatilgan körinişlar röyxatida tanlangan körinişni yopadi.
+&Go - Ö&tiş

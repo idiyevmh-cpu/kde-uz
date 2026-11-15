@@ -1,0 +1,123 @@
+Only 'dun' and 'nap' services are supported. - Faqat 'dun' va 'nap' xizmatlari qöllab-quvvatlanadi.
+Network authentication - Tarmoq autentifikatsiyasi
+You need to log into this network - Uşbu tarmoqqa kirişingiz kerak
+Log in - Kiriş
+Limited Connectivity - Çeklangan ulaniş
+This device appears to be connected to a network but is unable to reach the Internet. - Uşbu qurilma tarmoqqa ulangan körinadi, lekin internetga kira olmayapti.
+Error unlocking modem: %1 - Modemni qulfdan çiqarişda xato: %1
+PIN/PUK unlock error - PIN/PUK qulfdan çiqariş xatosi
+The device could not be configured - Qurilmani sozlab bölmadi
+IP configuration was unavailable - IP konfiguratsiyasi mavjud emas edi
+IP configuration expired - IP konfiguratsiyasi muddati tugadi
+No secrets were provided - Maxfiy maʼlumotlar taqdim etilmadi
+Authorization supplicant disconnected - Avtorizatsiya sörovçisi uzildi
+Authorization supplicant's configuration failed - Avtorizatsiya sörovçisi sozlamasi muvaffaqiyatsiz böldi
+Authorization supplicant failed - Avtorizatsiya sörovçisi muvaffaqiyatsiz böldi
+Authorization supplicant timed out - Avtorizatsiya sörovçisi kutiş vaqti tugadi
+PPP failed to start - PPP işga tuşmadi
+PPP disconnected - PPP uzildi
+PPP failed - PPP muvaffaqiyatsiz böldi
+DHCP failed to start - DHCP işga tuşmadi
+A DHCP error occurred - DHCP xatoligi yuz berdi
+DHCP failed  - DHCP muvaffaqiyatsiz böldi 
+The shared service failed to start - Ulaşilgan xizmat işga tuşmadi
+The shared service failed - Ulaşilgan xizmat muvaffaqiyatsiz böldi
+The auto IP service failed to start - Avto IP xizmati işga tuşmadi
+The auto IP service reported an error - Avto IP xizmati xato haqida xabar berdi
+The auto IP service failed - Avto IP xizmati muvaffaqiyatsiz böldi
+The modem is busy - Modem band
+The modem has no dial tone - Modemda teriş signali yöq
+The modem shows no carrier - Modemda aloqa yöq
+The modem dial timed out - Modem teriş vaqti tugadi
+The modem dial failed - Modem terişi muvaffaqiyatsiz böldi
+The modem could not be initialized - Modemni initsializatsiya qilib bölmadi
+The GSM APN could not be selected - GSM APN-ni tanlab bölmadi
+The GSM modem is not searching - GSM modemi qidirmayapti
+GSM network registration was denied - GSM tarmoğida röyxatdan ötiş rad etildi
+GSM network registration timed out - GSM tarmoğida röyxatdan ötiş vaqti tugadi
+GSM registration failed - GSM röyxatdan ötişi muvaffaqiyatsiz böldi
+The GSM PIN check failed - GSM PIN tekşiruvi muvaffaqiyatsiz böldi
+Device firmware is missing - Qurilma mikrodasturi yetişmayapti
+The device was removed - Qurilma olib taşlandi
+The networking system is now sleeping - Tarmoq tizimi hozirda uyqu rejimida
+The connection was removed - Ulaniş olib taşlandi
+The cable was disconnected - Kabel uzildi
+The modem could not be found - Modem topilmadi
+The bluetooth connection failed or timed out - Bluetooth ulanişi muvaffaqiyatsiz böldi yoki kutiş vaqti tugadi
+GSM Modem's SIM Card not inserted - GSM modemining SIM-kartasi solinmagan
+GSM Modem's SIM Pin required - GSM modemining SIM PIN kodi talab qilinadi
+GSM Modem's SIM Puk required - GSM modemining SIM PUK kodi talab qilinadi
+GSM Modem's SIM wrong - GSM modemining SIM-kartasi notöğri
+InfiniBand device does not support connected mode - InfiniBand qurilmasi ulangan rejimni qöllab-quvvatlamaydi
+A dependency of the connection failed - Ulanişning boğliqligi muvaffaqiyatsiz böldi
+Problem with the RFC 2684 Ethernet over ADSL bridge - RFC 2684 ADSL orqali Ethernet köprigi bilan boğliq muammo
+ModemManager not running - ModemManager işlamayapti
+A secondary connection of the base connection failed - Asosiy ulanişning ikkilamçi ulanişi muvaffaqiyatsiz böldi
+DCB or FCoE setup failed - DCB yoki FCoE sozlaş muvaffaqiyatsiz böldi
+teamd control failed - teamd boşqaruvi muvaffaqiyatsiz böldi
+Modem failed or no longer available - Modem işdan çiqdi yoki endi mavjud emas
+Modem now ready and available - Modem endi tayyor va mavjud
+The SIM PIN was incorrect - SIM PIN kodi notöğri edi
+A new connection activation was enqueued - Yangi ulanişni faollaştiriş navbatga qöyildi
+The device's parent changed - Qurilmaning asosiy elementi özgardi
+The device parent's management changed - Qurilmaning asosiy elementi boşqaruvi özgardi
+Connection '%1' activated. - '%1' ulanişi faollaştirildi.
+Connection '%1' deactivated. - '%1' ulanişi faolsizlantirildi.
+VPN connection '%1' activated. - '%1' VPN ulanişi faollaştirildi.
+VPN connection '%1' failed to activate. - '%1' VPN ulanişini faollaştirib bölmadi.
+VPN connection '%1' deactivated. - '%1' VPN ulanişi faolsizlantirildi.
+VPN connection '%1' was deactivated because the device it was using was disconnected. - '%1' VPN ulanişi foydalanayotgan qurilma uzilganligi sababli faolsizlantirildi.
+The service providing the VPN connection '%1' was stopped. - '%1' VPN ulanişini taqdim etuvçi xizmat töxtatildi.
+The IP config of the VPN connection '%1', was invalid. - '%1' VPN ulanişining IP konfiguratsiyasi yaroqsiz edi.
+The connection attempt to the VPN service timed out. - VPN xizmatiga ulanişga uriniş vaqti tugadi.
+A timeout occurred while starting the service providing the VPN connection '%1'. - '%1' VPN ulanişini taqdim etuvçi xizmatni işga tuşirişda kutiş vaqti tugadi.
+Starting the service providing the VPN connection '%1' failed. - '%1' VPN ulanişini taqdim etuvçi xizmatni işga tuşiriş muvaffaqiyatsiz böldi.
+Necessary secrets for the VPN connection '%1' were not provided. - '%1' VPN ulanişi uçun zarur maxfiy maʼlumotlar taqdim etilmadi.
+Authentication to the VPN server failed. - VPN serveriga autentifikatsiya muvaffaqiyatsiz böldi.
+The connection was deleted. - Ulaniş öçirildi.
+No Network Connection - Tarmoq ulanişi yöq
+You are no longer connected to a network. - Siz endi tarmoqqa ulanmagansiz.
+Authenticate %1 - %1 autentifikatsiyasidan ötiş
+No secrets were requested - Maxfiy maʼlumotlar söralmadi
+Incorrect password for the Wi-Fi network "%1". Please try again. - "%1" Wi-Fi tarmoği uçun parol notöğri. Qayta urinib köring.
+Enter the password for the Wi-Fi network "%1": - "%1" Wi-Fi tarmoği uçun parolni kiriting:
+Incorrect password for the connection "%1". Please try again. - "%1" ulanişi uçun parol notöğri. Qayta urinib köring.
+Enter the password for the connection "%1": - "%1" ulanişi uçun parolni kiriting:
+%1 Password - %1 paroli
+VPN settings are missing - VPN sozlamalari yetişmayapti
+Provide the secrets for the VPN connection "%1": - "%1" VPN ulanişi uçun maxfiy maʼlumotlarni kiriting:
+VPN secrets (%1) dialog - VPN maxfiy maʼlumotlari (%1) oynasi
+Connection Password - Ulaniş paroli
+Password: - Parol:
+SIM PUK - SIM PUK
+SIM PUK2 - SIM PUK2
+Service provider PUK - Xizmat körsatuvçi PUK kodi
+Network PUK - Tarmoq PUK kodi
+Corporate PUK - Korporativ PUK
+PH-FSIM PUK - PH-FSIM PUK
+Network Subset PUK - Tarmoq qism-töplami PUK kodi
+%1 unlock required - %1 qulfdan çiqariş talab qilinadi
+%1 Unlock Required - %1 qulfdan çiqariş talab qilinadi
+The mobile broadband device '%1' requires a %2 code before it can be used. - '%1' mobil aloqa qurilmasidan foydalanişdan oldin %2 kodi talab qilinadi.
+%1 code: - %1 kodi:
+New PIN code: - Yangi PIN kod:
+Re-enter new PIN code: - Yangi PIN kodni qayta kiriting:
+Show PIN/PUK code - PIN/PUK kodini körsatiş
+SIM PIN - SIM PIN
+SIM PIN2 - SIM PIN2
+Service provider PIN - Xizmat körsatuvçi PIN kodi
+Network PIN - Tarmoq PIN kodi
+PIN - PIN
+Corporate PIN - Korporativ PIN
+PH-FSIM PIN - PH-FSIM PIN
+Network Subset PIN - Tarmoq qism-töplami PIN kodi
+Show PIN code - PIN kodni körsatiş
+PIN code too short. It should be at least 4 digits. - PIN kod juda qisqa. Kamida 4 ta raqam bölişi kerak.
+The two PIN codes do not match - Ikki PIN kod bir-biriga mos kelmaydi
+PUK code too short. It should be 8 digits. - PUK kod juda qisqa. U 8 ta raqam bölişi kerak.
+Unknown Error - Nomaʼlum xato
+SIM PIN unlock required - SIM PIN qulfdan çiqariş talab qilinadi
+The mobile broadband device '%1' requires a SIM PIN code before it can be used. - '%1' mobil aloqa qurilmasidan foydalanişdan oldin SIM PIN kodi talab qilinadi.
+PUK code: - PUK kodi:
+Re-enter PIN code: - PIN kodni qayta kiriting:
+Authentication to %1 failed. Wrong password? - %1 autentifikatsiyasi muvaffaqiyatsiz böldi. Parol notöğrimi?

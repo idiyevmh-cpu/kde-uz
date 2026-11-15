@@ -1,0 +1,196 @@
+<application>Hg</application> Backout - <application>Hg</application> bekor qiliş (backout)
+Backout - Bekor qiliş (backout)
+Merge with old dirstate parent after backout - Bekor qilişdan söng eski ota-ona dirstate bilan birlaştiriş
+Select Changeset - Özgarişlar töplamini tanlang
+Revision to Backout:  - Bekor qilinadigan taftiş (reviziya): 
+Parent Revision (optional):  - Ota-ona taftişi (ixtiyoriy): 
+Select Changeset - Özgarişlar töplamini tanlang
+Select - Tanlang
+<application>Hg</application> Branch - <application>Hg</application> tarmoği
+Create New Branch - Yangi tarmoq yaratiş
+Switch Branch - Tarmoqni almaştiriş
+<b>Current Branch: </b> - <b>Joriy tarmoq: </b>
+Some error occurred - Xatolik yuz berdi
+<application>Hg</application> Bundle - <application>Hg</application> töplami (bundle)
+Bundle - Töplam (bundle)
+Base Revision (optional):  - Asosiy taftiş (ixtiyoriy): 
+Bundle all changesets in repository. - Ombordagi barça özgarişlar töplamini bitta paketga yiğiş.
+Options - Parametrlar
+Run even when the destination is unrelated (force) - Hatto manzil mos kelmasa ham bajarilsin (majburiy)
+Do not verify server certificate - Server sertifikati tekşirilmasin
+<application>Hg</application> Clone - <application>Hg</application> klonlaş
+Clone - Klonlaş
+URLs - URL manzillari
+Source - Manba
+Destination - Manzil
+Browse - Körib çiqiş
+Options - Parametrlar
+Do not update the new working directory. - Yangi işçi katalogni yangilamaslik.
+Use pull protocol to copy metadata. - Metamaʼlumotlarni nusxalaş uçun pull protokoliga tayaniş.
+Use uncompressed transfer. - Siqilmagan uzatişdan foydalaniş.
+Do not verify server certificate (ignoring web.cacerts config). - Server sertifikati tekşirilmasin (web.cacerts konfiguratsiyasiga eʼtibor bermasdan).
+Terminating cloning! - Klonlaş töxtatilmoqda!
+Close - Yopiş
+Error Cloning Repository! - Omborni klonlaşda xatolik!
+<application>Hg</application> Commit - <application>Hg</application> qayd etiş (commit)
+Commit - Qayd etiş (commit)
+The KTextEditor component could not be found; please check your KDE Frameworks installation. - KTextEditor komponenti topilmadi; iltimos, KDE Frameworks örnatilganligini tekşiring.
+Commit to current branch - Joriy tarmoqqa qayd etiş
+Create new branch - Yangi tarmoq yaratiş
+Close current branch - Joriy tarmoqni yopiş
+Copy Message - Xabardan nusxa oliş
+Branch - Tarmoq
+Commit Message - Qayd xabari (commit message)
+Diff/Content - Farqlar/Tarkib
+Could not create branch! Aborting commit! - Tarmoqni yaratib bölmadi! Qayd etiş bekor qilinmoqda!
+Commit unsuccessful! - Qayd etiş muvaffaqiyatsiz böldi!
+No files for commit! - Qayd etiş uçun fayllar yöq!
+Branch: Current Branch - Tarmoq: Joriy tarmoq
+Branch:  - Tarmoq: 
+Branch: Close Current - Tarmoq: Joriysini yopiş
+<application>Hg</application> Commit: New Branch - <application>Hg</application> qayd etiş: Yangi tarmoq
+Enter new branch name - Yangi tarmoq nomini kiriting
+<b>Branch already exists!</b> - <b>Tarmoq allaqaçon mavjud!</b>
+<b>Enter some text!</b> - <b>Biror matn kiriting!</b>
+A KDE text-editor component could not be found; please check your KDE installation. - KDE matn muharriri komponenti topilmadi; iltimos, KDE örnatilganligini tekşiring.
+<application>Hg</application> Repository Configuration - <application>Hg</application> ombori konfiguratsiyasi
+<application>Hg</application> Global Configuration - <application>Hg</application> global konfiguratsiyasi
+General Settings - Umumiy sozlamalar
+Repository Paths - Ombor yöllari
+Ignored Files - Eʼtiborsiz qoldirilgan fayllar
+Plugin Settings - Plagin sozlamalari
+<application>Hg</application> Initialize Repository - <application>Hg</application> omborni işga tuşiriş
+Initialize Repository - Omborni işga tuşiriş
+Error creating repository! - Omborni yaratişda xatolik!
+<application>Hg</application> Export - <application>Hg</application> eksport qiliş
+Export - Eksport qiliş
+Treat all files as text - Barça fayllarni matn sifatida qabul qiliş
+Use Git extended diff format - Git kengaytirilgan diff formatidan foydalaniş
+Omit dates from diff headers - Diff sarlavhalaridan sanalarni olib taşlaş
+Please select at least one changeset to be exported! - Iltimos, eksport qiliş uçun kamida bitta özgarişlar töplamini tanlang!
+<application>Hg</application> Add - <application>Hg</application> qöşiş
+<application>Hg</application> Remove - <application>Hg</application> olib taşlaş
+<application>Hg</application> Rename - <application>Hg</application> nomini özgartiriş
+<application>Hg</application> Commit - <application>Hg</application> qayd etiş (commit)
+<application>Hg</application> Tag - <application>Hg</application> teg
+<application>Hg</application> Branch - <application>Hg</application> tarmoği
+<application>Hg</application> Clone - <application>Hg</application> klonlaş
+<application>Hg</application> Init - <application>Hg</application> işga tuşiriş (init)
+<application>Hg</application> Update - <application>Hg</application> yangilaş
+<application>Hg</application> Global Config - <application>Hg</application> global konfiguratsiyasi
+<application>Hg</application> Repository Config - <application>Hg</application> ombori konfiguratsiyasi
+<application>Hg</application> Push - <application>Hg</application> yuboriş (push)
+<application>Hg</application> Pull - <application>Hg</application> tortib oliş (pull)
+<application>Hg</application> Revert - <application>Hg</application> qaytariş (revert)
+<application>Hg</application> Revert All - <application>Hg</application> barçasini qaytariş
+<application>Hg</application> Rollback - <application>Hg</application> orqaga qaytariş (rollback)
+<application>Hg</application> Merge - <application>Hg</application> birlaştiriş
+<application>Hg</application> Bundle - <application>Hg</application> töplami (bundle)
+<application>Hg</application> Export - <application>Hg</application> eksport qiliş
+<application>Hg</application> Import - <application>Hg</application> import qiliş
+<application>Hg</application> Unbundle - <application>Hg</application> töplamni oçiş (unbundle)
+<application>Hg</application> Serve - <application>Hg</application> serverni işga tuşiriş (serve)
+<application>Hg</application> Backout - <application>Hg</application> bekor qiliş (backout)
+<application>Hg</application> Diff - <application>Hg</application> farqlar (diff)
+<application>Mercurial</application> - <application>Mercurial</application>
+Adding files to <application>Hg</application> repository... - Fayllar <application>Hg</application> omboriga qöşilmoqda...
+Adding files to <application>Hg</application> repository failed. - Fayllarni <application>Hg</application> omboriga qöşiş muvaffaqiyatsiz böldi.
+Added files to <application>Hg</application> repository. - Fayllar <application>Hg</application> omboriga qöşildi.
+Would you like to remove selected files from the repository? - Tanlangan fayllarni ombordan olib taşlamoqçimisiz?
+Remove Files - Fayllarni olib taşlaş
+Removing files from <application>Hg</application> repository... - Fayllar <application>Hg</application> omboridan olib taşlanmoqda...
+Removing files from <application>Hg</application> repository failed. - Fayllarni <application>Hg</application> omboridan olib taşlaş muvaffaqiyatsiz böldi.
+Removed files from <application>Hg</application> repository. - Fayllar <application>Hg</application> omboridan olib taşlandi.
+Renaming of file in <application>Hg</application> repository failed. - <application>Hg</application> omboridagi fayl nomini özgartiriş muvaffaqiyatsiz böldi.
+Renamed file in <application>Hg</application> repository successfully. - <application>Hg</application> omboridagi fayl nomi muvaffaqiyatli özgartirildi.
+Renaming file in <application>Hg</application> repository. - <application>Hg</application> omboridagi fayl nomi özgartirilmoqda.
+No changes for commit! - Qayd etiş uçun özgarişlar yöq!
+Commit to <application>Hg</application> repository failed. - <application>Hg</application> omboriga qayd etiş muvaffaqiyatsiz böldi.
+Committed to <application>Hg</application> repository. - <application>Hg</application> omboriga qayd etildi.
+Commit <application>Hg</application> repository. - <application>Hg</application> omboriga qayd etiş.
+Tag operation in <application>Hg</application> repository failed. - <application>Hg</application> omborida teg amali muvaffaqiyatsiz böldi.
+Tagging operation in <application>Hg</application> repository is successful. - <application>Hg</application> omborida teglaş amali muvaffaqiyatli yakunlandi.
+Tagging operation in <application>Hg</application> repository. - <application>Hg</application> omborida teglaş amali bajarilmoqda.
+Update of <application>Hg</application> working directory failed. - <application>Hg</application> işçi katalogini yangilaş muvaffaqiyatsiz böldi.
+Update of <application>Hg</application> working directory is successful. - <application>Hg</application> işçi katalogini yangilaş muvaffaqiyatli yakunlandi.
+Updating <application>Hg</application> working directory. - <application>Hg</application> işçi katalogi yangilanmoqda.
+Branch operation on <application>Hg</application> repository failed. - <application>Hg</application> omborida tarmoq amali muvaffaqiyatsiz böldi.
+Branch operation on <application>Hg</application> repository completed successfully. - <application>Hg</application> omborida tarmoq amali muvaffaqiyatli yakunlandi.
+Branch operation on <application>Hg</application> repository. - <application>Hg</application> omborida tarmoq amali bajarilmoqda.
+Would you like to revert changes made to selected files? - Tanlangan fayllarga kiritilgan özgarişlarni bekor qilib, asl holiga qaytarmoqçimisiz?
+Revert - Qaytariş
+Reverting files in <application>Hg</application> repository... - <application>Hg</application> omboridagi fayllar asl holiga qaytarilmoqda...
+Reverting files in <application>Hg</application> repository failed. - <application>Hg</application> omboridagi fayllarni asl holiga qaytariş muvaffaqiyatsiz böldi.
+Reverting files in <application>Hg</application> repository completed successfully. - <application>Hg</application> omboridagi fayllar muvaffaqiyatli asl holiga qaytarildi.
+Would you like to revert all changes made to current working directory? - Joriy işçi katalogga kiritilgan barça özgarişlarni asl holiga qaytarmoqçimisiz?
+Revert All - Barçasini qaytariş
+Generating diff for <application>Hg</application> repository... - <application>Hg</application> ombori uçun farqlar (diff) yaratilmoqda...
+Could not get <application>Hg</application> repository diff. - <application>Hg</application> ombori farqlarini (diff) olib bölmadi.
+Generated <application>Hg</application> diff successfully. - <application>Hg</application> farqlari (diff) muvaffaqiyatli yaratildi.
+abort: Uncommitted changes in working directory! - töxtatildi: Işçi katalogda qayd etilmagan özgarişlar mavjud!
+No rollback information available! - Orqaga qaytariş (rollback) maʼlumotlari mavjud emas!
+Would you like to rollback last transaction? - Oxirgi operatsiyani orqaga qaytarmoqçimisiz (rollback)?
+Rollback - Orqaga qaytariş (rollback)
+Executing Rollback <application>Hg</application> repository... - <application>Hg</application> omborini orqaga qaytariş (rollback) bajarilmoqda...
+Rollback of <application>Hg</application> repository failed. - <application>Hg</application> omborini orqaga qaytariş (rollback) muvaffaqiyatsiz böldi.
+Rollback of <application>Hg</application> repository completed successfully. - <application>Hg</application> omborini orqaga qaytariş (rollback) muvaffaqiyatli yakunlandi.
+Dialog height - Muloqot oynasi balandligi
+Dialog width - Muloqot oynasi kengligi
+Divides file list and editors with commit details - Fayllar röyxati va muharrirlarni qayd etiş tafsilotlari bilan ajratib turadi
+Divides commit editor and diff editor - Qayd etiş muharriri va farqlar (diff) muharririni ajratib turadi
+<application>Hg</application> Import - <application>Hg</application> import qiliş
+Import - Import qiliş
+Do not commit, just update the working directory - Qayd etmasdan, faqat işçi katalogni yangilaş
+Skip test for outstanding uncommitted changes - Qolib ketgan qayd etilmagan özgarişlar tekşiruvini ötkazib yuboriş
+Apply patch to the nodes from which it was generated - Yamoqni (patçni) u yaratilgan tugunlarga qöllaş
+Apply patch without touching working directory - Işçi katalogga tegmasdan yamoqni (patçni) qöllaş
+Add Patches - Yamoqlarni (patçlarni) qöşiş
+Remove Patches - Yamoqlarni (patçlarni) olib taşlaş
+<application>Hg</application> Merge - <application>Hg</application> birlaştiriş
+Merge - Birlaştiriş
+No head selected for merge! - Birlaştiriş uçun head tanlanmagan!
+edit - tahrirlaş
+<application>Hg</application> Pull Repository - <application>Hg</application> omborni tortib oliş (pull)
+Update to new branch head if changesets were pulled - Agar özgarişlar töplamlari tortib olingan bölsa, yangi tarmoq boşi (head)gaça yangilaş
+Force Pull - Majburiy tortib oliş (force pull)
+Incoming Changes - Kiruvçi özgarişlar
+No incoming changes! - Kiruvçi özgarişlar yöq!
+<application>Hg</application> Push Repository - <application>Hg</application> omborni yuboriş (push)
+Allow pushing a new branch - Yangi tarmoqni yuborişga ruxsat beriş
+Force Push - Majburiy yuboriş (force push)
+Outgoing Changes - Çiquvçi özgarişlar
+No outgoing changes! - Çiquvçi özgarişlar yöq!
+<application>Hg</application> Rename - <application>Hg</application> nomini özgartiriş
+Rename - Nomini özgartiriş...
+Source  - Manba 
+Rename to  - Yangi nomi 
+<application>Hg</application> Serve - <application>Hg</application> serverni işga tuşiriş (serve)
+Start Server - Serverni işga tuşiriş
+Stop Server - Serverni töxtatiş
+Open in browser - Brauzerda oçiş
+Port - Port
+## Starting Server ## - ## Server işga tuşirilmoqda ##
+## Server Stopped! ##  - ## Server töxtatildi! ## 
+Filename - Fayl nomi
+File Status - Fayl holati
+Show Incoming Changes - Kiruvçi özgarişlarni körsatiş
+Show Outgoing Changes - Çiquvçi özgarişlarni körsatiş
+Pull - Tortib oliş (pull)
+Push - Yuboriş (push)
+No changes found! - Özgarişlar topilmadi!
+Error! - Xato!
+Options - Parametrlar
+<application>Hg</application> Tag - <application>Hg</application> teg
+Create New Tag - Yangi teg yaratiş
+Remove Tag - Tegni olib taşlaş
+Switch Tag - Tegni almaştiriş
+Created tag successfully! - Teg muvaffaqiyatli yaratildi!
+<application>Hg</application> Update - <application>Hg</application> yangilaş
+Update - Yangilaş
+New working directory - Yangi işçi katalog
+Tag - Teg
+Changeset/Revision - Özgarişlar töplami/Taftiş
+Current Parent - Joriy ota-ona
+Options - Parametrlar
+Discard uncommitted changes - Qayd etilmagan özgarişlarni bekor qiliş
+Some error occurred!  Maybe there are uncommitted changes. - Xatolik yuz berdi!  Balki qayd etilmagan özgarişlar mavjuddir.

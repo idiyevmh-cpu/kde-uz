@@ -1,0 +1,6 @@
+Choose the next type of click: - Keyingi bosiş turini tanlang:
+Left-click - Çap tugmani bosiş
+Double-click - Ikki marta bosiş
+Click-and-drag - Bosiş va sudrab olib ötiş
+Middle-click - Örta tugmani bosiş
+Right-click - Öng tugmani bosiş

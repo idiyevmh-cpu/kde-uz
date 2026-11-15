@@ -1,0 +1,18 @@
+logout;log out - çiqiş;tizimdan çiqiş
+Logs out, exiting the current desktop session - Joriy iş stoli seansidan çiqadi
+shutdown;shut down;power;poweroff;power off - öçiriş;quvvat;öçir
+Turns off the computer - Kompyuterni öçiradi
+restart;reboot - qayta işga tuşiriş;qayta yuklaş
+Reboots the computer - Kompyuterni qayta işga tuşiradi
+lock;lock screen - qulflaş;ekranni qulflaş
+Locks the current sessions and starts the screen saver - Joriy seanslarni qulflaydi va ekran saqlovçini işga tuşiradi
+save;save session - saqlaş;seansni saqlaş
+Saves the current session for session restoration - Seansni qayta tiklaş uçun joriy seansni saqlaydi
+switch user;new session - foydalanuvçini almaştiriş;yangi seans
+Switch to a session as a different user - Boşqa foydalanuvçi sifatida seansga ötiş
+Log Out - Tizimdan çiqiş
+Shut Down - Oçiriş
+Restart - Qayta işga tuşiriş
+Lock - Qulflaş
+Save Session - Seansni saqlaş
+Switch User - Foydalanuvçini almaştiriş

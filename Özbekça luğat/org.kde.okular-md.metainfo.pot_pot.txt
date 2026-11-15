@@ -1,0 +1,2 @@
+Markdown - Markdown
+Adds support for reading Markdown documents - Markdown hujjatlarini öqişni qöllab-quvvatlaydi

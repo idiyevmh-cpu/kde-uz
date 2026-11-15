@@ -1,0 +1,136 @@
+Do nothing - Heç narsa qilmaslik
+Sleep - Kutiş rejimi
+Hibernate - Gipernatsiya
+Shut down - Öçiriş
+Lock screen - Ekranni qulflaş
+Show logout screen - Çiqiş ekranini körsatiş
+Turn off screen - Ekranni öçiriş
+Toggle screen on/off - Ekranni yoqiş/öçiriş
+The Power Management Service appears not to be running. - Quvvat boşqaruvi xizmati işlamayotganga öxşaydi.
+Power Save - Quvvatni tejaş
+Balanced - Muvozanatli
+Performance - Yuqori unumdorlik
+Leave unchanged - Özgarişsiz qoldiriş
+Standby - Kutiş
+Save session to memory - Seansni xotiraga saqlaş
+Hybrid sleep - Gibrid kutiş rejimi
+Save session to both memory and disk - Seansni ham xotiraga, ham diskka saqlaş
+Standby, then hibernate - Kutiş, söngra gipernatsiya
+Switch to hibernation when battery runs low - Batareya quvvati kamayganda gipernatsiyaga ötiş
+Switch to hibernation after a period of inactivity - Maʼlum bir harakatsizlik davridan keyin gipernatsiyaga ötiş
+millisecond - millisoniya
+second - soniya
+minute - daqiqa
+hour - soat
+day - kun
+week - hafta
+month - oy
+year - yil
+milliseconds - millisoniya
+seconds - soniya
+minutes - daqiqa
+hours - soat
+days - kun
+weeks - hafta
+months - oy
+years - yil
+Advanced Power Settings - Kengaytirilgan quvvat sozlamalari
+10% - 10%
+Battery Levels - Batareya darajalari
+&Low level: - &Past daraja:
+Low battery level - Past batareya darajasi
+The battery charge will be considered low when it drops to this level. Settings for low battery will be used instead of regular battery settings. - Batareya quvvati uşbu darajaga tuşganda past deb hisoblanadi. Oddiy batareya sozlamalari örniga past batareya sozlamalari işlatiladi.
+Cr&itical level: - Kri&tik daraja:
+Critical battery level - Kritik batareya darajasi
+The battery charge will be considered critical when it drops to this level. After a brief warning, the system will automatically suspend or shut down, according to the configured critical battery level action. - Batareya quvvati uşbu darajaga tuşganda kritik deb hisoblanadi. Qisqa ogohlantirişdan söng, sozlangan kritik batareya darajasi amaliga muvofiq tizim avtomatik ravişda töxtatib turiladi yoki öçiriladi.
+The action you had previously configured for reaching the critical battery level is now unsupported on your system. Please select a different one. - Kritik batareya darajasiga yetganda bajariş uçun avval sozlangan amal endi tizimingizda qöllab-quvvatlanmaydi. Iltimos, boşqasini tanlang.
+A&t critical level: - Kritik darajad&a:
+Action performed at critical battery level - Kritik batareya darajasida bajariladigan amal
+Low level for peripheral d&evices: - Periferiya qurilmalari uçun pas&t daraja:
+Low battery level for peripheral devices - Periferiya qurilmalari uçun past batareya darajasi
+The battery charge for peripheral devices will be considered low when it reaches this level. - Periferiya qurilmalari batareya quvvati uşbu darajaga yetganda past deb hisoblanadi.
+Charge Limit - Quvvatlaş çegarasi
+&Battery protection: - &Batareya himoyasi:
+Limit the maximum battery charge - Maksimal batareya quvvatini çeklaş
+&Stop charging at: - Quvvatlaşni uşbu darajada &töxtatiş:
+Start charging once &below: - Uşbu darajadan &pastga tuşganda quvvatlaşni boşlaş:
+You might have to disconnect and re-connect the power source to start charging the battery again. - Batareyani qayta quvvatlaşni boşlaş uçun quvvat manbaini uzib, qayta ulaşingiz kerak bölişi mumkin.
+Regularly charging the battery close to 100%, or fully discharging it, may accelerate deterioration of battery health. By limiting the maximum battery charge, you can help extend the battery lifespan. - Batareyani muntazam ravişda 100% ga yaqin quvvatlaş yoki uni töliq tugatiş batareya salomatligining yomonlaşişini tezlaştirişi mumkin. Maksimal batareya quvvatini çeklaş orqali siz batareyaning işlaş muddatini uzaytirişga yordam bera olasiz.
+Other Settings - Boşqa sozlamalar
+&Media playback: - &Media ijrosi:
+Pause media players when suspending - Töxtatib turganda media pleyerlarni pauza qiliş
+Related pages: - Tegişli sahifalar:
+Notifications: Power Management - Bildirişnomalar: Quvvat boşqaruvi
+Open \"Notifications\" settings page, \"Power Management\" section - “Bildirişnomalar” sozlaş sahifasining “Quvvat boşqaruvi” bölimini oçiş
+Shortcuts: Power Management - Tezkor tugmalar: Quvvat boşqaruvi
+Open \"Shortcuts\" settings page, \"Power Management\" section - “Tezkor tugmalar” sozlaş sahifasining “Quvvat boşqaruvi” bölimini oçiş
+Screen Locking - Ekranni qulflaş
+Open \"Screen Locking\" settings page - “Ekranni qulflaş” sozlaş sahifasini oçiş
+Desktop Session - Iş stoli seansi
+Open \"Desktop Session\" settings page - “Iş stoli seansi” sozlaş sahifasini oçiş
+Activities - Faoliyatlar
+Open \"Activities\" settings page - “Faoliyatlar” sozlaş sahifasini oçiş
+Configure Advanced &Settings… - Kengaytirilgan &sozlamalarni sozlaş…
+Power Management settings could not be loaded - Quvvat boşqaruvi sozlamalarini yuklab bölmadi
+On AC Power - Tarmoq quvvatida
+On Battery - Batareya quvvatida
+On Low Battery - Past batareya quvvatida
+Suspend Session - Seansni töxtatib turiş
+The action you had previously configured to happen when inactive is now unsupported on your system. Please select a different one. - Harakatsiz turganda yuz berişi uçun avval sozlangan amal endi tizimingizda qöllab-quvvatlanmaydi. Iltimos, boşqasini tanlang.
+When &inactive: - Harakats&iz turganda:
+Action to perform when the system is idle - Tizim harakatsiz turganda bajariladigan amal
+After %1 second - %1 soniyadan keyin
+After %1 minute - %1 daqiqadan keyin
+Custom… - Moslaştirilgan…
+Disabling automatic suspend will result in higher energy consumption. - Avtomatik töxtatib turişni öçirib qöyiş yuqoriroq energiya sarfiga olib keladi.
+A long duration will result in higher energy consumption. - Uzoq davomiylik yuqoriroq energiya sarfiga olib keladi.
+The action you had previously configured for when the power button is pressed is now unsupported on your system. Please select a different one. - Quvvat tugmasi bosilganda yuz berişi uçun avval sozlangan amal endi tizimingizda qöllab-quvvatlanmaydi. Iltimos, boşqasini tanlang.
+When &power button pressed: - &Quvvat tugmasi bosilganda:
+Action to perform when the power button is pressed - Quvvat tugmasi bosilganda bajariladigan amal
+The action you had previously configured for when the lid is closed is now unsupported on your system. Please select a different one. - Qopqoq yopilganda yuz berişi uçun avval sozlangan amal endi tizimingizda qöllab-quvvatlanmaydi. Iltimos, boşqasini tanlang.
+When laptop &lid closed: - Noutbuk &qopqoği yopilganda:
+Action to perform when the laptop lid is closed - Noutbuk qopqoği yopilganda bajariladigan amal
+Even when an external monitor is connected - Hatto taşqi monitor ulangan bölsa ham
+Perform laptop lid action even when an external monitor is connected - Hatto taşqi monitor ulangan bölsa ham noutbuk qopqoği amalini bajariş
+The sleep mode you had previously configured is now unsupported on your system. Please select a different one. - Avval sozlangan kutiş rejimi endi tizimingizda qöllab-quvvatlanmaydi. Iltimos, boşqasini tanlang.
+When sleeping, enter: - Kutiş rejimiga ötganda:
+When sleeping, enter this power-save mode - Kutiş rejimiga ötganda uşbu quvvat tejaş rejimiga ötiş
+Display and Brightness - Displey va yorqinlik
+Change scr&een brightness: - &Ekran yorqinligini özgartiriş:
+Di&m automatically: - Avtomatik &xiralaştiriş:
+Di&m automatically after: - Quyidagi vaqtdan keyin avtomatik &xiralaştiriş:
+%1 second - %1 soniya
+%1 minute - %1 daqiqa
+Never - Heç qaçon
+The screen will not be dimmed because it is configured to turn off sooner. - Ekran xiralaştirilmaydi, çunki u ertaroq öçiş uçun sozlangan.
+&Turn off screen: - Ekranni &öçiriş:
+Turn off screen after: - Ekranni öçiriş vaqti:
+When locked, turn off screen after: - Qulflanganda ekranni öçiriş vaqti:
+When locked: %1 second - Qulflanganda: %1 soniya
+When locked: %1 minute - Qulflanganda: %1 daqiqa
+When locked and unlocked - Qulflanganda va qulfdan çiqarilganda
+When locked: Immediately - Qulflanganda: Darhol
+Change key&board brightness: - &Klaviatura yorqinligini özgartiriş:
+Switch to po&wer profile: - &Quvvat profiliga ötiş:
+Switch to power profile - Quvvat profiliga ötiş
+Run command or script: - Buyruq yoki skriptni işga tuşiriş:
+Choose run conditions - Işga tuşiriş şartlarini tanlang
+Choose run conditions for command or script - Buyruq yoki skript uçun işga tuşiriş şartlarini tanlang
+When entering \"%1\" state - “%1” holatiga kirganda
+When exiting \"%1\" state - “%1” holatidan çiqqanda
+When inactive - Harakatsiz turganda
+When e&ntering \"%1\" state: - “%1” holatiga k&irganda:
+Command or script when entering \"%1\" state - “%1” holatiga kirganda buyruq yoki skript
+When e&xiting \"%1\" state: - “%1” holatidan &çiqqanda:
+Command or script when exiting \"%1\" state - “%1” holatidan çiqqanda buyruq yoki skript
+Duration of inactivity before the command or script runs - Buyruq yoki skript işga tuşişidan oldingi harakatsizlik davomiyligi
+When i&nactive: - Haraka&tsiz turganda:
+Run command or script after: - Buyruq yoki skriptni quyidagi vaqtdan keyin işga tuşiriş:
+Run after %1 second - %1 soniyadan keyin işga tuşiriş
+Run after %1 minute - %1 daqiqadan keyin işga tuşiriş
+Command or script when inactive - Harakatsiz turganda buyruq yoki skript
+Enter command or script file - Buyruqni kiriting yoki skript faylini tanlang
+Enter command or choose script file - Buyruqni kiriting yoki skript faylini tanlang
+Choose… - Tanlaş…
+Choose script file - Skript faylini tanlang
+Custom Duration - Moslaştirilgan davomiylik

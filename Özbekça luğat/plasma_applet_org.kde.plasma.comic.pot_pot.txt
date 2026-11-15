@@ -1,0 +1,51 @@
+# %1 - # %1
+Jump to strip… - Komiksga ötiş…
+Visit the comic website - Komiks veb-saytiga taşrif buyuriş
+Go to previous strip - Oldingi komiksga ötiş
+Show full-size in popup - Qalqib çiquvçi oynada töliq ölçamda körsatiş
+Go to next strip - Keyingi komiksga ötiş
+Comics - Komikslar
+Behavior - Xatti-harakat
+Show above image: - Rasm ustida körsatiş:
+Title - Sarlavha
+Author - Muallif
+Show below image: - Rasm ostida körsatiş:
+Identifier - Identifikator
+Website - Veb-sayt
+Navigation buttons: - Navigatsiya tugmalari:
+Always visible at the edges - Har doim çekkalarida körinadi
+Appear centrally when hovering - Kursor keltirilganda markazda paydo böladi
+Middle-clicking image: - Rasm ustiga örta tugmani bosiş:
+Opens full-size view - Töliq ölçamli körinişni oçadi
+Get New… - Yangilarini oliş…
+No comics installed - Komikslar örnatilmagan
+Get Comics… - Komikslarni oliş…
+Check for new comics every: - Yangi komikslarni tekşiriş oraliği:
+minute - daqiqa
+Keep local archive: - Mahalliy arxivni saqlaş:
+images per comic - har bir komiks uçun rasmlar
+Could not load comic - Komiksni yuklab bölmadi
+Try again later, or choose a different comic - Keyinroq qayta urinib köring yoki boşqa komiksni tanlang
+Offline - Oflayn
+Reconnect to the internet to retry loading this image. You can still view any images in the local archive. - Uşbu rasmni qayta yuklaş uçun internetga qayta ulaning. Mahalliy arxivdagi rasmlarni hali ham körişingiz mumkin.
+Limited connectivity - Çeklangan ulaniş
+The image may not be available on your current connection. You can still view any images in the local archive. - Rasm joriy ulanişingizda mavjud bölmasligi mumkin. Siz mahalliy arxivdagi rasmlarni körişingiz mumkin.
+Not available - Mavjud emas
+Today's image is not yet available or cannot be read. Try a different date. - Bugungi rasm hali mavjud emas yoki uni öqib bölmadi. Boşqa sanani tanlang.
+Not available - Mavjud emas
+The image for this day is not available or cannot be read. Try a different date. - Uşbu kun uçun rasm mavjud emas yoki uni öqib bölmadi. Boşqa sanani tanlang.
+&Next Tab with a New Strip - &Yangi komiksli keyingi varaq
+Jump to &First Strip - &Birinçi komiksga ötiş
+Jump to &Current Strip - &Joriy komiksga ötiş
+Jump to Strip… - Komiksga ötiş…
+Visit the Website - Veb-saytga taşrif buyuriş
+Visit the Shop &Website - Dökon va &veb-saytga taşrif buyuriş
+&Save Comic As… - &Komiksni saqlaş…
+&Actual Size - &Tabiiy ölçam
+Store Current &Position - Joriy &örinni saqlaş
+No comics configured - Heç qanday komiks sozlanmagan
+Choose comic… - Komiksni tanlang…
+%1/%2 - %3.png - %1/%2 - %3.png
+Go to Strip - Komiksga ötiş
+&Strip number: - &Komiks raqami:
+Strip identifier: - Komiks identifikatori:

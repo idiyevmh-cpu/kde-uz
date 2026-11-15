@@ -1,0 +1,20 @@
+System navigation - Tizim navigatsiyasi
+START button when suppressed - Bostirilganda START tugmasi
+Handle the START button even when input is suppressed (may conflict with some apps) - Kiritiş bostirilganda ham START tugmasini qayta işlaş (baʼzi ilovalar bilan ziddiyatga kirişişi mumkin)
+Input - Kiritiş
+Input daemon is not running - Kiritiş xizmati (demon) işlamayapti
+Controller and remote settings are only available when plasma-bigscreen-inputhandler is running - Pult va geympad sozlamalari faqat plasma-bigscreen-inputhandler işlayotganda mavjud böladi
+System Navigation - Tizim navigatsiyasi
+Navigate the system interface with connected controllers/remotes (apps can always still use them directly) - Ulangan kontrollerlar/pultlar yordamida tizim interfeysida harakatlaniş (ilovalar doimo ulardan töğridan-töğri foydalana oladi)
+TV remote - Televizor pulti
+Navigate the system interface with the connected TV remote (CEC) - Ulangan televizor pulti (CEC) yordamida tizim interfeysida harakatlaniş
+TV HDMI port (CEC) - TV HDMI porti (CEC)
+Automatic - Avtomatik
+HDMI %1 - HDMI %1
+Game Controllers - Öyin kontrollerlari
+Game controllers - Öyin kontrollerlari
+Use connected game controllers for system navigation - Tizim navigatsiyasi uçun ulangan geympadlardan foydalaniş
+Automatic input suppression - Kiritişni avtomatik bostiriş
+Stop controller navigation while another app is using a controller - Boşqa ilova kontrollerni işlatayotganda kontroller navigatsiyasini töxtatiş
+No controllers connected - Kontrollerlar ulanmagan
+Connect a game controller - Geympadni ulang

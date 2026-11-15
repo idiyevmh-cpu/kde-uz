@@ -1,0 +1,46 @@
+Connect - Ulaş
+Disconnect - &Uziş
+Share - Bölişiş
+Configure… - Sozlaş…
+Forget… - Esda saqlamaslik…
+Speed - Tezlik
+Details - Tafsilotlar
+Current download speed is %1 kibibytes per second; current upload speed is %2 kibibytes per second - Joriy yuklab oliş tezligi soniyasiga %1 KiB; yuklaş tezligi soniyasiga %2 KiB
+↓ %1/s, ↑ %2/s - ↓ %1/s, ↑ %2/s
+You need to log in to this network - Uşbu tarmoqqa kirişingiz kerak
+Log in - Kiriş
+Airplane mode is enabled - Samolyot rejimi yoqilgan
+Wi-Fi and mobile data are deactivated - Wi-Fi va mobil internet öçirilgan
+Wi-Fi is deactivated - Wi-Fi öçirilgan
+Looking for Wi-Fi networks - Wi-Fi tarmoqlari qidirilmoqda
+Mobile data is deactivated - Mobil internet öçirilgan
+No matches - Mos keluvçilar topilmadi
+No available connections - Mavjud ulanişlar yöq
+Turn off airplane mode to search for networks - Tarmoqlarni qidiriş uçun samolyot rejimini öçiring
+Turn on Wi-Fi or mobile data to search for networks - Tarmoqlarni qidiriş uçun Wi-Fi yoki mobil internetni yoqing
+Turn on Wi-Fi to search for networks - Tarmoqlarni qidiriş uçun Wi-Fi-ni yoqing
+Turn on mobile data to search for networks - Tarmoqlarni qidiriş uçun mobil internetni yoqing
+Copy - Nusxa oliş
+Networks - Tarmoqlar
+Middle-click to turn off Airplane Mode - Samolyot rejimini öçiriş uçun örta tugmani bosing
+Middle-click to turn on Airplane Mode - Samolyot rejimini yoqiş uçun örta tugmani bosing
+Enable Wi-Fi - Wi-Fi-ni yoqiş
+Enable Mobile Data - Mobil internetni yoqiş
+Enable Airplane Mode - Samolyot rejimini yoqiş
+Open Network Login Page… - Tarmoqqa kiriş sahifasini oçiş…
+&Configure Network Connections… - &Tarmoq ulanişlarini sozlaş…
+Return to Network Connections - Tarmoq ulanişlariga qaytiş
+Scan this QR code with another device to connect to the "%1" network. - "%1" tarmoğiga ulaniş uçun uşbu QR kodni boşqa qurilma bilan skanerlang.
+Wi-Fi password: - Wi-Fi paroli:
+Enable mobile data - Mobil internetni yoqiş
+Disable airplane mode<nl/><nl/>This will enable Wi-Fi and Bluetooth - Samolyot rejimini öçiriş<nl/><nl/>Bu Wi-Fi va Bluetooth-ni yoqadi
+Enable airplane mode<nl/><nl/>This will disable Wi-Fi and Bluetooth - Samolyot rejimini yoqiş<nl/><nl/>Bu Wi-Fi va Bluetooth-ni öçiradi
+Hotspot - Hotspot (ulaniş nuqtasi)
+Cannot create a hotspot because Wi-Fi is disabled. - Wi-Fi öçirilganligi sababli kiriş nuqtasini (hotspot) yaratib bölmadi.
+Cannot create a hotspot because all wireless radios are in use. Disconnect from the current Wi-Fi network or connect another wireless radio. - Barça simsiz modullar bandligi sababli kiriş nuqtasini (hotspot) yaratib bölmadi. Joriy Wi-Fi tarmoğidan uziling yoki boşqa simsiz modulni ulang.
+Disable Hotspot - Kiriş nuqtasini (Hotspot) öçiriş
+Create Hotspot - Kiriş nuqtasi (Hotspot) yaratiş
+Scan Wi-Fi QR Code - Wi-Fi QR kodini skanerlaş
+Scan QR Code to connect to a Wi-Fi network - Wi-Fi tarmoğiga ulaniş uçun QR kodni skanerlang
+Install QRCA Barcode Scanner to scan for a QR Code that connects to a Wi-Fi network - Wi-Fi tarmoğiga ulanuvçi QR kodni skanerlaş uçun QRCA skanerini örnating
+Configure network connections… - Tarmoq ulanişlarini sozlaş…

@@ -1,0 +1,9 @@
+Source text - Tarjima text
+Breeze Classic - Breeze klassik
+Breeze Dark - Qoronği Breeze (Breeze tun)
+Breeze Light - Yoruğ Breeze (Breeze kun)
+Breeze Dark by the KDE VDG - KDE VDG tomonidan yaratilgan Qoronği Breeze
+Breeze Light by the KDE VDG - KDE VDG tomonidan yaratilgan Yoruğ Breeze
+Breeze - Breeze
+Breeze by the KDE VDG - KDE VDG tomonidan yaratilgan Breeze
+Widget style for KDE Frameworks - KDE Frameworks uçun vidjetlar uslubi

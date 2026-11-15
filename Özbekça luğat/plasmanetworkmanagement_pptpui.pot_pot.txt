@@ -1,0 +1,46 @@
+Authentication - Autentifikatsiya
+Allow following authentication methods: - Quyidagi autentifikatsiya usullariga ruxsat beriş:
+Allow/disable authentication methods. - Autentifikatsiya usullarini yoqiş/öçiriş.
+PAP - PAP
+CHAP - CHAP
+MSÇap - MSCHAP
+MSÇapv2 - MSCHAPv2
+EAP - EAP
+Note: MPPE encryption is only available with MSÇap authentication methods. To
+enable this checkbox, select one or more of the MSÇap authentication
+methods: MSÇap or MSÇapv2. - Eslatma: MPPE şifrlaşi faqat MSCHAP autentifikatsiya usullari bilan mavjud. Uşbu
+katakçani yoqiş uçun MSCHAP autentifikatsiya usullaridan birini yoki bir neçtasini
+tanlang: MSCHAP yoki MSCHAPv2.
+Use MPPE Encryption - MPPE şifrlaşidan foydalaniş
+Crypto: - Kripto:
+Require the use of MPPE, with 40/128-bit encryption or all. - 40/128-bitli yoki barça şifrlaş bilan MPPE işlatilişini talab qiliş.
+Any - Har qanday
+128 bit - 128 bit
+40 bit - 40 bit
+Allow MPPE to use stateful mode. Stateless mode is still attempted first. - MPPE holatli rejimidan foydalanişiga ruxsat beriş. Avval holatsiz rejim sinab köriladi.
+Use stateful encryption - Holatli şifrlaşdan foydalaniş
+Compression - Siqiş
+Allow/disable BSD-Compress compression. - BSD-Compress siqilişini yoqiş/öçiriş.
+Allow BSD compression - BSD siqilişiga ruxsat beriş
+Allow/disable Deflate compression. - Deflate siqilişini yoqiş/öçiriş.
+Allow Deflate compression - Deflate siqilişiga ruxsat beriş
+Allow/disable Van Jacobson style TCP/IP header compression in both the transmit
+ and the receive directions. - Uzatiş va qabul qiliş yönalişlarida Van Jacobson uslubidagi TCP/IP sarlavhalarini siqişni yoqiş/öçiriş.
+Allow TCP header compression - TCP sarlavhalarini siqişga ruxsat beriş
+Echo - Exo
+Send LCP echo-requests to find out whether peer is alive. - Uzel aloqada ekanligini aniqlaş uçun LCP exo-sörovlarini yuboriş.
+Send PPP echo packets  - PPP exo paketlarini yuboriş 
+PPTPAuthentication - PPTP autentifikatsiyasi
+Password: - Parol:
+Password passed to PPTP when prompted for it. - Söralganda PPTP-ga uzatiladigan parol.
+PPTP Settings - PPTP sozlamalari
+General - Umumiy
+Gateway: - Şlyuz:
+PPTP server IP or name. - PPTP server IP manzili yoki nomi.
+Additional - Qöşimça
+Login: - Login:
+Set the name used for authenticating the local system to the peer to <name>. - Mahalliy tizimni uzelda autentifikatsiya qiliş uçun foydalaniladigan nomni <name> ga örnating.
+NT Domain: - NT domeni:
+Append the domain name <domain> to the local host name for
+authenticating purposes. - Autentifikatsiya maqsadlarida mahalliy xost nomiga <domain> domen nomini qöşiş.
+Advanced… - Kengaytirilgan…

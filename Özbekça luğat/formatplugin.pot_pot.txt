@@ -1,0 +1,18 @@
+Format - Format qiliş
+Failed to write a temp file - Vaqtinçalik faylga yozib bölmadi
+Failed to run git diff: git not installed - git diff-ni bajarib bölmadi: git örnatilmagan
+Failed to run git diff: %1 - git diff-ni bajarib bölmadi: %1
+Formatting - Sanani körinişi
+Formatting Settings - Formatlaş sozlamalari
+Failed to read settings.json. Error: %1 - settings.json öqib bölmadi. Xato: %1
+Format Document - Hujjatni formatlaş
+Format on Save - Saqlaşda formatlaş
+Disable formatting on save without persisting it in settings - Saqlaşda formatlaşni öçiriş (sozlamalarda saqlamasdan)
+%1: Unexpected empty command! - %1: Kutilmagan böş buyruq!
+%1 is not installed, please install it to be able to format this document! - %1 örnatilmagan, uşbu hujjatni formatlaş uçun uni örnating!
+%1 crashed - %1 halokatga uçradi
+%1 failed with exit code %2 - %1 çiqiş kodi %2 bilan muvaffaqiyatsiz tugadi
+Unknown formatterForJson: %1 - Nomaʼlum formatterForJson: %1
+Unknown formatterForPython: %1 - Nomaʼlum formatterForPython: %1
+Unknown formatterForYaml: %1, falling back to yamlfmt - Nomaʼlum formatterForYaml: %1, yamlfmt-ga qaytilmoqda
+Failed to run formatter. Unsupported language %1 - Formatlagiçni işga tuşirib bölmadi. Qöllab-quvvatlanmaydigan til: %1

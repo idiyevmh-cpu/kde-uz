@@ -1,0 +1,33 @@
+General - Umumiy
+Appearance - Taşqi köriniş
+Icon: - Nişonça:
+Website's favicon - Veb-sayt ikonçasi (favicon)
+Change Web Browser's icon - Veb-brauzer nişonçasini özgartiriş
+Current icon is %1. Click to open menu to change the current icon or reset to the default icon. - Joriy nişonça: %1. Uni özgartiriş yoki standart holatga qaytariş uçun bosing.
+Icon name is "%1" - Nişonça nomi: "%1"
+Choose… - Tanlaş...
+Choose an icon for Web Browser - Veb-brauzer uçun nişonça tanlang
+Reset to default icon - Standart nişonçani tiklaş
+Display Navigation Bar - Navigatsiya panelini körsatiş
+Load last-visited page - Oxirgi körilgan sahifani yuklaş
+On startup: - Işga tuşganda:
+Always load this page: - Har doim uşbu sahifani yuklaş:
+Type a URL - URL manzilni yozing
+Content scaling: - Kontentni masştablaş:
+Fixed scale: - Qatʼiy masştab:
+Automatic scaling if width is below - Kenglik quyidagidan past bölsa avtomatik masştablaş
+Browser Settings: - Brauzer sozlamalari:
+Private Browsing - Maxfiy körib çiqiş
+Go Back - Orqaga
+Go Forward - Oldinga
+Go Home - Boş sahifaga
+Open Default URL - Standart URL manzilni oçiş
+Stop Loading This Page - Sahifani yuklaşni töxtatiş
+Reload This Page - Uşbu sahifani qayta yuklaş
+Keep open - Oçiq qoldiriş
+Open Link in Browser - Havolani brauzerda oçiş
+Copy Link Address - Havola manzilidan nusxa oliş
+Popup blocked - Qalqib çiquvçi oyna bloklandi
+Click here to open the following blocked popup:
+%1 - Quyidagi bloklangan oynani oçiş uçun bu yerga bosing:
+%1

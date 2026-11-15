@@ -1,0 +1,38 @@
+No title - Sarlavhasiz
+No media playing - Heç qanday media ijro etilmayapti
+-%1 - -%1
+Playback rate %1 - Ijro tezligi: %1
+%1x - %1x
+Playback rate - Ijro tezligi
+%1 (Normal) - %1 (Oddiy)
+Shuffle - Tasodifiy
+Previous Track - Oldingi trek
+Pause - Pauza
+Play - Ijro etiş
+Next Track - Keyingi trek
+Repeat Track - Trekni takrorlaş
+Repeat - Qaytariş
+Choose player automatically - Pleyerni avtomatik tanlaş
+by %1 (%2)
+Middle-click to pause
+Scroll to adjust volume - Muallif: %1 (%2)
+Pauza qiliş uçun siçqonçaning örta tugmasini bosing
+Ovoz balandligini sozlaş uçun ğildirakçani aylantiring
+%1
+Middle-click to pause
+Scroll to adjust volume - %1
+Pauza qiliş uçun siçqonçaning örta tugmasini bosing
+Ovoz balandligini sozlaş uçun ğildirakçani aylantiring
+by %1 (paused, %2)
+Middle-click to play
+Scroll to adjust volume - Muallif: %1 (pauzada, %2)
+Ijro etiş uçun siçqonçaning örta tugmasini bosing
+Ovoz balandligini sozlaş uçun ğildirakçani aylantiring
+Paused (%1)
+Middle-click to play
+Scroll to adjust volume - Pauza qilindi (%1)
+Ijro etiş uçun siçqonçaning örta tugmasini bosing
+Ovoz balandligini sozlaş uçun ğildirakçani aylantiring
+Open - Oçiş
+Stop - Töxtatiş
+Quit - Çiqiş

@@ -1,0 +1,23 @@
+Failed to stop service: %1 - Xizmatni töxtatib bölmadi: %1
+Failed to start service: %1 - Xizmatni işga tuşirib bölmadi: %1
+Failed to stop service. - Xizmatni töxtatib bölmadi.
+Failed to start service. - Xizmatni işga tuşirib bölmadi.
+Failed to notify KDE Service Manager (kded6) of saved changed: %1 - Saqlangan özgarişlar haqida KDE xizmatlar menejeriga (kded6) xabar berib bölmadi: %1
+If you're disabling something here to work around an issue, please <link url='%1'>submit a bug report about it as well.</link> - Agar muammoni çetlab ötiş uçun bu yerda biror narsani öçirayotgan bölsangiz, iltimos, <link url='%1'>bu haqda xatolik hisobotini ham yuboring.</link>
+The background services manager (kded6) is currently not running. Make sure it is installed correctly. - Orqa fon xizmatlari boşqaruvçisi (kded6) hozirda işlamayapti. Uning töğri örnatilganligiga işonç hosil qiling.
+Some services disable themselves again when manually started if they are not useful in the current environment. - Baʼzi xizmatlar joriy muhitda foydali bölmasa, qölda işga tuşirilganda özlarini qayta öçirib qöyadi.
+Some services were automatically started/stopped when the background services manager (kded6) was restarted to apply your changes. - Özgarişlaringizni qöllaş uçun orqa fon xizmatlari boşqaruvçisi (kded6) qayta işga tuşirilganda baʼzi xizmatlar avtomatik ravişda işga tuşirildi/töxtatildi.
+All Services - Barça xizmatlar
+Running - Işlayapti
+Not Running - Işlamayapti
+Startup Services - Tizim işga tuşgandagi xizmatlar
+Load-on-Demand Services - Talabga köra yuklanuvçi xizmatlar
+Disable automatically loading %1 on startup - Işga tuşganda %1 avtomatik yuklanişini öçiriş
+Enable automatically loading %1 on startup - Işga tuşganda %1 avtomatik yuklanişini yoqiş
+Toggle automatically loading this service on startup - Işga tuşganda uşbu xizmatning avtomatik yuklanişini yoqiş/öçiriş
+Not running - Işlamayapti
+Running - Işlayapti
+Stop %1 - %1 xizmatini töxtatiş
+Start %1 - %1 xizmatini işga tuşiriş
+Stop Service - Xizmatni töxtatiş
+Start Service - Xizmatni işga tuşiriş

@@ -1,0 +1,397 @@
+Screenshots - Ekran tasvirlari (skrinşotlar)
+Screenshot - Ekran tasviri (skrinşot)
+Screencasts - Ekran yozuvlari
+Screencast - Ekran yozuvi
+Rectangular Region - Törtburçak soha
+All Screens (Scaled to same size) - Barça ekranlar (bir xil ölçamga massştablangan)
+Current Screen - Joriy ekran
+Active Window - Faol oyna
+Select Window - Oynani tanlaş
+Window Under Cursor - Kursor ostidagi oyna
+All Screens - Barça ekranlar
+Full Screen - Töliq ekran
+Capture the entire desktop (default) - Butun iş stolini suratga oliş (standart)
+When used with -f/--fullscreen, capture all screens scaled to the same size - -f/--fullscreen bilan işlatilganda, bir xil ölçamga massştablangan barça ekranlarni suratga oliş
+Capture the current monitor - Joriy monitorni suratga oliş
+Capture the active window - Faol oynani suratga oliş
+Capture the window currently under the cursor, including parents of pop-up menus - Qalqib çiquvçi menyularning asosiy oynalarini öz içiga olgan holda hozirda kursor ostida turgan oynani suratga oliş
+Capture a rectangular region of the screen - Ekranning törtburçak sohasini suratga oliş
+Record the screen using the given mode. Modes: - r, region - s, screen - w, window - Berilgan rejim yordamida ekranni videoga yozib oliş. Rejimlar: - r, soha - s, ekran - w, oyna
+Launch Spectacle without taking a screenshot - Ekran tasvirini olmasdan Spectacle dasturini işga tuşiriş
+Start in GUI mode (default) - Grafik interfeys (GUI) rejimida işga tuşiriş (standart)
+Take a screenshot and exit without showing the GUI - Grafik interfeysni körsatmasdan ekran tasvirini oliş va çiqiş
+Start in DBus-Activation mode - DBus-faollaştiriş rejimida işga tuşiriş
+In background mode, do not pop up a notification when the screenshot is taken - Orqa fon rejimida ekran tasviri olinganda qalqib çiquvçi bildirişnomani körsatmaslik
+In background mode, save image to specified file - Orqa fon rejimida tasvirni körsatilgan faylga saqlaş
+In background mode, delay before taking the shot (in milliseconds) - Orqa fon rejimida suratga olişdan oldin keçikiş (millisoniyalarda)
+In background mode, copy screenshot image to clipboard, unless -o is also used. - Orqa fon rejimida, agar -o ham işlatilmagan bölsa, ekran tasvirini vaqtinçalik xotiraga nusxalaş.
+In background mode, copy screenshot file path to clipboard - Orqa fon rejimida ekran tasviri fayli yölini vaqtinçalik xotiraga nusxalaş
+Wait for a click before taking screenshot. Invalidates delay - Ekran tasvirini olişdan oldin siçqonça bosilişini kutiş. Keçikişni bekor qiladi
+Starts a new GUI instance of spectacle without registering to DBus - DBus-da röyxatdan ötmasdan spectacle-ning yangi GUI nusxasini işga tuşiradi
+In background mode, include pointer in the screenshot - Orqa fon rejimida siçqonça kursorini ekran tasviriga qöşiş
+In background mode, exclude decorations in the screenshot - Orqa fon rejimida oyna bezaklarini ekran tasviriga qöşmaslik
+In background mode, exclude shadows in the screenshot - Orqa fon rejimida oyna soyalarini ekran tasviriga qöşmaslik
+Open and edit existing screenshot file - Mavjud ekran tasviri faylini oçiş va tahrirlaş
+Accept region selection on click-and-release - Bosib qöyib yuborilganda soha tanlovini qabul qiliş
+QImageWriter cannot write image: %1 - QImageWriter tasvirni yoza olmadi: %1
+Cannot save screenshot because creating the directory failed:<nl/><filename>%1</filename> - Jildni yaratişda xatolik yuz berganligi sababli ekran tasvirini saqlab bölmadi:<nl/><filename>%1</filename>
+Cannot save screenshot. Error while opening file. - Ekran tasvirini saqlab bölmadi. Faylni oçişda xatolik.
+Cannot save screenshot. Error while writing file. - Ekran tasvirini saqlab bölmadi. Faylni yozişda xatolik.
+Cannot save screenshot because creating the remote directory failed:<nl/><filename>%1</filename> - Masofaviy jildni yaratişda xatolik yuz berganligi sababli ekran tasvirini saqlab bölmadi:<nl/><filename>%1</filename>
+Cannot save screenshot. Error while writing temporary local file. - Ekran tasvirini saqlab bölmadi. Vaqtinçalik mahalliy faylni yozişda xatolik.
+Unable to save image. Could not upload file to remote location. - Tasvirni saqlab bölmadi. Faylni masofaviy manzilga yuklab bölmadi.
+Cannot save screenshot. The save filename is invalid. - Ekran tasvirini saqlab bölmadi. Saqlanadigan fayl nomi notöğri.
+Cannot save an empty screenshot image. - Böş ekran tasvirini saqlab bölmaydi.
+Failed to export video: Temporary file URL must be an existing local file - Videoni eksport qilib bölmadi: Vaqtinçalik fayl URL manzili mavjud mahalliy fayl bölişi kerak
+Failed to export video: Output file URL must be a valid URL with a file name - Videoni eksport qilib bölmadi: Çiqiş fayli URL manzili fayl nomiga ega töğri URL bölişi kerak
+Unable to save recording. Could not move file to location: %1 - Yozuvni saqlab bölmadi. Faylni uşbu manzilga köçirib bölmadi: %1
+Printing failed. The printer failed to initialize. - Çop etişda xatolik. Printerni işga tuşirib bölmadi.
+Day (1–31) - Kun (1–31)
+Day (01–31) - Kun (01–31)
+Day (short name) - Kun (qisqa nomi)
+Day (long name) - Kun (töliq nomi)
+Month (1–12) - Oy (1–12)
+Month (01–12) - Oy (01–12)
+Month (short name) - Oy (qisqa nomi)
+Month (long name) - Oy (töliq nomi)
+Year (2 digit) - Yil (2 xonali)
+Year (4 digit) - Yil (4 xonali)
+Hour (0–23) - Soat (0–23)
+Hour (00–23) - Soat (00–23)
+Hour (1–12) - Soat (1–12)
+Hour (01–12) - Soat (01–12)
+Minute (0–59) - Daqiqa (0–59)
+Minute (00–59) - Daqiqa (00–59)
+Second (0–59) - Soniya (0–59)
+Second (00–59) - Soniya (00–59)
+Millisecond (0–999) - Millisoniya (0–999)
+Millisecond (000–999) - Millisoniya (000–999)
+AM/PM - TÖ/TK (AM/PM)
+am/pm - tö/tk (am/pm)
+AM/PM or am/pm (localized) - AM/PM yoki am/pm (mahalliylaştirilgan)
+Timezone (short name) - Vaqt mintaqasi (qisqa nomi)
+Timezone offset (±0000) - Vaqt mintaqasi siljişi (±0000)
+Timezone offset (±00:00) - Vaqt mintaqasi siljişi (±00:00)
+Timezone (long name) - Vaqt mintaqasi (töliq nomi)
+Seconds since the Unix epoch - Unix davridan beri ötgan soniyalar
+Window Title - Oyna sarlavhasi
+Sequential numbering, padded by inserting additional '#' characters - Qöşimça '#' belgilarini qöşiş orqali töldiriladigan ketma-ket raqamlaş
+Accept - Qabul qiliş
+Stroke: - Çiziq (kontur):
+%1px - %1px
+Stroke Width - Çiziq qalinligi
+Stroke Color - Çiziq rangi
+Fill: - Töldiriş:
+Fill Color - Töldiriş rangi
+Strength: - Kuçi (jadalligi):
+The strength of the effect. - Effektning kuçi (jadalligi).
+Font: - Şrift:
+%2 %3 %1pt - %2 %3 %1pt
+%2 %1pt - %2 %1pt
+Font Color - Şrift rangi
+Number: - Raqam:
+Number for number annotations - Raqamli izohlar uçun raqam
+Shadow - Soya
+None - Yöq
+Crop - Qirqiş
+Select - Tanlaş
+Freehand - Erkin çiziq
+Shift: Snap to straight lines - Shift: Töğri çiziqlarga yopişiş
+Highlighter - Ajratib körsatuvçi (marker)
+Line - Çiziq
+Shift: Snap to 45 degree increments - Shift: 45 daraja qadamlar bilan yopişiş
+Arrow - Körsatkiç (strelka)
+Rectangle - Törtburçak
+Shift: Snap to diagonal movements Control: Resize from center - Shift: Diagonal harakatlarga yopişiş Control: Markazdan ölçamni özgartiriş
+Ellipse - Ellips
+Pixelate - Piksellaştiriş
+Blur - Xiralaştiriş (Blur)
+Text - Matn
+Number - Raqam
+Cancel - Bekor qiliş
+Cancel (%1 second) - Bekor qiliş (%1 soniya)
+Take a new screenshot - Yangi ekran tasvirini oliş
+Screenshot Settings - Ekran tasviri sozlamalari
+Click and drag to make a selection. - Tanlaş uçun siçqonça tugmasini bosing va torting.
+Include mouse pointer - Siçqonça kursorini qöşiş
+Show the mouse cursor in the screenshot image. - Ekran tasvirida siçqonça kursorini körsatiş.
+Include window titlebar and borders - Oyna sarlavhasi va çegaralarini qöşiş
+Show the window title bar and border when taking a screenshot of a window. - Oynadan ekran tasvirini olayotganda oyna sarlavhasi va çegarasini körsatiş.
+Include window shadow - Oyna soyasini qöşiş
+Show the window shadow when taking a screenshot of a window. - Oynadan ekran tasvirini olayotganda oyna soyasini körsatiş.
+Quit after manual Save or Copy - Qölda saqlaş yoki nusxa olişdan söng çiqiş
+Quit Spectacle after manually saving or copying the image. - Tasvirni qölda saqlaş yoki nusxa olişdan söng Spectacle dasturidan çiqiş.
+Capture on click - Bosilganda suratga oliş
+Wait for a mouse click before capturing the screenshot image. - Ekran tasvirini olişdan oldin siçqonça tugmasi bosilişini kutiş.
+Delay: - Keçikiş:
+Copy - Nusxa oliş
+Copy Location - Manzilni nusxalaş
+No Delay - Keçikişsiz
+%2 second - %2 soniya
+%1 seconds - %1 soniya
+Configure Spectacle… - Spectacle dasturini sozlaş…
+Help - Yordam
+Take a Screenshot: - Ekran tasvirini oliş:
+Options - Parametrlar
+Make a Recording: - Videoga yozib oliş:
+Screenshot - Ekran tasviri (skrinşot)
+Recording - Ekran yozuvi
+This feature is not supported on the current platform - Uşbu imkoniyat joriy platformada qöllab-quvvatlanmaydi
+Edit… - Tahrirlaş…
+Export - Eksport qiliş
+Open Default Screenshots Folder - Standart ekran tasvirlari jildini oçiş
+Other Application… - Boşqa ilova…
+Share - Ulaşiş
+Extract Text by Language - Til böyiça matnni ajratib oliş
+OCR engine is not available. - Matnni aniqlaş (OCR) tizimi mavjud emas.
+OCR is not available. Please install Tesseract OCR. - Matnni aniqlaş (OCR) mavjud emas. Iltimos, Tesseract OCR dasturini örnating.
+OCR engine is initializing… - Matnni aniqlaş (OCR) tizimi işga tuşirilmoqda…
+No OCR language data available. - OCR til maʼlumotlari mavjud emas.
+Export - Eksport qiliş
+Help - Yordam
+Help - Yordam
+Open Containing Folder - Joylaşgan jildni oçiş
+Copy to Clipboard - Vaqtinçalik xotiraga nusxalaş
+Close - Yopiş
+New Screenshot - Yangi ekran tasviri
+Extract Text - Matnni ajratib oliş
+Screenshot Settings - Ekran tasviri sozlamalari
+Include mouse pointer - Siçqonça kursorini qöşiş
+Show the mouse cursor in the screenshot image - Ekran tasvirida siçqonça kursorini körsatiş
+Include window titlebar and borders - Oyna sarlavhasi va çegaralarini qöşiş
+Show the window title bar, the minimize/maximize/close buttons, and the window border - Oyna sarlavhasini, yiğiş/yoyiş/yopiş tugmalarini va oyna çegarasini körsatiş
+Include window shadow - Oyna soyasini qöşiş
+Show the window shadow - Oyna soyasini körsatiş
+Quit after manual Save or Copy - Qölda saqlaş yoki nusxa olişdan söng çiqiş
+Quit Spectacle after manually saving or copying the image - Tasvirni qölda saqlaş yoki nusxa olişdan söng Spectacle dasturidan çiqiş
+Capture On Click - Bosilganda suratga oliş
+Delay: - Keçikiş:
+No Delay - Keçikişsiz
+Recording Settings - Yozib oliş sozlamalari
+Include mouse pointer - Siçqonça kursorini qöşiş
+Show the mouse cursor in the recording - Video yozuvda siçqonça kursorini körsatiş
+Record system audio - Tizim ovozini yozib oliş
+Include the audio that is currently playing on the system in the recording - Hozirda tizimda ijro etilayotgan ovozni yozuvga qöşiş
+Record microphone - Mikrofon ovozini yozib oliş
+Include audio from the default microphone in the recording - Standart mikrofondan kelayotgan ovozni yozuvga qöşiş
+Options - Parametrlar
+Record - Yozib oliş
+Recording Modes - Yozib oliş rejimlari
+New Recording - Yangi yozuv
+Include mouse pointer - Siçqonça kursorini qöşiş
+Show the mouse cursor in the screen recording. - Ekran yozuvida siçqonça kursorini körsatiş.
+Record system audio - Tizim ovozini yozib oliş
+Include the audio that is currently playing on the system in the recording. - Hozirda tizimda ijro etilayotgan ovozni yozuvga qöşiş.
+Record microphone - Mikrofon ovozini yozib oliş
+Include audio from the default microphone in the recording. - Standart mikrofondan kelayotgan ovozni yozuvga qöşiş.
+The selected video format does not support audio. - Tanlangan video formati ovozni qöllab-quvvatlamaydi.
+Recording: %1 - Yozib olinmoqda: %1
+Pause - Vaqtinça töxtatiş
+Play - Ijro etiş
+Recording Settings - Yozib oliş sozlamalari
+Finish recording - Yozib olişni yakunlaş
+Save - Saqlaş
+Save As… - Boşqa nom bilan saqlaş…
+Screenshot Modes - Suratga oliş rejimlari
+New Screenshot - Yangi ekran tasviri
+Click and drag to make a selection. Double click the selection to accept and crop. Right click to clear the selection. - Tanlaş uçun siçqonça tugmasini bosing va torting. Qabul qiliş va qirqiş uçun tanlangan sohaga ikki marta bosing. Tanlovni tozalaş uçun öng tugmani bosing.
+When launching Spectacle: - Spectacle işga tuşirilganda:
+Take rectangular screenshot - Törtburçak sohadan ekran tasvirini oliş
+Take full screen screenshot - Töliq ekran tasvirini oliş
+Use last-used capture mode - Oxirgi işlatilgan suratga oliş rejimidan foydalaniş
+Do not take a screenshot automatically - Ekran tasvirini avtomatik olmaslik
+After taking a screenshot: - Ekran tasviri olingandan söng:
+Save file to default folder - Faylni standart jildga saqlaş
+Do not copy anything - Heç narsa nusxalanmasin
+Copy image to clipboard - Tasvirni vaqtinçalik xotiraga nusxalaş
+Copy file location to clipboard - Fayl manzilini vaqtinçalik xotiraga nusxalaş
+While Spectacle is running - Spectacle işlab turgan vaqtda
+Press screenshot key to: - Ekran tasvirini oliş tugmasi bosilganda:
+Take a new Screenshot - Yangi ekran tasvirini oliş
+Open a new Spectacle window - Yangi Spectacle oynasini oçiş
+Return focus to Spectacle - Fokusni Spectacle oynasiga qaytariş
+Rectangular Region Selection - Törtburçak sohani tanlaş
+General: - Umumiy:
+Use light background - Yoruğ orqa fondan foydalaniş
+Accept on click-and-release - Bosib qöyib yuborilganda qabul qiliş
+Show magnifier: - Lupani körsatiş:
+Never - Heç qaçon
+Always - Har doim
+While holding Shift - Shift tugmasi bosib turilganda
+Remember selected area: - Tanlangan sohani eslab qoliş:
+Until Spectacle is closed - Spectacle yopilgunça
+Text Recognition (OCR) - Matnni aniqlaş (OCR)
+Languages for OCR: - OCR uçun tillar:
+Text extraction: - Matnni ajratib oliş:
+Close after extraction (skips auto-save) - Ajratib olingandan söng yopiş (avto-saqlaş ötkazib yuboriladi)
+Spectacle will close after text extraction and automatic saving will be skipped. - Matn ajratib olingandan söng Spectacle yopiladi va avtomatik saqlaş ötkazib yuboriladi.
+OCR functionality is not available - OCR funksiyasi mavjud emas
+Please install the required packages: • tesseract • tesseract language data (e.g., tesseract-ocr-eng for English) - Iltimos, kerakli paketlarni örnating: • tesseract • tesseract til maʼlumotlari (masalan, ingliz tili uçun tesseract-ocr-eng)
+Save Location: - Saqlaş manzili:
+Compression Quality: - Siqiş sifati:
+For lossy image formats like JPEG - JPEG kabi yöqotişli tasvir formatlari uçun
+% - %
+Filename: - Fayl nomi:
+Preview: - Oldindan köriş:
+<filename>%1</filename> - <filename>%1</filename>
+You can use the following placeholders in the filename, which will be replaced with actual text when the file is saved: - Fayl nomida quyidagi örinboşarlardan foydalanişingiz mumkin, ular fayl saqlanganda haqiqiy matn bilan almaştiriladi:
+To save to a sub-folder - Quyi jildga saqlaş uçun
+Show Fewer - Kamroq körsatiş
+Show More - Köproq körsatiş
+General - Umumiy
+Image Saving - Tasvirni saqlaş
+Video Saving - Videoni saqlaş
+Shortcuts - Tezkor tugmalar
+Shortcuts - Tezkor tugmalar
+What to do when Spectacle is launched - Spectacle işga tuşirilganda nima qiliş kerak
+What should happen if print key is pressed when Spectacle is already running - Spectacle allaqaçon işlab turganda Print tugmasi bosilsa nima sodir bölişi kerak
+Save screenshot automatically after it is taken - Ekran tasviri olingandan söng uni avtomatik saqlaş
+Clipboard action which should be executed after the screenshot is taken - Ekran tasviri olingandan söng vaqtinçalik xotira bilan bajarilişi kerak bölgan amal
+Whether to use a light color mask in the region selection dialog - Soha tanlaş muloqot oynasida yoruğ rangli niqobdan foydalaniş kerakmi
+Whether the screenshot should be captured after selecting the region and releasing the mouse - Sohani tanlab, siçqonça tugmasini qöyib yuborgandan söng ekran tasviri olinişi kerakmi
+Remember the last rectangular region - Oxirgi törtburçak sohani eslab qoliş
+Default languages for OCR text recognition - OCR matnni aniqlaş uçun standart tillar
+The last used region the user selected - Foydalanuvçi tanlagan oxirgi işlatilgan soha
+Take screenshot on click - Siçqonça bosilganda ekran tasvirini oliş
+Whether the mouse cursor is included in the screenshot - Ekran tasviriga siçqonça kursori qöşilişi kerakmi
+Whether the mouse cursor is included in the video - Videoga siçqonça kursori qöşilişi kerakmi
+Whether system audio is included in the recording - Yozuvga tizim ovozi qöşilişi kerakmi
+Whether microphone audio is included in the recording - Yozuvga mikrofon ovozi qöşilişi kerakmi
+Whether the window decorations are included in the screenshot - Ekran tasviriga oyna bezaklari qöşilişi kerakmi
+Whether the window shadow is included in the screenshot - Ekran tasviriga oyna soyasi qöşilişi kerakmi
+Quit after saving or copying an image - Tasvirni saqlaş yoki nusxa olişdan söng çiqiş
+Delay - Keçikiş
+Default filename - Standart fayl nomi
+Compression quality for lossy file formats - Yöqotişli fayl formatlari uçun siqiş sifati
+Default save image format - Tasvirni saqlaş uçun standart format
+The filename template used when saving screenshots - Ekran tasvirlarini saqlaşda foydalaniladigan fayl nomi andozasi
+The path of the file saved last - Oxirgi saqlangan fayl yöli
+Last path used for "save as" action - "Boşqa nom bilan saqlaş" amali uçun oxirgi işlatilgan yöl
+Default video format - Standart video formati
+The filename template used when saving screencasts - Ekran yozuvlarini saqlaşda foydalaniladigan fayl nomi andozasi
+Save &Location: - Saqlaş &manzili:
+Take Screenshot: - Ekran tasvirini oliş:
+Create new selection rectangle: - Yangi tanlaş törtburçagini yaratiş:
+Move selection rectangle: - Tanlaş törtburçagini köçiriş:
+Resize selection rectangle: - Tanlaş törtburçagi ölçamini özgartiriş:
+Reset selection: - Tanlovni tiklaş:
+Cancel: - Bekor qiliş:
+Release left-click - Çap tugmani qöyib yuboriş
+Double-click - Ikki marta bosiş
+Enter - Enter
+Drag outside selection rectangle - Tanlaş törtburçagi taşqarisida tortiş
++ Shift: Magnifier - + Shift: Lupa
+Drag inside selection rectangle - Tanlaş törtburçagi içida tortiş
+Arrow keys - Körsatkiç tugmalari (strelkalar)
++ Shift: Move in 1 pixel steps - + Shift: 1 piksel qadam bilan köçiriş
+Drag handles - Tutqiçlarni tortiş
+Arrow keys + Alt - Körsatkiç tugmalari + Alt
++ Shift: Resize in 1 pixel steps - + Shift: 1 piksel qadam bilan ölçamni özgartiriş
+Right-click - Öng tugmani bosiş
+Escape - Escape
+%1×%2 - %1×%2
+ second -  soniya
+ seconds -  soniya
+%1 second - %1 soniya
+Unsaved - Saqlanmagan
+Undo - Bekor qiliş
+Redo - Qayta bajariş
+Zoom: - Massştab (Zoom):
+Image Zoom - Tasvir massştabi
+There was a problem sharing the image: %1 - Tasvirni ulaşişda muammo yuz berdi: %1
+Spectacle - Spectacle
+KDE Screenshot Utility - KDE ekran tasvirini oliş vositasi
+© 2015 Boudhayan Gupta - © 2015 Boudhayan Gupta
+Your names - Ismingiz
+Your emails - E-poçtangiz
+On Wayland, Spectacle requires KDE Plasma's KWin compositor, which does not seem to be available. Use Spectacle on KDE Plasma, or use a different screenshot tool. - Wayland muhitida Spectacle işlaşi uçun KDE Plasma KWin kompozitori talab qilinadi, ammo u mavjud emasga öxşaydi. Spectacle dasturini KDE Plasma muhitida işlating yoki boşqa ekran tasvirini oliş vositasidan foydalaning.
+Orientation and Script Detection - Yönaliş va yozuv tizimini aniqlaş
+Math/Equation Detection - Matematika/tenglamalarni aniqlaş
+Orientation and Script Detection - Yönaliş va yozuv tizimini aniqlaş
+Bad width for KWin screenshot: %1 - KWin ekran tasviri uçun notöğri kenglik: %1
+Bad height for KWin screenshot: %1 - KWin ekran tasviri uçun notöğri balandlik: %1
+Bad format for KWin screenshot: %1 - KWin ekran tasviri uçun notöğri format: %1
+Could not open file descriptor for reading KWin screenshot. - KWin ekran tasvirini öqiş uçun fayl deskriptorini oçib bölmadi.
+pipe2() failed for KWin screenshot: %1 - KWin ekran tasviri uçun pipe2() xatoligi: %1
+KWin screenshot request failed: %1 - KWin ekran tasviri sörövi amalga oşmadi: %1
+Potentially relevant information: %1 - Ehtimoliy tegişli maʼlumot: %1
+Unsupported KWin screenshot type metadata: %1 - Qöllab-quvvatlanmaydigan KWin ekran tasviri turi meta-maʼlumotlari: %1
+Screen recording is not available on X11. - X11 muhitida ekranni videoga yozib oliş imkoni mavjud emas.
+KWin Screencasting is not available. - KWin ekran namoyişi (Screencasting) mavjud emas.
+Failed to record: File URL is not a local file - Yozib olinmadi: Fayl URL manzili mahalliy fayl emas
+The stream closed because the target screen changed in a way that disrupted the recording. - Maqsadli ekran yozib olişni buzadigan tarzda özgarganligi sababli oqim yopildi.
+The stream closed because the target window changed in a way that disrupted the recording. - Maqsadli oyna yozib olişni buzadigan tarzda özgarganligi sababli oqim yopildi.
+The stream closed because a screen containing the target region changed in a way that disrupted the recording. - Maqsadli sohani öz içiga olgan ekran yozib olişni buzadigan tarzda özgarganligi sababli oqim yopildi.
+Failed to record: Temporary file URL is not a local file (%1) - Yozib olinmadi: Vaqtinçalik fayl URL manzili mahalliy fayl emas (%1)
+Failed to record: Output file URL is not a local file (%1) - Yozib olinmadi: Çiqiş fayli URL manzili mahalliy fayl emas (%1)
+Failed to record: Unable to create folder (%1) - Yozib olinmadi: Jildni (%1) yaratib bölmadi
+Screen recording canceled - Ekran yozuvi bekor qilindi
+Window recording canceled - Oyna yozuvi bekor qilindi
+Failed to select screen: %1 - Ekranni tanlab bölmadi: %1
+Failed to select window: %1 - Oynani tanlab bölmadi: %1
+Failed to select screen: No screen contained the mouse cursor position - Ekranni tanlab bölmadi: Heç bir ekranda siçqonça kursori joylaşuvi topilmadi
+Failed to select window: No window found - Oynani tanlab bölmadi: Heç qanday oyna topilmadi
+Rectangular Region - Törtburçak soha
+Window - Oyna
+Full Screen - Töliq ekran
+Launch Spectacle - Spectacle dasturini işga tuşiriş
+Capture Entire Desktop - Butun iş stolini suratga oliş
+Capture Current Monitor - Joriy monitorni suratga oliş
+Capture Active Window - Faol oynani suratga oliş
+Capture Rectangular Region - Törtburçak sohani suratga oliş
+Capture Selected Window - Tanlangan oynani suratga oliş
+Capture Window Under Cursor - Kursor ostidagi oynani suratga oliş
+Start/Stop Screen Recording - Ekranni videoga olişni boşlaş/töxtatiş
+Start/Stop Window Recording - Oynani videoga olişni boşlaş/töxtatiş
+Start/Stop Region Recording - Tanlangan sohani videoga olişni boşlaş/töxtatiş
+Launch Spectacle without capturing - Suratga olmasdan Spectacle dasturini işga tuşiriş
+An error occurred while taking a screenshot. - Ekran tasvirini oliş vaqtida xatolik yuz berdi.
+Spectacle is Recording with Sound - Spectacle ovoz bilan yozib olmoqda
+Spectacle is Recording - Spectacle yozib olmoqda
+Spectacle is Recording with Sound - Spectacle ovoz bilan yozib olmoqda
+Spectacle is Recording - Spectacle yozib olmoqda
+To finish the recording, click the pulsing red System Tray icon. - Yozib olişni yakunlaş uçun tizim lotogidagi miltillovçi qizil nişonçani bosing.
+To finish the recording, click the pulsing red System Tray icon or press <shortcut>%1</shortcut>. - Yozib olişni yakunlaş uçun tizim lotogidagi miltillovçi qizil nişonçani bosing yoki <shortcut>%1</shortcut> tugmasini bosing.
+WebP support is missing. - WebP qöllab-quvvatlaşi mavjud emas.
+Please install Qt Image Formats to get animated system tray icons for Spectacle, and then report this packaging issue to your distributor. - Spectacle uçun animatsiyali tizim lotogi nişonçalariga ega böliş maqsadida Qt Image Formats modulini örnating va bu paketlaş muammosi haqida distributivingizga xabar bering.
+Spectacle is Finishing the Recording - Spectacle yozib olişni yakunlamoqda
+Please wait - Iltimos, kuting
+Spectacle is Finishing the Recording - Spectacle yozib olişni yakunlamoqda
+Time recorded: %1 Click to stop rendering early (this will lose data) - Yozib olingan vaqt: %1 Qayta işlaşni erta töxtatiş uçun bosing (bu maʼlumotlar yöqolişiga olib keladi)
+Time recorded: %1 Click to finish recording - Yozib olingan vaqt: %1 Yozib olişni yakunlaş uçun bosing
+An error occurred while attempting to record the screen. - Ekranni yozib olişga uriniş vaqtida xatolik yuz berdi.
+The screenshot was copied to the clipboard and saved as <link url="%1">%2</link> - Ekran tasviri vaqtinçalik xotiraga nusxalandi va <link url="%1">%2</link> sifatida saqlandi
+The screenshot has been saved as <link url="%1">%2</link> and its location has been copied to clipboard - Ekran tasviri <link url="%1">%2</link> sifatida saqlandi va uning manzili vaqtinçalik xotiraga nusxalandi
+The screenshot was saved as <link url="%1">%2</link> - Ekran tasviri <link url="%1">%2</link> sifatida saqlandi
+The screenshot has been copied to the clipboard. - Ekran tasviri vaqtinçalik xotiraga nusxalandi.
+The video has been saved as <link url="%1">%2</link> and its location has been copied to clipboard - Video <link url="%1">%2</link> sifatida saqlandi va uning manzili vaqtinçalik xotiraga nusxalandi
+The video was saved as <link url="%1">%2</link> - Video <link url="%1">%2</link> sifatida saqlandi
+The video location has been copied to the clipboard. - Video manzili vaqtinçalik xotiraga nusxalandi.
+Code found: %1 - Kod topildi: %1
+Found QR code with binary content. - Ikkilik (binar) tarkibli QR-kod topildi.
+Text extraction failed - Matnni ajratib olişda xatolik
+No text found in the image - Tasvirda matn topilmadi
+Text extraction completed - Matnni ajratib oliş yakunlandi
+Text Extracted - Matn ajratib olindi
+%1 and %2 - %1 va %2
+Text copied to clipboard.<nl/>Languages used: %1 - Matn vaqtinçalik xotiraga nusxalandi.<nl/>Foydalanilgan tillar: %1
+Open in Text Editor - Matn tahrirlağicida oçiş
+Please select a region before extracting text - Matnni ajratib olişdan oldin sohani tanlang
+OCR is not available. - Matnni aniqlaş (OCR) mavjud emas.
+No screenshot available. - Ekran tasviri mavjud emas.
+Extracting text from image... - Tasvirdan matn ajratib olinmoqda...
+--scaled is only allowed together with -f/--fullscreen and will be ignored - --scaled faqat -f/--fullscreen bilan birga ruxsat etiladi va eʼtiborsiz qoldiriladi
+%1 is not a valid mode for --record - %1 --record uçun yaroqli rejim emas
+A screenshot was saved as '%1' to '%2' and the file path of the screenshot has been saved to your clipboard. - Ekran tasviri '%2' jildiga '%1' sifatida saqlandi va uning fayl yöli vaqtinçalik xotiraga nusxalandi.
+A screenshot was saved as '%1' to your Pictures folder. - Ekran tasviri Rasmlar (Pictures) jildingizga '%1' sifatida saqlandi.
+A screenshot was saved as '%1' to '%2'. - Ekran tasviri '%2' jildiga '%1' sifatida saqlandi.
+A screenshot was saved to your clipboard. - Ekran tasviri vaqtinçalik xotiraga saqlandi.
+A recording was saved as '%1' to '%2' and the file path of the recording has been saved to your clipboard. - Video yozuv '%2' jildiga '%1' sifatida saqlandi va uning fayl yöli vaqtinçalik xotiraga nusxalandi.
+A recording was saved as '%1' to your Videos folder. - Video yozuv Videolar (Videos) jildingizga '%1' sifatida saqlandi.
+A recording was saved as '%1' to '%2'. - Video yozuv '%2' jildiga '%1' sifatida saqlandi.
+Open - Oçiş
+Annotate - Izohlaş (belgilaş)
+WebM/VP9 - WebM/VP9
+MP4/H.264 - MP4/H.264
+Animated WebP (better than GIF) - Animatsiyali WebP (GIF-dan yaxşiroq)
+GIF (compatible, but inefficient) - GIF (moslaşuvçan, lekin samarasiz)

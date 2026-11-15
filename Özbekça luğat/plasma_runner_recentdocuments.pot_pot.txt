@@ -1,0 +1,2 @@
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Looks for documents recently used with names matching :q:. - :q: söziga mos nomga ega bölgan, yaqinda işlatilgan hujjatlarni qidiradi.

@@ -1,0 +1,3 @@
+Clock changed to %1 (%2) - Soat %1 (%2) ga özgartirildi
+Refresh is already in progress. - Yangilaniş allaqaçon bajarilmoqda.
+Received no or an invalid time zone. - Heç qanday yoki yaroqsiz vaqt mintaqasi olindi.

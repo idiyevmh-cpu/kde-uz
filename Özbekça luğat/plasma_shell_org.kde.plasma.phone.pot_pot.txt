@@ -1,0 +1,27 @@
+Copy to Clipboard - Almaşiş buferiga nusxalaş
+View Error Details… - Xatolik tafsilotlarini köriş…
+Open %1 - %1 ni oçiş
+Configure %1 - %1 ni sozlaş
+Wallpaper - Fon rasmi
+Change Homescreen - Boş ekranni özgartiriş
+Select Homescreen - Boş ekranni tanlaş
+Change homescreen to %1? - Boş ekran %1 ga özgartirilsinmi?
+Your current homescreen's settings are saved, and will be restored if you switch back. - Joriy boş ekran sozlamalari saqlandi va qaytib ötsangiz tiklanadi.
+Wallpaper Plugin - Fon rasmi plagini
+The wallpaper plugin to use. - Foydalaniladigan fon rasmi plagini.
+Wallpaper Plugins - Fon rasmi plaginlari
+Get New Plugins… - Yangi plaginlarni oliş…
+Layout changes have been restricted by the system administrator - Joylaşuvni özgartiriş tizim administratori tomonidan çeklangan
+Backspace - Backspace
+Enter - Enter
+Flashlight - Fonarçik
+Camera - Kamera
+Enter PIN - PIN kodni kiriting
+Wrong PIN - Notöğri PIN kod
+Show keypad - Raqamli klaviaturani körsatiş
+Show keyboard - Klaviaturani körsatiş
+Restart - Qayta işga tuşiriş
+Shut Down - Tizimni öçiriş
+Log Out - Tizimdan çiqiş
+Cancel - &Bekor qiliş
+Panel Focus Indicator - Panel fokus indikatori

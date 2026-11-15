@@ -1,0 +1,59 @@
+Source text - Tarjima text
+New Exception - Breeze Settings - Yangi istisno - Breeze sozlamalari
+Edit Exception - Breeze Settings - Istisnoni tahrirlaş - Breeze sozlamalari
+Question - Breeze Settings - Savol - Breeze sozlamalari
+Remove selected exception? - Tanlangan istisno öçirilsinmi?
+Remove - Öçiriş
+Warning - Breeze Settings - Ogohlantiriş - Breeze sozlamalari
+Regular Expression syntax is incorrect - Muntazam ifoda (RegEx) sintaksisi xato
+Exception Type - Istisno turi
+Regular Expression - Muntazam ifoda
+Window Title - Oyna sarlavhasi
+Window Class Name - Oyna sinfining nomi
+Enable/disable this exception - Uşbu istisnoni yoqiş/öçiriş
+General - Umumiy
+Tit&le alignment: - Sarlavhani &tekislaş:
+Left - Çapda
+Center - Markazda
+Center (Full Width) - Markazda (töliq kenglik)
+Right - Öngda
+B&utton size: - &Tugma ölçami:
+Tiny - Juda kiçik
+Small - Kiçik
+Medium - Örtaça
+Large - Katta
+Very Large - Juda katta
+Draw a circle around close button - Yopiş tugmasi atrofiga aylana çiziş
+Draw border on maximized and tiled windows - Kengaytirilgan va yonma-yon oynalarga çegara çiziş
+This setting will allow you to resize from window edges touching screen edges. Scrollbars and window close buttons will shift positions and will not touch screen edges. - Uşbu sozlama ekran çetiga tegib turgan oyna qirralaridan ölçamni özgartiriş imkonini beradi. Qayta aylantiriş polosalari va yopiş tugmalari biroz siljiydi va ekran çetiga tegmaydi.
+Draw titlebar background gradient - Sarlavha satrining orqa foniga gradient çiziş
+Round bottom corners of windows with no borders - Çegaralari bölmagan oynalarning pastki burçaklarini yumaloqlaş
+Shadows and Outline - Soyalar va kontur
+Shadow size: - Soya ölçami:
+None - Heç qanday
+Shadow strength: - Soya quvvati:
+% - %
+Shadow color: - Soya rangi:
+Draw window outline - Oyna konturini çiziş
+Window-Specific Overrides - Oynaga xos qayta belgilaşlar
+Dialog - Muloqot oynasi
+Window Identification - Oynani aniqlaş
+&Matching window property: - &Mos keluvçi oyna xossasi:
+Regular expression &to match: - Mos keliş uçun &muntazam ifoda:
+Detect Window Properties… - Oyna xossalarini aniqlaş…
+Decoration Options - Bezak variantlari
+Border size: - Çegara ölçami:
+Hide window title bar - Oyna sarlavhasi satrini yariş
+No Border - Çegarasiz
+No Side Borders - Yon çegaralarsiz
+Tiny - Juda kiçik
+Normal - Normal
+Large - Katta
+Very Large - Juda katta
+Huge - Ulkan
+Very Huge - Juda ulkan
+Oversized - Haddan ziyod katta
+Move Up - Yuqoriga suriş
+Move Down - Pastga suriş
+Add - Qöşiş
+Edit - Tahrirlaş

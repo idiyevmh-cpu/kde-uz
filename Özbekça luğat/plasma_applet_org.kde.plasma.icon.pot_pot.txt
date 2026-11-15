@@ -1,0 +1,5 @@
+Failed to create icon widgets folder '%1' - '%1' belgi vidjetlari jildini yaratib bölmadi
+Failed to copy icon widget desktop file from '%1' to '%2' - Belgi vidjeti desktop faylini '%1' dan '%2' ga nusxalab bölmadi
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Properties for %1 - %1 uçun xossalar
+Properties - Xossalar

@@ -1,0 +1,157 @@
+Oxygen Demo - Oxygen namoyişi
+Normal - Oddiy
+New - Yangi
+Open - Oçiş
+Save - Saqlaş
+Toggle authentication - Autentifikatsiyani almaştiriş
+Enabled - Yoqilgan
+Right to left layout - Öngdan çapga joylaşuv
+Style - Uslub
+Input Widgets - Kiritiş vidjetlari
+Shows the appearance of text input widgets - Matn kiritiş vidjetlarining körinişini körsatadi
+Tab Widgets - Varaqlar vidjetlari
+Shows the appearance of tab widgets - Varaq vidjetlarining körinişini körsatadi
+Buttons - Tugmalar
+Shows the appearance of buttons - Tugmalarning körinişini körsatadi
+Lists - Röyxatlar
+Shows the appearance of lists, trees and tables - Röyxatlar, daraxtlar va jadvallarning körinişini körsatadi
+Frames - Freymlar (ramkalar)
+Shows the appearance of various framed widgets - Turli ramkali vidjetlarning körinişini körsatadi
+MDI Windows - MDI oynalari
+Shows the appearance of MDI windows - MDI oynalarining körinişini körsatadi
+Sliders - Surguçlar
+Shows the appearance of sliders, progress bars and scrollbars - Surguçlar, jarayon satrlari va aylantiriş satrlarining körinişini körsatadi
+Benchmark - Unumdorlik testi
+Emulates user interaction with widgets for benchmarking - Test sinovi uçun foydalanuvçining vidjetlar bilan muloqotini modellaştiradi
+Example text - Namunaviy matn
+password - parol
+Layout - Joylaşuv
+Tile - Koşin qilib teriş
+Cascade - Kaskad
+Tabs - Varaqlar
+Tools - Asboblar
+Select Next Window - Keyingi oynani tanlaş
+Select Previous Window - Oldingi oynani tanlaş
+This is a sample text - Bu namunaviy matn
+Select the application widget style - Ilova vidjetining uslubini tanlang
+Modules - Modullar
+Select below the modules for which you want to run the simulation: - Simulyatsiyani işga tuşiriş uçun quyidagi modullarni tanlang:
+Options - Parametrlar
+Grab mouse - Siçqonçani tutib oliş
+Run Simulation - Simulyatsiyani işga tuşiriş
+Checkboxes - Belgilaş katakçalari
+Off - Öçirilgan
+Partial - Qisman
+On - Yoqilgan
+Radiobuttons - Radio tugmalar
+F&irst Choice - B&irinçi tanlov
+Seco&nd Choice - Ikki&nçi tanlov
+&Third Choice - &Uçinçi tanlov
+Pushbuttons - Bosiluvçi tugmalar
+Text only: - Faqat matn:
+This is a normal, text only combo box - Bu faqat matnli oddiy oçiluvçi röyxat
+Small - Kiçik
+Large - Katta
+Text and icon: - Matn va belgi:
+Use flat buttons - Yassi tugmalardan foydalaniş
+This is a normal, text and icon combo box - Bu matn va belgili oddiy oçiluvçi röyxat
+This is a normal, text only tool button - Bu faqat matnli oddiy asbob tugmasi
+This is a normal, text and icon tool button - Bu matn va belgili oddiy asbob tugmasi
+This is a normal, text only button - Bu faqat matnli oddiy tugma
+This is a normal, text only button with menu - Bu menyuli faqat matnli oddiy tugma
+This is a normal, text and icon button - Bu matn va belgili oddiy tugma
+This is a normal, text and icon button with menu - Bu menyuli matn va belgili oddiy tugma
+Toolbuttons - Asboblar tugmalari
+Flat - Yassi
+Up Arrow - Yuqoriga strelka
+Down Arrow - Pastga strelka
+Left Arrow - Çapga strelka
+Right Arrow - Öngga strelka
+Te&xt position: - Mat&n örni:
+Icons Only - Faqat belgilar
+Text Only - Faqat matn
+Text Alongside Icons - Belgilar yonida matn
+Text Under Icons - Belgilar ostida matn
+Icon si&ze: - Belgi ölç&ami:
+Small (16x16) - Kiçik (16x16)
+Medium (22x22) - Örtança (22x22)
+Large (32x32) - Katta (32x32)
+Huge (48x48) - Juda katta (48x48)
+&Layout direction: - &Joylaşuv yönalişi:
+Left to Right - Çapdan öngga
+Right to Left - Öngdan çapga
+Top to Bottom - Yuqoridan pastga
+Bottom to Top - Pastdan yuqoriga
+Frame - Ramka
+&Raised - &Börtib çiqan
+&Flat - &Yassi
+S&unken - B&otiq
+GroupBox - Guruh qutisi
+Flat - Yassi
+Tab Widget - Varaq vidjeti
+Single line text editor: - Bir qatorli matn tahrirçisi:
+Password editor: - Parol tahrirçisi:
+Editable combobox - Tahrirlanadigan oçiluvçi röyxat
+First item - Birinçi element
+Second item - Ikkinçi element
+Third item - Uçinçi element
+Spinbox: - Qiymat tanlagiç:
+Multi-line text editor: - Köp qatorli matn tahrirçisi:
+Wrap words - Sözlarni qatorga köçiriş
+Use flat widgets - Yassi vidjetlardan foydalaniş
+First Item - Birinçi element
+Second Item - Ikkinçi element
+Third Item - Uçinçi element
+Title - Sarlavha
+Description - Tavsif
+Third Description - Uçinçi tavsif
+Third Subitem - Uçinçi quyi element
+Third Subitem Description - Uçinçi quyi element tavsifi
+Second Description - Ikkinçi tavsif
+Second Subitem - Ikkinçi quyi element
+Second Subitem Description - Ikkinçi quyi element tavsifi
+First Subitem - Birinçi quyi element
+First Subitem Description - Birinçi quyi element tavsifi
+First Description - Birinçi tavsif
+New Row - Yangi qator
+First Row - Birinçi qator
+Third Row - Uçinçi qator
+First Column - Birinçi ustun
+Second Column - Ikkinçi ustun
+Third Column - Uçinçi ustun
+Top-left - Yuqori çep
+Top - Yuqori
+Top-right - Yuqori öng
+Left  - Çap 
+Center - Markaz
+Right - Öng
+Bottom-left - Pastki çep
+Bottom - Pastki
+Bottom-right - Pastki öng
+Editors - Tahrirçilar
+Title: - Sarlavha:
+Toolbox - Asboblar qutisi
+First Page - Birinçi sahifa
+Second Page - Ikkinçi sahifa
+First Label - Birinçi yorliq
+Second Label - Ikkinçi yorliq
+Third Page - Uçinçi sahifa
+Animate Progress Bars - Jarayon satrlarini animatsiya qiliş
+Invert Progress Bars - Jarayon satrlarini teskari qiliş
+Horizontal - Gorizontal
+Vertical - Vertikal
+Sliders tick marks position - Surguç belgilari joylaşuvi
+No Tick Marks - Belgilar yöq
+Tick Marks Above Slider - Surguç ustidagi belgilar
+Tick Marks Below Slider - Surguç ostidagi belgilar
+Tick Marks On Both Sides - Ikkala tomondagi belgilar
+&Tab position: - &Varaq joylaşuvi:
+North - Şimol
+South - Janub
+West - Ğarb
+East - Şarq
+Document mode - Hujjat rejimi
+Show Corner Buttons - Burçak tugmalarini körsatiş
+Show Tab Close Buttons - Varaqni yopiş tugmalarini körsatiş
+Hide tabbar - Varaqlar panelini yaşiriş
+Preview - Oldindan köriş

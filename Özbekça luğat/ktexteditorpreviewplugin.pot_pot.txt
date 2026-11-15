@@ -1,0 +1,14 @@
+Preview - Tugmatag
+Lock Current Document - Joriy hujjatni qulflaş
+Lock preview to current document - Körib çiqişni joriy hujjatga boğlaş
+Unlock Current View - Joriy körinişni qulfdan çiqariş
+Unlock current view - Joriy körinişni qulfdan çiqariş
+Automatically Update Preview - Körib çiqişni avtomatik yangilaş
+Enable automatic updates of the preview to the current document content - Joriy hujjat kontentiga qarab avtomatik yangilanişni yoqiş
+Manually Update Preview - Körib çiqişni qölda yangilaş
+Disable automatic updates of the preview to the current document content - Joriy hujjat kontentiga qarab avtomatik yangilanişni öçiriş
+Update Preview - Körib çiqişni yangilaş
+Update the preview to the current document content - Körib çiqişni joriy hujjat kontentiga yangilaş
+View - Aktiv sarlavha matni
+No preview available. - Körib çiqişni iloji yöq.
+About %1 - %1 haqida

@@ -1,0 +1,6 @@
+Line Number - Son
+File Path - Fayl
+Bookmarks - Xatçöplar
+Go to Previous Bookmark - Oldingi xatçöpga ötiş
+Go to Next Bookmark - Keyingi xatçöpga ötiş
+Remove Bookmark - Xatçöpni olib taşlaş

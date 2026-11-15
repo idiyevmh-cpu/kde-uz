@@ -1,0 +1,40 @@
+Appearance - Taşqi köriniş
+%1pt - %1pt
+Text font size: - Matn şrifti ölçami:
+A white sticky note - Oq yopişqoq qoğoz
+A black sticky note - Qora yopişqoq qoğoz
+A red sticky note - Qizil yopişqoq qoğoz
+An orange sticky note - Töq sariq yopişqoq qoğoz
+A yellow sticky note - Sariq yopişqoq qoğoz
+A green sticky note - Yaşil yopişqoq qoğoz
+A blue sticky note - Kök yopişqoq qoğoz
+A pink sticky note - Puşti yopişqoq qoğoz
+A transparent sticky note - Şaffof yopişqoq qoğoz
+A transparent sticky note with light text - Oç matnli şaffof yopişqoq qoğoz
+Undo - Bekor qiliş
+Redo - Qaytariş
+Cut - Kesiş
+Copy - Nusxa oliş
+Paste - Qöyiş
+Paste with Full Formatting - Töliq formatlaş bilan qöyiş
+Remove Formatting - Formatlaşni olib taşlaş
+Delete - Öçiriş
+Clear - Tozalaş
+Select All - Hammasini tanlaş
+Bold - Qalin
+Italic - Qiyşiq (Kursiv)
+Underline - Tagini çiziş
+Strikethrough - Ustidan çiziş
+Keep Open - Oçiq qoldiriş
+Discard this note? - Uşbu eslatma bekor qilinsinmi?
+Are you sure you want to discard this note? - Uşbu eslatmani bekor qilişga işonçingiz komilmi?
+White - Oq
+Black - Qora
+Red - Qizil
+Orange - Töq sariq
+Yellow - Sariq
+Green - Yaşil
+Blue - Kök
+Pink - Puşti
+Transparent - Şaffof
+Transparent Light - Şaffof oç rangli

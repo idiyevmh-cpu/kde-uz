@@ -1,0 +1,5 @@
+Source text - Tarjima text
+Copy to Clipboard - Almaşiş buferiga nusxalaş
+Calculates the value of :q: when :q: is made up of numbers and mathematical symbols suç as +, -, /, *, ! and ^. - Agar :q: sonlar va +, -, /, *, ! hamda ^ kabi matematik amallardan iborat bölsa, :q: qiymatini hisoblaydi.
+Enter a common math function - Oddiy matematik funksiyani kiriting
+Approximation - Taqribiy qiymat

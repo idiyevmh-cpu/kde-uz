@@ -1,0 +1,107 @@
+Implementation error - Amalga oşiriş xatosi
+Outputs changed while trying to apply settings - Sozlamalarni qöllaşga urinayotganda çiqişlar özgardi
+%1 Hz - %1 Gs
+%1 × %2 - %1 × %2
+%1 × %2 (%3:%4) - %1 × %2 (%3:%4)
+Replicated by other output - Boşqa çiqiş tomonidan nusxalandi
+None - Heç narsa
+Color profile: - Rang profili:
+ICC profile - ICC profili
+Built-in - Örnatilgan
+Use the color profile built into the screen itself, if present. Note that built-in color profiles are sometimes wrong, and often inaccurate. For optimal color fidelity, calibration using a colorimeter is recommended. - Mavjud bölsa, ekranning öziga örnatilgan rang profilidan foydalaning. Eʼtibor bering, örnatilgan rang profillari baʼzan notöğri va köpinça noaniq böladi. Rangning optimal aniqligi uçun kolorimetr yordamida kalibrlaş tavsiya etiladi.
+Enter ICC profile path… - ICC profili yölini kiriting…
+Select ICC profile… - ICC profilini tanlang…
+Opens a file picker for the ICC profile - ICC profili uçun fayl tanlagiçni oçadi
+Select ICC Profile - ICC profilini tanlang
+Identify Screens - Ekranlarni aniqlaş
+Keep display configuration? - Ekran sozlamalari saqlansinmi?
+Will revert to previous configuration in %1 second. - Oldingi sozlamalarga %1 soniyadan söng qaytariladi.
+&Keep - &Saqlaş
+&Revert - &Qaytariş
+All displays are disabled. Enable at least one. - Barça ekranlar öçirilgan. Kamida bittasini yoqing.
+Gaps between displays are not supported. Make sure all displays are touching. - Ekranlar orasidagi böşliqlar qöllab-quvvatlanmaydi. Barça ekranlar bir-biriga tegib turganiga işonç hosil qiling.
+Couldn’t apply display configuration: %1 - Ekran sozlamalarini qöllab bölmadi: %1
+A new output has been added. Settings have been reloaded. - Yangi çiqiş qöşildi. Sozlamalar qayta yuklandi.
+An output has been removed. Settings have been reloaded. - Çiqiş olib taşlandi. Sozlamalar qayta yuklandi.
+No KScreen backend found. Please check your KScreen installation. - Heç qanday KScreen bekendi topilmadi. Iltimos, KScreen örnatilişini tekşiring.
+Outputs could not be saved due to error. - Xato tufayli çiqişlarni saqlab bölmadi.
+Display configuration reverted. - Ekran sozlamalari qaytarildi.
+Change Priorities - Ustuvorliklarni özgartiriş
+Raise priority - Ustuvorlikni oşiriş
+Lower priority - Ustuvorlikni pasaytiriş
+Primary - Asosiy
+Collapse - Yiğiş
+Edit Arrangement - Joylaşuvni tahrirlaş
+Orientation: - Möljallaniş (yönaliş):
+Automatic - Avtomatik
+Only when in tablet mode - Faqat planşet rejimida
+Manual - Qölda
+(%1 × %2, %3%) - (%1 × %2, %3%)
+(%1 × %2) - (%1 × %2)
+%1, %2 - %1, %2
+Replicas - Nusxalar
+Device: - Qurilma:
+Enabled - Yoqilgan
+Change Screen Priorities… - Ekran ustuvorliklarini özgartiriş…
+This determines which screen your main desktop appears on, along with any Plasma Panels in it. Some older games also use this setting to decide which screen to appear on.<nl/><nl/>It has no effect on what screen notifications or other windows appear on. - Bu asosiy iş stoli va undagi har qanday Plasma panellari qaysi ekranda körinişini belgilaydi. Baʼzi eski öyinlar ham qaysi ekranda körinişini aniqlaş uçun uşbu sozlamadan foydalanadi.<nl/><nl/>Bu bildirişnomalar yoki boşqa oynalar qaysi ekranda körinişiga taʼsir qilmaydi.
+Resolution: - Ruxsat (aniqlik):
+“%1” is the only resolution supported by this display. - “%1” uşbu ekran tomonidan qöllab-quvvatlanadigan yagona ruxsatdir.
+Scale: - Masştab:
+in percent of regular scale - oddiy masştab foizida
+%1% - %%%1
+Refresh rate: - Yangilaniş çastotasi:
+“%1” is the only refresh rate supported by this display. - “%1” uşbu ekran tomonidan qöllab-quvvatlanadigan yagona yangilaniş çastotasidir.
+“%1” is the only refresh rate supported by this display at the current resolution. - “%1” joriy ruxsatda uşbu ekran tomonidan qöllab-quvvatlanadigan yagona yangilaniş çastotasidir.
+Adaptive sync: - Moslaşuvçan sinxronizatsiya:
+Never - Heç qaçon
+Always - Har doim
+Overscan: - Overskan:
+Determines how much padding is put around the image sent to the display to compensate for part of the content being cut off around the edges.<nl/><nl/>This is sometimes needed when using a TV as a screen. - Çekkalardagi kontent kesilib ketişining örnini qoplaş uçun ekranga yuboriladigan rasm atrofiga qança boş joy qoyilişini belgilaydi.<nl/><nl/>Bu baʼzan televizordan ekran sifatida foydalanganda kerak böladi.
+RGB range: - RGB oraliği:
+Full - Töliq
+Limited - Çeklangan
+Determines whether the range of possible color values needs to be limited for the display. This should only be changed if the colors on the screen look washed out. - Ekran uçun mumkin bölgan rang qiymatlari oraliğini çeklaş kerakmi yoki yöqligini belgilaydi. Bu faqat ekrandagi ranglar xira köringandagina özgartirilişi kerak.
+High Dynamic Range: - Yuqori dinamik diapazon (HDR):
+Enable &HDR - &HDR-ni yoqiş
+HDR allows compatible applications to show brighter and more vivid colors. - HDR mos keluvçi ilovalarga yanada yorqinroq va jonliroq ranglarni körsatiş imkonini beradi.
+Calibrate HDR Brightness… - HDR yorqinligini kalibrlaş…
+Opens a window to calibrate HDR brightness - HDR yorqinligini kalibrlaş oynasini oçadi
+HDR calibration can only be started if all settings are applied. - HDR kalibrlaşni faqat barça sozlamalar qöllanilgandagina boşlaş mumkin.
+Color accuracy: - Rang aniqligi:
+Prefer efficiency - Samaradorlikni afzal köriş
+Prefer color accuracy - Rang aniqligini afzal köriş
+Preferring color accuracy limits potentially inaccurate offloading of color operations to the display driver and increases the maximum color resolution.<nl/><nl/>Note that this setting can have a large impact on performance. - Rang aniqligini afzal köriş rang amallarini ekran drayveriga noaniq yuklaşni çeklaydi va maksimal rang aniqligini oşiradi.<nl/><nl/>Eʼtibor bering, bu sozlama unumdorlikka katta taʼsir körsatişi mumkin.
+Preferring efficiency simplifies the ICC profile to matrix+shaper, improving performance at the cost of color accuracy.<nl/><nl/>Note that changing this setting can have a large impact on performance. - Samaradorlikni afzal köriş ICC profilini matritsa+şakllantiruvçiga soddalaştiradi va rang aniqligi hisobiga unumdorlikni yaxşilaydi.<nl/><nl/>Eʼtibor bering, bu sozlamani özgartiriş unumdorlikka katta taʼsir körsatişi mumkin.
+Limit color resolution to: - Rang aniqligini çeklaş:
+Automatic  (%1 bits per color) - Avtomatik (%1 bit har bir rang uçun)
+%1 bits per color - %1 bit har bir rang uçun
+Automatic (%1 bits per color) - Avtomatik (%1 bit har bir rang uçun)
+Limits the color resolution of the image that is sent to the display. This does not affect screenshots or recordings.<nl/><nl/>Because the display is currently connected through a dock, automatic color resolution has been temporarily reduced to 8 bits to avoid common dock issues.<nl/><nl/>Due to graphics driver limitations, the actually used resolution cannot be known. - Ekranga yuboriladigan rasmning rang aniqligini çeklaydi. Bu skrinşotlar yoki yozuvlarga taʼsir qilmaydi.<nl/><nl/>Ekran hozirda dok-stansiya orqali ulanganligi sababli, umumiy dok muammolarini oldini oliş uçun avtomatik rang aniqligi vaqtinça 8 bitga kamaytirildi.<nl/><nl/>Grafik drayver çeklovlari tufayli amalda qöllanilgan ruxsatni bilib bölmaydi.
+Limits the color resolution of the image that is sent to the display. This does not affect screenshots or recordings.<nl/><nl/>Limiting color resolution can be useful to work around display or graphics driver issues.<nl/><nl/>Due to graphics driver limitations, the actually used resolution cannot be known. - Ekranga yuboriladigan rasmning rang aniqligini çeklaydi. Bu skrinşotlar yoki yozuvlarga taʼsir qilmaydi.<nl/><nl/>Rang aniqligini çeklaş ekran yoki grafik drayveri muammolarini aylanib ötiş uçun foydali bölişi mumkin.<nl/><nl/>Grafik drayver çeklovlari tufayli amalda qöllanilgan ruxsatni bilib bölmaydi.
+sRGB color intensity: - sRGB rang intensivligi:
+Increases the intensity of sRGB content on the screen. - Ekrandagi sRGB kontentining intensivligini oşiradi.
+Adaptive Backlight Modulation: - Moslaşuvçan orqa yoritiş modulyatsiyasi:
+Adaptive backlight modulation reduces power use at the cost of color accuracy - Moslaşuvçan orqa yoritiş modulyatsiyasi rang aniqligi hisobiga quvvat sarfini kamaytiradi
+Brightness: - Yorqinlik:
+Control hardware brightness with DDC/CI - DDC/CI yordamida apparat yorqinligini boşqariş
+DDC/CI is a feature supported by many monitors. Plasma can use it to adjust screen brightness with desktop controls, as if using the monitor's own hardware buttons and OSD menu. - DDC/CI köp monitorlar tomonidan qöllab-quvvatlanadigan xususiyatdir. Plasma monitordagi apparat tugmalari va OSD menyusidan foydalangandek, ekran yorqinligini iş stoli boşqaruvlari bilan sozlaş uçun undan foydalanişi mumkin.
+Automatically adapt to environment - Atrof-muhitga avtomatik moslaşiş
+Automatically adjust the screen’s brightness based on the lighting level of the environment, as detected by the device’s ambient light sensor. If you adjust the brightness manually, those adjustments will be remembered and taken into account. - Qurilmaning yoruğlik datçigi tomonidan aniqlangan atrof-muhit yoruğligi darajasi asosida ekran yorqinligini avtomatik sozlaydi. Agar siz yorqinlikni qölda sozlasangiz, uşbu sozlamalar eslab qolinadi va hisobga olinadi.
+Sharpness: - Ötkirlik (aniqlik):
+Extended Dynamic Range: - Kengaytirilgan dinamik diapazon (EDR):
+Enable EDR - EDR-ni yoqiş
+EDR allows viewing HDR content on SDR displays by dynamically adjusting the backlight.<nl/><nl/>Note that this increases battery usage while viewing HDR content. - EDR orqa yoritişni dinamik sozlaş orqali SDR ekranlarda HDR kontentni köriş imkonini beradi.<nl/><nl/>Eʼtibor bering, bu HDR kontentni köriş paytida batareya sarfini oşiradi.
+Replica of: - Quyidagining nusxasi:
+Legacy applications (X11): - Eski ilovalar (X11):
+Apply scaling themselves - Masştablaşni özlari qöllasin
+Legacy applications that support scaling will use it and look crisp, however those that don’t will not be scaled at all. - Masştablaşni qöllab-quvvatlaydigan eski ilovalar undan foydalanadi va tiniq körinadi, ammo qöllab-quvvatlamaydiganlari umuman masştablanmaydi.
+Scaled by the system - Tizim tomonidan masştablangan
+All legacy applications will be scaled by the system to the correct size, however they will always look slightly blurry. - Barça eski ilovalar tizim tomonidan töğri ölçamga masştablanadi, ammo ular har doim biroz xira körinadi.
+Screen tearing: - Ekran yirtilişi:
+Allow in fullscreen windows - Töliq ekran oynalarida ruxsat beriş
+Screen tearing reduces latency with most displays. Note that not all graphics drivers support this setting. - Ekran yirtilişi köpçilik ekranlarda keçikişni kamaytiradi. Eʼtibor bering, hamma grafik drayverlari ham uşbu sozlamani qöllab-quvvatlamaydi.
+90° Clockwise - Soat yönalişi böyiça 90°
+Upside Down - Teskari (töntarilgan)
+90° Counterclockwise - Soat yönalişiga qarşi 90°
+No Rotation - Aylantiriş yöq
+Drag screens to re-arrange them - Ekranlarni qayta joylaştiriş uçun ularni suring

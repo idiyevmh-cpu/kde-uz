@@ -1,0 +1,49 @@
+Add Layout - Tartib qöşiş
+Filter languages… - Tillarni filtrlaş…
+Filter languages - Tillarni filtrlaş
+Show all layouts - Barça tartiblarni körsatiş
+%1 layout - %1 tartibi
+%1 of %2 selected - %2 tadan %1 ta tanlandi
+Keyboard Layouts - Klaviatura tartiblari
+On-Screen Keyboard Layouts - Ekran klaviaturasi tartiblari
+Add Layout… - Tartib qöşiş…
+No keyboard layouts selected - Klaviatura tartiblari tanlanmagan
+The default keyboard layout for the system will be used. - Tizim uçun standart klaviatura tartibi işlatiladi.
+Move Up - Yuqoriga köçiriş
+Move Down - Pastga köçiriş
+Remove - Olib taşlaş
+Keyboard layouts: - Klaviatura tartiblari:
+Configure… - Sozlaş…
+Key press feedback: - Tugma bosilişi aks-sadosi:
+Sound - Tovuş
+Vibration - Tebraniş
+Character popup - Belgilar qalqib çiquvçi oynasi
+General: - &Umumiy
+Keyboard navigation - Klaviatura navigatsiyasi
+Auto-capitalization - Avtomatik boş harf
+Alternate characters: - Muqobil belgilar:
+Show popup when holding a key - Tugmani uşlab turganda oynaçani körsatiş
+Hold delay: - Uşlab turiş keçikişi:
+milliseconds - millisoniya
+Test the virtual keyboard… - Virtual klaviaturani sinaş…
+Feedback - Fikr-mulohaza
+Whether to emit a sound on key press - Tugma bosilganda tovuş çiqariş kerakmi yoki yöq
+Whether to vibrate on key press - Tugma bosilganda tebraniş kerakmi yoki yöq
+Show a character popup when pressing text keys - Matn tugmalari bosilganda belgilar oynaçasini körsatiş
+General - Umumiy
+Whether to use the arrow keys to navigate the keyboard - Klaviaturada harakatlaniş uçun strelka tugmalaridan foydalaniş
+Automatically capitalize the first letter of sentences - Jumlalarning birinçi harfini avtomatik boş harf bilan yoziş
+On-Screen Keyboard - Ekran klaviaturasi
+No keyboard layouts selected, the default keyboard layout for the system will be used - Klaviatura tartiblari tanlanmagan, tizim uçun standart klaviatura tartibi işlatiladi
+%1 keyboard layout selected - %1 ta klaviatura tartibi tanlandi
+Key press feedback - Tugma bosilişi aks-sadosi
+Sound - Tovuş
+A sound will play when a key is pressed - Tugma bosilganda tovuş yangraydi
+If supported, the device will vibrate when a key is pressed - Qöllab-quvvatlansa, tugma bosilganda qurilma tebranadi
+General - Umumiy
+Alternate characters - Muqobil belgilar
+Show overlay when holding a key - Tugmani uşlab turganda qoplamani körsatiş
+Long-pressing a key on a physical keyboard will show an overlay with alternate versions of the selected character, if available - Jismoniy klaviaturada tugmani bosib turiş tanlangan belgining muqobil variantlari (agar mavjud bölsa) bilan qoplamani körsatadi
+Hold delay - Uşlab turiş keçikişi
+How long a key must be held before the overlay shows - Qoplama körsatilgunga qadar tugma qança vaqt uşlab turilişi kerak
+%1 millisecond - %1 millisoniya

@@ -1,0 +1,4 @@
+Info Center - Maʼlumot markazi
+Learn about the system's hardware and status - Tizim qurilmalari va holati haqida bilib oling
+The Info Center provides you with a centralized and convenient overview of your system and desktop environment. - Maʼlumot markazi sizga tizimingiz va iş stoli muhitining markazlaşgan va qulay umumiy körinişini taqdim etadi.
+The information center is made up of multiple modules. Each module is a separate application, but the information center organizes all of these programs into a convenient location. - Maʼlumot markazi bir neça modullardan iborat. Har bir modul alohida ilova hisoblanadi.

@@ -1,0 +1,48 @@
+Source text - Tarjima text
+Remove from Favorites - Sevimlilardan olib taşlaş
+Add to Favorites - Sevimlilarga qöşiş
+On All Activities - Barça faoliyatlarda
+On the Current Activity - Faqat joriy faoliyatda
+Show in Favorites - Sevimlilarda körsatiş
+General - Umumiy
+Icon: - Belgi:
+Change Application Launcher's icon - Ilovalarni işga tuşiruvçi belgisini özgartiriş
+Choose… - Tanlaş…
+Choose an icon for Application Launcher - Ilovalarni işga tuşiruvçi uçun belgi tanlang
+Reset to default icon - Standart belgiga qaytariş
+Remove icon - Belgini olib taşlaş
+Text label: - Matnli yozuv:
+Type here to add a text label - Matnli yozuv qöşiş uçun bu yerga yozing
+Reset menu label - Menyu yozuvini tiklaş
+Show applications as: - Ilovalarni quyidagiça körsatiş:
+Name only - Faqat nomi
+Description only - Faqat tavsifi
+Name (Description) - Nomi (Tavsifi)
+Description (Name) - Tavsifi (Nomi)
+Sort applications alphabetically - Ilovalarni alifbo tartibida saralaş
+Use compact list item style - Ixçam röyxat uslubidan foydalaniş
+Highlight newly-installed applications - Yangi örnatilgan ilovalarni ajratib körsatiş
+Switch sidebar categories when hovering over them - Kursor bilan borganda yon panel toifalarini almaştiriş
+Configure Search Plugins… - Qidiruv plaginlarini sozlaş…
+Sidebar position: - Yon panel joylaşuvi:
+Right - Öngda
+Left - Çapda
+Show favorites: - Sevimlilarni körsatiş:
+In a grid - Katakçalarda (törda)
+In a list - Röyxatda
+Show other applications: - Boşqa ilovalarni körsatiş:
+Show buttons for: - Tugmalarni körsatiş:
+Power - Quvvat
+Session - Seans
+Power and session - Quvvat va seans
+Applications - Ilovalar
+Places - Joylar
+No matches - Moslik topilmadi
+Open user settings - Foydalanuvçi sozlamalarini oçiş
+Keep Open - Oçiq qoldiriş
+New! - Yangi!
+Newly-installed application - Yangi örnatilgan ilova
+Edit Applications… - Ilovalarni tahrirlaş…
+Computer - Kompyuter
+History - Tarix
+Frequently Used - Köp foydalaniladiganlar

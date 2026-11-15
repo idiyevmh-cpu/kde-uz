@@ -1,0 +1,4 @@
+Source text - Tarjima text
+KDE Wallet - KDE Qopçiq
+KDE Wallet Configuration - KDE Qopçiq xizmatini sozlaş
+wallet,form fill,passwords,form data,secret service,kwallet,kdewallet,kde wallet,keepassxc,keyring,encryption,decryption,blowfish,pgp,access control,confidential,wallet manager - hamyon,qopçiq,forma töldiriş,parollar,şifrlaş,kalitlar,xavfsizlik,parollar menejeri

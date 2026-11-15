@@ -1,0 +1,38 @@
+Source text - Tarjima text
+KDE System Settings - KDE tizim sozlamalari
+Configure KDE Plasma’s behavior and appearance - KDE Plasma'ning xulq-atvori va taşqi körinişini sozlaş
+systemsettings - tizimsozlamalari;sozlamalar;
+System Settings - Tizim sozlamalari
+Configure the system’s behavior and appearance - Tizimning xulq-atvori va körinişini moslaş
+Global Theme - Global mavzu
+Users - Foydalanuvçilar
+Screen Locking - Ekranni qulflaş
+Power Management - Quvvat boşqaruvi
+Display Configuration - Ekran sozlamalari
+Hidden - Yaşirin
+Appearance & Style - Taşqi köriniş va uslub
+Text & Fonts - Matn va şriftlar
+Colors & Themes - Ranglar va mavzular
+Default Applications - Standart ilovalar
+Apps & Windows - Ilovalar va oynalar
+Application Permissions - Ilova ruxsatlari
+Connected Devices - Ulangan qurilmalar
+Display & Monitor - Displey va monitor
+Display Settings - Displey sozlamalari
+Input & Output - Kiritiş va çiqariş
+Mouse & Touchpad - Siçqonça va sensorli panel (taçpad)
+Touchscreen - Sensorli ekran
+Keyboard - Klaviatura
+Multimedia - Multimedia
+Disks & Cameras - Disklar va kameralar
+Networking - Tarmoq bilan işlaş
+Wi-Fi & Internet - Wi-Fi va Internet
+Personalization - Şaxsiylaştiriş
+Language & Time - Til va vaqt
+Root - Root (Maʼmur)
+Security & Privacy - Xavfsizlik va maxfiylik
+System - Tizim
+Workspace - Iş maydoni
+Search - Qidiruv
+Session - Seans
+Window Management - Oynalarni boşqariş

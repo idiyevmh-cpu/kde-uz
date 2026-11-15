@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Menu Editor - Menyu tahrirçisi
+Edit how applications are presented in app launchers - Dasturlarni işga tuşiriş menyusida qanday körinişini tahrirlaş
+kmenuedit; - kmenuedit;menyu;tahrirçi;

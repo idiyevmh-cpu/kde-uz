@@ -1,0 +1,6 @@
+General - Umumiy
+Calendar version: - Taqvim talqini:
+Show week numbers - Hafta raqamlarini körsatiş
+Compact version: - Ixçam talqin:
+Show day of the month - Oy kunini körsatiş
+Show week number - Hafta raqamini körsatiş

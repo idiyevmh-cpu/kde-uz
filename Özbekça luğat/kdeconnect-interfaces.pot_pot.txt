@@ -1,0 +1,3 @@
+Device trusted and connected - Qurilmaga işonç bildirildi va ulandi
+Device not trusted - Qurilmaga işonç bildirilmagan
+Device disconnected - Qurilma uzildi

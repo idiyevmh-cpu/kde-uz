@@ -1,0 +1,37 @@
+Source text - Tarjima text
+Cannot retrieve the current Plasma layout. - Joriy Plasma maketini olib bölmadi.
+Impossible to create the layouts directory in the look and feel package - Taşqi köriniş töplamida maketlar jildini yaratib bölmaydi
+Impossible to write to org.kde.plasma.desktop-layout.js - org.kde.plasma.desktop-layout.js fayliga yozib bölmaydi
+Plasma Layout successfully duplicated - Plasma maketi muvaffaqiyatli nusxalandi
+Defaults config file saved from your current setup - Joriy sozlamalardan standart konfiguratsiya fayli saqlandi
+Open Image - Rasmni oçiş
+Image Files (*.png *.jpg *.bmp) - Rasm fayllari (*.png *.jpg *.bmp)
+Plasma Global Theme Explorer - Plasma global mavzular tadqiqotçisi
+Explore and edit your Plasma Global Themes - Plasma global mavzularini körib çiqiş va tahrirlaş
+© KDE Community - © KDE Hamjamiyati
+Marco Martin - Marco Martin
+Developer - Dasturçi
+Carl Schwan - Carl Schwan
+Your names - Ismingiz
+Your emails - Emailingiz
+Look And Feel to open - Oçiş uçun taşqi köriniş
+About - Dastur haqida
+New Theme… - Yangi mavzu…
+Open Theme Folder - Mavzu jildini oçiş
+Click to open an image - Rasmni oçiş uçun bosing
+Plugin name: %1 - Plagin nomi: %1
+Name: - Nomi:
+Comment: - Izoh:
+Author: - Muallif:
+Email: - Email:
+Website: - Veb-sayt:
+License: - Litsenziya:
+Layout from current Plasma setup - Joriy Plasma sozlamasidan maket
+Defaults from current setup - Joriy sozlamadan standart parametrlar
+Save - Saqlaş
+New Theme - Yangi mavzu
+Theme Plugin Name: - Mavzu plagini nomi:
+This theme plugin name already exists - Uşbu mavzu plagini nomi allaqaçon mavjud
+Theme Name: - Mavzu nomi:
+OK - OK
+Cancel - Bekor qiliş

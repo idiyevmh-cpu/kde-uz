@@ -1,0 +1,71 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Image Files (%1) - Rasm fayllari (%1)
+Global look and feel - Global taşqi köriniş
+Global Look and Feel package, alternate - Qöşimça global taşqi köriniş töplami
+Switch between dark and light global themes depending on time of day - Kunning vaqtiga qarab qoronği va yoruğ global mavzular örtasida almaşiş
+Switch between dark and light global themes when the computer is idle - Kompyuter harakatsiz turganda qoronği va yoruğ global mavzular örtasida almaşiş
+How long the computer should be idle in order to switch between dark and light global themes, in seconds - Qoronği va yoruğ global mavzular örtasida almaşiş uçun kompyuter qança soniya harakatsiz turişi kerakligi
+Global Theme Tool - Global mavzu vositasi
+Command line tool to apply global theme packages for changing the look and feel. - Taşqi körinişni özgartiriş uçun global mavzu paketlarini qöllaş buyruqlar satri vositasi.
+Copyright 2017, Marco Martin - Mualliflik huquqi 2017, Marco Martin
+Marco Martin - Marco Martin
+Maintainer - Taʼminotçi
+List available global theme packages - Mavjud global mavzu paketlarini röyxatlaş
+Apply a global theme package. This can be the name of a package, or a full path to an installed package, at which point this tool will ensure it is a global theme package and then attempt to apply it - Global mavzu paketini qöllaş. Bu paket nomi yoki örnatilgan paketning töliq yöli bölişi mumkin, şunda uşbu vosita uning global mavzu paketi ekanligini tekşiradi va uni qöllaşga harakat qiladi
+packagename - paketnomi
+Prevent --apply from disabling the automatic mode - --apply parametrining avtomatik rejimni öçirib qöyişiga yöl qöymaslik
+Reset the Plasma Desktop layout - Plasma iş stoli tartibini tiklaş
+Delete Permanently - Butunlay öçirib taşlaş
+Do you really want to permanently delete this theme? - Haqiqatan ham uşbu mavzuni butunlay öçirib taşlamoqçimisiz?
+Cancel - Bekor qiliş
+The chosen light Global Theme will be used during the day, and the dark one will be used at night. - Tanlangan yoruğ global mavzu kunduzi, qoronğisi esa keçasi işlatiladi.
+Configure Day/Night Cycle… - Kun/Tun davrini sozlaş…
+Light - Yoruğ
+Dark - Qoronği
+Wait until idleness before switching: - Almaştirişdan oldin harakatsizlikni kutiş:
+%1 second - %1 soniya
+Minimizes interruptions when actively using the computer. - Kompyuterdan faol foydalaniş paytida xalaqit berişni kamaytiradi.
+Choose Light Global Theme - Yoruğ global mavzuni tanlaş
+Choose Dark Global Theme - Qoronği global mavzuni tanlaş
+Preview Theme - Mavzuni oldindan köriş
+Remove theme - Mavzuni olib taşlaş
+Cannot delete the active theme - Faol mavzuni öçirib bölmaydi
+Cannot delete system-installed themes - Tizim tomonidan örnatilgan mavzularni öçirib bölmaydi
+Save Current Theme - Joriy mavzuni saqlaş
+Plasma’s current appearance and theme settings will be saved in a new global theme. - Plasmaning joriy körinişi va mavzu sozlamalari yangi global mavzuda saqlanadi.
+Add a preview image… - Oldindan köriş rasmini qöşiş…
+Take a screenshot… - Skrinşot oliş…
+Name: - Nomi:
+Type in name… - Nomini kiriting…
+Confirm - Tasdiqlaş
+A global theme with this name or id already exists. - Bu nom yoki identifikatorli global mavzu allaqaçon mavjud.
+Choose a Preview Image - Oldindan köriş rasmini tanlang
+Switch to Dark Mode at Night - Keçasi qoronği rejimga ötiş
+Save Current Theme… - Joriy mavzuni saqlaş…
+Get New… - Yangilarini oliş…
+Layout settings: - Tartib sozlamalari:
+Desktop layout - Iş stoli tartibi
+Titlebar Buttons layout - Sarlavha paneli tugmalari tartibi
+Applying a Desktop layout will delete the current set of desktops, panels, docks, and widgets, replacing them with what the theme specifies. - Iş stoli tartibini qöllaş joriy iş stollari, panellar, doklar va vidjetlar töplamini öçirib taşlaydi va ularni mavzuda körsatilganlar bilan almaştiradi.
+Appearance settings: - Taşqi köriniş sozlamalari:
+Colors - Ranglar
+Application Style - Ilova uslubi
+Window Decoration Style - Oyna bezagi uslubi
+Window Decoration Size - Oyna bezagi hajmi
+Icons - Belgilar
+Plasma Style - Plasma uslubi
+Pointers - Körsatkiçlar
+Fonts - Şriftlar
+Task Switcher - Vazifalarni almaştirgiç
+Splash Screen - Salomlaşiş ekrani
+The following will be applied by this Global Theme: - Uşbu Global mavzu tomonidan quyidagilar qöllaniladi:
+Appearance settings - Taşqi köriniş sozlamalari
+• Appearance settings - • Taşqi köriniş sozlamalari
+Desktop and window layout - Iş stoli va oyna tartibi
+• Desktop and window layout - • Iş stoli va oyna tartibi
+This Global Theme does not provide any applicable settings. Please contact the maintainer of this Global Theme as it might be broken. - Uşbu Global mavzu qöllanişi mumkin bölgan sozlamalarni taqdim etmaydi. Iltimos, uşbu Global mavzu taʼminotçisi bilan boğlaning, çunki u buzilgan bölişi mumkin.
+Contains Desktop layout - Iş stoli tartibini öz içiga oladi
+Apply %1? - %1 qöllansinmi?
+Choose what to apply… - Nimani qöllaşni tanlang…
+Show fewer options… - Kamroq variantlarni körsatiş…

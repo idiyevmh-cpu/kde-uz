@@ -1,0 +1,3 @@
+sddm,display manager,themes,login theme,login screen,login skin,login visual,login look,logout,enter,authentication screen,sync settings,synchronize settings,session,default session,default user,user uid,login as,authenticate as,command to shutdown,command to restart - sddm,displey boşqaruvçisi,mavzular,kiriş mavzusi,kiriş ekrani,kiriş,tizimdan çiqiş,autentifikatsiya ekrani,sozlamalarni sinxronlaş,seans,standart seans,standart foydalanuvçi
+Login Screen (SDDM) - Kiriş ekrani (SDDM)
+Configure Login Manager - Tizimga kiriş boşqaruvçisini sozlaş

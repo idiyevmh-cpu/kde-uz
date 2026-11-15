@@ -1,0 +1,12 @@
+Source text - Tarjima text
+Portal - Portal
+Integrating applications into the KDE Plasma desktop - Ilovalarni KDE Plasma iş stoli muhitiga integratsiya qiliş
+KDE Portal Integration - KDE Portal integratsiyasi
+Screencasting failed - Ekranni translatsiya qiliş muvaffaqiyatsiz böldi
+An error was encountered while screencasting - Ekranni yoziş/translatsiya qiliş jarayonida xatolik yuz berdi
+Started Remote Desktop - Masofaviy iş stoli işga tuşirildi
+An application gained control over your input and displays - Ilova kiritiş qurilmalari va ekranlaringiz ustidan boşqaruvni qölga kiritdi
+Input Capture Started - Kiritişni uşlab qoliş boşlandi
+Input is now being managed by an application - Kiritiş amallari endi ilova tomonidan boşqarilmoqda
+Input Capture Session Started - Kiritişni uşlab qoliş seansi boşlandi
+An application has started an input capture session - Ilova kiritişni uşlab qoliş seansini boşladi

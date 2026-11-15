@@ -1,0 +1,88 @@
+Inherit Language - Tilni meros qilib oliş
+International Electrotechnical Commission (IEC) - Xalqaro elektrotexnika komissiyasi (IEC)
+Joint Electron Device Engineering Council (JEDEC) - Elektron qurilmalarni loyihalaş böyiça birlaşgan kengaş (JEDEC)
+Metric system (SI) - Metrik tizim (SI)
+Binary -  Kibibytes (KiB), Mebibytes (MiB), Gibibytes (GiB) - Ikkilik - Kibibayt (KiB), Mebibayt (MiB), Gibibayt (GiB)
+Binary - Kilobytes (KB), Megabytes (MB), Gigabytes (GB) - Ikkilik - Kilobayt (KB), Megabayt (MB), Gigabayt (GB)
+Decimal - Kilobytes (kB), Megabytes (MB), Gigabytes (GB) - Önlik - Kilobayt (kB), Megabayt (MB), Gigabayt (GB)
+Imperial UK - Ingliz (Buyuk Britaniya)
+Imperial US - Ingliz (AQŞ)
+Metric - Metrik
+Letter - Letter (xat ölçami)
+A4 - A4
+c/o - orqali (c/o)
+Acme Corporation - Acme korporatsiyasi
+Development Department - Işlab çiqiş bölimi
+Dev-Building - Dasturçilar binosi
+Main Street - Asosiy köça
+House 1 - 1-uy
+Room 2 - 2-xona
+Floor 3 - 3-qavat
+Downtown - Şahar markazi
+123456 - 123456
+City - Şahar
+State - Viloyat / Ştat
+FamilyName - Familiya
+FAMILYNAME - FAMILIYA
+FirstName - Ism
+F - I
+OtherName - BoşqaIsm
+AdditionalName - QöşimçaIsm
+A - Q
+Profession - Kasb
+Doctor - Şifokor / Doktor
+Dr. - D-r.
+Could not find an example for this locale - Uşbu lokal uçun namuna topilmadi
+Could not find the system's available locales using the <command>localectl</command> tool. Please file a bug report about this at <link>https://bugs.kde.org</link> - localectl vositasi yordamida tizimning mavjud lokallarini topib bölmadi. Iltimos, bu haqda https://bugs.kde.org manzilida xato haqida xabar qoldiring
+%1 (%2) - %1 (%2)
+%1 (Brazil) - %1 (Braziliya)
+Can't locate executable `check-language-support` - check-language-support işga tuşiriş fayli topilmadi
+check-language-support failed, output: %1 %2 - check-language-support xatolik bilan tugadi, çiqiş: %1 %2
+Not all missing packages managed to resolve! %1 - Yetişmayotgan barça paketlarni aniqlab bölmadi! %1
+Failed to install language packages (%1): %2 - Til paketlarini örnatib bölmadi (%1): %2
+Another process is already running, please retry later - Boşqa jarayon allaqaçon bajarilmoqda, iltimos keyinroq qayta urinib köring
+Unauthorized to edit locale configuration file - Lokal sozlaş faylini tahrirlaşga ruxsat berilmagan
+Can't open file `/etc/locale.gen` - /etc/locale.gen faylini oçib bölmadi
+Can't locate executable `locale-gen` - locale-gen işga tuşiriş fayli topilmadi
+Unknown - Nomaʼlum
+Default for System - Tizim uçun birlamçi
+Default - Birlamçi
+ISO C Standard - ISO C standarti
+System Default C - Tizim birlamçi C
+Default for %1 - %1 uçun birlamçi
+Language - Til
+Numbers - Raqamlar
+Time - Vaqt
+Currency - Valyuta
+Measurements - Ölçov birliklari
+Paper Size - Qoğoz ölçami
+Address - Manzil
+Name Style - Ism uslubi
+Phone Numbers - Telefon raqamlari
+Data and Storage Sizes - Maʼlumot va xotira hajmlari
+KiB, MiB, GiB; %1 - KiB, MiB, GiB; %1
+KB, MB, GB; %1 - KB, MB, GB; %1
+kB, MB, GB; %1 - kB, MB, GB; %1
+System Default - Tizimning birlamçi holati
+ (Standard format for %1) -  (%1 uçun standart format)
+Putting any other languages below English will cause undesired behavior in some applications. If you would like to use your system in English, remove all other languages. - Boşqa har qanday tillarni ingliz tilidan pastga qöyiş baʼzi ilovalarda kutilmagan xatti-harakatlarga olib kelişi mumkin. Agar siz tizimingizdan ingliz tilida foydalanmoqçi bölsangiz, barça boşqa tillarni olib taşlang.
+The language \"%1\" is unsupported - “%1” tili qöllab-quvvatlanmaydi
+Add languages in the order you want to see them in your applications. - Tillarni ilovalaringizda qaysi tartibda körişni xohlasangiz, şu tartibda qöşing.
+Change Language - Tilni özgartiriş
+Move to top - Yuqoriga köçiriş
+Remove - Olib taşlaş
+No Language Configured - Heç qanday til sozlanmagan
+Add Languages - Tillarni qöşiş
+This system does not include “%1” - Uşbu tizim “%1” tilini öz içiga olmaydi
+Learn how to help <link url='%1'>translate KDE software into your language</link>. - <link url='%1'>KDE dasturlarini öz tilingizga tarjima qilişda</link> yordam beriş yölini bilib oling.
+Add More… - Köproq qöşiş…
+Changes will take effect the next time you log in. - Özgarişlar keyingi safar tizimga kirganingizda kuçga kiradi.
+Restart now - Hozir qayta işga tuşiriş
+Generating locale and language support files; don't turn off the computer yet. - Lokal va tilni qöllab-quvvatlaş fayllari yaratilmoqda; hozirça kompyuterni öçirmang.
+Locale and language support files have been generated, but language-specific fonts could not be automatically installed. If your language requires specialized fonts to be displayed properly, you will need to discover what they are and install them yourself. - Lokal va tilni qöllab-quvvatlaş fayllari yaratildi, lekin tilga xos şriftlarni avtomatik örnatib bölmadi. Agar tilingiz töğri körinişi uçun maxsus şriftlar talab etilsa, ular qanday şriftlar ekanligini bilib, ularni özingiz örnatişingiz kerak böladi.
+Necessary locale and language support files have been installed. It is now safe to turn off the computer. - Zarur lokal va tilni qöllab-quvvatlaş fayllari örnatildi. Endi kompyuterni xavfsiz öçiriş mumkin.
+Modify… - Özgartiriş…
+Name - Ism
+Phone number - Telefon raqami
+This system does not include settings for “%1” - Uşbu tizimda “%1” uçun sozlamalar mavjud emas
+Try searching for a nearby region. - Yaqin atrofdagi hududni qidirib köring.

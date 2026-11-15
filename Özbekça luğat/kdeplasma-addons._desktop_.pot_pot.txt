@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Comics - Komikslar
+Timer - Taymer
+Timer finished - Taymer yakunlandi
+Your timer has finished - Belgilangan taymer vaqti tugadi
+Kameleon - Xameleon (Kameleon)
+Write color - Rangni yoziş
+Allow writing accent color to device LEDs - Qurilma LED çiroqlariga urğu beruvçi rangni yozişga ruxsat beriş

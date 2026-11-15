@@ -1,0 +1,5 @@
+Oxygen Icons - Oxygen belgilari
+A free and open source icon theme to use with the Oxygen Plasma style - Oxygen Plasma uslubi bilan foydalaniş uçun bepul va oçiq kodli belgilar mavzusi
+Oxygen Icons is a freedesktop.org compatible icon theme originally developed for the KDE Plasma desktop environment in combination with the Oxygen Style. It features smooth gradients, soft shadows, and a slightly glossy look. - Oxygen Icons — bu freedesktop.org bilan mos keladigan belgilar mavzusi bölib, u dastlab Oxygen uslubi bilan birgalikda KDE Plasma iş stoli muhiti uçun işlab çiqilgan. U silliq gradientlar, yumşoq soyalar va biroz yaltiroq körinişga ega.
+Screenshot of KMail with the Oxygen style and icon theme. - Oxygen uslubi va belgilar mavzusidagi KMail skrinşoti.
+This new release adds many new symbolic icons for the system tray. - Uşbu yangi naşr tizim treyi uçun köplab yangi ramziy belgilarni qöşadi.

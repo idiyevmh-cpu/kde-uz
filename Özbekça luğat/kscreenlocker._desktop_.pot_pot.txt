@@ -1,0 +1,6 @@
+Source text - Tarjima text
+Screen Saver - Ekran saqlovçi
+Screen locked - Ekran qulflandi
+The screen has been locked - Ekran muvaffaqiyatli qulflandi
+Screen unlocked - Ekran qulfdan çiqarildi
+The screen has been unlocked - Ekran qulfdan muvaffaqiyatli çiqarildi

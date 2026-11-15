@@ -1,0 +1,105 @@
+Changes have not been applied.<nl/>Failed to restart wireplumber.service. The command crashed. - Özgarişlar qöllanilmadi.<nl/>wireplumber.service xizmatini qayta işga tuşirib bölmadi. Buyruq avariya holatida töxtadi.
+Changes have not been applied.<nl/>Failed to restart wireplumber.service. The command terminated with code: %1. - Özgarişlar qöllanilmadi.<nl/>wireplumber.service xizmatini qayta işga tuşirib bölmadi. Buyruq %1 kodi bilan yakunlandi.
+Failed to handle devices: %1. - Qurilmalarga işlov berib bölmadi: %1.
+Failed to create directory: %1. - Jild yaratib bölmadi: %1.
+Failed to open file for writing: %1. - Faylni yoziş uçun oçib bölmadi: %1.
+Profile: - Profil:
+Connection to the Sound Service Lost - Tovuş xizmati bilan aloqa uzildi
+Trying to reconnect… - Qayta ulanişga urinilmoqda…
+Retry - Qayta uriniş
+%1 - %1
+Device name not found - Qurilma nomi topilmadi
+Port: - Port:
+%1 (unavailable) - %1 (mavjud emas)
+%1 (unplugged) - %1 (uzilgan)
+%1: - %1:
+Test - Sinov
+Test… - Sinaş…
+Show Channels - Kanallarni körsatiş
+Show Inactive Devices - Nofaol qurilmalarni körsatiş
+Rename Devices… - Qurilmalar nomini özgartiriş…
+Configure Volume Controls… - Ovoz balandligi boşqaruvini sozlaş…
+Configure… - Sozlaş…
+Requires %1 PulseAudio module - %1 PulseAudio modulini talab qiladi
+Add virtual output device for simultaneous output on all local sound cards - Barça mahalliy tovuş kartalarida bir vaqtda çiqiş uçun virtual çiqiş qurilmasini qöşiş
+Automatically switch all running streams when a new output becomes available - Yangi çiqiş qurilmasi paydo bölganda barça işlayotgan oqimlarni avtomatik unga ötkaziş
+Playback Devices - Ijro etiş qurilmalari
+Recording Devices - Yozib oliş qurilmalari
+Inactive Cards - Nofaol kartalar
+Playback Streams - Ijro etiş oqimlari
+Recording Streams - Yozib oliş oqimlari
+The PulseAudio audio subsystem was unable to play a test sound, and reported the following error:<nl/><nl/>“%1”<nl/><nl/>Restart the system and try again. - PulseAudio audio quyi tizimi sinov tovuşini ijro eta olmadi va quyidagi xatolik haqida xabar berdi:<nl/><nl/>“%1”<nl/><nl/>Tizimni qayta işga tuşiring va qayta urinib köring.
+Front Left - Oldingi çap
+Front Center - Oldingi markaziy
+Front Right - Oldingi öng
+Side Left - Yon çap
+Side Right - Yon öng
+Rear Left - Orqa çap
+Subwoofer - Sabvufer
+Rear Right - Orqa öng
+Mono - Mono
+Click on any speaker to test sound - Tovuşni sinaş uçun istalgan karnay ustiga bosing
+The PulseAudio audio subsystem was unable to record sound, and reported the following error:<nl/><nl/>“%1”<nl/><nl/>Restart the system and try again. - PulseAudio audio quyi tizimi tovuşni yozib ololmadi va quyidagi xatolik haqida xabar berdi:<nl/><nl/>“%1”<nl/><nl/>Tizimni qayta işga tuşiring va qayta urinib köring.
+Stop - Töxtatiş
+Record - Yozib oliş
+Stop - Töxtatiş
+Play - Ijro etiş
+Volume level - Ovoz balandligi darajasi
+%1 % - %1 %
+Sensitivity - Sezgirlik
+%1% - %1%
+100% - 100%
+Unmute %1 - %1 ovozini yoqiş
+Mute %1 - %1 ovozini öçiriş
+Rename Devices - Qurilmalar nomini özgartiriş
+Save - Saqlaş
+Saving changes will restart audio services. Apps playing audio will experience interruptions and may need to be restarted. - Özgarişlarni saqlaş audio xizmatlarini qayta işga tuşiradi. Audio ijro etayotgan ilovalarda uzilişlar yuz beradi va ularni qayta işga tuşiriş talab qilinişi mumkin.
+Report Bug - Xato haqida xabar beriş
+Reloading - Qayta yuklanmoqda
+%1 (click 'Save' to apply) - %1 (qöllaş uçun 'Saqlaş' tugmasini bosing)
+Reset - Tiklaş
+Notification Sounds - Bildirişnoma tovuşlari
+%1: %2 - %1: %2
+Volume Controls - Ovoz balandligi boşqaruvi
+Raise maximum volume - Maksimal ovoz balandligini oşiriş
+Volume change step: - Ovoz balandligi özgariş qadami:
+Play audio feedback for changes to: - Quyidagilar özgarganda tovuşli javobni ijro etiş:
+Audio volume - Ovoz balandligi
+Show OSD popups for changes to: - Quyidagilar özgarganda OSD qalqib çiquvçi oynalarini körsatiş:
+Microphone sensitivity - Mikrofon sezgirligi
+Mute state - Ovozsiz holat
+Push to talk - Bosib gapiriş (Push to talk)
+Application starts using muted microphone - Ilova ovozi öçirilgan mikrofondan foydalanişni boşlaydi
+Default output device - Standart çiqiş qurilmasi
+Increase Volume - Ovozni oşiriş
+Decrease Volume - Ovozni pasaytiriş
+Increase Volume by 1% - Ovozni 1% ga oşiriş
+Decrease Volume by 1% - Ovozni 1% ga pasaytiriş
+Increase Microphone Volume - Mikrofon ovozini oşiriş
+Decrease Microphone Volume - Mikrofon ovozini pasaytiriş
+Mute - Ovozni öçiriş
+Mute Microphone - Mikrofon ovozini öçiriş
+Push to talk - Bosib gapiriş (Push to talk)
+Audio Volume - Ovoz balandligi
+No such device - Bunday qurilma yöq
+No output device - Çiqiş qurilmasi yöq
+%1 (%2% Battery) - %1 (%2% Batareya)
+Speak… - Gapiring…
+%1: Muted - %1: Ovozsiz
+PulseAudio context is not ready. - PulseAudio konteksti tayyor emas.
+Couldn’t create a recording stream. - Yozib oliş oqimini yaratib bölmadi.
+Couldn’t connect to recording stream: %1. - Yozib oliş oqimiga ulanib bölmadi: %1.
+Couldn’t create a playback stream. - Ijro etiş oqimini yaratib bölmadi.
+Couldn’t connect to playback stream: %1 - Ijro etiş oqimiga ulanib bölmadi: %1
+Play all audio via this device - Barça audioni uşbu qurilma orqali ijro etiş
+Record all audio via this device - Barça audioni uşbu qurilma orqali yozib oliş
+Ports - Portlar
+Profiles - Profillar
+Play audio using - Audio ijro etiş vositasi:
+Record audio using - Audio yozib oliş vositasi:
+Microphone - Mikrofon
+Microphone Muted - Mikrofon ovozi öçirilgan
+,  - , 
+%1 are using the microphone - %1 mikrofondan foydalanmoqda
+%1 is using the microphone (%2) - %1 mikrofondan foydalanmoqda (%2)
+%1 is using the microphone - %1 mikrofondan foydalanmoqda

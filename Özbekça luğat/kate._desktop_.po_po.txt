@@ -1,0 +1,10 @@
+Source text - Tarjima text
+Text Editor Snippets - Matn muharriri snippetlari
+Advanced Text Editor - Kengaytirilgan matn muharriri
+Kate - Kate
+KDE Advanced Text Editor - KDE kengaytirilgan matn muharriri
+text;txt;editor;programming;programmer;development;developer;code; - matn;txt;muharrir;dasturlaş;dasturçi;işlab çiqiş;kod;
+Text Editor - Matn muharriri
+KWrite - KWrite
+KDE Text Editor - KDE matn muharriri
+text;txt;editor;note;notepad; - matn;txt;muharrir;qayd;bloknot;

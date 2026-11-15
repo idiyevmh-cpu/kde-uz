@@ -1,0 +1,3 @@
+Dolphin Plugins - Dolphin plaginlari
+Dolphin integration for revision control systems, Dropbox, and disk images - Dolphin versiyalarni boşqariş tizimlari, Dropbox va disk tasvirlari integratsiyasi
+These plugins integrate Dolphin with the revision control systems Bazaar, Mercurial and Git. A Dropbox plugin gives action items to keep your files synced to the Dropbox service. A disk image integration plugin adds a mount or unmount action. - Uşbu plaginlar Dolphin-ni Bazaar, Mercurial va Git bilan integratsiya qiladi.

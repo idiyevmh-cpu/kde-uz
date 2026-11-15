@@ -1,0 +1,472 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Unknown - Nomaʼlum
+Proprietary - Mulkiy (yopiq kodli)
+Public Domain - Jamoat mulki (Public Domain)
+Error while submitting usefulness: %1 - Foydalilik bahosini yuborişda xatolik: %1
+Error while submitting review: %1 - Şarhni yuborişda xatolik: %1
+Technical error message: %1 - Texnik xato xabari: %1
+Package management - Paketlarni boşqariş
+Loading, please wait... - Yuklanmoqda, iltimos kuting...
+Alpine Linux packages - Alpine Linux paketlari
+Alpine APK - Alpine APK
+Authorization denied - Avtorizatsiya rad etildi
+Error:  - Xato: 
+Enter Alpine repository URL, for example: http://dl-cdn.alpinelinux.org/alpine/edge/testing/ - Alpine repozitoriysi URL manzilini kiriting, masalan: http://dl-cdn.alpinelinux.org/alpine/edge/testing/
+Error: Authorization denied - Xato: Avtorizatsiya rad etildi
+Error - Xato
+Failed to open APK database! - APK maʼlumotlar bazasini oçib bölmadi!
+Failed to get a list of packages to upgrade! - Yangilanadigan paketlar röyxatini olib bölmadi!
+This is a preview of an AppStream file - Bu AppStream faylini oldindan köriş oynasidir
+Dummy Category - Sinov turkumi
+dummy - sinov
+dummy addons - sinov qöşimçalari
+dummy 1 - sinov 1
+dummy with stuff - tarkibli sinov
+dummy 2.1 - sinov 2.1
+dummy with quite some stuff - katta tarkibli sinov
+dummy 3 - sinov 3
+dummy 4 - sinov 4
+All Applications - Barça ilovalar
+Utilities - Yordamçi dasturlar
+Accessibility - Maxsus imkoniyatlar
+Development - Dasturlaş
+Debugging - Nosozliklarni tuzatiş (Debugging)
+Graphic Interface Design - Grafik interfeys dizayni
+IDEs - Integratsiyalaşgan dasturlaş muhitlari (IDE)
+Localization - Mahalliylaştiriş (Lokalizatsiya)
+Profiling - Profillaş vositalari
+Web Development - Veb-dasturlaş
+Education - Taʼlim
+Science & Math - Fan va matematika
+Astronomy - Astronomiya
+Biology - Biologiya
+Chemistry - Kimyo
+Computer Science and Robotics - Informatika va robototexnika
+Electronics - Elektronika
+Engineering - Muhandislik
+Geography - Geografiya
+Geology - Geologiya
+Mathematics - Matematika
+Physics - Fizika
+Games - Öyinlar
+Arcade - Arkada
+Board Games - Stol öyinlari
+Card Games - Qarta öyinlari
+Puzzles - Boşqotirmalar
+Role Playing - Rolli öyinlar (RPG)
+Simulation - Simulyatorlar
+Strategy - Strategik öyinlar
+Sports - Sport öyinlari
+Action - Ekşen (Harakatli öyinlar)
+Emulators - Emulyatorlar
+Launchers - Işga tuşiruvçilar
+Tools - Asboblar
+Graphics - Grafika
+3D - 3D
+Drawing - Çizmaçilik va rasm çiziş
+Painting and Editing - Rasm çiziş va tahrirlaş
+Photography - Fotografiya
+Publishing - Naşriyot
+Scanning and OCR - Skanerlaş va matnni taniş (OCR)
+Viewers - Köriş dasturlari
+Internet - Internet
+Chat - Muloqot (Çat)
+File Sharing - Fayllarni ulaşiş
+Mail - Elektron poçta
+Web Browsers - Veb-brauzerlar
+Multimedia - Multimedia
+Audio and Video Editors - Audio va video muharrirlar
+Audio Players - Audio pleyerlar
+Video Players - Video pleyerlar
+Disc Burning - Diskka yoziş
+Office - Ofis
+System - Tizim
+%1 (user) - %1 (foydalanuvçi)
+Local bundle - Mahalliy paket
+Malformed appstream url “%1” - Notöğri formatdagi AppStream URL manzili “%1”
+Source “%1” already exists - “%1” manbasi allaqaçon mavjud
+Failed to add source “%1”: %2 - “%1” manbasini qöşib bölmadi: %2
+There are no Flatpak sources. - Flatpak manbalari mavjud emas.
+Failed to load "%1" source - "%1" manbasini yuklab bölmadi
+<para>This application comes from "%1" (hosted at <link>%2</link>). Other software in this repository will also be made be available in Discover when the application is installed.</para> - <para>Uşbu ilova "%1" manbasidan olingan (<link>%2</link> da joylaşgan). Ilova örnatilganda uşbu repozitoriydagi boşqa dasturiy taʼminotlar ham Discover da mavjud böladi.</para>
+Unknown - Nomaʼlum
+Failed to start “%1”: %2 - “%1” ni işga tuşirib bölmadi: %2
+New Permissions - Yangi ruxsatlar
+All Files - Barça fayllar
+Home - Uy jildi
+Downloads - Yuklanmalar
+Music - Musiqa
+%1: %2 - %1: %2
+Network Access - Tarmoqqa kiriş
+Can access the internet - Internetga ulaniş imkoniyatiga ega
+Sound system access - Ovoz tizimiga kiriş
+Can play and record audio - Ovozni ijro etiş va yozib oliş imkoniyatiga ega
+Session Bus Access - Seans şinasiga kiriş
+Can communicate with all other applications and processes run in this user account - Uşbu foydalanuvçi hisobida işga tuşirilgan barça boşqa ilovalar va jarayonlar bilan maʼlumot almaşişi mumkin
+System Bus Access - Tizim şinasiga kiriş
+Can communicate with all other applications and processes on the system - Tizimdagi barça boşqa ilovalar va jarayonlar bilan maʼlumot almaşişi mumkin
+Remote Login Access - Masofadan tizimga kiriş huquqi
+Can initiate remote login requests using the SSH protocol - SSH protokoli yordamida masofadan kiriş sörovlarini boşlaşi mumkin
+Smart Card Access - Smart-kartaga kiriş
+Can integrate and communicate with smart cards - Smart-kartalar bilan integratsiyalaşişi va maʼlumot almaşişi mumkin
+Printer Access - Printerlarga kiriş
+Can integrate and communicate with printers - Printerlar bilan integratsiyalaşişi va maʼlumot almaşişi mumkin
+GPG Agent - GPG agenti
+Allows access to the GPG cryptography service, generally used for signing and reading signed documents - Odatda hujjatlarni imzolaş va imzolangan hujjatlarni öqiş uçun işlatiladigan GPG kriptografiya xizmatiga kiriş imkonini beradi
+Bluetooth Access - Bluetooth orqali kiriş
+Can integrate and communicate with Bluetooth devices - Bluetooth qurilmalari bilan integratsiyalaşişi va maʼlumot almaşişi mumkin
+Low-Level System Access - Quyi darajadagi tizimga kiriş
+Can make low-level system calls (e.g. ptrace) - Quyi darajadagi tizim çaqiruvlarini (masalan, ptrace) amalga oşirişi mumkin
+Device Access - Qurilmalarga kiriş
+Can communicate with and control built-in or connected hardware devices - Örnatilgan yoki ulangan apparat qurilmalari bilan maʼlumot almaşişi va ularni boşqarişi mumkin
+Kernel-based Virtual Machine Access - Yadroga asoslangan virtual maşinalarga (KVM) kiriş
+Allows running other operating systems as guests in virtual machines - Virtual maşinalarda boşqa operatsion tizimlarni mehmon sifatida işga tuşiriş imkonini beradi
+%1 (read-only) - %1 (faqat öqiş uçun)
+%1 (can create files) - %1 (fayllar yarata oladi)
+%1 (read & write)  - %1 (öqiş va yoziş) 
+Home Folder Access - Uy jildiga kiriş
+Can read, write, and create files in the following locations in your home folder without asking permission first: %1 - Uy jildingizdagi quyidagi joylaşuvlarda oldindan ruxsat söramasdan fayllarni öqişi, yozişi va yaratişi mumkin: %1
+Can read and write files in the following locations in your home folder without asking permission first: %1 - Uy jildingizdagi quyidagi joylaşuvlarda oldindan ruxsat söramasdan fayllarni öqişi va yozişi mumkin: %1
+Can read files in the following locations in your home folder without asking permission first: %1 - Uy jildingizdagi quyidagi joylaşuvlarda oldindan ruxsat söramasdan fayllarni öqişi mumkin: %1
+Can access files in the following locations in your home folder without asking permission first: %1 - Uy jildingizdagi quyidagi joylaşuvlarda oldindan ruxsat söramasdan fayllarga kirişi mumkin: %1
+System Folder Access - Tizim jildlariga kiriş
+Can read, write, and create system files in the following locations without asking permission first: %1 - Quyidagi joylaşuvlarda oldindan ruxsat söramasdan tizim fayllarini öqişi, yozişi va yaratişi mumkin: %1
+Can read and write system files in the following locations without asking permission first: %1 - Quyidagi joylaşuvlarda oldindan ruxsat söramasdan tizim fayllarini öqişi va yozişi mumkin: %1
+Can read system files in the following locations without asking permission first: %1 - Quyidagi joylaşuvlarda oldindan ruxsat söramasdan tizim fayllarini öqişi mumkin: %1
+Can access system files in the following locations without asking permission first: %1 - Quyidagi joylaşuvlarda oldindan ruxsat söramasdan tizim fayllariga kirişi mumkin: %1
+Can communicate with other applications and processes in the same desktop session using the following communication protocols: %1 - Quyidagi aloqa protokollaridan foydalangan holda bir xil iş stoli seansidagi boşqa ilovalar va jarayonlar bilan maʼlumot almaşişi mumkin: %1
+Can communicate with all applications and system services using the following communication protocols: %1 - Quyidagi aloqa protokollaridan foydalangan holda barça ilovalar va tizim xizmatlari bilan maʼlumot almaşişi mumkin: %1
+Failed to move data for <application>%1</application> to the trash: %2 - <application>%1</application> maʼlumotlarini savatga köçirib bölmadi: %2
+App Verified on %1 as shipped by its author %2 - Ilova muallifi %2 tomonidan taqdim etilganidek %1 da tasdiqlangan
+Add Flathub - Flathub repozitoriysini qöşiş
+Apply Changes - Özgarişlarni qöllaş
+Changes to the priority of Flatpak sources must be applied before they will take effect. - Flatpak manbalari ustuvorligiga kiritilgan özgarişlar kuçga kirişi uçun ular qöllanilişi kerak.
+Makes it possible to easily install the applications listed in https://flathub.org - https://flathub.org saytida keltirilgan ilovalarni oson örnatiş imkonini beradi
+Could not add the source %1 - %1 manbasini qöşib bölmadi
+Removing “%1” - “%1” olib taşlanmoqda
+To remove this repository, the following applications must be uninstalled:<ul><li>%1</li></ul> - Uşbu repozitoriyni olib taşlaş uçun quyidagi ilovalar öçirilişi kerak:<ul><li>%1</li></ul>
+Failed to remove %1 remote repository: %2 - %1 masofaviy repozitoriysini olib taşlab bölmadi: %2
+Could not find %1 - %1 topilmadi
+%1 (user) - %1 (foydalanuvçi)
+Enter a Flatpak repository URI (*.flatpakrepo): - Flatpak repozitoriysi URI manzilini (*.flatpakrepo) kiriting:
+Adding remote “%1” in %2 from %3 - %3 dan %2 içiga “%1” masofaviy manbasi qöşilmoqda
+Cannot create transaction for “%1”:<nl/>%2<nl/><nl/>Please report this to <a href='%3'>%3</a> - “%1” uçun amaliyot (tranzaksiya) yaratib bölmadi:<nl/>%2<nl/><nl/>Iltimos, bu haqda <a href='%3'>%3</a> manziliga xabar bering
+An internal error occurred. Please file a report at https://bugs.kde.org/enter_bug.cgi?product=Discover - Içki xatolik yuz berdi. Iltimos, https://bugs.kde.org/enter_bug.cgi?product=Discover manzilida xato haqida hisobot qoldiring
+Replacement Available - Örnini bosuvçi paket mavjud
+<resource>%1</resource> is no longer receiving updates.<nl/><nl/>Replace it with the supported version provided by <resource>%2</resource>?<nl/><nl/>Your settings and data will be automatically transferred to the new application.<nl/><nl/>If the old application is in your panel or Application Launcher favorites, you will need to remove it and manually add the new one there. - <resource>%1</resource> endi yangilanişlarni qabul qilmayapti.<nl/><nl/>Uni <resource>%2</resource> tomonidan taqdim etilgan qöllab-quvvatlanadigan versiya bilan almaştiraylikmi?<nl/><nl/>Sozlamalaringiz va maʼlumotlaringiz avtomatik ravişda yangi ilovaga ötkaziladi.<nl/><nl/>Agar eski ilova panelingizda yoki Ilovalarni işga tuşiruvçi sevimlilarida bölsa, uni olib taşlab, yangisini qölda qöşişingiz kerak böladi.
+Automatic Removal - Avtomatik olib taşlaş
+<resource>%1</resource> is no longer receiving updates.<nl/><p>The reason given is: <message>%2</message></p><nl/><p>Automatically remove it?</p> - <resource>%1</resource> endi yangilanişlarni qabul qilmayapti.<nl/><p>Körsatilgan sabab: <message>%2</message></p><nl/><p>Uni avtomatik ravişda olib taşlaylikmi?</p>
+This development version of %1 is outdated. Using the stable version is highly recommended. - %1 ilovasining uşbu işlab çiqilayotgan versiyasi eskirgan. Barqaror versiyadan foydalaniş qatʼiy tavsiya etiladi.
+A more stable version of %1 is available. - %1 ilovasining yanada barqaror versiyasi mavjud.
+View Stable Version on %1 - %1 da barqaror versiyasini köriş
+%1 is not installed but it still has user data and settings present. - %1 örnatilmagan, ammo uning foydalanuvçi maʼlumotlari va sozlamalari hali ham mavjud.
+Move to Trash - Savatga taşlaş
+Clearing settings and user data… - Sozlamalar va foydalanuvçi maʼlumotlari tozalanmoqda…
+Permissions - Ruxsatlar
+Configure permissions… - Ruxsatlarni sozlaş…
+Version %1 - Versiya %1
+Firmware Updates - Mikrodastur (proşivka) yangilanişlari
+The remote %1 require that you accept their license:  %2 - %1 masofaviy manbasi ularning litsenziyasini qabul qilişingizni talab qiladi:  %2
+Review EULA - Litsenziya şartnomasi (EULA) bilan tanişiş
+Could not enable remote %1: %2 - %1 masofaviy manbasini yoqib bölmadi: %2
+SteamOS - SteamOS
+Holo - Holo
+Holo: Unable to query atomupd for %1 Updates... - Holo: %1 yangilanişlari uçun atomupd sörovini bajarib bölmadi...
+Unsupported question: %1 - Qöllab-quvvatlanmaydigan savol: %1
+Backend %1 took too long to initialize - %1 modulini (bekendini) işga tuşiriş juda uzoq vaqt oldi
+Applications - Ilovalar
+Plasma Addons - Plasma qöşimçalari
+Application Addons - Ilova qöşimçalari
+Network error in backend %1: %2 - %1 modulida (bekendida) tarmoq xatosi: %2
+Too many requests sent to the server for backend %1. Please try again in a few minutes. - %1 moduli uçun serverga juda köp sörov yuborildi. Iltimos, bir neça daqiqadan söng qaytadan urinib köring.
+Invalid %1 backend, contact your distributor. - Yaroqsiz %1 moduli (bekendi), distributivingiz taʼminotçilariga murojaat qiling.
+Unable to complete the update of %1. You can try and perform this action through the Get Hot New Stuff dialog, which grants tighter control. The reported error was: %2 - %1 yangilanişini yakunlab bölmadi. Uşbu amalni aniqroq nazorat qiliş imkonini beruvçi yangi materiallarni yuklab oliş (Get Hot New Stuff) oynasi orqali bajarib körişingiz mumkin. Xabar qilingan xato: %2
+Could not fetch screenshot for the entry %1 in backend %2 - %2 modulidagi %1 yozuvi uçun ekran rasmini olib bölmadi
+Unhandled error in %1 backend. Contact your distributor. - %1 modulida (bekendida) qayta işlanmagan xato. Distributivingiz taʼminotçilariga murojaat qiling.
+Wrong KNewStuff URI: %1 - Notöğri KNewStuff URI manzili: %1
+KDE Store - KDE Store
+Log in information for %1 - %1 ga kiriş maʼlumotlari
+Cannot launch %1 - %1 ni işga tuşirib bölmadi
+Fonts - Şriftlar
+Hardware Drivers - Qurilma drayverlari
+Plasma Addons - Plasma qöşimçalari
+Plasma Widgets - Plasma vidjetlari
+Please make sure that Appstream is properly set up on your system - Tizimingizda AppStream töğri sozlanganligiga işonç hosil qiling
+Your operating system ended support on %1. Consider upgrading to a supported version. - Operatsion tizimingizni qöllab-quvvatlaş muddati %1 da tugagan. Qöllab-quvvatlanadigan versiyaga yangilaşni maslahat beramiz.
+Cannot remove “%1” - “%1” ni olib taşlab bölmaydi
+<b>%1 is now available.</b> To be able to upgrade to this new version, first apply all available updates, and then restart the system. - <b>%1 endi mavjud.</b> Uşbu yangi versiyaga ötiş uçun avval barça mavjud yangilanişlarni örnating va söngra tizimni qayta işga tuşiring.
+Upgrade Now - Hozir yangilaş
+%1 is now available. - %1 endi mavjud.
+The PackageKit background service stopped unexpectedly.<nl/></nl/>Please <link url='%1'>report this issue to %2</link> - PackageKit orqa fon xizmati kutilmaganda töxtab qoldi.<nl/></nl/>Iltimos, <link url='%1'>uşbu muammo haqida %2 ga xabar bering</link>
+Out of memory - Xotira yetarli emas
+No network connection available - Tarmoq ulanişi mavjud emas
+Operation not supported - Amal qöllab-quvvatlanmaydi
+Internal error - Içki xato
+Internal error: %1 - Içki xato: %1
+GPG failure - GPG xatosi
+PackageID invalid - PackageID notöğri
+Package not installed - Paket örnatilmagan
+Package not found - Paket topilmadi
+Package is already installed - Paket allaqaçon örnatilgan
+Package download failed - Paketni yuklab oliş muvaffaqiyatsiz tugadi
+Package group not found - Paketlar guruhi topilmadi
+Package group list invalid - Paketlar guruhi röyxati notöğri
+Dependency resolution failed - Boğliqliklarni hal qilib bölmadi
+Filter invalid - Filtr notöğri
+Failed while creating a thread - Oqim (thread) yaratişda xatolik yuz berdi
+Transaction failure - Amaliyot (tranzaksiya) xatosi
+Transaction canceled - Amaliyot bekor qilindi
+No Cache available - Keş mavjud emas
+Cannot find repository - Repozitoriy topilmadi
+Cannot remove system package - Tizim paketini olib taşlab bölmaydi
+The PackageKit daemon has crashed - PackageKit fon xizmati quladi
+Initialization failure - Işga tuşiriş (initsializatsiya) xatosi
+Failed to finalize transaction - Amaliyotni yakunlab bölmadi
+Config parsing failed - Sozlamalar faylini tahlil qilib bölmadi
+Cannot cancel transaction - Amaliyotni bekor qilib bölmaydi
+Cannot obtain lock - Blokirovkani olib bölmadi
+No packages to update - Yangilaş uçun paketlar yöq
+Cannot write repo config - Repozitoriy sozlamalarini yozib bölmadi
+Local install failed - Mahalliy örnatiş muvaffaqiyatsiz tugadi
+Bad GPG signature found - Yaroqsiz GPG imzosi topildi
+No GPG signature found - GPG imzosi topilmadi
+Cannot install source package - Manba kodli paketni örnatib bölmaydi
+Repo configuration error - Repozitoriyni sozlaş xatosi
+No license agreement - Litsenziya şartnomasi mavjud emas
+File conflicts found - Fayllar ziddiyati (konflikti) aniqlandi
+Package conflict found - Paketlar ziddiyati (konflikti) aniqlandi
+Repo not available - Repozitoriy mavjud emas
+Invalid package file - Yaroqsiz paket fayli
+Package install blocked - Paketni örnatiş bloklandi
+Corrupt package found - Şikastlangan paket topildi
+All packages already installed - Barça paketlar allaqaçon örnatilgan
+File not found - Fayl topilmadi
+No more mirrors available - Boşqa mavjud közgu serverlari (mirrors) qolmadi
+No distro upgrade data - Distributivni yangilaş maʼlumotlari yöq
+Incompatible architecture - Mos kelmaydigan arxitektura
+No space on device left - Qurilmada böş joy qolmadi
+A media change is required - Taşuvçi qurilmani (mediani) almaştiriş talab qilinadi
+You have no authorization to execute this operation - Sizda uşbu amalni bajariş uçun ruxsat (avtorizatsiya) yöq
+Update not found - Yangilaniş topilmadi
+Cannot install from unsigned repo - Imzolanmagan repozitoriydan örnatib bölmaydi
+Cannot update from unsigned repo - Imzolanmagan repozitoriydan yangilab bölmaydi
+Cannot get file list - Fayllar röyxatini olib bölmadi
+Cannot get requires - Talab qilinadigan paketlarni olib bölmadi
+Cannot disable repository - Repozitoriyni öçirib bölmadi
+Restricted download detected - Çeklangan yuklab oliş aniqlandi
+Package failed to configure - Paketni sozlab bölmadi
+Package failed to build - Paketni yiğib bölmadi
+Package failed to install - Paketni örnatib bölmadi
+Package failed to remove - Paketni olib taşlab bölmadi
+Update failed due to running process - Işlab turgan jarayon tufayli yangilaş muvaffaqiyatsiz tugadi
+The package database changed - Paketlar maʼlumotlar bazasi özgardi
+The provided type is not supported - Taqdim etilgan tur qöllab-quvvatlanmaydi
+Install root is invalid - Örnatişning ildiz (root) jildi notöğri
+Cannot fetch sources - Dastur manbalarini olib bölmadi
+Canceled priority - Ustuvorlik tufayli bekor qilindi
+Unfinished transaction - Yakunlanmagan amaliyot
+Lock required - Blokirovka talab qilinadi
+Unknown error %1. - Nomaʼlum xato %1.
+“%1” was changed and suggests to be restarted. - “%1” özgartirildi va uni qayta işga tuşiriş tavsiya etiladi.
+A change by “%1” suggests your session to be restarted. - “%1” dagi özgariş tufayli seansingizni qayta işga tuşiriş tavsiya etiladi.
+“%1” was updated for security reasons, a restart of the session is recommended. - “%1” xavfsizlik maqsadida yangilandi, seansni qayta işga tuşiriş tavsiya etiladi.
+“%1” was updated for security reasons, a restart of the system is recommended. - “%1” xavfsizlik maqsadida yangilandi, tizimni qayta işga tuşiriş tavsiya etiladi.
+A change by “%1” suggests your system to be restarted. - “%1” dagi özgariş tufayli tizimingizni qayta işga tuşiriş tavsiya etiladi.
+The application will have to be restarted. - Ilovani qayta işga tuşiriş talab qilinadi.
+The session will have to be restarted - Seansni qayta işga tuşiriş talab qilinadi
+The system will have to be restarted. - Tizimni qayta işga tuşiriş talab qilinadi.
+For security, the session will have to be restarted. - Xavfsizlik maqsadida seansni qayta işga tuşiriş talab qilinadi.
+For security, the system will have to be restarted. - Xavfsizlik maqsadida tizimni qayta işga tuşiriş talab qilinadi.
+Waiting… - Kutilmoqda…
+Refreshing Cache… - Keş yangilanmoqda…
+Setup… - Sozlaş…
+Processing… - Qayta işlanmoqda…
+Remove… - Olib taşlaş…
+Downloading… - Yuklab olinmoqda…
+Installing… - Örnatilmoqda…
+Updating… - Yangilanmoqda…
+Cleaning up… - Tozalanmoqda…
+Resolving dependencies… - Boğliqliklar hal qilinmoqda…
+Checking signatures… - Imzolar tekşirilmoqda…
+Test committing… - Özgarişlarni saqlaş sinovdan ötkazilmoqda…
+Committing… - Özgarişlar saqlanmoqda…
+Finished - Tugadi
+Canceled - Bekor qilindi
+Waiting for lock… - Blokirovka kutilmoqda…
+Waiting for authorization… - Avtorizatsiya kutilmoqda…
+Copying files… - Fayllar nusxalanmoqda…
+Unknown Status - Nomaʼlum holat
+We are waiting for something. - Hodisa kutilmoqda.
+Setting up transaction… - Amaliyot sozlanmoqda…
+The transaction is currently working… - Amaliyot bajarilmoqda…
+The transaction is currently removing packages… - Hozirda paketlar olib taşlanmoqda…
+The transaction is currently downloading packages… - Hozirda paketlar yuklab olinmoqda…
+The transactions is currently installing packages… - Hozirda paketlar örnatilmoqda…
+The transaction is currently updating packages… - Hozirda paketlar yangilanmoqda…
+The transaction is currently cleaning up… - Hozirda keraksiz maʼlumotlar tozalanmoqda…
+The transaction is currently resolving the dependencies of the packages it will install… - Hozirda örnatiladigan paketlarning boğliqliklari hal qilinmoqda…
+The transaction is currently checking the signatures of the packages… - Hozirda paketlarning imzolari tekşirilmoqda…
+The transaction is currently testing the commit of this set of packages… - Hozirda uşbu paketlar töplami özgarişlarini saqlaş sinovdan ötkazilmoqda…
+The transaction is currently committing its set of packages… - Hozirda paketlar töplami özgarişlari saqlanmoqda…
+The transaction has finished! - Amaliyot yakunlandi!
+The transaction was canceled - Amaliyot bekor qilindi
+The transaction is currently waiting for the lock… - Hozirda blokirovka kutilmoqda…
+Waiting for the user to authorize the transaction… - Foydalanuvçi amaliyotni tasdiqlaşi (avtorizatsiya qilişi) kutilmoqda…
+The transaction is currently copying files… - Hozirda fayllar nusxalanmoqda…
+Currently refreshing the repository cache… - Hozirda repozitoriy keşi yangilanmoqda…
+Unknown status %1. - Nomaʼlum holat %1.
+Stable - Barqaror
+Unstable - Beqaror
+Testing - Sinovdagi
+Installed - Örnatilgan
+Not Installed - Örnatilmagan
+Low - Past
+Enhancement - Yaxşilaş
+Normal - Oddiy
+Bugfix - Xatolarni tuzatiş
+Important - Muhim
+Security - Xavfsizlik
+Blocked - Bloklangan
+Downloading - Yuklab olinmoqda
+Updating - Yangilanmoqda
+Installing - Örnatilmoqda
+Removing - Olib taşlanmoqda
+Cleanup - Tozalaş
+Obsoleting - Eskirgan deb belgilaş (almaştiriş)
+Collection Installed - Töplam örnatilgan
+Collection Available - Töplam mavjud
+Reinstalling - Qayta örnatilmoqda
+Downgrading - Eski versiyaga qaytarilmoqda
+Preparing - Tayyorlanmoqda
+Decompressing - Arxivdan çiqarilmoqda
+Untrusted - Işonçsiz
+Trusted - Işonçli
+Unavailable - Mavjud emas
+Critical - Juda muhim (Kritik)
+Install - Örnatiş
+Remove - Olib taşlaş
+Obsolete - Eskirgan (almaştirilgan)
+Downgrade - Eski versiyaga qaytariş
+Failed Offline Update - Oflayn yangilaniş muvaffaqiyatsiz tugadi
+Failed to update %1 package %2 - %1 ta paketni yangilab bölmadi: %2
+Open Discover - Discover ni oçiş
+Repair System - Tizimni tiklaş (tuzatiş)
+Repairing failed offline update - Muvaffaqiyatsiz tugagan oflayn yangilaniş tuzatilmoqda
+Repair Failed - Tuzatiş muvaffaqiyatsiz tugadi
+%1<nl/>Please <link url='%2'>report this error to %3</link>. - %1<nl/>Iltimos, <link url='%2'>uşbu xato haqida %3 ga xabar bering</link>.
+Repaired Successfully - Muvaffaqiyatli tuzatildi
+Offline Updates - Oflayn yangilanişlar
+Successfully updated %1 package - %1 ta paket muvaffaqiyatli yangilandi
+Unknown Source - Nomaʼlum manba
+%1 (%2) - %1 (%2)
+,  - , 
+Software verified by %1 - Dasturiy taʼminot %1 tomonidan tasdiqlangan
+Obsoletes: - Örnini bosadi:
+Release Notes: - Naşr eslatmalari:
+Update State: - Yangilaniş holati:
+Restart: - Qayta işga tuşiriş:
+Vendor: - Işlab çiqaruvçi:
+Repository URL: - Repozitoriy URL manzili:
+%1 %2 - %1 %2
+System upgrade - Tizimni yangilaş
+1 package will be upgraded - 1 ta paket yangilanadi
+<h3>%1</h3>%2 - <h3>%1</h3>%2
+<h3>%1</h3>%2<br/>Release notes:<blockquote>%3</blockquote> - <h3>%1</h3>%2<br/>Naşr eslatmalari:<blockquote>%3</blockquote>
+Present - Joriy
+Future - Kelgusi
+Not enough space to perform the update; only %1 of space are available. - Yangilaşni amalga oşiriş uçun böş joy yetarli emas; faqat %1 joy mavjud.
+This update cannot be completed as it would remove the following software which is critical to the system’s operation:<nl/><ul><li>%1</li></ul><nl/>If you believe this is an error, please report it as a bug to the packagers of your distribution. - Uşbu yangilaşni yakunlab bölmaydi, çunki u tizim işlaşi uçun juda muhim bölgan quyidagi dasturiy taʼminotni olib taşlaydi:<nl/><ul><li>%1</li></ul><nl/>Agar buni xato deb hisoblasangiz, iltimos, bu haqda distributivingiz paket yiğuvçilariga xabar bering.
+Confirm Changes - Özgarişlarni tasdiqlaş
+The following packages will be removed by the update:<ul><li>%1</li></ul><br/>in order to install:<ul><li>%2</li></ul> - Quyidagi paketlarni örnatiş uçun:<br/><ul><li>%2</li></ul>yangilaş jarayonida quyidagi paketlar olib taşlanadi:<ul><li>%1</li></ul>
+%1:<nl/><nl/>%2 - %1:<nl/><nl/>%2
+Media Change of type “%1” is requested. %2 - “%1” turidagi taşuvçi qurilmani (mediani) almaştiriş söralmoqda. %2
+Accept EULA - Litsenziya şartnomasini (EULA) qabul qiliş
+The package %1 and its vendor %2 require that you accept their license:  %3 - %1 paketi va uning yetkazib beruvçisi %2 ularning litsenziyasini qabul qilişingizni talab qiladi:  %3
+Missing signature for %1 in %2 - %2 içidagi %1 uçun imzo mavjud emas
+Do you trust the following key?  Url: %1 User: %2 Key: %3 Fingerprint: %4 Timestamp: %4  - Quyidagi kalitga işonasizmi?  Manzil (URL): %1 Foydalanuvçi: %2 Kalit: %3 Barmoq izi (Fingerprint): %4 Vaqt belgisi: %4 
+This action cannot be completed as it would remove the following software which is critical to the system’s operation:<nl/><ul><li>%1</li></ul><nl/>If you believe this is an error, please report it as a bug to the packagers of your distribution. - Uşbu amalni yakunlab bölmaydi, çunki u tizim işlaşi uçun juda muhim bölgan quyidagi dasturiy taʼminotni olib taşlaydi:<nl/><ul><li>%1</li></ul><nl/>Agar buni xato deb hisoblasangiz, iltimos, bu haqda distributivingiz paket yiğuvçilariga xabar bering.
+Confirm package removal - Paketni olib taşlaşni tasdiqlaş
+This action will also remove the following package: %2 - Uşbu amal quyidagi paketni ham olib taşlaydi: %2
+Show Dependencies… - Boğliqliklarni körsatiş…
+Dependencies for package: %1 - Paket boğliqliklari: %1
+Full Access - Töliq huquq (kiriş)
+Can access everything on the system - Tizimdagi barça narsaga kira oladi
+Operating System - Operatsion tizim
+rpm-ostree backend: Multiple booted deployments found. Please file a bug. - rpm-ostree moduli: Bir neçta yuklangan joylanmalar (deployments) topildi. Iltimos, xato haqida xabar bering.
+rpm-ostree backend: No booted deployment found. Please file a bug. - rpm-ostree moduli: Yuklangan joylanma (deployment) topilmadi. Iltimos, xato haqida xabar bering.
+Begin Upgrade… - Yangilaşni boşlaş…
+You have pending updates for the current version. Proceeding anyway. - Joriy versiya uçun kutilayotgan yangilanişlar mavjud. Şunga qaramay davom etilmoqda.
+Please update to the latest version before rebasing to a major version - Asosiy yangi versiyaga ötişdan oldin eng sönggi versiyagaça yangilang
+Missing remote ref for rebase operation. Please file a bug. - Asosni özgartiriş (rebase) amali uçun masofaviy havola (ref) topilmadi. Iltimos, xato haqida xabar bering.
+Operating System - Operatsion tizim
+GPL and other licenses - GPL va boşqa litsenziyalar
+Additional packages:  - Qöşimça paketlar: 
+Additional modules:  - Qöşimça modullar: 
+Local packages:  - Mahalliy paketlar: 
+Replaced packages: - Almaştirilgan paketlar:
+Removed packages: - Olib taşlangan paketlar:
+<br/>This version is pinned and won’t be automatically removed on updates. - <br/>Uşbu versiya mahkamlangan va yangilanişlar vaqtida avtomatik ravişda olib taşlanmaydi.
+Fedora Project - Fedora loyihasi
+Currently booted version (pinned) - Hozirda yuklangan versiya (mahkamlangan)
+Currently booted version - Hozirda yuklangan versiya
+Version that will be used after reboot - Qayta işga tuşirilgandan söng işlatiladigan versiya
+Fallback version (pinned) - Zaxira versiya (mahkamlangan)
+Fallback version - Zaxira versiya
+rpm-ostree backend: Error: No DBus interface provided. Please file a bug. - rpm-ostree moduli: Xato: DBus interfeysi taqdim etilmagan. Iltimos, xato haqida xabar bering.
+rpm-ostree backend: Error: Can not start a transaction for resource with an invalid format. Please file a bug. - rpm-ostree moduli: Xato: Notöğri formatdagi resurs uçun amaliyotni boşlab bölmaydi. Iltimos, xato haqida xabar bering.
+rpm-ostree backend: Error: Can not rebase to an empty ref. Please file a bug. - rpm-ostree moduli: Xato: Böş havolaga (ref) ötiş mumkin emas. Iltimos, xato haqida xabar bering.
+rpm-ostree backend: Error: Unknown operation requested. Please file a bug. - rpm-ostree moduli: Xato: Nomaʼlum amal söraldi. Iltimos, xato haqida xabar bering.
+rpm-ostree transaction failed with: %1 - rpm-ostree amaliyoti xato bilan tugadi: %1
+rpm-ostree backend: Error: Unknown resource format. Please file a bug. - rpm-ostree moduli: Xato: Nomaʼlum resurs formati. Iltimos, xato haqida xabar bering.
+Canceling rpm-ostree transaction. This may take some time. Please wait. - rpm-ostree amaliyoti bekor qilinmoqda. Bu biroz vaqt olişi mumkin. Iltimos, kuting.
+Checking for a system update - Tizim yangilanişi tekşirilmoqda
+Downloading system update. Please be patient as progress is not reported. - Tizim yangilanişi yuklab olinmoqda. Jarayon haqida maʼlumot berilmaydi, iltimos sabr qiling.
+Updating the system. Please be patient as progress is not reported. - Tizim yangilanmoqda. Jarayon haqida maʼlumot berilmaydi, iltimos sabr qiling.
+Updating to the next major version. Please be patient as progress is not reported. - Keyingi asosiy versiyaga yangilanmoqda. Jarayon haqida maʼlumot berilmaydi, iltimos sabr qiling.
+Operation in progress (started outside of Discover) - Amal bajarilmoqda (Discover dan taşqarida boşlangan)
+Unknown transaction type - Nomaʼlum amaliyot turi
+Channel: %1 - Kanal: %1
+Channels for %1 - %1 uçun kanallar
+%1 - %2 - %1 — %2
+Switch - Almaştiriş
+Permissions for %1 - %1 uçun ruxsatlar
+Snap - Snap
+Verified Publisher on snapcraft.io - snapcraft.io saytidagi tasdiqlangan noşir
+Starred Publisher on snapcraft.io - snapcraft.io saytidagi yulduzçali noşir
+This Snap application is not compatible with security sandboxing and will have full access to this system. Install it anyway? - Uşbu Snap ilovasi xavfsizlik qumloği (sandboxing) bilan mos kelmaydi va tizimga töliq kiriş huquqiga ega böladi. Baribir örnatilsinmi?
+Failed to get appstream data for “%1”.<nl/><nl/>Error message: %2 - “%1” uçun AppStream maʼlumotlarini olib bölmadi.<nl/><nl/>Xato xabari: %2
+No appstream URLs found for target “%1” - “%1” maqsadi uçun AppStream URL manzillari topilmadi
+Failed to fetch the updates from <a href='%1'>%1</a>.<nl/><nl/>Error message: %2 - <a href='%1'>%1</a> manzilidan yangilanişlarni olib bölmadi.<nl/><nl/>Xato xabari: %2
+Failed to parse update metadata.<nl/><nl/>Error message: %1 - Yangilaniş metamaʼlumotlarini tahlil qilib bölmadi.<nl/><nl/>Xato xabari: %1
+No components found in appstream metadata for target “%1” - “%1” maqsadi uçun AppStream metamaʼlumotlarida komponentlar topilmadi
+Previous installation was incomplete, trying again - Oldingi örnatiş tugallanmagan edi, qaytadan urinilmoqda
+List all the backends we’ll want to have loaded, separated by comma “,”. - Yuklanişi kerak bölgan barça modullar (bekendlar) röyxatini “,” verguli bilan ajratib körsatiş.
+Broken - Buzilgan (şikastlangan)
+Available - Mavjud
+Upgradeable - Yangilaş mumkin
+Launch - Işga tuşiriş
+Refresh of version %1 - %1 versiyasini yangilaş
+%1 → %2%1 → %2%2 - %1 → %2%1 → %2%2
+Please verify Internet connectivity - Internet ulanişini tekşiring
+Refresh - Yangilaş
+Refreshing %1 - %1 yangilanmoqda
+Applications - Ilovalar
+Addons - Qöşimçalar
+Application Support - Ilovalarni qöllab-quvvatlaş
+System - Tizim
+%1+ - %1+
+Updates - Yangilanişlar
+%1/s - %1/s
+Waiting - Kutilmoqda
+Downloading - Yuklab olinmoqda
+Installing - Örnatilmoqda
+Removing - Olib taşlanmoqda
+Changing Addons - Qöşimçalar özgartirilmoqda
+Done - Tayyor
+Failed - Xatolik yuz berdi
+Canceled - Bekor qilindi
+Applications - Ilovalar
+Application Support - Ilovalarni qöllab-quvvatlaş
+System Software - Tizim dasturiy taʼminoti
+Addons - Qöşimçalar

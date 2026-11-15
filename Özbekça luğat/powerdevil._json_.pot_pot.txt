@@ -1,0 +1,30 @@
+Source text - Tarjima text
+Power & Battery - Quvvat va batareya
+Brightness & Color - Yorqinlik va rang
+Screen brightness - Ekran yorqinligi
+Dim screen - Ekranni xiralaştiriş
+Screen Energy Saving - Ekranning energiya tejaş rejimi
+Button events handling - Tugma hodisalarini boşqariş
+Keyboard backlight - Klaviatura orqa nuri
+Power management profile - Quvvat boşqaruvi profili
+Run script - Skriptni işga tuşiriş
+Suspend session - Seansni uyqu rejimiga ötkaziş
+Power Management - Quvvat boşqaruvi
+Energy - Energiya
+Power - Quvvat
+Control power management settings and see the power status of your battery - Quvvat boşqaruvi parametrlarini sozlaş va batareya holatini köriş
+Control brightness and color of your screens and keyboards - Ekran va klaviaturalarning yorqinligi hamda rangini boşqariş
+Basic Controls for brightness - Yorqinlik uçun asosiy boşqaruv elementlari
+Dims gradually the display on a time basis - Belgilangan vaqt asosida ekranni asta-sekin xiralaştiradi
+Controls DPMS settings - DPMS parametrlarini boşqaradi
+Performs an action whenever a button is pressed - Tugma bosilganda belgilangan amalni bajaradi
+Basic Controls for the keyboard backlight brightness - Klaviatura orqa nuri yorqinligi uçun asosiy boşqaruv
+Apply a power management profile - Quvvatni boşqariş profilini qöllaş
+Runs a custom script - Maxsus skriptni işga tuşiradi
+Suspends the session - Seansni töxtatib turadi (uyqu holatiga ötkazadi)
+Configure power management settings - Quvvat boşqaruvi parametrlarini sozlaş
+Basic Power Management Operations - Quvvat boşqaruvining asosiy amallari
+Sebastian Kügler - Sebastian Kügler
+Kai Uwe Broulik - Kai Uwe Broulik
+Natalie Clarius - Natalie Clarius
+Dario Freddi - Dario Freddi

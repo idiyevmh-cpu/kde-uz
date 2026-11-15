@@ -1,0 +1,2 @@
+Color: - Rang:
+Select Background Color - Fon rangini tanlang

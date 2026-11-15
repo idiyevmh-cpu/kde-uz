@@ -1,0 +1,6 @@
+Appearance - Taşqi köriniş
+Show: - Faylni qirib taşlaş
+Inactive lights - Nofaol çiroqlar
+Seconds - Soniya
+Use custom color for: - Quyidagilar uçun maxsus rangdan foydalaniş:
+Active lights - Faol çiroqlar

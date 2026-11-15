@@ -1,0 +1,22 @@
+Source text - Tarjima text
+Toggle do not disturb - Bezovta kilinmasin rejimini yokiş/oçiriş
+Show popups - Kalkib çikuvçi oynalarni korsatiş
+Show in do not disturb mode - Bezovta kilinmasin rejimida ham korsatiş
+Show in history - Tarixda saklaş
+Show notification badges - Bildirişnoma belgilarini (nişonlarini) korsatiş
+Play a sound - Tovuş çikariş
+Preview sound - Tovuşni eşitib koriş
+Reset - Kayta tiklaş
+Do Not Disturb mode - Bezovta kilinmasin rejimi
+When screens are mirrored - Ekranlar takrorlanganda (dublyaj)
+During screen sharing - Ekranni translatsiya kiliş (ulaşiş) paytida
+While a fullscreen application is focused - Butun ekrandagi ilova faol bolganda
+Critical notifications: - Muhim bildirişnomalar:
+Low priority notifications: - Past ustuvorlikdagi bildirişnomalar:
+Location: - Joylaşuvi:
+Near notification icon - Bildirişnoma belgisi yakinida
+Choose… - Tanlaş…
+Hide after: - Belgilangan vaktdan keyin yaşiriş:
+Show timeout indicator - Vakt tugaşi indikatorini korsatiş
+Applications - Ilovalar
+System Services - Tizim xizmatlari

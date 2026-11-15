@@ -1,0 +1,9 @@
+The screen locker is broken and unlocking is not possible anymore.\nIn order to unlock it either ConsoleKit or LoginD is needed, neither\nof which could be found on your system. - Ekran qulflagiçi buzilgan va endi qulfdan çiqariş imkonsiz.\nUni qulfdan çiqariş uçun ConsoleKit yoki LoginD kerak, ularning heç biri\ntizimingizda topilmadi.
+The screen locker is broken and unlocking is not possible anymore.\nIn order to unlock it, switch to a virtual terminal (e.g. Ctrl+Alt+F%1),\nlog in as root and execute the command:\n\n# ck-unlock-session <session-name>\n\n - Ekran qulflagiçi buzilgan va endi qulfdan çiqariş imkonsiz.\nUni qulfdan çiqariş uçun virtual terminalga öting (masalan, Ctrl+Alt+F%1),\nroot sifatida kiring va buyruqni bajaring:\n\n# ck-unlock-session <seans-nomi>\n\n
+The screen locker is broken and unlocking is not possible anymore.\nIn order to unlock it, switch to a virtual terminal (e.g. Ctrl+Alt+F%1),\nlog in to your account and execute the command:\n\nloginctl unlock-session %2\n\nThen log out of the virtual session by pressing Ctrl+D, and switch\nback to the running session (Ctrl+Alt+F%3).\nShould you have forgotten the instructions, you can get back to this\nscreen by pressing Ctrl+Alt+F%3\n\n - Ekran qulflagiçi buzilgan va endi qulfdan çiqariş imkonsiz.\nUni qulfdan çiqariş uçun virtual terminalga öting (masalan, Ctrl+Alt+F%1),\nhisobingizga kiring va buyruqni bajaring:\n\nloginctl unlock-session %2\n\nSöngra Ctrl+D tugmasini bosib virtual seansdan çiqing va işlayotgan\nseansga qayting (Ctrl+Alt+F%3).\nKörsatmalarni unutib qöysangiz, Ctrl+Alt+F%3 tugmasini bosib uşbu ekranga\nqaytişingiz mumkin\n\n
+Session Management - Seansni boşqariş
+Lock Session - Seansni qulflaş
+Screen locked - Ekran qulflangan
+Screen unlocked - Ekran qulfdan çiqarilgan
+Screen Locker - Ekran qulflagiçi
+Ensuring that the screen gets locked before going to sleep - Kutiş rejimiga ötişdan oldin ekranning qulflanişini taʼminlaş

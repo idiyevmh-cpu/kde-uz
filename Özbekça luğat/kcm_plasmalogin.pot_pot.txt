@@ -1,0 +1,33 @@
+Unable to save settings because a temporary directory could not be created. - Vaqtinçalik jild yaratib bölmaganligi sababli sozlamalarni saqlab bölmadi.
+Unable to save settings because the config could not be opened. - Konfiguratsiyani oçib bölmaganligi sababli sozlamalarni saqlab bölmadi.
+Unable to synchronise Plasma settings because the 'plasmalogin' user does not exist. Please check your Plasma Login install. - Plasma sozlamalarini sinxronlab bölmadi, çunki 'plasmalogin' foydalanuvçisi mavjud emas.
+Unable to reset Plasma settings because the 'plasmalogin' user does not exist. Please check your Plasma Login install. - Plasma sozlamalarini tiklab bölmadi, çunki 'plasmalogin' foydalanuvçisi mavjud emas.
+Appearance - Taşqi köriniş
+Clock - Soat
+Show clock - Soatni körsatiş
+Wallpaper type: - Fon rasmi turi:
+Apply Plasma Settings… - Plasma sozlamalarini qöllaş…
+Configure Appearance… - Körinişni sozlaş…
+Apply Plasma Settings - Plasma sozlamalarini qöllaş
+This will make the Plasma login screen reflect your customizations to the following Plasma settings: - Bu Plasma kiriş ekranida quyidagi Plasma sozlamalariga kiritgan özgarişlaringizni aks ettiradi:
+<para><list><item>Language and locale settings</item><item>Keyboard layouts</item><item>Screen arrangement, scale, and orientation settings</item><item>NumLock preference</item><item>Font and font rendering settings</item><item>Color scheme</item><item>Cursor theme and size</item><item>Plasma theme</item></list></para> - <para><list><item>Til va hudud sozlamalari</item><item>Klaviatura tartiblari</item><item>Ekran joylaşuvi, masştabi va yönalişi</item><item>NumLock sozlamasi</item><item>Şrift va uning render sozlamalari</item><item>Rang sxemasi</item><item>Kursor mavzusi va ölçami</item><item>Plasma mavzusi</item></list></para>
+Please note that theme and font files must be installed globally to be reflected on the Plasma login screen. - Plasma kiriş ekranida aks etişi uçun mavzu va şrift fayllari global miqyosda örnatilgan bölişi kerakligiga eʼtibor bering.
+Apply - Qöllaş
+Reset to Default Settings - Standart sozlamalarga tiklaş
+Auto-login - Avtomatik kiriş
+Automatically log in: - Avtomatik kiriş:
+as user: - foydalanuvçi sifatida:
+Automatically log in with a specific user and session - Muayyan foydalanuvçi va seans bilan avtomatik kiriş
+Select a user for automatic log in - Avtomatik kiriş uçun foydalanuvçini tanlang
+with session: - seans bilan:
+Select a session for automatic log in - Avtomatik kiriş uçun seansni tanlang
+Auto-login does not support unlocking your KDE Wallet automatically, so it will ask you to unlock it every time you log in.<nl/><nl/>To avoid this, you can change the wallet to have a blank password. Note that this is insecure and should only be done in a trusted environment. - Avtomatik kiriş KDE hamyonini avtomatik qulfdan çiqarişni qöllab-quvvatlamaydi.
+Open KDE Wallet Settings - KDE Hamyon sozlamalarini oçiş
+Log in again immediately after logging off - Tizimdan çiqqandan söng darhol qayta kiriş
+Defaults - Standart holatlar
+Default user: - Standart foydalanuvçi:
+Last logged-in user - Oxirgi kirgan foydalanuvçi
+Select the default user to be shown at the login screen - Kiriş ekranida körsatiladigan standart foydalanuvçini tanlang
+Default session: - Standart seans:
+Last logged-in session - Oxirgi kirilgan seans
+Select the default session to be shown at the login screen - Kiriş ekranida körsatiladigan standart seansni tanlang

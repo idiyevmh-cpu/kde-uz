@@ -1,0 +1,34 @@
+Source text - Tarjima text
+KDE Connect - KDE Connect
+Device Synchronization - Qurlamalarni sinxronlaş
+Make all your devices one - Barça qurlamalaringizni birlaştiring
+Send via KDE Connect - KDE Connect orqali yuboriş
+KDE Connect Indicator - KDE Connect indikatori
+Display information about your devices - Qurlamalaringiz haqida maʼlumotlarni körsatiş
+KDE Connect Devices - KDE Connect qurlamalari
+Browse Files with File Manager - Fayl boşqaruvçisi orqali fayllarni köriş
+Notifications from your devices - Qurlamalaringizdan bildirişnomalar
+Pairing Request - Juftlaş sörovi
+Pairing request received from a device - Qurlamadan juftlaş sörovi qabul qilindi
+Incoming Call - Kiruvçi qönğiroq
+Someone is calling you - Sizga kimdir qönğiroq qilmoqda
+Missed Call - Qoldirilgan qönğiroq
+You have a missed call - Sizda qoldirilgan qönğiroq bor
+Battery Low - Batareya quvvati past
+Your battery is in low state - Batareyangiz quvvati tugab bormoqda
+Ping Received - Ping qabul qilindi
+Ping received - Ping qabul qilindi
+Generic Notification - Umumiy bildirişnoma
+Notification received - Bildirişnoma qabul qilindi
+Remote Lock Successful - Masofadan qulflaş muvaffaqiyatli bajarildi
+Remote lock successful - Masofadan qulflaş muvaffaqiyatli
+Remote Lock Failure - Masofadan qulflaş xatosi
+Remote lock failed - Masofadan qulflaş muvaffaqiyatsiz böldi
+Text Received - Matn qabul qilindi
+Received some text - Qandaydir matn qabul qilindi
+Drawing Tablet Error - Grafik planşet xatosi
+Something went wrong with the drawing tablet plugin - Çiziş planşeti plagini bilan muammo yuz berdi
+Error - Xatolik
+KDE Connect SMS - KDE Connect SMS
+Text Messaging - Matnli xabarlar
+Read and send SMS messages on connected devices - Ulangan qurlamalarda SMS xabarlarni öqiş va yuboriş

@@ -1,0 +1,20 @@
+General - Umumiy
+Username style: - Foydalanuvçi nomi uslubi:
+Full name (if available) - Töliq ism (agar mavjud bölsa)
+Login username - Kiriş foydalanuvçi nomi
+Show: - Körsatiş:
+Name - Ism
+User picture - Foydalanuvçi rasmi
+Name and user picture - Ism va foydalanuvçi rasmi
+Advanced: - Kengaytirilgan:
+Show technical session information - Texnik seans maʼlumotlarini körsatiş
+You are logged in as <b>%1</b> - Siz <b>%1</b> sifatida tizimdasiz
+Current user - Joriy foydalanuvçi
+Unused - Işlatilmagan
+TTY %1 - TTY %1
+on %1 (%2) - %1 da (%2)
+Switch to User %1 - %1 foydalanuvçisiga ötiş
+New Session - Yangi seans
+Lock Screen - Ekranni qulflaş
+Show Logout Screen - Tizimdan çiqiş ekranini körsatiş
+Open user configuration - Foydalanuvçi sozlamalarini oçiş

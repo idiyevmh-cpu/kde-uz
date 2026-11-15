@@ -1,0 +1,2 @@
+Welcome Center Launcher - Qutlov markazini işga tuşirgiç
+Autostarts Welcome Center after new system installation or update - Tizim yangi örnatilgandan yoki yangilangandan söng Qutlov markazini avtomatik işga tuşiradi

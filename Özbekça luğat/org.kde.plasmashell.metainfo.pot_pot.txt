@@ -1,0 +1,4 @@
+Source text - Tarjima text
+KDE Plasma Desktop - KDE Plasma iş stoli
+KDE's complete desktop experience. Simple by default, powerful when needed - KDE tomonidan taqdim etilgan töliq iş stoli muhiti. Standart holda sodda, zarurat tuğilganda kuçli
+Plasma being used as a desktop - Plasma iş stoli sifatida işlatilmoqda

@@ -1,0 +1,33 @@
+Vendor: - Işlab çiqaruvçi:
+UID: - UID:
+Status: - Holati:
+Authorized at: - Ruxsat berilgan vaqti:
+Connected at: - Ulangan vaqti:
+Enrolled at: - Röyxatdan ötkazilgan vaqti:
+Yes - Ha
+No - Yöq
+Trusted: - Işonçli:
+Authorizing… - Ruxsat berilmoqda…
+Authorize - Ruxsat beriş
+Failed to enroll device <b>%1</b>: %2 - <b>%1</b> qurilmasini röyxatdan ötkazib bölmadi: %2
+Trust this Device - Uşbu qurilmaga işoniş
+Revoke Trust - Işonçni bekor qiliş
+Error changing device trust: <b>%1</b>: %2 - Qurilma işonçini özgartirişda xatolik: <b>%1</b>: %2
+Hint: trusted device will be automatically authorized the next time it is connected to the computer. - Maslahat: işonçli qurilma keyingi safar kompyuterga ulanganda avtomatik ravişda ruxsat beriladi.
+Hint: an untrusted device needs to be manually authorized each time it is connected to the computer. - Maslahat: işonçsiz qurilmaga har safar kompyuterga ulanganda qölda ruxsat beriş kerak.
+Enable - Yoqiş
+Enable Thunderbolt subsystem - Thunderbolt quyi tizimini yoqiş
+Thunderbolt support has been disabled in BIOS - Thunderbolt qöllab-quvvatlaşi BIOS da öçirib qöyilgan
+Follow your system manufacturer's guide to enable Thunderbolt support - Thunderbolt qöllab-quvvatlaşini yoqiş uçun tizim işlab çiqaruvçisining qöllanmasiga amal qiling
+No Thunderbolt devices connected - Thunderbolt qurilmalari ulanmagan
+Plug in a Thunderbolt device - Thunderbolt qurilmasini ulang
+Thunderbolt subsystem is disabled or unavailable - Thunderbolt quyi tizimi öçirilgan yoki mavjud emas
+If the device supports Thunderbolt, try plugging in a Thunderbolt device - Agar qurilma Thunderbolt ni qöllab-quvvatlasa, Thunderbolt qurilmasini ulab köring
+Disconnected - Uzilgan
+Connecting - Ulanmoqda
+Connected - Ulangan
+Authorization Error - Ruxsat beriş xatosi
+Authorizing - Ruxsat berilmoqda
+Reduced Functionality - Çeklangan funksionallik
+Connected & Authorized - Ulangan va ruxsat berilgan
+Trusted - Işonçli

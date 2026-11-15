@@ -1,0 +1,18 @@
+Source text - Tarjima text
+Okular - Okular
+Document Viewer - Hujjat köruvçi
+Universal document viewer - Universal hujjat köriş dasturi
+Reader - Öquvçi (Reader)
+Document viewer - Hujjat köruvçi
+Viewer for various types of documents - Turli turdagi hujjatlarni köriş dasturi
+cbr, cbz, cbt, cb7, Comic Book - cbr, cbz, cbt, cb7, Komikslar kitobi
+djvu - djvu
+dvi - dvi
+epub, e-book - epub, elektron kitob
+FictionBook, e-book, fb2 - FictionBook, elektron kitob, fb2
+Markdown - Markdown
+mobipocket - mobipocket
+PDF, Portable Document Format - PDF, Portativ hujjat formati
+PS, PostScript - PS, PostScript
+txt - txt (matnli fayl)
+XPS - XPS

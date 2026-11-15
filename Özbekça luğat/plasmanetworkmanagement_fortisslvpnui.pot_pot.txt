@@ -1,0 +1,20 @@
+Advanced - Qöşimça
+General - Umumiy
+Gateway: - Şlyuz:
+SSLVPN server IP or name. - SSLVPN serveri IP manzili yoki nomi.
+Authentication - Tasdiqlaş
+User name: - Foydalanuvçi nomi:
+Set the name used for authenticating the local system to the peer to <name>. - Mahalliy tizimni autentifikatsiya qiliş uçun foydalaniladigan nomni <name> ga örnating.
+Password: - Parol:
+Password passed to SSLVPN when prompted for it. - Söralganda SSLVPN-ga uzatiladigan parol.
+CA Certificate: - CA sertifikati:
+User Certificate: - Foydalanuvçi sertifikati:
+User Key: - Foydalanuvçi kaliti:
+Use a One-Time Password - Bir martalik paroldan (OTP) foydalaniş
+2FA - 2FA (Ikki bosqiçli autentifikatsiya)
+Realm: - Soha (Realm):
+Security - Xavfsizlik
+Trusted certificate: - Işonçli sertifikat:
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789 - 0123456789abcdef0123456789abcdef0123456789abcdef0123456789
+One Time Password - Bir martalik parol (OTP)
+Token: - Token:

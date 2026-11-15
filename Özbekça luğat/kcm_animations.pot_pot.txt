@@ -1,0 +1,15 @@
+None - Yöq
+Global animation speed: - Global animatsiya tezligi:
+Slow - Sekin
+Instant - Darhol
+Some applications do not support this setting: In particular, GTK applications cannot change animation duration, but will still disable animations when <interface>animation speed</interface> is <interface>Instant</interface>. - Baʼzi ilovalar bu sozlamani qöllab-quvvatlamaydi: Xususan, GTK ilovalari animatsiya davomiyligini özgartira olmaydi, lekin <interface>animatsiya tezligi</interface> <interface>Darhol</interface> bölganda animatsiyalarni öçirib qöyadi.
+Desktop animations - Iş stoli animatsiyalari
+Window open/close: - Oynani oçiş/yopiş:
+Window maximize: - Oynani kattalaştiriş:
+Window minimize: - Oynani qayiriş:
+Window full screen: - Oynani töliq ekran qiliş:
+Peek at desktop: - Iş stoliga qaraş:
+Virtual desktop switching: - Virtual iş stolini almaştiriş:
+Configure… - Sozlaş…
+%1: - %1:
+More effects settings: - Boşqa effektlar sozlamalari:

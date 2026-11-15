@@ -1,0 +1,9 @@
+Keep display configuration? - Ekran sozlamalari saqlansinmi?
+Will revert to previous configuration in %1 second. - Oldingi sozlamalarga %1 soniyadan söng qaytariladi.
+Display Configuration - Fayl boşqaruvi
+Selected display - Tanlangan displey
+Display %1 - Displey %1
+Enabled - Yoq&iş
+Screen mode (Resolution & Refresh Rate) - Ekran rejimi (Ruxsat va Yangilaniş çastotasi)
+Scale - Massştab
+%1% - %1%

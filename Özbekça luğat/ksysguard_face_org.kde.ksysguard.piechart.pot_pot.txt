@@ -1,0 +1,8 @@
+Show legend - Tuşuntirişni (legendani) körsatiş
+Starting angle: - Boşlanğiç burçak:
+° - °
+Total pie angle: - Jami sektor burçagi:
+Rounded lines - Yaxlitlangan çiziqlar
+Automatic data range - Avtomatik maʼlumotlar oraliği
+From: - Kimdan:
+To: - Kimga:

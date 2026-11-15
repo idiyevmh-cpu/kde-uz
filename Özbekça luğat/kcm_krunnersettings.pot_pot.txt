@@ -1,0 +1,12 @@
+Position on screen: - Ekrandagi örni:
+Top - Yuqorida
+Center - Markazda
+History: - Tarix:
+Disabled - Öçirilgan
+Enable suggestions - Takliflarni yoqiş
+Enable auto-complete - Avtomatik töldirişni yoqiş
+Clear History… - Tarixni tozalaş…
+For all activities - Barça faoliyatlar uçun
+For activity "%1" - "%1" faoliyati uçun
+Plugins: - Plaginlar:
+Configure Enabled Search Plugins… - Yoqilgan qidiruv plaginlarini sozlaş…

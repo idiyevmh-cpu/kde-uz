@@ -1,0 +1,18 @@
+KWin - KWin
+Toggle Cube - Kubni almaştiriş
+Cube face displacement: - Kub tomoni siljişi:
+Less - Kiçik
+More - Saqlaş
+Distance: - Örnini almaştirişmoq
+Closer - Yaqinroq
+Farther - Uzoqroq
+Mouse: - Siçqonça:
+Invert X - X öqini teskarilaş
+Invert Y - Y öqini teskarilaş
+Background: - orqa fon
+Plain color: - Oddiy rang:
+Skybox: - Skybox:
+Type path or URL... - Yöl yoki URL manzilni kiriting...
+Select... - &Tanlaş
+At least 3 virtual desktops are required to display the Cube, but only %1 is present - Kubni körsatiş uçun kamida 3 ta virtual iş stoli talab qilinadi, ammo faqat %1 ta mavjud
+Add Virtual Desktop - 1 Iş stoliga ötiş

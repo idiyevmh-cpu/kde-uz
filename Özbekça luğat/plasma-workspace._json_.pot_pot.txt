@@ -1,0 +1,205 @@
+Activity Bar - Faoliyatlar paneli
+Analog Clock - Milli soat
+Global Menu - Global menyu
+Calendar - Taqvim
+Camera Indicator - Kamera körsatkiçi
+Clipboard - Almaşiş buferi
+Disks & Devices - Disklar va qurilmalar
+Digital Clock - Raqamli soat
+Icon - Belgi
+Lock/Logout - Qulflaş/Tizimdan çiqiş
+Input Method - Kiritiş usuli
+Margins Separator - Hoşiyalar ajratuvçisi
+Media Player - Media pleyer
+Notifications - Bildirişnomalar
+Panel Spacer - Panel böşliği
+Individual Core Usage - Alohida yadrolardan foydalaniş
+Total CPU Use - Umumiy protsessor (CPU) dan foydalaniş
+Hard Disk Activity - Qattiq disk faolligi
+Disk Usage - Diskdan foydalaniş
+Memory Usage - Xotiradan foydalaniş
+Network Speed - Tarmoq tezligi
+System Monitor Sensor - Tizim monitori datçigi
+System Tray - Tizim treyi
+Application menus daemon - Ilova menyulari demoni
+Application Launcher - Ilovalarni işga tuşirgiç
+Standard Menu - Standart menyu
+Paste - Qöyiş
+Switch Activity - Faoliyatni almaştiriş
+Switch Desktop - Iş stolini almaştiriş
+Switch Window - Oynani almaştiriş
+Device Notifications - Qurilma bildirişnomalari
+Donation Request - Xayriya sörovi
+Free Space Notifier - Böş joy haqida ogohlantirgiç
+Location-based System Time Zone - Joylaşuvga asoslangan tizim vaqt mintaqasi
+GMenu D-Bus Menu Proxy - GMenu D-Bus menyu proksisi
+Autostart - Avto-işga tuşiriş
+Accent Color - Urguli rang
+Colors - Ranglar
+Default Applications - Birlamçi ilovalar
+Pointers - Körsatkiçlar (kursorlar)
+Plasma Style - Plasma uslubi
+User Feedback - Foydalanuvçi fikr-mulohazasi
+Fonts - Şriftlar
+Icons - Belgilar
+Font Management - Şriftlarni boşqariş
+Font Files - Şrift fayllari
+Font Viewer - Şrift köruvçi
+Global Theme - Global mavzu
+Global Theme Auto-Switcher - Global mavzuni avtomatik almaştirgiç
+Night Light - Tungi çiroq
+Day-Night Cycle - Kun-tun davri
+Region & Language - Hudud va til
+System Sounds - Tizim tovuşlari
+Application Style - Ilova uslubi
+Users - Foydalanuvçilar
+Wallpaper - Fon rasmi
+Directory Watcher - Jild kuzatuvçisi
+Time Zone - Vaqt mintaqasi
+Media Controller - Media kontrolleri
+Breeze Dark - Breeze Dark
+Breeze - Breeze
+Breeze Twilight - Breeze Twilight
+Out of Memory Notifier - Xotira yetişmovçiligi haqida xabardor qilgiç
+Holidays - Bayramlar
+Software Center - Dasturiy taʼminot markazi
+Bookmarks - Xatçöplar
+Calculator - Kalkulyator
+Help Runner - Yordam buyruği
+Terminate Applications - Ilovalarni töxtatiş
+Locations - Manzillar
+Places - Joylar
+Recent Files - Yaqinda oçilgan fayllar
+Applications - Ilovalar
+Desktop Sessions - Iş stoli seanslari
+Command Line - Buyruqlar satri
+Web Search Keywords - Veb qidiruv kalit sözlari
+Drive Ejector - Diskni çiqargiç
+Hardware Detection - Uskunani aniqlaş
+X11 system settings - X11 tizim sozlamalari
+Session Shortcuts - Seans tezkor tugmalari
+Status Notifier Manager - Holat xabardori boşqaruvçisi
+Password Requests - Parol sörovlari
+Plain Color - Oddiy bir xil rang
+Image - Rasm
+Slideshow - Slayd-şou
+Set as - Sifatida örnatiş
+XEmbed SNI Proxy - XEmbed SNI proksisi
+Tab bar to switch activities - Faoliyatlarni almaştiriş uçun varaqlar paneli
+A clock with hands - Milli soat
+Global menubar in your Plasma Desktop - Plasma iş stolingizdagi global menyu paneli
+Month display with your appointments and events - Uçraşuvlar va voqealar bilan oylik taqvim
+Shows whether any camera is currently used by an app - Biror ilova tomonidan kamera işlatilayotganini körsatadi
+Provides access to the clipboard history - Almaşiş buferi tarixiga kirişni taʼminlaydi
+Notifications and access for devices - Qurilmalar uçun bildirişnomalar va ularga kiriş
+Time displayed in a digital format - Raqamli formatda körsatilgan vaqt
+A generic icon - Umumiy belgi
+Lock the screen or log out - Ekranni qulflaş yoki tizimdan çiqiş
+Manage your input methods - Kiritiş usullarini boşqariş
+To be used as a separator between margin areas in themes that support them - Qöllab-quvvatlaydigan mavzularda hoşiya joylari örtasida ajratuvçi sifatida foydalaniş uçun
+Media player controls - Media pleyer boşqaruvi
+Display notifications and jobs - Bildirişnomalar va vazifalarni körsatiş
+Reserve empty spaces within the panel. - Panel içida böş joylarni ajratiş.
+System monitor widget that shows usage of individual CPU cores - Alohida protsessor yadrolaridan foydalanişni körsatuvçi tizim monitori vidjeti
+System monitor widget that shows the total CPU usage - Umumiy protsessordan foydalanişni körsatuvçi tizim monitori vidjeti
+An applet that monitors hard disk throughput and input/output - Qattiq disk ötkazuvçanligi va kiritiş/çiqarişni kuzatuvçi aplet
+System monitor widget that shows the usage of the root partition - Asosiy (root) bölimdan foydalanişni körsatuvçi tizim monitori vidjeti
+System monitor widget that shows physical memory usage - Jismoniy xotiradan foydalanişni körsatuvçi tizim monitori vidjeti
+System monitor widget that shows the download and upload data rate - Yuklab oliş va yuklaş tezligini körsatuvçi tizim monitori vidjeti
+Displays a configurable chart of a system monitor sensor - Tizim monitori datçigining sozlanişi mumkin bölgan grafigini körsatadi
+Quickly access system features and application status icons - Tizim imkoniyatlariga va ilovalar holati belgilariga tezda kiriş
+Transfers application's menu to the desktop - Ilovaning menyusini iş stoliga ötkazadi
+Play audible feedback when devices are inserted or removed - Qurilmalar ulanganda yoki ajratilganda ovozli signal beriş
+Shows a yearly request to donate to KDE - KDE loyihasiga xayriya qiliş böyiça yillik sörovni körsatadi
+Warns when running out of space on your home folder - Uy jildingizda joy tugaganda ogohlantiradi
+Automatically change the system time zone based on the current location - Joriy joylaşuv asosida tizim vaqt mintaqasini avtomatik özgartiriş
+Proxies GTK D-Bus menus to a Plasma-readable format - GTK D-Bus menyularini Plasma öqiy oladigan formatga proksi qiladi
+Automatically Started Applications - Avtomatik işga tuşadigan ilovalar
+Applies extracted accent color from wallpaper on request - Söralganda fon rasmidan ajratib olingan urguli rangni qöllaydi
+Choose color scheme - Ranglar sxemasini tanlaş
+Choose default Applications - Birlamçi ilovalarni tanlaş
+Choose mouse pointer theme - Siçqonça körsatkiçi mavzusini tanlaş
+Choose Plasma style - Plasma uslubini tanlaş
+Configure user feedback settings - Foydalanuvçi fikr-mulohazasi sozlamalarini sozlaş
+Configure user interface fonts - Foydalanuvçi interfeysi şriftlarini sozlaş
+Choose icon theme - Belgilar mavzusini tanlaş
+Install, manage and preview fonts - Şriftlarni örnatiş, boşqariş va oldindan köriş
+Choose global look and feel - Global taşqi körinişni tanlaş
+Switches between dark and light Global Themes based on time of day - Kunning vaqtiga qarab qoronği va yoruğ global mavzular örtasida almaşadi
+Adjust screen color temperature based on time - Vaqtga qarab ekran rang haroratini moslaştiriş
+Configure the day-night cycle times - Kun-tun davri vaqtlarini sozlaş
+Event Notifications and Actions - Voqealar bildirişnomalari va amallari
+Language Setting, Numeric, Currency and Time Formats - Til sozlamalari, raqamlar, valyuta va vaqt formatlari
+Select a Sound Theme for Notifications - Bildirişnomalar uçun tovuş mavzusini tanlaş
+Configure application style and behavior - Ilova uslubi va xatti-harakatini sozlaş
+Manage user accounts - Foydalanuvçi hisoblarini boşqariş
+Configure the wallpaper - Fon rasmini sozlaş
+Monitors directories for changes - Jildlardagi özgarişlarni kuzatadi
+Provides the system's time zone to applications - Ilovalarga tizim vaqt mintaqasini taqdim etadi
+Controls media players using global keyboard shortcuts - Global klaviatura tezkor tugmalari yordamida media pleyerlarni boşqaradi
+Breeze Dark by the KDE VDG - KDE VDG tomonidan Breeze Dark
+Breeze by the KDE VDG - KDE VDG tomonidan Breeze
+Breeze Twilight by the KDE VDG - KDE VDG tomonidan Breeze Twilight
+Informs when applications get terminated to prevent out of memory conditions - Xotira yetişmovçiligining oldini oliş uçun ilovalar töxtatilganda xabar beradi
+Show public holidays in various countries or states - Turli mamlakatlar yoki ştatlardagi rasmiy bayramlarni körsatiş
+Lets you find software - Dasturiy taʼminotni topiş imkonini beradi
+Find and open bookmarks - Xatçöplarni topiş va oçiş
+Calculate expressions - Iboralarni hisoblaş
+Shows help information about runners when typing \"?\" or \"help\" - “?” yoki “help” yozilganda buyruqlar haqida yordam maʼlumotlarini körsatadi
+Stop applications that are currently running - Hozirda işlayotgan ilovalarni töxtatiş
+File and URL opener - Fayl va URL oçuvçi
+Open devices and folder bookmarks - Qurilmalar va jild xatçöplarini oçiş
+Find applications, control panels and services - Ilovalar, boşqaruv panellari va xizmatlarni topiş
+Fast user switching - Foydalanuvçini tezkor almaştiriş
+Executes shell commands - Qobiq buyruqlarini bajaradi
+Search the web using keywords - Kalit sözlardan foydalanib internetdan qidiriş
+Automatically releases drives when their eject button is pushed - Çiqariş tugmasi bosilganda disklarni avtomatik ravişda ajratadi
+Provides a user interface for hardware events - Uskuna hodisalari uçun foydalanuvçi interfeysini taqdim etadi
+Applies appearance settings, e.g. cursor theme, to X11 applications - Taşqi köriniş sozlamalarini (masalan, kursor mavzusi) X11 ilovalariga qöllaydi
+Provides shortcuts for common session actions - Umumiy seans amallari uçun tezkor tugmalarni taqdim etadi
+Manages services that provide status notifier user interfaces - Holat xabardori foydalanuvçi interfeyslarini taqdim etuvçi xizmatlarni boşqaradi
+Displays password prompts for user services - Foydalanuvçi xizmatlari uçun parol sörovlarini körsatadi
+Plain color wallpaper - Bir xil rangli fon rasmi
+Wallpaper view for images - Rasmlar uçun fon rasmi körinişi
+Slideshow wallpaper - Slayd-şou fon rasmi
+Set image as (lockscreen) wallpaper - Rasmni (qulflaş ekrani) fon rasmi sifatida örnatiş
+Handles legacy XEmbed system tray icons - Eski XEmbed tizim treyi belgilarini boşqaradi
+Bhushan Shah - Bhushan Shah
+Marco Martin - Marco Martin
+Kai Uwe Broulik - Kai Uwe Broulik
+Sebastian Kügler - Sebastian Kügler
+Fushan Wen - Fushan Wen
+Martin Gräßlin - Martin Gräßlin
+Viranch Mehta, Jacopo De Simoi - Viranch Mehta, Jacopo De Simoi
+Martin Klapetek - Martin Klapetek
+The Plasma Team - Plasma jamoasi
+Viranch Mehta - Viranch Mehta
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Niccolo Venerandi - Niccolo Venerandi
+KDE Visual Design Group - KDE Vizual Dizayn Guruhi
+Glenn Ergeerts, Marco Gulino - Glenn Ergeerts, Marco Gulino
+Plasma Team - Plasma jamoasi
+Alexander Lohnau - Alexander Lohnau
+Jan Gerrit Marker - Jan Gerrit Marker
+David Edmundson - David Edmundson
+Teemu Rytilahti - Teemu Rytilahti
+Julius Zint - Julius Zint
+klipper,clipboard,copy,paste - klipper,almaşiş buferi,nusxalaş,qöyiş
+Autostart Manager,system startup,plasma start,cron,auto,start,start up,boot,load,session,startup,launch,login - avto-işga tuşiriş,tizim işga tuşişi,plasma,avto,boşlaş,yuklaş,seans,kiriş
+color,colour,scheme,contrast,Widget colors,Color Scheme,color style,color theme,tint,accent color,color scheme,dark mode,light mode,accent colour,accent,highlight,colour - rang,ranglar,sxema,kontrast,vidjet ranglari,ranglar sxemasi,rang mavzusi,urguli rang,qoronği rejim,yoruğ rejim
+default applications,default apps,components,component chooser,resources,web browser,browser,internet,file manager,dolphin,email,e-mail,email client,terminal,terminal emulator,konsole,defaults,open with,file association - birlamçi ilovalar,birlamçi dasturlar,komponentlar,resurslar,veb brauzer,brauzer,internet,fayl boşqaruvçisi,dolphin,e-poçta,terminal,konsole,bilan oçiş
+Mouse,pointer,Cursor,Theme,Mouse Appearance,Cursor Appearance,Pointer Appearance,Mouse Color,Pointer Color,Cursor Color,Mouse Theme,Pointer Theme,Cursor Theme,Mouse Skin,Pointer Skin,Cursor Skin,Mouse Style,Pointer Style,Cursor Style,Mouse Size,Pointer Size,Cursor Size,start,launch,busy,feedback,bounce,bouncing,rotating,spinning,startup,start-up,program,report,taskbar,animation,loading - siçqonça,körsatkiç,kursor,mavzu,kursor mavzusi,kursor rangi,kursor hajmi,işga tuşiriş,band,animatsiya,yuklaniş
+Desktop Theme,Plasma Theme,plasma style,desktop style,plasma skin,desktop skin,theme - iş stoli mavzusi,plasma mavzusi,plasma uslubi,mavzu
+feedback,report,contact,data collection,statistics,usage,log,logging,telemetry - fikr-mulohaza,hisobot,aloqa,statistika,foydalaniş,jurnal,telemetriya
+fonts,font size,styles,charsets,character sets,panel,control panel,desktops,FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,toolbar fonts,character,general fonts,typography,type,letters,character,hinting,sub-pixel,text,big text,change font,size - şriftlar,şrift hajmi,uslublar,belgilar töplami,panel,iş stoli,menyu,sarlavha,DPI,matn,şriftni özgartiriş,hajmi
+icons,effects,size,hicolor,locolor,change icons,buttons,button theme,icon theme,theme,iconography - belgilar,samaralar,hajm,belgilarni özgartiriş,tugmalar,belgilar mavzusi,mavzu
+font,fonts,installer,truetype,type1,bitmap - şrift,şriftlar,örnatuvçi,truetype,type1,rastrli
+theme,look,feel,global theme,desktop,appearance,skin, global,presentation,themes,design,UI - mavzu,köriniş,global mavzu,iş stoli,taşqi köriniş,taqdimot,dizayn,UI
+kwin,window,manager,night,colors,redshift,eyes,night mode,colour,dark mode,dark,dim,sleep,eye strain,red,shift,orange,yellow,warm,screen tint,temperature,blue,light - kwin,oyna,tungi,ranglar,redshift,közlar,tungi rejim,qoronği rejim,uyqu,issiq,harorat,kök,nur,çiroq
+dark,light,night,day - qoronği,yoruğ,tun,kun
+System sounds,Audio,Sound,Notify,Alerts,Notification,popups,disturb,do not disturb,quiet,concentrate,concentration,alarm,popup,pop up,progress,badges,alert sounds,warning sounds,dnd,mute - tizim tovuşlari,audio,tovuş,bildirişnoma,ogohlantirişlar,bezovta qilinmasin,tinç,signal,ogohlantiriş tovuşlari,ovozsiz
+language,translation,number format,locale,Country,charsets,character sets,Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,currency,money,fractional digits,calendar,time,date,formats,week,week start,first,paper,size,letter,A4,measure,metric,English,Imperial,region,measurement units,collation,sorting,date format,storage size,data size,size format,data format,binary dialect,byte,kilobyte,megabyte,gigabyte,terabyte - til,tarjima,raqam formati,lokal,mamlakat,önlik belgisi,ajratuvçi,valyuta,pul,taqvim,vaqt,sana,hafta,qoğoz,ölçam,A4,ölçov,metrik,hudud,ölçov birliklari,saralaş,bayt,kilobayt,megabayt,gigabayt
+system sounds,sound theme,sound,sounds,alert,notification,bell - tizim tovuşlari,tovuş mavzusi,tovuş,tovuşlar,ogohlantiriş,bildirişnoma,qönğiroq
+style,styles,look,widget,icons,toolbars,text,highlight,apps,windows,KDE applications,theme,plasma,menu,global menu,GTK,GNOME,application style,app,programs,appearance,skin,themes,light mode,dark mode - uslub,uslublar,köriniş,vidjet,belgilar,asboblar paneli,matn,ilova,oynalar,KDE ilovalari,mavzu,plasma,global menyu,GTK,GNOME,ilova uslubi,dasturlar,yoruğ rejim,qoronği rejim
+users,accounts,profile picture,profile photo,avatar,name,password,passwords,email,e-mail,administrator,root user,standard user,profile,delete user,delete account,pfp,fingerprint,biometric - foydalanuvçilar,hisoblar,profil rasmi,avatar,ism,parol,parollar,e-poçta,administrator,oddiy foydalanuvçi,profil,barmoq izi,biometrik
+wallpaper,desktop,background,slideshow,haenau,hunyango,picture of the day,dynamic wallpaper,live wallpaper,animated wallpaper - fon rasmi,iş stoli,fon,slayd-şou,kun rasmi,dinamik fon rasmi,jonli fon rasmi,animatsiyali fon rasmi

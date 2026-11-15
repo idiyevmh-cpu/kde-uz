@@ -1,0 +1,74 @@
+(Defined at Interface level) - (Interfeys darajasida belgilangan)
+Application Specific Interface - Ilovaga xos interfeys
+Audio - Audio
+CDC Data - Maʼlumot
+Chip/SmartCard - Chip/Smart-karta
+Communications - Aloqa vositalari
+Content Security - Kontent xavfsizligi
+Diagnostic - Diagnostika
+Hub - Xab
+Human Interface Device - Inson interfeysi qurilmasi (HID)
+Imaging - Tasvirlaş qurilmasi
+Mass Storage - Saqlaş uskunasi
+Miscellaneous Device - Boşqa qurilma
+Physical Interface Device - Jismoniy interfeys qurilmasi (PID)
+Printer - Printer
+Vendor Specific Class - Işlab çiqaruvçiga xos sinf
+Video - Video
+Wireless - Simsiz aloqa
+Xbox - Xbox
+? - ??
+ATM Networking - ATM tarmoği
+Abstract (modem) - Abstrakt (modem)
+Boot Interface Subclass - Yuklaş interfeysi qism-sinfi
+CAPI Control - CAPI boşqaruv
+Control Device - Boşqaruv uskunasi
+Controller - Boşqaruv uskunasi
+Device Firmware Update - Qurilma mikrodasturini yangilaş
+Device Management - Qurilmalarni boşqariş
+Direct Line - Töğridan-töğri liniya
+Ethernet Emulation - Ethernet tarmoği
+Ethernet Networking - Ethernet tarmoği
+Floppy (UFI) - Disket
+IRDA Bridge - IRDA köprigi
+MIDI Streaming - MIDI oqimi
+Mobile Direct Line - Mobil töğridan-töğri liniya
+Multi-Channel - Multi-kanal
+No Subclass - Qism-sinf yöq
+OBEX - OBEX
+Printer - Printer
+QIC-157 - QIC-157
+RBC (typically Flash) - RBC (odatda fleş-xotira)
+Radio Frequency - Radio çastota
+Reprogrammable Diagnostics - Qayta dasturlanadigan diagnostika
+SCSI - SCSI
+SFF-8020i, MMC-2 (ATAPI) - SFF-8020i, MMC-2 (ATAPI)
+SFF-8070i - SFF-8070i
+Still Image Capture - Qözğalmas tasvirni uşlab oliş
+Streaming - Striming
+Telephone - Telefon
+Test and Measurement - Sinov va ölçov
+USB3 Vision - USB3 Vision
+Undefined - Noaniq
+Unused - Işlatilmagan
+Vendor Specific Subclass - Işlab çiqaruvçiga xos qism-sinf
+Video Control - Video boşqaruvi
+Video Interface Collection - Video interfeyslar töplami
+Video Streaming - Video striming
+Wireless Handset Control - Simsiz trubka boşqaruvi
+Wireless USB Wire Adapter - Simsiz USB kabel adapteri
+Device - Uskuna
+Defined at Interface Level - Interfeys darajasida belgilangan
+Personal Healthcare - Şaxsiy tibbiy qurilma
+Unknown - Nomaʼlum
+<b>Manufacturer:</b>  - <b>Işlab çiqaruvçi:</b> 
+<b>Serial #:</b>  - <b>Seriya raqami:</b> 
+<tr><td><i>Vendor ID</i></td><td>0x%1</td></tr> - <tr><td><i>Işlab çiqaruvçi ID'si</i></td><td>0x%1</td></tr>
+<tr><td><i>Product ID</i></td><td>0x%1</td></tr> - <tr><td><i>Mahsulot ID'si</i></td><td>0x%1</td></tr>
+<tr><td><i>Class</i></td>%1</tr> - <tr><td><i>Sinf</i></td>%1</tr>
+<tr><td><i>Subclass</i></td>%1</tr> - <tr><td><i>Qism-sinf</i></td>%1</tr>
+<tr><td><i>Protocol</i></td>%1</tr> - <tr><td><i>Protokol</i></td>%1</tr>
+<tr><td><i>USB Version</i></td><td>%1.%2</td></tr> - <tr><td><i>USB versiyasi</i></td><td>%1.%2</td></tr>
+<tr><td><i>Speed</i></td><td>%1 Mbit/s</td></tr> - <tr><td><i>Tezlik</i></td><td>%1 Mbit/s</td></tr>
+<tr><td><i>Channels</i></td><td>%1</td></tr> - <tr><td><i>Kanallar</i></td><td>%1</td></tr>
+<tr><td><i>Max. Packet Size</i></td><td>%1</td></tr> - <tr><td><i>Paketning eng katta hajmi</i></td><td>%1</td></tr>

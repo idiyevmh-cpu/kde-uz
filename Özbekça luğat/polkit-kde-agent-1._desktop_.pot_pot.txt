@@ -1,0 +1,6 @@
+Source text - Tarjima text
+PolicyKit Authentication Agent - PolicyKit autentifikatsiya agenti
+PolicyKit authentication dialog - PolicyKit autentifikatsiya dialogi
+Authentication System - Autentifikatsiya tizimi
+Authenticate - Autentifikatsiyadan ötiş
+You are required to authenticate - Sizdan şaxsingizni tasdiqlaş (autentifikatsiya) talab qilinadi

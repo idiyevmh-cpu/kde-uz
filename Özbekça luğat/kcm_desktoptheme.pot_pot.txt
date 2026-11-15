@@ -1,0 +1,27 @@
+Name of the current Plasma Style - Joriy Plasma uslubining nomi
+Unable to create a temporary file. - Vaqtinçalik fayl yaratib bölmadi.
+Unable to download the theme: %1 - Mavzuni yuklab olib bölmadi: %1
+Theme installed successfully. - Mavzu muvaffaqiyatli örnatildi.
+Theme installation failed. - Mavzuni örnatiş muvaffaqiyatsiz böldi.
+Removing theme failed: %1 - Mavzuni olib taşlaş muvaffaqiyatsiz böldi: %1
+This tool allows you to set the theme of the current Plasma session, without accidentally setting it to one that is either not available, or which is already set. - Uşbu vosita mavjud bölmagan yoki allaqaçon örnatilgan mavzuni adaşib örnatib qöymasdan, joriy Plasma seansi mavzusini sozlaş imkonini beradi.
+The name of the theme you wish to set for your current Plasma session (passing a full path will only use the last part of the path) - Joriy Plasma seansi uçun örnatmoqçi bölgan mavzuingiz nomi (töliq yölni körsatiş yölning faqat oxirgi qismidan foydalanadi)
+Show all the themes available on the system (and which is the current theme) - Tizimda mavjud barça mavzularni körsatiş (va ulardan qaysi biri joriy mavzu ekanligini)
+The requested theme "%1" is already set as the theme for the current Plasma session. - Söralgan "%1" mavzusi allaqaçon joriy Plasma seansi mavzusi sifatida örnatilgan.
+The current Plasma session's theme has been set to %1 - Joriy Plasma seansi mavzusi %1 ga örnatildi
+Could not find theme "%1". The theme should be one of the following options: %2 - "%1" mavzusi topilmadi. Mavzu quyidagi variantlardan biri bölişi kerak: %2
+You have the following Plasma themes on your system: - Tizimingizda quyidagi Plasma mavzulari mavjud:
+All themes - Barça mavzular
+Light themes - Yoruğ mavzular
+Dark themes - Qoronği mavzular
+Color scheme compatible - Ranglar sxemasiga mos keluvçi
+Install from File… - Fayldan örnatiş…
+Get New… - Yangilarini oliş…
+Follows color scheme - Ranglar sxemasiga ergaşadi
+Edit Theme… - Mavzuni tahrirlaş…
+Remove Plasma style - Plasma uslubini olib taşlaş
+Cannot delete the active Plasma style - Faol Plasma uslubini öçirib bölmaydi
+Cannot delete system-installed Plasma styles - Tizim tomonidan örnatilgan Plasma uslublarini öçirib bölmaydi
+Don’t delete this Plasma style - Uşbu Plasma uslubini öçirmaslik
+Open Theme - Mavzuni oçiş
+Theme Files (*.zip *.tar.gz *.tar.bz2) - Mavzu fayllari (*.zip *.tar.gz *.tar.bz2)

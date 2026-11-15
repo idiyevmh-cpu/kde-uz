@@ -1,0 +1,23 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+This type of file can harm your computer. If you want to keep it, accept this download from the browser window. - Bunday turdagi fayl kompyuteringizga zarar yetkazişi mumkin. Saqlab qolişni istasangiz, brauzer oynasidan yuklab olişni qabul qiling.
+Access denied. - Kiriş rad etildi.
+Insufficient free space. - Böş joy yetarli emas.
+The file name you have chosen is too long. - Siz tanlagan fayl nomi juda uzun.
+The file is too large to be downloaded. - Fayl yuklab oliş uçun juda katta.
+The file possibly contains malicious contents. - Faylda zararli tarkib bölişi mumkin.
+A temporary error has occurred. Please try again later. - Vaqtinçalik xato yuz berdi. Iltimos, keyinroq qayta urinib köring.
+A network error has occurred. - Tarmoq xatosi yuz berdi.
+The network operation timed out. - Tarmoq amali vaqti tugadi.
+The network connection has been lost. - Tarmoq ulanişi uzildi.
+The server is no longer reachable. - Server bilan boğlanib bölmaydi.
+A server error has occurred. - Server xatosi yuz berdi.
+The server does not have the requested data. - Serverda söralgan maʼlumotlar yöq.
+The browser application closed unexpectedly. - Brauzer ilovasi kutilmaganda yopildi.
+An unknown error occurred while downloading. - Yuklab oliş vaqtida nomaʼlum xatolik yuz berdi.
+Downloading - Yuklab olinmoqda
+Source - Manba
+Destination - Manzil
+Additional permissions are required - Qöşimça ruxsatlar talab qilinadi
+Mute Tab - Varaq ovozini öçiriş
+Unmute Tab - Varaq ovozini yoqiş

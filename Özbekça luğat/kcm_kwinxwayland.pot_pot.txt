@@ -1,0 +1,23 @@
+Legacy X11 apps with global shortcuts and other features accessed while running in the background need to be able to listen for keystrokes all the time.<nl/><nl/>If you use any of these apps, you can choose your preferred balance of security and compatibility here. - Fondagi rejimda işlayotganda global tezkor tugmalar va boşqa funksiyalarga ega eski X11 ilovalari har doim tugmalar bosilişini tinglay olişi kerak.<nl/><nl/>Agar uşbu ilovalardan birortasini işlatsangiz, bu yerda xavfsizlik va muvofiqlikning afzal körgan muvozanatini tanlaşingiz mumkin.
+Listening for keystrokes: - Tugmalar bosilişini tinglaş:
+Prohibited - Taqiqlangan
+Most secure; global shortcuts will not work in X11 apps - Eng xavfsiz; X11 ilovalarida global tezkor tugmalar işlamaydi
+Only the Meta, Control, Alt, and Shift keys - Faqat Meta, Control, Alt va Shift tugmalari
+High security; push-to-talk and other modifier-only global shortcuts will work in X11 apps - Yuqori xavfsizlik; X11 ilovalarida push-to-talk va faqat modifikatorli boşqa global tezkor tugmalar işlaydi
+As above, plus any key pressed while the Control, Alt, or Meta key is also pressed - Yuqoridagi kabi, şuningdek Control, Alt yoki Meta tugmasi bosib turilganda bosilgan har qanday tugma
+Moderate security; all global shortcuts will work in X11 apps - Örtaça xavfsizlik; barça global tezkor tugmalar X11 ilovalarida işlaydi
+Always allowed - Har doim ruxsat berilgan
+Least secure; all X11 apps will be able to see any text you type into any application - Eng kam xavfsiz; barça X11 ilovalari siz istalgan ilovada yozgan har qanday matnni köra oladi
+Note that using this setting will reduce system security and permit malicious software to steal passwords and spy on the text that you type. Make sure you understand and accept this risk. - Eʼtibor bering, bu sozlamadan foydalaniş tizim xavfsizligini kamaytiradi va zararli dasturlarga parollarni öğirlaş hamda siz yozayotgan matnni kuzatiş imkonini beradi. Uşbu xavfni tuşunganingiz va qabul qilganingizga işonç hosil qiling.
+Listening for mouse buttons: - Siçqonça tugmalarini tinglaş:
+Allowed - Ruxsat berilgan
+Moderate security; global shortcuts involving mouse buttons will work in X11 apps - Örtaça xavfsizlik; siçqonça tugmalari iştirokidagi global tezkor tugmalar X11 ilovalarida işlaydi
+Control of pointer and keyboard: - Körsatkiç va klaviaturani boşqariş:
+Allowed apps - Ruxsat berilgan ilovalar
+See Allowed Applications… - Ruxsat berilgan ilovalarni köriş…
+Applications allowed to control the pointer and keyboard - Körsatkiç va klaviaturani boşqarişga ruxsat berilgan ilovalar
+See Denied Applications… - Rad etilgan ilovalarni köriş…
+Applications never allowed to control the pointer and keyboard - Körsatkiç va klaviaturani boşqarişga heç qaçon ruxsat berilmagan ilovalar
+Moderate security; XWayland-using apps claiming to be something on this list will be able to take control of the computer, because XWayland-using apps’ identities can’t be verified - Örtaça xavfsizlik; uşbu röyxatdagi nom bilan özini körsatuvçi XWayland-dan foydalanuvçi ilovalar kompyuterni boşqariş imkoniyatiga ega böladi, çunki XWayland ilovalarining şaxsini tekşirib bölmaydi
+Allow without asking for permission - Ruxsat söramasdan ruxsat beriş
+Least secure; any XWayland-using app can take control of the pointer and keyboard at any time - Eng kam xavfsiz; istalgan XWayland ilovasi istalgan vaqtda körsatkiç va klaviaturani boşqariş imkoniyatini qölga kiritişi mumkin

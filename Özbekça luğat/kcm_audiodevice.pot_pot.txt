@@ -1,0 +1,6 @@
+Set as default device - Standart qurilma sifatida belgilaş
+Adjust Volume - Ovoz balandligini sozlaş
+%1% - %1%
+Audio Devices - Audio qurilmalari
+Playback Devices - Ijro etiş qurilmalari
+Recording Devices - Yozib oliş qurilmalari

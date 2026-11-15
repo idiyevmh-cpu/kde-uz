@@ -1,0 +1,66 @@
+about,info,information,distribution,distro,system,kernel,qt,kde,version,winver - haqida,maʼlumot,distributiv,distro,tizim,yadro,kernel,qt,kde,versiya,winver
+Pipewire,Audio,PulseAudio,pactl - Pipewire,Audio,ovoz,PulseAudio,pactl
+lsblk,block device,partition,disk,drive,hdd,ssd,nvme - lsblk,blok qurilmasi,bölim,disk,drayv,hdd,ssd,nvme
+cpu,amd,intel,arm,instructions,cores,architecture,byte order - cpu,protsessor,amd,intel,arm,körsatmalar,yadrolar,arxitektura,baytlar tartibi
+EDID,Graphics,dxdiag - EDID,Grafika,dxdiag
+OpenGL,DRI,3D,VideoCard,Hardware Acceleration,Graphics,EGL,dxdiag - OpenGL,DRI,3D,Videokarta,Apparat tezlatişi,Grafika,EGL,dxdiag
+Battery,Energy,Statistics,History,Power - Batareya,Energiya,Statistika,Tarix,Quvvat
+firmware,security,hsi,secureboot,fwupd,bootguard,lockdown - mikrodastur,xavfsizlik,hsi,secureboot,fwupd,bootguard,lockdown
+OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-Server,XFree86,Display,dxdiag - OpenGL,DRI,GLX,3D,Videokarta,Apparat tezlatişi,Grafika,X,X11,Xserver,X-Server,XFree86,Displey,dxdiag
+Interrupts,IRQ,System Information - Uzilişlar,IRQ,Tizim maʼlumotlari
+dxdiag,kwin - dxdiag,kwin,oyna boşqaruvçisi
+Memory,RAM,dmidecode - Xotira,RAM,dmidecode
+network,nic,ip,ip address,mac,inet,eth,wlan,wifi - tarmoq,nic,ip,ip manzil,mac,inet,eth,wlan,wifi
+OpenCL,VideoCard,Hardware Acceleration,Graphics,dxdiag - OpenCL,Videokarta,Apparat tezlatişi,Grafika,dxdiag
+PCI,PCI-Devices,PCI-Bus,System Information - PCI,PCI-qurilmalar,PCI-şina,Tizim maʼlumotlari
+SMB,SAMBA,Windows network,LAN,System Information - SMB,SAMBA,Windows tarmoği,LAN,Tizim maʼlumotlari
+lm_sensors,sensors,temp,temperature,volt,voltage,sensors,fan,fan speed,monitoring,amp,amps,current,power - lm_sensors,datçiklar,sensorlar,harorat,kuçlaniş,ventilyator,monitoring,tok,quvvat
+USB,devices,viewer,control - USB,qurilmalar,köruvçi,boşqaruv
+VA-API,Encoding,Decoding,VideoCard,Hardware Acceleration,Graphics,vainfo - VA-API,Kodlaş,Dekodlaş,Videokarta,Apparat tezlatişi,Grafika,vainfo
+Vulkan,VideoCard,Hardware Acceleration,Graphics,dxdiag,vulkaninfo - Vulkan,Videokarta,Apparat tezlatişi,Grafika,dxdiag,vulkaninfo
+Wayland,Compositor,Display,System Information,dxdiag - Wayland,Kompozitor,Displey,Tizim maʼlumotlari,dxdiag
+X,X-Server,XServer,XFree86,Display,VideoCard,System Information,dxdiag - X,X-Server,XServer,XFree86,Displey,Videokarta,Tizim maʼlumotlari,dxdiag
+About this System - Tizim haqida
+Audio - Audio
+Block Devices - Blok qurilmalari (disklar)
+CPU - Protsessor
+EDID - Displey maʼlumotlari (EDID)
+OpenGL (EGL) - OpenGL (EGL)
+Energy - Energiya
+Firmware Security - Mikrodastur xavfsizligi
+OpenGL (GLX) - OpenGL (GLX)
+Interrupts - Töxtalişlar
+Window Manager - Oyna boşqaruvçisi
+Memory - Xotira
+Network Interfaces - Tarmoq interfeyslari
+OpenCL - OpenCL
+PCI - PCI
+Samba Status - Samba'ning holati
+Sensors - Datçiklar (sensorlar)
+USB Devices - USB uskunalar
+Video Acceleration (VA-API) - Video tezlatgiç (VA-API)
+Vulkan - Vulkan
+Wayland - Wayland
+X-Server - X-Server
+Information About This System - Uşbu tizim haqida maʼlumot
+Audio Device Information - Ovoz qurilmasi maʼlumotlari
+Block Devices - Blok qurilmalari (disklar)
+Advanced CPU Information - Protsessor böyiça kengaytirilgan maʼlumotlar
+Extended Display Identification Data - Kengaytirilgan displey identifikatsiya maʼlumotlari (EDID)
+EGL information - EGL maʼlumotlari
+Energy Consumption Statistics - Energiya isteʼmoli statistikasi
+Firmware Security Information - Mikrodastur xavfsizligi maʼlumotlari
+GLX information - GLX maʼlumotlari
+Interrupt information - Tizim uzilişlari (IRQ) maʼlumotlari
+KWin Support information - KWin qöllab-quvvatlaş maʼlumotlari
+Memory Information - Xotira maʼlumotlari
+Network interface information - Tarmoq interfeysi maʼlumotlari
+OpenCL API information - OpenCL API maʼlumotlari
+PCI information - PCI şinalari maʼlumotlari
+Samba status monitor - Samba holati monitoringi
+Sensors - Harorat va datçiklar maʼlumotlari
+USB devices attached to this computer - Uşbu kompyuterga ulangan USB qurilmalari
+Information about the Video Acceleration API (VA-API) - Video tezlatiş API (VA-API) haqida maʼlumot
+Vulkan graphics API information - Vulkan grafik API maʼlumotlari
+Information about the Wayland Compositor - Wayland kompozitori haqida maʼlumot
+X-Server information - X-Server maʼlumotlari

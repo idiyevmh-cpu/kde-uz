@@ -1,0 +1,5 @@
+define - taʼrifla
+%1:q: - %1:q:
+Finds the definition of :q:. - :q: taʼrifini topadi.
+Definition for "%1" has been copied to clipboard - "%1" taʼrifi vaqtinça xotiraga nusxalandi
+Trigger word: - Işga tuşiruvçi söz:

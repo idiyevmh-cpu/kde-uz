@@ -1,0 +1,13 @@
+Plasma Engine Explorer - Plasma Engine tadqiqotçisi
+Plasma Data Engines Viewing Tool - Plasma Data Engines köriş vositasi
+Explorer for the data published by Plasma DataEngines - Plasma DataEngines tomonidan eʼlon qilingan maʼlumotlarni köriş vositasi
+Icon Explorer - Nişonçalar tadqiqotçisi
+Icon Viewer - Nişonçalarni köruvçi
+Icon Previewer for Artists and Developers - Dizaynerlar va dasturçilar uçun nişonçalarni köriş
+design;icon;preview;symbol;cuttlefish; - dizayn;nişonça;körib çiqiş;ramz;cuttlefish;
+Plasma Global Theme Explorer - Plasma umumiy mavzular tadqiqotçisi
+Plasmoidviewer - Plasmoidviewer
+Plasma Widget Testing Tool - Plasma vidjetlarini sinaş vositasi
+Testing tool for Plasma applets - Plasma apletlari uçun sinov vositasi
+Explore and edit your Plasma themes - Plasma mavzularini körib çiqiş va tahrirlaş
+Plasma Theme Explorer - Plasma mavzular tadqiqotçisi

@@ -1,0 +1,14 @@
+Source text - Tarjima text
+System monitor Sensor Display Styles - Tizim monitori sensorlarini körsatiş uslublari
+System monitor Sensor Presets - Tizim monitori sensorlari andozalari
+KSysGuard - KSysGuard
+Kill or stop etc a process - Jarayonni majburiy töxtatiş yoki töxtatib turiş
+Sends a given signal to a given process - Körsatilgan jarayonga belgilangan signalni yuboradi
+Change the priority of a process - Jarayonning ustuvorlik darajasini özgartiriş
+Change the niceness of a given process - Jarayonning muloyimlik (nice) darajasini özgartiriş
+Change IO Scheduler and priority - Kiritiş-çiqariş (IO) rejalaştiruvçisi va ustuvorligini özgartiriş
+Change how the read and writes of a given process are prioritized - Jarayonning öqiş va yoziş amallari ustuvorligini özgartiriş
+Change CPU Scheduler and priority - Protsessor (CPU) rejalaştiruvçisi va ustuvorligini özgartiriş
+Change which CPU scheduler is to schedule the running of a given process - Jarayonning bajarilişini qaysi protsessor rejalaştiruvçisi belgilaşini özgartiriş
+Change process scheduling - Jarayonni rejalaştirişni özgartiriş
+Change the niceness, CPU scheduler and IO scheduler of a given process in one operation - Bitta amal bilan jarayonning niceness, CPU va IO rejalaştiruvçilarini özgartiriş

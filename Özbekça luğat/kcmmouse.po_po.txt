@@ -1,0 +1,36 @@
+Critical error on reading fundamental device infos of %1. - %1 asosiy qurilma maʼlumotlarini öqişda jiddiy xato.
+Error while loading values. See logs for more information. Please restart this configuration module. - Qiymatlarni yuklaşda xatolik yuz berdi. Batafsil maʼlumot uçun jurnallarni körib çiqing. Iltimos, uşbu sozlaş modulini qayta işga tuşiring.
+No pointer device found. Connect now. - Körsatkiç qurilmasi (siçqonça) topilmadi. Hozir ulang.
+Not able to save all changes. See logs for more information. Please restart this configuration module and try again. - Barça özgarişlarni saqlab bölmadi. Batafsil maʼlumot uçun jurnallarni körib çiqing. Iltimos, uşbu sozlaş modulini qayta işga tuşiring va qayta urinib köring.
+Error while loading default values. Failed to set some options to their default values. - Standart qiymatlarni yuklaşda xatolik yuz berdi. Baʼzi parametrlarni standart qiymatlariga örnatib bölmadi.
+Error while adding newly connected device. Please reconnect it and restart this configuration module. - Yangi ulangan qurilmani qöşişda xatolik yuz berdi. Iltimos, uni qayta ulang va uşbu sozlaş modulini qayta işga tuşiring.
+Pointer device disconnected. Closed its setting dialog. - Körsatkiç qurilmasi uzildi. Uning sozlamalar muloqot oynasi yopildi.
+Pointer device disconnected. No other devices found. - Körsatkiç qurilmasi uzildi. Boşqa qurilmalar topilmadi.
+Extra Mouse Buttons - Qöşimça siçqonça tugmalari
+Extra Button %1: - Qöşimça tugma %1:
+Press the mouse button for which you want to add a key binding - Tugmalar birikmasini qöşmoqçi bölgan siçqonça tugmasini bosing
+Enter the new key combination for %1 - %1 uçun yangi tugmalar birikmasini kiriting
+Cancel - Bekor qiliş
+Press a mouse button - Siçqonça tugmasini bosing
+Add Binding… - Birikma qöşiş…
+Configure Extra Buttons… - Qöşimça tugmalarni sozlaş…
+Device: - Qurilma:
+General: - Umumiy:
+Enable device - Qurilmani yoqiş
+Left and right buttons: - Çap va öng tugmalar:
+Swap (left-handed mode) - Örinlarini almaştiriş (çapaqaylar rejimi)
+Press both simultaneously to middle-click - Örta tugma amali uçun ikkalasini bir vaqtda bosiş
+Activating this setting increases click latency by 50ms. The extra delay is needed to correctly detect simultaneous left and right button presses. - Uşbu sozlamani faollaştiriş bosiş keçikişini 50 ms ga oşiradi. Çap va öng tugmalarning bir vaqtda bosilişini töğri aniqlaş uçun qöşimça keçikiş zarur.
+Pointer speed: - Kursor tezligi:
+Enable pointer acceleration - Kursor tezlanişini yoqiş
+When enabled, pointer travel distance increases with faster movement speed. - Yoqilganda, harakat tezligi oşgani sayin kursorning bosib ötadigan masofasi ham ortadi.
+Scrolling speed: - Aylantiriş tezligi:
+Slower - Sekinroq
+Faster - Tezroq
+Scrolling: - Aylantiriş:
+Invert scroll direction - Aylantiriş yönalişini teskari qiliş
+Scroll when moving the pointer - Kursorni harakatlantirganda aylantiriş
+while pressing the middle button - örta tugmani bosib turganda
+This will interfere with applications that use middle-button drag, such as some image editors, document viewers, or video games. It may be used on any device, but is intended primarily as a substitute for scroll wheels on devices that do not have any. - Bu baʼzi tasvir tahrirlagiçlari, hujjat körsatgiçlari yoki video öyinlar kabi örta tugmani bosib sudraşdan foydalanadigan ilovalarga xalaqit beradi. Undan har qanday qurilmada foydalaniş mumkin, ammo u asosan aylantiriş ğildiragi bölmagan qurilmalarda uning örnini bosuvçi vosita sifatida möljallangan.
+after clicking the middle button - örta tugmani bosgandan keyin
+This will interfere with middle-clicks in general; middle-click twice when you want the application to receive a single middle-click. This includes middle-click dragging. - Bu umuman örta tugma bosişlariga xalaqit beradi; ilova bitta örta tugma bosişni qabul qilişini xohlasangiz, örta tugmani ikki marta bosing. Bunga örta tugmani bosib sudraş ham kiradi.

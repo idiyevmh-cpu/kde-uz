@@ -1,0 +1,52 @@
+Load Preset - Oldindan sozlamani yuklaş
+Delete this preset - Uşbu profilni öçiriş
+Presets: - Oldindan sozlamalar:
+Load Preset... - Oldindan sozlamani yuklaş...
+Get new presets... - Yangi profillarni oliş...
+Save Settings As Preset - Sozlamalarni profil sifatida saqlaş
+Title: - Sarlavha:
+Show Title - Sarlavhani körsatiş
+Display Style: - Körsatiş uslubi:
+Get New Display Styles... - Yangi körsatiş uslublarini oliş...
+Minimum Time Between Updates: - Yangilanişlar orasidagi minimal vaqt:
+No Limit - Çeklovsiz
+1 second - 1 soniya
+%1 seconds - %1 soniya
+Total Sensor - Jami datçik
+Sensors - Datçiklar
+Text-Only Sensors - Faqat matnli datçiklar
+General: - Umumiy:
+Show legend - Tuşuntirişni (legendani) körsatiş
+Stacked bars - Ustma-ust ustunlar
+Bar orientation: - Ustun yönalişi:
+Vertical - Vertikal
+Horizontal - Gorizontal
+Axis: - Öq:
+Show Y axis labels - Y öqi yorliqlarini körsatiş
+Show grid lines - Tör çiziqlarini körsatiş
+Automatic data range - Avtomatik maʼlumotlar oraliği
+From: - Dan:
+To: - Gaça:
+Use sensor color: - Datçik rangidan foydalaning:
+Number of columns: - Ustunlar soni:
+Automatic - Avtomatik
+Display style: - Körsatiş uslubi:
+Appearance - Taşqi köriniş
+Stacked charts - Ustma-ust diagrammalar
+Smooth lines - Silliq çiziqlar
+Opacity of area below line: - Çiziq ostidagi soha xiraligi (şaffofligi):
+Data Ranges - Maʼlumotlar oraliği
+Automatic Y data range - Y öqi böyiça avtomatik maʼlumotlar oraliği
+From (Y): - Qayerdan (Y):
+To (Y): - Qayergaça (Y):
+History to show: - Körsatiladigan tarix:
+second - soniya
+Starting angle: - Boşlanğiç burçak:
+° - °
+Total pie angle: - Jami sektor burçagi:
+Rounded lines - Yumaloqlangan çiziqlar
+Group sensors based on the value of the total sensors. - Datçiklarni jami datçiklar qiymatiga qarab guruhlaş.
+Click to select a sensor… - Datçikni tanlaş uçun bosing…
+Search... - Qidiriş...
+Back - Orqaga
+System Monitor Sensor - Tizim monitori datçigi

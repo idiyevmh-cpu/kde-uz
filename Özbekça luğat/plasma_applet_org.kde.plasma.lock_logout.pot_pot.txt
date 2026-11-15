@@ -1,0 +1,18 @@
+General - Umumiy
+Unavailable - Mavjud emas
+Lock - Qulflaş
+Lock the screen - Ekranni qulflaş
+Switch user… - Foydalanuvçini almaştiriş…
+Start a parallel session as a different user - Boşqa foydalanuvçi sifatida parallel seansni boşlaş
+Shut down - Öçiriş
+Turn off the computer - Kompyuterni öçiriş
+Restart - Qayta işga tuşiriş
+Reboot the computer - Kompyuterni qayta işga tuşiriş
+Log out - Tizimdan çiqiş
+End the session - Seansni yakunlaş
+Show logout screen - Çiqiş ekranini körsatiş
+Log out, turn off, or restart the computer - Tizimdan çiqiş, kompyuterni öçiriş yoki qayta işga tuşiriş
+Sleep - Kutiş rejimi
+Sleep (suspend to RAM) - Kutiş rejimi (tezkor xotirada töxtatib turiş)
+Hibernate - Gipenatsiya
+Hibernate (suspend to disk) - Gipernatsiya (diskda töxtatib turiş)

@@ -1,0 +1,12 @@
+Local - Lokal fayl
+Timezone - Vaqt zonasi:
+Timezone City - Vaqt mintaqasi şahri
+Timezone Continent - Vaqt mintaqasi qitʼasi
+Timezone Country - Vaqt mintaqasi mamlakati
+Offset - ofset
+Timezone Abbreviation - Vaqt mintaqasi qisqartmasi
+DateTime - Sana va vaqt
+Latitude - Kenglik
+Longitude - Uzunlik
+Solar - Quyoş
+Moon - Oy

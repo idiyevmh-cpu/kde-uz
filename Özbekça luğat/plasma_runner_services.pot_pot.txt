@@ -1,0 +1,2 @@
+%1 - %2 - %1 - %2
+Finds applications whose name or description match :q: - Nomi yoki tavsifi :q: ga mos keluvçi ilovalarni topadi

@@ -1,0 +1,43 @@
+Name of the current pointer theme - Joriy kursor mavzusining nomi
+Current pointer size - Kursorning joriy ölçami
+Unable to create a temporary file. - Vaqtinçalik fayl yaratib bölmadi.
+Unable to download the icon theme archive: %1 - Belgilar mavzusi arxivini yuklab olib bölmadi: %1
+Unable to open the icon theme archive. - Belgilar mavzusi arxivini oçib bölmadi.
+The file is not a valid icon theme archive. - Fayl yaroqli belgilar mavzusi arxivi emas.
+Failed to create 'icons' folder. - 'icons' jildini yaratib bölmadi.
+A theme named %1 already exists in your icon theme folder. Do you want replace it with this one? - Belgilar mavzusi jildingizda %1 nomli mavzu allaqaçon mavjud. Uni bunisi bilan almaştirişni xohlaysizmi?
+Overwrite Theme? - Mavzu ustiga yozilsinmi?
+Theme installed successfully. - Mavzu muvaffaqiyatli örnatildi.
+Timeout in seconds - Kutiş vaqti (soniyalarda)
+This tool allows you to set the mouse pointer theme for the current Plasma session, without accidentally setting it to one that is either not available, or which is already set. - Uşbu vosita joriy Plasma seansi uçun siçqonça kursori mavzusini tasodifan mavjud bölmagan yoki allaqaçon örnatilgan mavzuga örnatib qöymasdan belgilaş imkonini beradi.
+The name of the pointer theme you wish to set for your current Plasma session (passing a full path will only use the last part of the path) - Joriy Plasma seansi uçun örnatmoqçi bölgan kursor mavzusining nomi (töliq yöl uzatilganda yölning faqat oxirgi qismi işlatiladi)
+Show all the themes available on the system (and which is the current theme) - Tizimda mavjud bölgan barça mavzularni körsatiş (va ulardan qaysi biri joriy mavzu ekanligini)
+Use a specific size, rather than the theme default size - Mavzuning standart ölçami örniga muayyan ölçamdan foydalaniş
+The requested theme “%1” is already set as the theme for the current Plasma session. - Söralgan “%1” mavzusi allaqaçon joriy Plasma seansi uçun mavzu sifatida örnatilgan.
+Successfully applied the mouse pointer theme %1 to your current Plasma session - %1 siçqonça kursori mavzusi joriy Plasma seansingizga muvaffaqiyatli qöllanildi
+You have to restart the Plasma session for your newly applied mouse pointer theme to display correctly. - Yangi qöllanilgan siçqonça kursori mavzusi töğri körinişi uçun Plasma seansini qayta işga tuşirişingiz kerak.
+Could not find theme “%1”. The theme should be one of the following options: %2 - “%1” mavzusi topilmadi. Mavzu quyidagi variantlardan biri bölişi kerak: %2
+You have the following mouse pointer themes on your system: - Tizimingizda quyidagi siçqonça kursori mavzulari mavjud:
+(Current theme for this Plasma session) - (Uşbu Plasma seansi uçun joriy mavzu)
+Remove pointer theme - Kursor mavzusini olib taşlaş
+Cannot delete the active pointer theme - Faol kursor mavzusini öçirib bölmaydi
+Cannot delete system-installed pointer themes - Tizim tomonidan örnatilgan kursor mavzularini öçirib bölmaydi
+Don’t delete this pointer theme - Uşbu kursor mavzusini öçirmaslik
+Launch Feedback - Işga tuşiriş indikatori
+Configure the animations played while an application is launching. - Ilova işga tuşayotganda ijro etiladigan animatsiyalarni sozlaş.
+Pointer feedback: - Kursor indikatori:
+None - Yöq
+Static - Statik
+Blinking - Miltillovçi
+Bouncing - Sakrovçi
+Task Manager feedback: - Vazifalar menejeri indikatori:
+Enable animation - Animatsiyani yoqiş
+Stop animations after: - Animatsiyani töxtatiş vaqti:
+%1 second - %1 soniya
+Size: %1 - Ölçami: %1
+&Configure Launch Feedback… - &Işga tuşiriş indikatorini sozlaş…
+&Install from File… - &Fayldan örnatiş…
+&Get New… - &Yangisini oliş…
+Open Theme - Mavzuni oçiş
+Pointer Theme Files (*.tar.gz *.tar.bz2) - Kursor mavzusi fayllari (*.tar.gz *.tar.bz2)
+(Available sizes: %1) - (Mavjud ölçamlar: %1)

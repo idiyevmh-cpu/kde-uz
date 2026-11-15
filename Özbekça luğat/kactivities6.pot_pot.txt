@@ -1,0 +1,7 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Default - Birlamçi
+Activity Manager - Faoliyatlar boşqaruvçisi
+Switch to activity \"%1\" - \"%1\" faoliyatiga ötiş
+activity - faoliyat
+Switch to \"%1\" - \"%1\" ga ötiş

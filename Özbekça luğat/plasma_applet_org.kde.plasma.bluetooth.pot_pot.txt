@@ -1,0 +1,57 @@
+Blocked - Bloklangan
+Connected - Ulangan
+Available - Mavjud
+Could not connect to device “%1” - “%1” qurilmasiga ulanib bölmadi
+The device is unreachable - Qurilmaga ulanib bölmayapti
+Connection to the device failed - Qurilmaga ulaniş muvaffaqiyatsiz böldi
+The device is not ready - Qurilma tayyor emas
+Disconnect - Uziş
+Connect - Ulaniş
+Browse Files - Fayllarni köriş
+Send File - Faylni yuboriş
+Forget - Unutiş
+Copy - Nusxalaş
+Yes - Ha
+No - Yöq
+%1 (%2) - %1 (%2)
+Remote Name - Masofaviy nom
+Address - Manzil
+Paired - Juftlangan
+Trusted - Işonçli
+Adapter - Adapter
+Connecting - Ulanmoqda
+Disconnecting - Uzilmoqda
+Connection failed - Ulaniş muvaffaqiyatsiz böldi
+%1% Battery - %1% batareya
+Headset - Garnitura
+Audio device - Audio qurilma
+Keyboard - Klaviatura
+Mouse - Siçqonça
+Joypad - Djoypad
+Drawing tablet - Çiziş planşeti
+Phone - Telefon
+Camera - Kamera
+Printer - Printer
+File transfer - Fayl uzatiş
+Send file - Fayl yuboriş
+Input - Kiritiş
+Audio - Audio
+Network - Tarmoq
+Other device - Boşqa qurilma
+Enable - Yoqiş
+No Bluetooth adapters available - Mavjud Bluetooth adapterlari yöq
+Bluetooth is disabled - Bluetooth öçirilgan
+No devices paired - Juftlangan qurilmalar yöq
+Bluetooth - Bluetooth
+Bluetooth is disabled; middle-click to enable - Bluetooth öçirilgan; yoqiş uçun siçqonçaning örta tugmasini bosing
+No adapters available - Mavjud adapterlar yöq
+Bluetooth is offline - Bluetooth oflayn
+Middle-click to disable Bluetooth - Bluetooth-ni öçiriş uçun siçqonçaning örta tugmasini bosing
+No connected devices - Ulangan qurilmalar yöq
+%1 connected - %1 ulangan
+%1 connected device - %1 ta ulangan qurilma
+Enable Bluetooth - Bluetooth-ni yoqiş
+Pair Device… - Qurilmani juftlaş…
+Show badge with number of connected devices - Ulangan qurilmalar soni bilan nişonçani körsatiş
+Configure &Bluetooth… - &Bluetooth-ni sozlaş…
+More actions - Köproq amallar

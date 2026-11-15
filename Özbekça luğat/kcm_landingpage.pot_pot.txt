@@ -1,0 +1,22 @@
+Color scheme name - Ranglar sxemasi nomi
+Single click to open files - Fayllarni oçiş uçun bir marta bosiş
+Switch the look and feel package depending on time of day - Kunning vaqtiga qarab taşqi köriniş töplamini almaştiriş
+Global Look and Feel package - Global taşqi köriniş töplami
+Global Look and Feel package, alternate - Qöşimça global taşqi köriniş töplami
+Animation speed - Animatsiya tezligi
+Change global theme - Umumiy mavzuni özgartiriş
+Global theme - Umumiy mavzu
+Theme: - Mavzu:
+Automatic - Avtomatik
+Use “%1” during the day and “%2” at night - Kunduzi “%1” va tunda “%2” dan foydalaniş
+More appearance settings: - Boşqa taşqi köriniş sozlamalari:
+Animation speed: - Animatsiya tezligi:
+Slow - Sekin
+Instant - Darhol
+Clicking files or folders: - Fayl yoki jildlarni bosiş:
+Selects them - Ularni tanlaydi
+Open by double-clicking instead - Buning örniga ikki marta bosiş orqali oçiş
+Opens them - Ularni oçadi
+Select by clicking on item's selection marker - Elementning tanlaş belgisini bosiş orqali tanlaş
+More behavior settings: - Boşqa xatti-harakat sozlamalari:
+Most used pages: - Eng köp işlatiladigan sahifalar:

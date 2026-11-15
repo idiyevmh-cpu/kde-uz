@@ -1,0 +1,5 @@
+thunderbolt,hardware,device,protocol,thunderbolt protocol,transfer,usb,usb-c,pci-e,external devices - thunderbolt,uskuna,qurilma,protokol,uzatiş,usb,usb-c,pci-e,taşqi qurilmalar
+Thunderbolt - Thunderbolt
+Thunderbolt Device Monitor - Thunderbolt qurilmalari monitori
+Thunderbolt Device Management - Thunderbolt qurilmalarini boşqariş
+Daniel Vrátil - Daniel Vrátil

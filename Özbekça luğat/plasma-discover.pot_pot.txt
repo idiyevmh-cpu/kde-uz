@@ -1,0 +1,255 @@
+%1 is not configured for installing apps through Discover—only app add-ons - %1 distributivi Discover orqali ilovalarni örnatiş uçun sozlanmagan — faqat ilova qöşimçalarini örnatiş mumkin
+To use Discover for apps, install your preferred module on the <interface>Settings</interface> page, under <interface>Missing Backends</interface>.<nl/><nl/>Please <link url='%1'>report this issue to %2.</link> - Ilovalar uçun Discover dan foydalaniş maqsadida <interface>Sozlamalar</interface> sahifasidagi <interface>Yetişmayotgan modullar (bekendlar)</interface> bölimidan maʼqul modulni örnating.<nl/><nl/>Iltimos, <link url='%1'>uşbu muammo haqida %2 ga xabar bering.</link>
+To use Discover for apps, install <link url='https://wiki.archlinux.org/title/Flatpak#Installation'>Flatpak</link> using the <command>pacman</command> package manager.<nl/><nl/> Review <link url='https://archlinux.org/packages/extra/x86_64/discover/'>%1's packaging for Discover</link> - Ilovalar uçun Discover dan foydalaniş maqsadida <command>pacman</command> paketlar boşqaruvçisi yordamida <link url='https://wiki.archlinux.org/title/Flatpak#Installation'>Flatpak</link> dasturini örnating.<nl/><nl/> <link url='https://archlinux.org/packages/extra/x86_64/discover/'>Discover uçun %1 paketlaş maʼlumotlarini</link> körib çiqing
+Support for managing packages from %1 is incomplete; you may experience any number of problems. Do not report bugs to KDE. It is highly recommended to uninstall the <resource>packagekit-qt6</resource> package and use Discover only to manage Flatpaks, Snaps, and Add-Ons.<para>%1 maintainers recommended instead using the <command>pacman</command> command-line tool to manage packages.</para> - %1 paketlarini boşqarişni qöllab-quvvatlaş töliq emas; turli muammolarga duç kelişingiz mumkin. Xatolar haqida KDE ga xabar bermang. <resource>packagekit-qt6</resource> paketini öçiriş va Discover dan faqat Flatpak, Snap hamda qöşimçalarni boşqariş uçun foydalaniş qatʼiy tavsiya etiladi.<para>%1 taʼminotçilari paketlarni boşqariş uçun buning örniga <command>pacman</command> buyruq qatori vositasidan foydalanişni tavsiya qiladi.</para>
+Could not find category '%1' - '%1' turkumi topilmadi
+Trying to open inexisting file '%1' - Mavjud bölmagan '%1' faylini oçişga urinilmoqda
+Cannot interact with flatpak resources without the flatpak backend %1. Please install it first. - %1 Flatpak moduli (bekendi) bölmasdan Flatpak resurslari bilan işlab bölmaydi. Iltimos, avval uni örnating.
+Could not open %1 - %1 ni oçib bölmadi
+Please make sure Snap support is installed - Snap qöllab-quvvatlaşi örnatilganligiga işonç hosil qiling
+The requested application could not be found in any available software repositories - Söralgan ilova mavjud dasturiy taʼminot repozitoriylarining heç biridan topilmadi
+(No entry for %1)<nl/><nl/>Please <link url='%2'>report this issue to %3.</link> - (%1 uçun yozuv yöq)<nl/><nl/>Iltimos, <link url='%2'>uşbu muammo haqida %3 ga xabar bering.</link>
+Discover - Discover
+Discover was closed before certain tasks were done, waiting for it to finish. - Discover baʼzi vazifalar bajarilib bölmasidan oldin yopildi, ularning tugallaşi kutilmoqda.
+Directly open the specified application by its appstream:// URI. - Körsatilgan ilovani uning appstream:// URI manzili orqali töğridan-töğri oçiş.
+Open with a search for programs that can deal with the given mimetype. - Berilgan MIME turi bilan işlay oladigan dasturlarni qidiriş bilan oçiş.
+Display a list of entries with a category. - Turkumga tegişli yozuvlar röyxatini körsatiş.
+Open Discover in a said mode. Modes correspond to the toolbar buttons. - Discover ni aytilgan rejimda oçiş. Rejimlar asboblar panelidagi tugmalarga mos keladi.
+List all the available modes. - Barça mavjud rejimlar röyxatini çiqariş.
+Local package file to install - Örnatiş uçun mahalliy paket fayli
+List all the available backends. - Barça mavjud modullar (bekendlar) röyxatini çiqariş.
+Search string. - Qidiruv satri.
+Lists the available options for user feedback - Foydalanuvçi fikr-mulohazasi uçun mavjud parametrlarni röyxatlaydi
+Starts an update automatically, headless - Grafik interfeyssiz (headless) yangilanişni avtomatik ravişda boşlaydi
+Supports appstream: url scheme - appstream: URL sxemasini qöllab-quvvatlaydi
+An application explorer - Ilovalar markazi
+© 2010-2026 Plasma Development Team - © 2010-2026 Plasma dasturçilar jamoasi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Nate Graham - Nate Graham
+Quality Assurance, Design, and Usability - Sifat nazorati, dizayn va foydalaniş qulayligi
+Dan Leinir Turthra Jensen - Dan Leinir Turthra Jensen
+KNewStuff - KNewStuff
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Available backends:  - Mavjud modullar (bekendlar): 
+Available modes:  - Mavjud rejimlar: 
+Addons for %1 - %1 uçun qöşimçalar
+More… - Köproq…
+Apply Changes - Özgarişlarni qöllaş
+Reset - Tiklaş (Boşlanğiç holatga)
+Add New %1 Repository - Yangi %1 repozitoriysini qöşiş
+Add - Qöşiş
+Cancel - Bekor qiliş
+No ratings - Baholar yöq
+Only install %1 if you fully trust its authors because it is <emphasis strong='true'>proprietary</emphasis>: Your freedom to use, modify, and redistribute this application is restricted, and its source code is partially or entirely closed to public inspection and improvement. This means third parties and users like you cannot verify its operation, security, and trustworthiness.<nl/><nl/>The application may be perfectly safe to use, or it may be acting against you in various ways — such as harvesting your personal information, tracking your location, or transmitting the contents of your data to someone else. Only use it if you fully trust its authors. More information may be available on <link url='%2'>the application’s website</link>.<nl/><nl/>Learn more at <link url='%3'>%3</link>. - %1 ilovasini faqat uning mualliflariga töliq işonsangizgina örnating, çunki u <emphasis strong='true'>mulkiy (yopiq kodli)</emphasis> hisoblanadi: Uşbu ilovadan foydalaniş, uni özgartiriş va qayta tarqatiş erkinligingiz çeklangan bölib, uning manba kodi ommaviy tekşiriş va yaxşilaş uçun qisman yoki butunlay yopiqdir. Bu şuni anglatadiki, uçinçi tomonlar va siz kabi foydalanuvçilar uning işlaşini, xavfsizligini va işonçliligini tekşira olmaydi.<nl/><nl/>Ilova foydalaniş uçun mutlaqo xavfsiz bölişi mumkin yoki u şaxsiy maʼlumotlaringizni yiğiş, joylaşuvingizni kuzatiş yoxud maʼlumotlaringiz tarkibini boşqa birovga uzatiş kabi turli yöllar bilan sizga qarşi harakat qilayotgan bölişi mumkin. Undan faqat mualliflariga töliq işonsangizgina foydalaning. Qöşimça maʼlumotlar <link url='%2'>ilovaning veb-saytida</link> mavjud bölişi mumkin.<nl/><nl/>Batafsil maʼlumot: <link url='%3'>%3</link>.
+Only install %1 if you fully trust its authors because it is <emphasis strong='true'>proprietary</emphasis>: Your freedom to use, modify, and redistribute this application is restricted, and its source code is partially or entirely closed to public inspection and improvement. This means third parties and users like you cannot verify its operation, security, and trustworthiness.<nl/><nl/>The application may be perfectly safe to use, or it may be acting against you in various ways — such as harvesting your personal information, tracking your location, or transmitting the contents of your data to someone else. Only use it if you fully trust its authors. Learn more at <link url='%2'>%2</link>. - %1 ilovasini faqat uning mualliflariga töliq işonsangizgina örnating, çunki u <emphasis strong='true'>mulkiy (yopiq kodli)</emphasis> hisoblanadi: Uşbu ilovadan foydalaniş, uni özgartiriş va qayta tarqatiş erkinligingiz çeklangan bölib, uning manba kodi ommaviy tekşiriş va yaxşilaş uçun qisman yoki butunlay yopiqdir. Bu şuni anglatadiki, uçinçi tomonlar va siz kabi foydalanuvçilar uning işlaşini, xavfsizligini va işonçliligini tekşira olmaydi.<nl/><nl/>Ilova foydalaniş uçun mutlaqo xavfsiz bölişi mumkin yoki u şaxsiy maʼlumotlaringizni yiğiş, joylaşuvingizni kuzatiş yoxud maʼlumotlaringiz tarkibini boşqa birovga uzatiş kabi turli yöllar bilan sizga qarşi harakat qilayotgan bölişi mumkin. Undan faqat mualliflariga töliq işonsangizgina foydalaning. Batafsil maʼlumot: <link url='%2'>%2</link>.
+%1 uses one or more licenses not certified as “Free Software” by either the <link url='%2'>Free Software Foundation</link> or the <link url='%3'>Open Source Initiative</link>. This means your freedom to use, study, modify, and share it may be restricted in some ways.<nl/><nl/>Make sure to read the license text and understand any restrictions before using the software.<nl/><nl/>If the license does not even grant access to read the source code, make sure you fully trust the authors, as no one else can verify the trustworthiness and security of its code to ensure that it is not acting against you in hidden ways. More information may be available on <link url='%4'>the application’s website</link>.<nl/><nl/>Learn more at <link url='%5'>%5</link>. - %1 <link url='%2'>Free Software Foundation</link> yoki <link url='%3'>Open Source Initiative</link> tomonidan “Erkin dasturiy taʼminot” (“Free Software”) sifatida tasdiqlanmagan bir yoki bir neçta litsenziyalardan foydalanadi. Bu şuni anglatadiki, undan foydalaniş, uni örganiş, özgartiriş va ulaşiş erkinligingiz maʼlum darajada çeklangan bölişi mumkin.<nl/><nl/>Dasturiy taʼminotdan foydalanişdan oldin litsenziya matnini öqib çiqing va har qanday çeklovlarni tuşunib oling.<nl/><nl/>Agar litsenziya hatto manba kodini öqiş huquqini ham bermasa, mualliflarga töliq işonişingizga amin böling, çunki u sizga qarşi yaşirin tarzda harakat qilmayotganligiga işonç hosil qiliş uçun heç kim uning kodi işonçliligi va xavfsizligini tekşira olmaydi. Qöşimça maʼlumotlar <link url='%4'>ilovaning veb-saytida</link> mavjud bölişi mumkin.<nl/><nl/>Batafsil maʼlumot: <link url='%5'>%5</link>.
+%1 uses one or more licenses not certified as “Free Software” by either the <link url='%2'>Free Software Foundation</link> or the <link url='%3'>Open Source Initiative</link>. This means your freedom to use, study, modify, and share it may be restricted in some ways.<nl/><nl/>Make sure to read the license text and understand any restrictions before using the software.<nl/><nl/>If the license does not even grant access to read the source code, make sure you fully trust the authors, as no one else can verify the trustworthiness and security of its code to ensure that it is not acting against you in hidden ways.<nl/><nl/>Learn more at <link url='%4'>%4</link>. - %1 <link url='%2'>Free Software Foundation</link> yoki <link url='%3'>Open Source Initiative</link> tomonidan “Erkin dasturiy taʼminot” (“Free Software”) sifatida tasdiqlanmagan bir yoki bir neçta litsenziyalardan foydalanadi. Bu şuni anglatadiki, undan foydalaniş, uni örganiş, özgartiriş va ulaşiş erkinligingiz maʼlum darajada çeklangan bölişi mumkin.<nl/><nl/>Dasturiy taʼminotdan foydalanişdan oldin litsenziya matnini öqib çiqing va har qanday çeklovlarni tuşunib oling.<nl/><nl/>Agar litsenziya hatto manba kodini öqiş huquqini ham bermasa, mualliflarga töliq işonişingizga amin böling, çunki u sizga qarşi yaşirin tarzda harakat qilmayotganligiga işonç hosil qiliş uçun heç kim uning kodi işonçliligi va xavfsizligini tekşira olmaydi.<nl/><nl/>Batafsil maʼlumot: <link url='%4'>%4</link>.
+%1 does not indicate under which license it is distributed. You may be able to determine this on <link url='%2'>the application’s website</link>. Find it there or contact the author if you want to use this application for anything other than private personal use. - %1 qaysi litsenziya ostida tarqatilişini körsatmagan. Buni <link url='%2'>ilovaning veb-saytidan</link> aniqlaşingiz mumkin. Agar uşbu ilovadan şaxsiy foydalanişdan taşqari boşqa maqsadlarda foydalanmoqçi bölsangiz, litsenziyani u yerdan toping yoki muallif bilan boğlaning.
+%1 does not indicate under which license it is distributed. Contact the application’s author if you want to use it for anything other than private personal use. - %1 qaysi litsenziya ostida tarqatilişini körsatmagan. Agar uşbu ilovadan şaxsiy foydalanişdan taşqari boşqa maqsadlarda foydalanmoqçi bölsangiz, ilova muallifi bilan boğlaning.
+Share - Bölişiş
+Add-ons - Qöşimçalar
+From %1 - Manba: %1
+%1 - %2 - %1 — %2
+Share Link to Application - Ilovaga havolani ulaşiş
+Check out the %1 app! - %1 ilovasini sinab köring!
+Screenshots not available for %1 - %1 uçun ekran rasmlari mavjud emas
+What’s New - Yangiliklar
+Reviews - Şarhlar
+Loading reviews for %1 - %1 uçun şarhlar yuklanmoqda
+Reviews for %1 are temporarily unavailable - %1 uçun şarhlar vaqtinça mavjud emas
+No reviews posted yet - Hali heç qanday şarh qoldirilmagan
+Install to write a review - Şarh yoziş uçun örnating
+Write a Review - Şarh yoziş
+Install to Write a Review - Şarh yoziş uçun örnating
+Show All Reviews - Barça şarhlarni körsatiş
+External Links - Taşqi havolalar
+Read the FAQ - Köp söraladigan savollarni (FAQ) öqiş
+Read the full documentation - Töliq hujjatlarni öqiş
+Visit the project’s website - Loyiha veb-saytiga taşrif buyuriş
+Donate to the project - Loyihani moddiy qöllab-quvvatlaş (xayriya qiliş)
+Report a bug - Xato haqida xabar beriş
+Start contributing - Hissa qöşişni boşlaş
+Help with translations - Tarjima qilişda yordam beriş
+Contact the developers - Dasturçilar bilan boğlaniş
+Browse the source code - Manba kodini köriş
+All Licenses - Barça litsenziyalar
+Content Rating - Kontent reytingi (yoş çeklovi)
+License Information - Litsenziya haqida maʼlumot
+Unknown author - Nomaʼlum muallif
+%1 rating - %1 baho
+No ratings yet - Hali baholar yöq
+Version: - Versiya:
+Size: - Hajmi:
+License: - Litsenziya:
+Unknown - Nomaʼlum
+What does this mean? - Bu nimani anglatadi?
+All licenses… - Barça litsenziyalar…
+Ages: - Yoş çeklovi:
+Everyone - Barça uçun (0+)
+%1+ - %1+
+See details - Tafsilotlarni köriş
+Scroll to top - Yuqoriga aylanib çiqiş
+Search: %2 - %3 item - Qidiruv: %2 - %3 ta element
+Search: %1 - Qidiruv: %1
+%2 - %1 item - %2 - %1 ta element
+Search - %1 item - Qidiruv - %1 ta element
+Search - Qidiruv
+Sort: %1 - Saralaş: %1
+Relevance - Moslik böyiça
+Name - Nomi
+Number of reviews - Şarhlar soni böyiça
+Rating - Baho böyiça
+Size - Hajmi
+Release date - Çiqarilgan sanasi böyiça
+Group by Type - Turi böyiça guruhlaş
+Nothing found - Heç narsa topilmadi
+Search in All Categories - Barça turkumlarda qidiriş
+Search the Web for "%1" - Internetdan "%1" ni qidiriş
+"%1" was not found in the "%2" category - "%2" turkumida "%1" topilmadi
+"%1" was not found in the available sources - Mavjud manbalarda "%1" topilmadi
+"%1" may be available on the web. Software acquired from the web has not been reviewed by your distributor for functionality or stability. Use with caution. - "%1" internetda mavjud bölişi mumkin. Internetdan olingan dasturiy taʼminot distributivingiz tomonidan işlaşi yoki barqarorligi böyiça tekşirilmagan. Ehtiyotkorlik bilan foydalaning.
+Still looking… - Qidiruv davom etmoqda…
+Home - Boş sahifa
+Unable to load applications - Ilovalarni yuklab bölmadi
+Most Popular - Eng ommabop
+See More - Köproq köriş
+Editor’s Choice - Muharrir tanlovi
+Newly Published & Recently Updated - Yangi naşr etilgan va yaqinda yangilangan
+Highest-Rated Games - Eng yuqori baholangan öyinlar
+Highest-Rated Developer Tools - Dasturçilar uçun eng yuqori baholangan vositalar
+Play - Öynaş
+Pause - Vaqtinça töxtatiş
+Switch to Overlay - Ustma-ust (qoplama) rejimiga ötiş
+Switch to Full Screen - Töliq ekran rejimiga ötiş
+Close - Yopiş
+Previous Screenshot - Oldingi ekran rasmi
+Next Screenshot - Keyingi ekran rasmi
+Security updates available - Xavfsizlik yangilanişlari mavjud
+Updates available - Yangilanişlar mavjud
+Running as <em>root</em> is discouraged and unnecessary. - Administrator (<em>root</em>) nomidan işga tuşiriş tavsiya etilmaydi va talab qilinmaydi.
+&Home - &Boş sahifa
+&Search - &Qidiruv
+&Installed - &Örnatilgan
+&Updates (Fetching…) - &Yangilanişlar (olinmoqda…)
+&Updates - &Yangilanişlar
+&About - &Dastur haqida
+S&ettings - &Sozlamalar
+Error - Xato
+Unable to find resource: %1 - Resurs topilmadi: %1
+Proceed - Davom etiş
+Report this issue to %1 - Uşbu muammo haqida %1 ga xabar beriş
+Discover is Offline - Discover oflayn rejimda
+Please connect to a network to install applications and update the system. - Ilovalarni örnatiş va tizimni yangilaş uçun tarmoqqa ulaning.
+Error %1 of %2 - %2 tadan %1-xato
+Update Issue - Yangilaş muammosi
+There was an issue during the update or installation process. Please try again later. - Yangilaş yoki örnatiş jarayonida muammo yuz berdi. Iltimos, keyinroq qaytadan urinib köring.
+Show Previous - Oldingisini körsatiş
+Show Next - Keyingisini körsatiş
+See Technical Details - Texnik tafsilotlarni köriş
+Copy to Clipboard - Vaqtinçalik xotiraga nusxalaş
+Submit Usage Information - Foydalaniş statistikasini yuboriş
+Sends anonymized usage information to KDE so we can better understand our users. For more information see https://kde.org/privacypolicy-apps.php. - Foydalanuvçilarimizni yaxşiroq tuşunişimiz uçun KDE ga anonimlaştirilgan foydalaniş maʼlumotlarini yuboradi. Batafsil maʼlumot uçun https://kde.org/privacypolicy-apps.php sahifasiga qarang.
+Submitting usage information… - Foydalaniş maʼlumotlari yuborilmoqda…
+Configure - Sozlaş
+Configure Feedback… - Fikr-mulohaza sozlamalari…
+Configure Updates… - Yangilanişlar sozlamalari…
+You can help KDE improve Discover by sharing anonymous information on how you use it. - Discover dan qanday foydalanişingiz haqida anonim maʼlumotlarni ulaşiş orqali KDE ga uni yaxşilaşda yordam berişingiz mumkin.
+Contribute… - Hissa qöşiş…
+We are looking for your feedback! - Biz sizning fikr-mulohazangizni kutmoqdamiz!
+Participate… - Iştirok etiş…
+Loading… - Yuklanmoqda…
+Install from %1 - %1 dan örnatiş
+Install - Örnatiş
+Remove - Olib taşlaş
+Installed - Örnatilgan
+Resources for “%1” - “%1” uçun resurslar
+Tasks (%1%) - Vazifalar (%1%)
+Tasks - Vazifalar
+%1: %2, %3 remaining - %1: %2, %3 qoldi
+%1: %2 - %1: %2
+Rating - Baho böyiça
+unknown reviewer - nomaʼlum taqrizçi
+<b>%1</b> by %2 - %2 tomonidan <b>%1</b>
+Comment by %1 - %1 izohi
+Version: %1 - Versiya: %1
+Version: unknown - Versiya: nomaʼlum
+Votes: %1 out of %2 - Ovozlar: %2 tadan %1 ta
+Was this review useful? - Uşbu şarh foydali böldimi?
+Yes - Ha
+No - Yöq
+Reviewing %1 - %1 haqida şarh qoldiriş
+Submit review - Şarhni yuboriş
+If you love %1, tell people what’s great about it! Focus on functionality, usability, and appearance. If the app didn’t meet your needs, explain why. - Agar sizga %1 yoqsa, odamlarga uning nimalari ajoyib ekanligini aytib bering! Funksionallik, foydalaniş qulayligi va taşqi körinişga eʼtibor qarating. Agar ilova ehtiyojlaringizni qondirmagan bölsa, sababini tuşuntiring.
+If %1 isn’t launching, consider reporting this to its packagers in %2 at <link url='%3'>%3</link> instead, as it may be an easily fixable packaging issue rather than a flaw in the app itself. - Agar %1 işga tuşmayotgan bölsa, bu haqda <link url='%3'>%3</link> manzilidagi %2 paket yiğuvçilariga xabar bering, çunki bu ilovaning özidagi nuqson emas, balki oson tuzatiladigan paketlaş muammosi bölişi mumkin.
+If %1 isn’t launching, consider reporting this to its developers at <link url='%2'>%2</link> instead, as it may be an easily fixable packaging issue rather than a flaw in the app itself. - Agar %1 işga tuşmayotgan bölsa, bu haqda <link url='%2'>%2</link> manzilidagi dasturçilarga xabar bering, çunki bu ilovaning özidagi nuqson emas, balki oson tuzatiladigan paketlaş muammosi bölişi mumkin.
+If the app is crashing a lot, consider reporting this to its developers at <link url='%1'>%1</link> instead. - Agar ilova tez-tez qulayotgan bölsa, bu haqda <link url='%1'>%1</link> manzilidagi dasturçilarga xabar bering.
+If you’re having a problem with the app, consider reporting this to its developers at <link url='%1'>%1</link> instead, or else describe the problem here in greater detail. - Agar ilova bilan boğliq muammoga duç kelsangiz, bu haqda <link url='%1'>%1</link> manzilidagi dasturçilarga xabar bering yoki muammoni bu yerda batafsilroq tasvirlab bering.
+Rating: - Baho:
+Name: - Ism:
+Title: - Sarlavha:
+launch,run,start - launch,run,start,işga tuşiriş,bajariş,boşlaş
+crash,segfault - crash,segfault,qulaş,nosozlik,xatolik
+doesn't work,dumb,stupid,crap,junk,suck,terrible,hate - doesn't work,dumb,stupid,crap,junk,suck,terrible,hate,işlamaydi,ahmoqona,yomon,rasvo,nafratlanaman
+Enter a rating - Bahoni kiriting
+Write the title - Sarlavhani yozing
+Write the review - Şarhni yozing
+Keep writing… - Yozişda davom eting…
+Too long! - Juda uzun!
+Insert a name - Ismni kiriting
+Reviews for %1 - %1 uçun şarhlar
+Write a Review… - Şarh yoziş…
+Install this app to write a review - Şarh yoziş uçun uşbu ilovani örnating
+Most Relevant - Eng moslari
+Most Recent - Eng yangilari
+Highest Ratings - Eng yuqori baholar
+%1 reviews - Şarhlar: %1 ta
+M - M
+Unknown reviewer - Nomaʼlum taqrizçi
+“ - “
+„ - ”
+Search… - Qidiriş…
+Search in “%1”… - “%1” içidan qidiriş…
+Settings - Sozlamalar
+Default Source - Standart manba
+Add Source… - Manba qöşiş…
+Make Default - Standart qiliş
+Increase priority - Ustuvorlikni oşiriş
+Failed to increase “%1” preference - “%1” ustuvorligini oşirib bölmadi
+Decrease priority - Ustuvorlikni pasaytiriş
+Failed to decrease “%1” preference - “%1” ustuvorligini pasaytirib bölmadi
+Remove repository - Repozitoriyni olib taşlaş
+Show contents - Tarkibini körsatiş
+Enable this source - Uşbu manbani yoqiş
+Missing Backends - Yetişmayotgan modullar (bekendlar)
+Updates - Yangilanişlar
+Technical details - Texnik tafsilotlar
+There was an issue installing this update. Please try again later. - Uşbu yangilanişni örnatişda muammo yuz berdi. Iltimos, keyinroq qaytadan urinib köring.
+If the error indicated above looks like a real issue and not a temporary network error, please report it to %1, not KDE. - Agar yuqorida körsatilgan xato vaqtinçalik tarmoq xatosi emas, balki haqiqiy muammoga öxşasa, iltimos, bu haqda KDE ga emas, balki %1 ga xabar bering.
+Copy Text - Matnni nusxalaş
+Error message copied. Remember to report it to %1, not KDE! - Xato xabari nusxalandi. Uşbu xato haqida KDE ga emas, balki %1 ga xabar berişni unutmang!
+Report Issue to %1 - Muammo haqida %1 ga xabar beriş
+Update Selected - Tanlanganlarni yangilaş
+Update All - Barçasini yangilaş
+A pending update will be installed when restarting the system. - Kutilayotgan yangilaniş tizim qayta işga tuşirilganda örnatiladi.
+Ignore - Eʼtibor berilmasin
+Select All - Barçasini tanlaş
+Select None - Heç birini tanlamaslik
+After updates complete: - Yangilanişlar yakunlangandan söng:
+Do nothing - Heç narsa qilmaslik
+Restart - Qayta işga tuşiriş
+Shut down - Öçiriş
+Quit Discover - Discover dan çiqiş
+Total size: %1 - Umumiy hajmi: %1
+Restart and Install Updates - Qayta işga tuşiriş va yangilanişlarni örnatiş
+Installing - Örnatilmoqda
+From: - Manba:
+%1 (%2) - %1 (%2)
+More Info… - Batafsil maʼlumot…
+Fetching updates… - Yangilanişlar tekşirilmoqda…
+Updates - Yangilanişlar
+Updates will be installed after the system is restarted - Yangilanişlar tizim qayta işga tuşirilgandan söng örnatiladi
+You can keep using the system if you’re not ready to restart yet. - Agar hali qayta işga tuşirişga tayyor bölmasangiz, tizimdan foydalanişda davom etişingiz mumkin.
+Up to date - Yangilanişlar yöq (eng sönggi holatda)
+Should check for updates - Yangilanişlarni tekşiriş lozim
+Time of last update unknown - Oxirgi yangilaniş vaqti nomaʼlum

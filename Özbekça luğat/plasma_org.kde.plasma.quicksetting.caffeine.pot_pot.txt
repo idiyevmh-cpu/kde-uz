@@ -1,0 +1,4 @@
+Caffeine - Kofein
+Tap to disable sleep suspension - Uyqu töxtatilişini öçiriş uçun bosing
+Tap to suspend sleep - Uyquni töxtatiş uçun bosing
+Plasma Mobile has enabled system-wide inhibition - Plasma Mobile tizim miqyosida uyquni çeklaşni yoqdi

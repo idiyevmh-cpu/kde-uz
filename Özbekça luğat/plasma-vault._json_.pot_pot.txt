@@ -1,0 +1,7 @@
+Source text - Tarjima text
+Plasma Vault mount and unmount - Plasma Seyf (Vault) ulaş va uziş
+Plasma Vault module - Plasma Seyf moduli
+Vaults - Seyflar (Vaults)
+Provides encrypted vaults - Şifrlangan seyflarni taqdim etadi
+Create encrypted vaults - Şifrlangan seyflar yaratiş
+Ivan Čukić - Ivan Čukić

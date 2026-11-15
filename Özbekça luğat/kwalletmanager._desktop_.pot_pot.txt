@@ -1,0 +1,7 @@
+Source text - Tarjima text
+KWalletManager - KWalletManager
+Store and manage your passwords - Parollaringizni saqlang va boşqaring
+Password Manager - Parollar menejeri
+KDE Wallet system - KDE Qopçiq tizimi
+Save wallet configuration - Qopçiq sozlamalarini saqlaş
+Allow saving wallet configuration settings - Qopçiq konfiguratsiyasi parametrlarini saqlaşga ruxsat beriş

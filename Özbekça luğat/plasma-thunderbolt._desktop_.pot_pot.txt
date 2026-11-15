@@ -1,0 +1,10 @@
+Source text - Tarjima text
+Thunderbolt Device Monitor - Thunderbolt qurilmalari monitori
+Warning - Ogohlantiriş
+Used for warning notifications - Ogohlantiruvçi bildirişnomalar uçun işlatiladi
+Error - Xatolik
+Used for error notifications - Xatolik bildirişnomalari uçun işlatiladi
+Unauthorized device is plugged in - Ruxsat berilmagan qurilma ulandi
+An unauthorized Thunderbolt device has been plugged into the computer - Kompyuterga ruxsat etilmagan Thunderbolt qurilmasi ulandi
+Error during device authorization - Qurilmani avtorizatsiya qilişda xatolik yuz berdi
+An error occurred while authorizing or blocking a Thunderbolt device - Thunderbolt qurilmasiga ruxsat beriş yoki uni bloklaşda xatolik yuz berdi

@@ -1,0 +1,153 @@
+N - Ş
+NNE - ŞŞŞ
+NE - ŞŞ
+ENE - ŞŞ
+E - Ş
+SSE - JŞŞ
+SE - JŞ
+ESE - ŞJŞ
+S - J
+NNW - ŞŞĞ
+NW - ŞĞ
+WNW - ĞŞĞ
+W - Ğ
+SSW - JJĞ
+SW - JĞ
+WSW - ĞJĞ
+VR - Özg
+Calm - Şamol yöq
+Data from BBC Weather - BBC Weather maʼlumotlari
+Rising - Kötarilmoqda
+Falling - Pasaymoqda
+Steady - Barqaror
+Source: Deutscher Wetterdienst - Manba: Deutscher Wetterdienst
+Data from Environment and Climate Change Canada - Environment and Climate Change Canada maʼlumotlari
+Data from NOAA National Weather Service - NOAA National Weather Service maʼlumotlari
+ then  -  söngra 
+few clouds - kam bulutli
+cloudy - bulutli
+overcast - butunlay bulutli
+haze - tutunli xiralik
+fog with icing - muzlama tuman
+drizzle - maydalab yoqqan yomğir
+light drizzle - engil mayda yomğir
+heavy drizzle - kuçli mayda yomğir
+freezing drizzle - muzlayotgan mayda yomğir
+heavy freezing drizzle - kuçli muzlayotgan mayda yomğir
+rain - yomğir
+light rain - engil yomğir
+moderate rain - örtança yomğir
+heavy rain - kuçli yomğir
+light freezing rain - engil muzlovçi yomğir
+freezing rain - muzlovçi yomğir
+light rain snow - engil yomğir va qor
+heavy rain snow - kuçli yomğir va qor
+snow - qor
+light snow - engil qor
+moderate snow - örtança qor
+heavy snow - kuçli qor
+showers - jadallik bilan yoqqan yomğir
+light showers - engil qisqa yomğir
+heavy showers - kuçli qisqa yomğir
+light snow rain showers - engil qor-yomğirli jala
+heavy snow rain showers - kuçli qor-yomğirli jala
+light snow showers - engil qisqa qor yoğişi
+snow showers - qisqa qor yoğişi
+thunderstorm - momaqaldiroq
+light thunderstorm - engil momaqaldiroq
+heavy thunderstorm - kuçli momaqaldiroq
+n/a - mavjud emas
+sunny - quyyoşli
+clear sky - musaffo osmon
+Weather data by Open-Meteo - Open-Meteo ob-havo maʼlumotlari
+%1 (%2%) - %1 (%2%)
+%1/<font color='%2'>%3</font> - %1/<font color='%2'>%3</font>
+- - -
+☂%1% - ☂%1%
+Weather Station - Ob-havo stansiyasi
+Appearance - Köriniş
+Units - Ölçov birliklari
+“%1” may not offer the current temperature or other weather conditions for this location. - “%1” bu joy uçun joriy harorat yoki boşqa ob-havo şaroitlarini taqdim etmasligi mumkin.
+Compact Mode - Ixçam rejim
+Show temperature: - Haroratni körsatiş:
+Over the widget icon - Vidjet belgisi ustida
+Beside the widget icon - Vidjet belgisi yonida
+Do not show - Körsatilmasin
+Show in tooltip: - Qalqib çiquvçi maslahatda körsatiş:
+Temperature - Harorat
+Wind - Şamol
+Pressure - Bosim
+Humidity - Namlik
+Show temperature graph: - Harorat grafigini körsatiş:
+Hourly Forecast - Soatbay ob-havo prognozi
+Day Forecast - Kunbay ob-havo prognozi
+Temperature: - Harorat:
+Pressure: - Bosim:
+Wind speed: - Şamol tezligi:
+Visibility: - Köriniş masofasi:
+Update every: - Yangilaniş davriyligi:
+%1 minute - %1 daqiqa
+Location: - Joylaşuv:
+None selected - Heç qaysi tanlanmagan
+Provider: - Taʼminotçi:
+Enter new location - Yangi joylaşuvni kiriting
+Enter location - Joylaşuvni kiriting
+%1 (%2) - %1 (%2)
+No weather stations found for '%1' - '%1' uçun heç qanday ob-havo stansiyasi topilmadi
+Search for a weather station to change your location - Joylaşuvni özgartiriş uçun ob-havo stansiyasini qidiring
+Search for a weather station to set your location - Joylaşuvingizni belgilaş uçun ob-havo stansiyasini qidiring
+If you've used this weather station in the past, it's possible that a server outage at the weather station provider has made it temporarily unavailable. Try again later. - Agar avval bu ob-havo stansiyasidan foydalangan bölsangiz, stansiya taʼminotçisidagi server uzilişi tufayli u vaqtinça işlamayotgan bölişi mumkin. Keyinroq qayta urinib köring.
+Temperature - Harorat
+High Temperature - Maksimal harorat
+Low Temperature - Minimal harorat
+Chance of precipitation - Yoğingarçilik ehtimoli
+Dewpoint - Şudring nuqtasi
+Pressure - Bosim
+Pressure tendency - Bosim özgarişi tendensiyasi
+Visibility - Köriniş masofasi
+Humidity - Namlik
+Wind gust - Şamol esişi
+Wind speed - Şamol tezligi
+Go to first day - Birinçi kunga ötiş
+Go to previous day - Oldingi kunga ötiş
+Go to next day - Keyingi kunga ötiş
+Go to last day - Oxirgi kunga ötiş
+Return to Weather Forecast - Ob-havo prognoziga qaytiş
+Please set your location - Iltimos, joylaşuvingizni belgilang
+Set location… - Joylaşuvni belgilaş…
+Unable to retrieve weather information for %1 - %1 uçun ob-havo maʼlumotlarini oliş imkonsiz böldi
+Unable to retrieve weather information - Ob-havo maʼlumotlarini oliş imkonsiz böldi
+The network request timed out, possibly due to a server outage at the weather station provider. Check again later. - Tarmoq sörovi vaqti tugadi, bu ob-havo stansiyasi taʼminotçisining serveridagi uziliş tufayli bölişi mumkin. Keyinroq yana tekşiring.
+Unable to load weather forecast - Ob-havo maʼlumotlarini yuklab bölmadi
+There may be a technical issue with the weather provider. If the issue persists for longer than a day, <link url='https://bugs.kde.org/enter_bug.cgi?product=plasmashell&component=Weather%20widget'>submit a bug report</link>. - Ob-havo taʼminotçisida texnik muammo bölişi mumkin. Agar muammo bir kundan köp davom etsa, <link url='https://bugs.kde.org/enter_bug.cgi?product=plasmashell&component=Weather%20widget'>xato haqida xabar bering</link>.
+%1 Notice - %1 ogohlantirişi
+Calm - Şamol yöq
+Set up Weather Report… - Ob-havo maʼlumotini sozlaş…
+Click to choose a location and monitor the weather there - Joylaşuvni tanlaş va u yerdagi ob-havoni kuzatiş uçun bosing
+%1 %2 - %1 %2
+%1 %2 (%3) - %1 %2 (%3)
+%1 %2 - %1 %2
+%1 (%2) - %1 (%2)
+Humidity: %1 - Namlik: %1
+Show more information - Köproq maʼlumot körsatiş
+Hourly Forecast - Soatbay ob-havo prognozi
+%1-Day Forecast - %1 kunlik prognoz
+Hourly - Soatbay
+%1 Day - %1 kun
+Feels like %1 - %1 kabi his qilinadi
+Today - Bugun
+Tomorrow - Erta
+Today to Tomorrow - Bugundan ertagaça
+Today to %1 - Bugundan %1 gaça
+° - °
+%1%2 - %1%2
+%1 %2 - %1 %2
+%1 % - %1 %
+%1 (%2) - %1 (%2)
+D - K
+N - Ş
+Low - Past
+Moderate - Örtança
+High - Yuqori
+Very high - Juda yuqori
+Extreme - Öta yuqori

@@ -1,0 +1,17 @@
+Keys - Tugmalar
+Show when activated: - Faollaştirilganda körsatiş:
+Caps Lock - CapsLock
+Num Lock - NumLock
+Alt is latched - Alt qulflandi
+Alt is locked - Alt qulflangan
+Shift is latched - Shift qulflandi
+Shift is locked - Shift qulflangan
+Control is latched - Control qulflandi
+Control is locked - Control qulflangan
+Meta is latched - Meta qulflandi
+Meta is locked - Meta qulflangan
+Alt Gr is latched - Alt Gr qulflandi (latched)
+Alt Gr is locked - Alt Gr qulflangan
+Caps Lock activated - Caps Lock faollaştirildi
+Num Lock activated - Num Lock faollaştirildi
+No lock keys activated - Faollaştirilgan qulflaş tugmalari yöq

@@ -1,0 +1,23 @@
+Confirm logout - Çiqişni tasdiqlaş
+Default leave option - Birlamçi çiqiş varianti
+On login - Tizimga kirişda
+Applications to be excluded from session - Seansdan çiqarib taşlanadigan ilovalar
+Failed to request restart to firmware setup: %1 - Mikroreja (firmware) sozlamalariga qayta işga tuşirişni sörab bölmadi: %1
+Next time the computer is restarted, it will enter UEFI firmware settings. - Kompyuter keyingi safar qayta işga tuşirilganda, u UEFI sozlamalariga kiradi.
+Next time the computer is restarted, it will enter the firmware setup screen. - Kompyuter keyingi safar qayta işga tuşirilganda, u apparat taʼminoti (firmware) sozlamalari ekraniga kiradi.
+Restart Now - Hozir qayta işga tuşiriş
+General - Umumiy
+Ask for confirmation: - Tasdiqlaşni söraş:
+On shutdown, restart, and logout - Öçiriş, qayta işga tuşiriş va tizimdan çiqişda
+Session Restore - Seansni tiklaş
+On login, launch apps that were open: - Tizimga kirişda oçiq qolgan ilovalarni işga tuşiriş:
+On last logout - Oxirgi çiqişda
+When session was manually saved - Seans qölda saqlanganida
+A <interface>Save Session</interface> button will appear in the <interface>Application Launcher</interface> menu. When you click it, Plasma will remember the apps that are open and restore them on the next login. Click it again to replace the set of remembered apps. - <interface>Ilovalarni işga tuşiriş</interface> menyusida <interface>Seansni saqlaş</interface> tugmasi paydo böladi. Uni bosganingizda, Plasma oçiq bölgan ilovalarni eslab qoladi va keyingi kirişda ularni qayta tiklaydi. Eslab qolingan ilovalar töplamini almaştiriş uçun uni qayta bosing.
+Start with an empty session - Böş seans bilan boşlaş
+Ignored applications: - Eʼtiborga olinmaydigan ilovalar:
+Write apps' desktop file identifier or, on X11, executable names here (separated by commas or colons, for example 'xterm:org.kde.konsole.desktop' or 'xterm,org.kde.konsole.desktop') to prevent them from autostarting along with other session-restored apps. - Seans qayta tiklanganda boşqa ilovalar bilan birga avtomatik işga tuşişini oldini oliş uçun bu yerga ilovalarning desktop fayli identifikatorini yoki X11 da işga tuşiriladigan fayl nomlarini yozing (vergul yoki ikki nuqta bilan ajratilgan holda, masalan, 'xterm:org.kde.konsole.desktop' yoki 'xterm,org.kde.konsole.desktop').
+Firmware - Dasturiy taʼminot (Firmware)
+After next restart: - Keyingi qayta işga tuşirişdan keyin:
+Enter UEFI firmware settings - UEFI dasturiy taʼminoti sozlamalariga kiriş
+Enter firmware setup screen - Apparat sozlamalari ekraniga kiriş

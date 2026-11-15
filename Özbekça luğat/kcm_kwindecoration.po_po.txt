@@ -1,0 +1,45 @@
+Window menu - Oyna menyusi
+Application menu - Ilova menyusi
+On all desktops - Barça iş stollarida
+Minimize - Yiğiş
+Maximize - Yoyiş
+Close - Yopiş
+Context help - Matnli yordam
+Keep below other windows - Boşqa oynalar ostida uşlab turiş
+Keep above other windows - Boşqa oynalar ustida uşlab turiş
+Hide from screenshots and screen recordings - Skrinşotlar va ekran yozuvlaridan yaşiriş
+Spacer - Böşliq
+Theme default (%1) - Birlamçi mavzu (%1)
+This tool allows you to set the window decoration theme for the currently active session, without accidentally setting it to one that is either not available, or which is already set. - Uşbu vosita mavjud bölmagan yoki allaqaçon örnatilgan mavzuni adaşib örnatib qöymasdan, joriy faol seans uçun oyna bezaklari mavzusini sozlaş imkonini beradi.
+The name of the window decoration theme you wish to set for KWin. Passing a full path will attempt to find a theme in that directory, and then apply that if one can be deduced. - KWin uçun örnatmoqçi bölgan oyna bezaklari mavzusi nomi. Töliq yölni körsatiş öşa jilddan mavzuni topişga va uni qöllaşga harakat qiladi.
+Show all the themes available on the system (and which is the current theme) - Tizimda mavjud bölgan barça mavzularni körsatiş (va ulardan qaysi biri joriy mavzu ekanligini)
+Resolved %1 to the KWin Aurorae theme "%2", and will attempt to set that as your current theme. - %1 KWin Aurorae "%2" mavzusiga aniqlandi va uni joriy mavzu sifatida örnatişga harakat qilinadi.
+You attempted to pass a file path, but this could not be resolved to a theme, and we will have to abort, due to having no theme to set - Siz fayl yölini körsatişga urindingiz, lekin uni mavzuga aniqlab bölmadi va örnatiş uçun mavzu bölmaganligi sababli jarayon töxtatiladi
+The requested theme "%1" is already set as the window decoration theme. - Söralgan "%1" mavzusi allaqaçon oyna bezaklari mavzusi sifatida örnatilgan.
+Successfully applied the pointer theme %1 to your current Plasma session - Joriy Plasma seansingizga %1 kursor mavzusi muvaffaqiyatli qöllandi
+Failed to save your theme settings - the reason is unknown, but this is an unrecoverable error. You may find that simply trying again will work. - Mavzu sozlamalarini saqlab bölmadi - sababi nomaʼlum, ammo bu tiklanmaydigan xatolikdir. Qayta urinib köriş yordam berişi mumkin.
+Could not find theme "%1". The theme should be one of the following options: %2 - "%1" mavzusi topilmadi. Mavzu quyidagi variantlardan biri bölişi kerak: %2
+You have the following KWin window decoration themes on your system: - Tizimingizda quyidagi KWin oyna bezaklari mavzulari mavjud:
+Titlebar - Sarlavha paneli
+Drop button here to remove it - Tugmani olib taşlaş uçun bu yerga taşlang
+Drag buttons between here and the titlebar - Tugmalarni bu yer va sarlavha paneli orasida sudrab ötkazing
+Titlebar Buttons - Sarlavha paneli tugmalari
+Close windows by double clicking the window menu button - Oyna menyusi tugmasini ikki marta bosiş orqali oynalarni yopiş
+Click and hold on the window menu button to show the menu. - Menyuni körsatiş uçun oyna menyusi tugmasini bosib turing.
+Show titlebar button tooltips - Sarlavha paneli tugmasi maslahatlarini körsatiş
+Always show "Hide from Screenshots and Screen Recordings" button - "Skrinşotlar va ekran yozuvlaridan yaşiriş" tugmasini doimo körsatiş
+When unchecked the button only appears if the window is hidden from screenshots and screen recordings - Belgilanmaganda tugma faqat oyna skrinşotlar va ekran yozuvlaridan yaşirilgan bölsagina körinadi
+To enable this option, add the "Hide from Screenshots and Screen Recordings" button to the titlebar first - Uşbu parametrni yoqiş uçun avval sarlavha paneliga "Skrinşotlar va ekran yozuvlaridan yaşiriş" tugmasini qöşing
+Window border size: - Oyna çegarasi hajmi:
+Configure Titlebar Buttons… - Sarlavha paneli tugmalarini sozlaş…
+Get New… - Yangilarini oliş…
+Edit %1 Theme… - %1 mavzusini tahrirlaş…
+No window borders - Oyna çegaralarisiz
+No side window borders - Yon oyna çegaralarisiz
+Tiny window borders - Juda kiçik oyna çegaralari
+Normal window borders - Oddiy oyna çegaralari
+Large window borders - Katta oyna çegaralari
+Very large window borders - Juda katta oyna çegaralari
+Huge window borders - Ulkan oyna çegaralari
+Very huge window borders - Juda ulkan oyna çegaralari
+Oversized window borders - Haddan taşqari katta oyna çegaralari

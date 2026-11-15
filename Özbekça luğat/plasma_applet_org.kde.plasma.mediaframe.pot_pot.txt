@@ -1,0 +1,37 @@
+Media - Media
+Behavior - Xatti-harakat
+Change picture every: - Rasmni har doim almaştiriş oraliği:
+Hours - Soat
+Minutes - Daqiqa
+Seconds - Soniya
+Image fill mode: - Rasmni töldiriş rejimi:
+Stretch - Çöziş
+The image is scaled to fit the frame - Rasm freymga mos ravişda masştablanadi
+Preserve aspect fit - Nisbatni saqlab siğdiriş
+The image is scaled uniformly to fit without cropping - Rasm qirqilmasdan töliq siğişi uçun bir xilda masştablanadi
+Preserve aspect crop - Nisbatni saqlab qirqiş
+The image is scaled uniformly to fill, cropping if necessary - Rasm töliq töldiriş uçun bir xilda masştablanadi (zarur bölsa qirqiladi)
+Tile - Koşinlaş
+The image is duplicated horizontally and vertically - Rasm gorizontal va vertikal ravişda takrorlanadi
+Tile vertically - Vertikal koşinlaş
+The image is stretched horizontally and tiled vertically - Rasm gorizontal çöziladi va vertikal koşinlanadi
+Tile horizontally - Gorizontal koşinlaş
+The image is stretched vertically and tiled horizontally - Rasm vertikal çöziladi va gorizontal koşinlanadi
+Pad - Töldiriş (Pad)
+The image is not transformed - Rasm özgartirilmaydi
+General: - Umumiy:
+Randomize order - Tasodifiy tartibda
+Pause slideshow when cursor is over image - Kursor rasm ustida bölganda slayd-şouni vaqtinça töxtatiş
+Click on image to open in external application - Taşqi ilovada oçiş uçun rasmga bosing
+Add Folder… - Jild qöşiş…
+Add Files… - Fayllar qöşiş…
+Remove path - Yölni olib taşlaş
+No media configured - Heç qanday media sozlanmagan
+Add files or folders to display them in the widget. - Ularni vidjetda körsatiş uçun fayl yoki jildlarni qöşing.
+Choose Files - Fayllarni tanlaş
+Choose a Folder - Jildni tanlang
+Show previous image - Oldingi rasmni körsatiş
+Show next image - Keyingi rasmni körsatiş
+Open in default image viewer - Standart rasm köruvçida oçiş
+No media selected - Media tanlanmagan
+Choose media… - Mediani tanlang…

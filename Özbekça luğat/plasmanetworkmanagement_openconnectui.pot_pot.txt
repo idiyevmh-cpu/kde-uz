@@ -1,0 +1,95 @@
+Failed to initialize software token: %1 - Dasturiy tokenni işga tuşirib bölmadi: %1
+Contacting host, please wait… - Xost bilan boğlanilmoqda, kuting…
+Login - Kiriş
+Check failed for certificate from VPN server "%1".
+Reason: %2
+Accept it anyway? - "%1" VPN serveri sertifikatini tekşiriş muvaffaqiyatsiz tugadi.
+Sabab: %2
+Baribir qabul qilinsinmi?
+Connection attempt was unsuccessful. - Ulanişga uriniş muvaffaqiyatsiz böldi.
+OpenConnect VPN Authentication - OpenConnect VPN autentifikatsiyasi
+VPN Host - VPN xosti
+Connect - Ulaniş
+Automatically start connecting next time - Keyingi safar ulanişni avtomatik boşlaş
+Store passwords - Parollarni saqlaş
+Store browser cookies in plain-text - Brauzer kukilarini oddiy matnda saqlaş
+View Log - Jurnalni köriş
+Log Level: - Jurnal darajasi:
+Error - Xato
+Info - Maʼlumot
+Debug - Nosozliklarni tuzatiş
+Trace - Kuzatiş (Trace)
+OpenConnect Settings - OpenConnect sozlamalari
+General - Umumiy
+Gateway: - Şlyuz:
+CA Certificate: - CA sertifikati:
+Proxy: - Proksi:
+User Agent: - Foydalanuvçi agenti (User Agent):
+CSD Wrapper Script: - CSD örovçi skripti:
+Allow Cisco Secure Desktop trojan - Cisco Secure Desktop troyaniga ruxsat beriş
+VPN Protocol: - VPN protokoli:
+Cisco AnyConnect - Cisco AnyConnect
+Juniper Network Connect - Juniper Network Connect
+PAN Global Protect - PAN Global Protect
+Pulse Connect Secure - Pulse Connect Secure
+F5 BIG-IP SSL VPN - F5 BIG-IP SSL VPN
+Fortinet SSL VPN - Fortinet SSL VPN
+Array SSL VPN - Array SSL VPN
+Reported OS: - Xabar qilinadigan OT:
+GNU/Linux - GNU/Linux
+GNU/Linux 64-bit - GNU/Linux 64-bit
+Windows - Windows
+Mac OS X - Mac OS X
+Android - Android
+Apple iOS - Apple iOS
+Reported Version - Xabar qilinadigan versiya
+Certificate Authentication - Sertifikat autentifikatsiyasi
+Machine Certificate: - Kompyuter sertifikati:
+Machine Private Key: - Kompyuter maxfiy kaliti:
+User Certificate: - Foydalanuvçi sertifikati:
+User Private Key: - Foydalanuvçi maxfiy kaliti:
+Use FSID for key passphrase - Kalit parol iborasi uçun FSID-dan foydalaniş
+Prevent user from manually accepting invalid certificates - Foydalanuvçining yaroqsiz sertifikatlarni qölda qabul qilişini taqiqlaş
+Token Authentication - Token autentifikatsiyasi
+OpenConnect OTP Tokens - OpenConnect OTP tokenlari
+Software Token Authentication - Dasturiy token autentifikatsiyasi
+Token Mode: - Token rejimi:
+Token Secret: - Token siri:
+Choose a Passkey - Kiriş kalitini (Passkey) tanlang
+Which passkey do you want to use for %1? - %1 uçun qaysi kiriş kalitidan (passkey) foydalanmoqçisiz?
+Ok - OK
+Use your security key with %1 - Xavfsizlik kalitingizdan %1 bilan foydalaning
+Touch your security key again to complete the request. - Sörovni yakunlaş uçun xavfsizlik kalitingizga yana teging.
+Next - Keyingi
+PIN Required - PIN kod talab qilinadi
+Enter the PIN for your security key - Xavfsizlik kalitingiz uçun PIN kodni kiriting
+New PIN Required - Yangi PIN kod talab qilinadi
+Set new PIN for your security key - Xavfsizlik kalitingiz uçun yangi PIN kodni örnating
+Change PIN Required - PIN kodni özgartiriş talab qilinadi
+Change PIN for your security key - Xavfsizlik kalitingiz uçun PIN kodni özgartiring
+Internal User Verification Locked - Içki foydalanuvçi tekşiruvi qulflangan
+Wrong PIN. %1 attempt remaining. - Notöğri PIN kod. %1 ta uriniş qoldi.
+Too Short. %1 attempt remaining. - Juda qisqa. %1 ta uriniş qoldi.
+Invalid Characters. %1 attempt remaining. - Yaroqsiz belgilar. %1 ta uriniş qoldi.
+Same as current PIN. %1 attempt remaining. - Joriy PIN kod bilan bir xil. %1 ta uriniş qoldi.
+Something went wrong - Nimadir xato ketdi
+Request Timeout - Sörov vaqti tugadi
+Key not registered - Kalit röyxatdan ötmagan
+You already registered this device.Try again with device - Siz uşbu qurilmani allaqaçon röyxatdan ötkazgansiz. Qurilma bilan qayta urinib köring
+The security key is locked because the wrong PIN was entered too many times.To unlock it, remove and reinsert it. - Notöğri PIN kod juda köp marta kiritilganligi sababli xavfsizlik kaliti qulflandi. Qulfdan çiqariş uçun uni çiqarib oling va qayta ulang.
+The security key is locked because the wrong PIN was entered too many times. You'll need to reset the security key. - Notöğri PIN kod juda köp marta kiritilganligi sababli xavfsizlik kaliti qulflandi. Xavfsizlik kalitini dastlabki holatga qaytarişingiz kerak böladi.
+Authenticator removed during verification. Please reinsert and try again - Tekşiriş vaqtida autentifikator çiqarib olindi. Iltimos, qayta ulang va yana urinib köring
+Authenticator doesn't have resident key support - Autentifikator doimiy kalitlarni qöllab-quvvatlamaydi
+Authenticator missing user verification - Autentifikatorda foydalanuvçini tasdiqlaş yetişmayapti
+Authenticator missing Large Blob support - Autentifikatorda Large Blob qöllab-quvvatlovi yetişmayapti
+The security token does not support the server’s required authentication method. - Xavfsizlik tokeni server talab qilgan autentifikatsiya usulini qöllab-quvvatlamaydi.
+Storage Full - Xotira töla
+User consent denied - Foydalanuvçi roziligi rad etildi
+User Cancelled Request - Foydalanuvçi sörovni bekor qildi
+Close - Yopiş
+WebAuth - WebAuth
+Heading - Sarlavha
+Description - Taʼrifi
+PIN - PIN
+Confirm PIN - PIN kodni tasdiqlang
+TextLabel - Matn yorliği

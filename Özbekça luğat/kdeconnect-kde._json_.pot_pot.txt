@@ -1,0 +1,80 @@
+Send file via KDE Connect - KDE Connect orqali fayl yuboriş
+KDE Connect - KDE Connect
+Battery monitor - Batareya monitoringi
+Clipboard synchronization - Vaqtinçalik xotirani sinxronlaş
+Connectivity monitor - Aloqa monitoringi
+Sync Contacts - Kontaktlarni sinxronlaş
+Drawing tablet - Grafik planşet
+Find other devices - Boşqa qurilmalarni topiş
+Find this device - Uşbu qurilmani topiş
+Lock Device - Qurilmani qulflaş
+ModemManager Telephony integration - ModemManager telefoniya integratsiyasi
+Receive remote input - Masofaviy kiritişni qabul qiliş
+Multimedia control receiver - Multimedia boşqaruvini qabul qilgiç
+Send multimedia control commands - Multimedia boşqaruv buyruqlarini yuboriş
+Receive notifications - Bildirişnomalarni qabul qiliş
+Pause media during calls - Qönğiroqlar paytida mediani töxtatiş
+Ping - Ping
+Presenter - Taqdimot pulti
+Send commands to run - Bajariş uçun buyruqlar yuboriş
+Send remote mouse input - Masofaviy siçqonça kiritişini yuboriş
+Send remote keyboard input - Masofaviy klaviatura kiritişini yuboriş
+Remote volume control - Masofaviy ovoz balandligini boşqariş
+Execute remote commands - Masofaviy buyruqlarni bajariş
+Inhibit screensaver - Ekran pardasini taqiqlaş
+Send notifications - Bildirişnomalar yuboriş
+Remote filesystem browser - Masofaviy fayl tizimi brauzeri
+Share input devices - Kiritiş qurilmalarini ulaşiş
+Share and receive - Ulaşiş va qabul qiliş
+SMS integration - SMS integratsiyasi
+Receive volume controls - Ovoz balandligi boşqaruvini qabul qiliş
+Telephony integration - Telefoniya integratsiyasi
+Virtual Monitor - Virtual monitor
+Send file to other device using KDE Connect - KDE Connect orqali boşqa qurilmaga fayl yuboriş
+Manage connected devices - Ulangan qurilmalarni boşqariş
+Share the battery status between devices - Qurilmalar orasida batareya holatini ulaşiş
+Share the clipboard between devices - Qurilmalar orasida vaqtinçalik xotirani ulaşiş
+Show your phone's network signal strength - Telefoningizning tarmoq signali kuçini körsatiş
+Synchronize contacts from the connected device - Ulangan qurilmadan kontaktlarni sinxronlaş
+Use your device as a pressure sensitive drawing tablet - Qurilmangizdan bosimga sezgir grafik planşet sifatida foydalaning
+Find your lost phone by making it play an alarm sound - Yöqolgan telefoningizni signal çaldirib topiş
+Find this device by making it play an alarm sound - Signal çaldirib, uşbu qurilmani topiş
+Remotely lock and unlock your screen - Ekranni masofadan qulflaş va qulfdan çiqariş
+Show notifications for incoming calls - Kiruvçi qönğiroqlar uçun bildirişnomalarni körsatiş
+Use your phone as a touchpad and keyboard - Telefoningizdan taçpad va klaviatura sifatida foydalaning
+Remote control your music and videos - Musiqa va videolaringizni masofadan boşqaring
+Control multimedia players from this device - Uşbu qurilmadan multimedia pleyerlarini boşqariş
+Show device's notifications on this computer and keep them in sync - Qurilmaning bildirişnomalarini uşbu kompyuterda körsatiş va sinxron holda saqlaş
+Pause music/videos during a phone call - Telefon qönğiroği vaqtida musiqa/videoni töxtatiş
+Send and receive pings - Ping yuboriş va qabul qiliş
+Use your mobile device as a presentation pointer - Mobil qurilmangizdan taqdimot körsatkiçi sifatida foydalaning
+Trigger commands predefined on the remote device - Masofaviy qurilmada oldindan belgilangan buyruqlarni işga tuşiriş
+Use your mouse to send input to another device - Siçqonçangizdan boşqa qurilmaga maʼlumot kiritiş uçun foydalaning
+Use your keyboard to send input to another device - Klaviaturangizdan boşqa qurilmaga maʼlumot kiritiş uçun foydalaning
+Control the volume of the connected device - Ulangan qurilmaning ovoz balandligini boşqariş
+Execute predefined commands remotely - Oldindan belgilangan buyruqlarni masofadan bajariş
+Inhibit the screensaver when the device is connected - Qurilma ulanganida ekran pardasini töxtatib turiş
+Broadcast this computer's notifications, so they can be shown on other devices. - Uşbu kompyuterning bildirişnomalarini boşqa qurilmalarda körsatiş uçun tarqatiş.
+Browse the remote device filesystem using SFTP - SFTP orqali masofaviy qurilma fayl tizimini körib çiqiş
+Share mouse and keyboard with the remote device - Masofaviy qurilma bilan siçqonça va klaviaturani ulaşiş
+Receive and send files, URLs, or plain text - Fayllar, URL manzillar yoki oddiy matnni qabul qiliş va yuboriş
+Send and receive SMS - SMS yuboriş va qabul qiliş
+Enable volume to be controlled from the connected device - Ovoz balandligini ulangan qurilmadan boşqarişga ruxsat beriş
+Use your devices as virtual monitors - Qurilmalaringizdan virtual monitor sifatida foydalaning
+Albert Vaca Cintora - Albert Vaca Cintora
+David Shlemayev - David Shlemayev
+Simon Redman - Simon Redman
+Martin Sh - Martin Sh
+Apoorv Parle - Apoorv Parle
+David Edmundson - David Edmundson
+Friedrich W. H. Kossebau - Friedrich W. H. Kossebau
+Aleix Pol - Aleix Pol
+Yoram Bar-Haim - Yoram Bar-Haim
+Ahmed I. Khalil - Ahmed I. Khalil
+Holger Kaelberer - Holger Kaelberer
+Nicolas Fella - Nicolas Fella
+Pramod Dematagoda - Pramod Dematagoda
+Samoilenko Yuri - Samoilenko Yuri
+David Redondo - David Redondo
+Aleix Pol i Gonzalez - Aleix Pol i Gonzalez
+Fabian Arndt - Fabian Arndt

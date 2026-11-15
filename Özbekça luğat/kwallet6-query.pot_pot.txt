@@ -1,0 +1,24 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+KWallet query interface - KWallet sörov interfeysi
+(c) 2015, The KDE Developers - (c) 2015, KDE dasturçilari
+verbose output - batafsil çiqiş
+list password entries - parol yozuvlarini sanaş
+reads the secrets from the given <entry> - berilgan <entry> dan maxfiy maʼlumotlarni öqiydi
+Entry - Yozuv
+write secrets to the given <entry>. The values are read from the standard input. IMPORTANT: previous wallet entry value will be overwritten! - berilgan <entry> ga maxfiy maʼlumotlarni yozadi. QIYMATLAR STANDART KIRIŞDAN ÖQILADI.
+specify the folder in the wallet <folder> - hamyondagi jildni belgilang <folder>
+Folder - Jild
+The wallet to query - Sörov yuboriladigan hamyon
+Missing argument - Argument yetişmayapti
+Too many arguments given - Juda köp argumentlar berildi
+Only one mode (list, read or write) can be set. Aborting - Faqat bitta rejim (list, read yoki write) örnatilişi mumkin. Töxtatilmoqda
+Please specify the mode (list or read). - Iltimos, rejimni körsating (list yoki read).
+Wallet %1 not found - %1 hamyoni topilmadi
+Failed to open wallet %1. Aborting - %1 hamyonini oçib bölmadi. Bekor qilinmoqda
+The folder %1 does not exist! - %1 jildi mavjud emas!
+Failed to read entry %1 value from the %2 wallet. - %2 hamyonidan %1 yozuvi qiymatini öqib bölmadi.
+Failed to read entry %1 value from the %2 wallet - %2 hamyonidan %1 yozuvi qiymatini öqib bölmadi
+Failed to write entry %1 value to %2 wallet - %2 hamyoniga %1 yozuvi qiymatini yozib bölmadi
+Invalid argument: the value for entry %1 is not valid JSON - Yaroqsiz argument: %1 yozuvi qiymati töğri JSON emas
+Unsupported entry type for entry %1 - %1 yozuvi uçun qöllab-quvvatlanmaydigan yozuv turi

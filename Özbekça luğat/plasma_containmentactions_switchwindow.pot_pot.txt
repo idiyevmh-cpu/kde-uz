@@ -1,0 +1,6 @@
+Display all windows in one list - Barça oynalarni bitta röyxatda körsatiş
+Display a submenu for each desktop - Har bir iş stoli uçun quyi menyuni körsatiş
+Display only the current desktop's windows - Faqat joriy iş stolining oynalarini körsatiş
+Configure Switch Window Plugin - Oynani almaştiriş plaginini sozlaş
+Windows - Oynalar
+All Desktops - Barça iş stollari

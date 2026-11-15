@@ -1,0 +1,14 @@
+Show preview for known color names - Maʼlum rang nomlari uçun körib çiqişni körsatiş
+Also show the color picker for known color names (e.g. skyblue).
+See https://www.w3.org/TR/css-color-4/#named-colors for the list of colors. - Maʼlum rang nomlari uçun ham rang tanlagiçni körsatiş (masalan skyblue).
+Place preview after text color - Oldindan körişni matn rangidan keyin joylaştiriş
+Hex color matching - Ön oltilik rang mosligi
+12 digits (#RRRRGGGGBBBB) - 12 ta raqam (#RRRRGGGGBBBB)
+9 digits (#RRRGGGBBB) - 9 ta raqam (#RRRGGGBBB)
+8 digits (#AARRGGBB) - 8 ta raqam (#AARRGGBB)
+6 digits (#RRGGBB) - 6 ta raqam (#RRGGBB)
+3 digits (#RGB) - 3 ta raqam (#RGB)
+Color Picker - Rang tanlagiç
+Color Picker Settings - Rang tanlagiç sozlamalari
+Select Color (Hex output) - Rangni tanlaş (ön oltilik çiqiş)
+View Color [Read only] - Rangni köriş [Faqat öqiş uçun]

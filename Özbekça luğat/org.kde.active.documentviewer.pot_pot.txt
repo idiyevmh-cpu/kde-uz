@@ -1,0 +1,46 @@
+Bookmarks - Xatçöplar
+Certificate Viewer - Sertifikatlarni köruvçi
+Issued By - Kim tomonidan berilgan
+Common Name: - Umumiy nomi:
+EMail: - Elektron poçta
+Organization: - Taşkilot:
+Issued To - Kimga berilgan
+Validity - Amal qiliş muddati
+Issued On: - Berilgan sana:
+Expires On: - Muddati tugaydi:
+Fingerprints - Barmoq izlari
+SHA-1 Fingerprint: - SHA-1 barmoq izi:
+SHA-256 Fingerprint: - SHA-256 barmoq izi:
+Export… - Eksport qiliş…
+Close - Yopiş
+Certificate File (*.cer) - Sertifikat fayli (*.cer)
+Error - Xato
+Could not export the certificate. - Sertifikatni eksport qilib bölmadi.
+Okular - Okular
+Open… - Oçiş…
+About - &Haqida
+Password Needed - Parol talab qilinadi
+Remove bookmark - Xatçöpni olib taşlaş
+Bookmark this page - Uşbu sahifani xatçöplarga qöşiş
+Thumbnails - Miniatyuralar
+Table of contents - Mundarija
+Signatures - Imzolar
+Signature Properties - Imzo xususiyatlari
+Validity Status - Yaroqlilik holati
+Signature Validity: - Imzo haqiqiyligi:
+Document Modifications: - Hujjat özgarişlari:
+Additional Information - Qöşimça maʼlumot
+Signed By: - Kim tomonidan imzolangan:
+Signing Time: - Imzolangan vaqti:
+Reason: - Sababi:
+Location: - Manzili:
+Document Version - Hujjat versiyasi
+Document Revision %1 of %2 - Hujjat tahriri %1 / %2
+Save Signed Version… - Imzolangan talqinini saqlaş…
+View Certificate… - Sertifikatni köriş…
+Could not save the signature. - Imzoni saqlab bölmadi.
+Not Available - Mavjud emas
+No results found. - Natijalar topilmadi.
+No document open - Hujjat oçilmagan
+Recent Documents - Yaqinda oçilgan hujjatlar
+My Documents - Mening hujjatlarim

@@ -1,0 +1,33 @@
+Source text - Tarjima text
+Activities Engine - Faoliyatlar mexanizmi
+Application Information - Ilova maʼlumotlari
+Device Notifications - Qurilma bildirişnomalari
+Run Commands - Buyruqlarni bajariş
+Favicons - Veb-sayt belgilari (Favicon)
+Files and Directories - Fayllar va jildlar
+Geolocation - Geolokatsiya
+Hotplug Events - Qurilmalarni tezkor ulaş hodisalari
+Keyboard and Mouse State - Klaviatura va siçqonça holati
+Pointer Position - Kursor joylaşuvi
+PackageKit - PackageKit
+Places - Joylar
+Power Management - Quvvat boşqaruvi
+Device Information - Qurilma maʼlumotlari
+Date and Time - Sana va vaqt
+Weather - Ob-havo
+Information on Plasma Activities - Plasma faoliyatlari haqida maʼlumot
+Information and launching of all applications in the app menu. - Ilova menyusidagi barça ilovalar haqida maʼlumot va ularni işga tuşiriş.
+Passive device notifications for the user. - Foydalanuvçi uçun qurilmalarning passiv bildirişnomalari.
+Run Executable Data Engine - Bajariluvçi fayllarni işga tuşiriş maʼlumotlar mexanizmi
+Data Engine for getting favicons of web sites - Veb-saytlar piktogrammalarini (favicon) oliş mexanizmi
+Information about files and directories. - Fayllar va jildlar haqidagi maʼlumotlar.
+Geolocation Data Engine - Geolokatsiya maʼlumotlari mexanizmi
+Tracks hot-pluggable devices as they appear and disappear. - Tezkor ulanadigan qurilmalarning ulanişi va uzilişini kuzatib boradi.
+Keyboard modifier and mouse buttons states - Klaviatura modifikatorlari va siçqonça tugmalari holati
+Mouse position and cursor - Siçqonça örni va kursor
+PackageKit Data Engine - PackageKit maʼlumotlar mexanizmi
+Places, as seen in the file manager and in file dialogs. - Fayl boşqaruvçisi va muloqot oynalaridagi Joylar bölimi.
+Battery, AC, sleep and PowerDevil information. - Batareya, tarmoq quvvati, uyqu rejimi va PowerDevil maʼlumotlari.
+Device data via Solid - Solid orqali olingan qurilma maʼlumotlari
+Date and time by timezone - Vaqt mintaqasi böyiça sana va vaqt
+Weather data from multiple online sources - Bir neçta onlayn manbalardan olingan ob-havo maʼlumotlari

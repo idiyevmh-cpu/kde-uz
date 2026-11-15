@@ -1,0 +1,192 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Unable to create a temporary file. - Vaqtinçalik fayl yaratib bölmadi.
+Unable to download the color scheme: %1 - Ranglar sxemasini yuklab olib bölmadi: %1
+This file is not a color scheme file. - Uşbu fayl ranglar sxemasi fayli emas.
+Failed to create 'color-scheme' data folder. - 'color-scheme' maʼlumotlar jildini yaratib bölmadi.
+Failed to copy color scheme into 'color-scheme' data folder. - Ranglar sxemasini 'color-scheme' maʼlumotlar jildiga nusxalab bölmadi.
+Color scheme installed successfully. - Ranglar sxemasi muvaffaqiyatli örnatildi.
+Color scheme name - Ranglar sxemasi nomi
+Accent color - Urguli rang
+The last used custom accent color before user switched to wallpaper generated color or default color - Foydalanuvçi fon rasmidan olingan rangga yoki birlamçi rangga ötişdan oldin oxirgi marta işlatilgan moslaştirilgan urguli rang
+Whether accent color from wallpaper should be applied - Fon rasmidan olingan urguli rang qöllanilişi kerakmi
+KColorSchemeEditor - KColorSchemeEditor
+Utility to edit and create color schemes - Ranglar sxemalarini tahrirlaş va yaratiş vositasi
+Olivier Churlaud - Olivier Churlaud
+Utility creation - Vosita yaratuvçisi
+Jeremy Whiting - Jeremy Whiting
+KCM code (reused in here) - KCM kodi (bu yerda qayta işlatilgan)
+Matthew Woehlke - Matthew Woehlke
+Scheme to edit or to use as a base. - Tahrirlaş yoki asos sifatida foydalaniş uçun sxema.
+Show 'Apply' button that saves changes without asking (unlike 'Save As' button) - Söramasdan özgarişlarni saqlaydigan 'Qöllaş' tugmasini körsatiş ('Boşqaça saqlaş' tugmasidan farqli ölaroq)
+Makes the dialog transient for another application window specified by handle - Muloqot oynasini deskriptor tomonidan körsatilgan boşqa ilova oynasiga boğliq qiladi
+Scheme not found, falling back to current one.\n - Sxema topilmadi, joriysiga qaytilmoqda.\n
+Window text on Window Background - Oyna fonidagi oyna matni
+Window text - Oyna matni
+Button text on Button Background - Tugma fonidagi tugma matni
+Push Button - Bosiladigan tugma
+Selection Normal Text against Selection Normal Background - Oddiy tanlov fonidagi oddiy tanlov matni
+Selected text - Tanlangan matn
+Selection Link Text against Selection Normal Background - Oddiy tanlov fonidagi havola tanlov matni
+link - havola
+Selection Visited Text against Selection Normal Background - Oddiy tanlov fonidagi taşrif buyurilgan havola tanlov matni
+visited - taşrif buyurilgan
+Selection Active Text against Selection Normal Background - Oddiy tanlov fonidagi faol tanlov matni
+a - a
+Selection Inactive Text against Selection Normal Background - Oddiy tanlov fonidagi nofaol tanlov matni
+i - i
+Selection Negative Text against Selection Normal Background - Oddiy tanlov fonidagi salbiy tanlov matni
+! - !
+Selection Neutral Text against Selection Normal Background - Oddiy tanlov fonidagi neytral tanlov matni
+= - =
+Selection Positive Text against Selection Normal Background - Oddiy tanlov fonidagi ijobiy tanlov matni
++ - +
+View Normal Text against View Normal Background - Oddiy köriniş fonidagi oddiy köriniş matni
+Normal text - Oddiy matn
+View Link Text against View Normal Background - Oddiy köriniş fonidagi havola köriniş matni
+View Visited Text against View Normal Background - Oddiy köriniş fonidagi taşrif buyurilgan havola köriniş matni
+View Active Text against View Normal Background - Oddiy köriniş fonidagi faol köriniş matni
+View Inactive Text against View Normal Background - Oddiy köriniş fonidagi nofaol köriniş matni
+View Negative Text against View Normal Background - Oddiy köriniş fonidagi salbiy köriniş matni
+View Neutral Text against View Normal Background - Oddiy köriniş fonidagi neytral köriniş matni
+View Positive Text against View Normal Background - Oddiy köriniş fonidagi ijobiy köriniş matni
+Varies - Özgaruvçan
+Normal Background - Oddiy fon
+Alternate Background - Muqobil fon
+Normal Text - Oddiy matn
+Inactive Text - Nofaol matn
+Active Text - Faol matn
+Link Text - Havola matni
+Visited Text - Taşrif buyurilgan havola matni
+Negative Text - Salbiy matn
+Neutral Text - Neytral matn
+Positive Text - Ijobiy matn
+Focus Decoration - Fokus bezagi
+Hover Decoration - Siçqonça borgandagi bezak
+Color set: - Ranglar töplami:
+Colorset to view/modify - Köriş/özgartiriş uçun ranglar töplami
+Common colors - Umumiy ranglar
+View - Köriniş
+Window - Oyna
+Button - Tugma
+Selection - Tanlov
+Tooltip - Maslahat
+Complementary - Töldiruvçi
+Header - Sarlavha
+New Row - Yangi qator
+0 - 0
+1 - 1
+View Background - Köriniş foni
+View Text - Köriniş matni
+Window Background - Oyna foni
+Window Text - Oyna matni
+Button Background - Tugma foni
+Button Text - Tugma matni
+Selection Background - Tanlov foni
+Selection Text - Tanlov matni
+Selection Inactive Text - Tanlov nofaol matni
+Tooltip Background - Maslahat foni
+Tooltip Text - Maslahat matni
+Active Titlebar - Faol sarlavha paneli
+Active Titlebar Text - Faol sarlavha paneli matni
+Active Titlebar Secondary - Faol sarlavha paneli ikkilamçi rangi
+Inactive Titlebar - Nofaol sarlavha paneli
+Inactive Titlebar Text - Nofaol sarlavha paneli matni
+Inactive Titlebar Secondary - Nofaol sarlavha paneli ikkilamçi rangi
+Options - Parametrlar
+Colors - Ranglar
+Disabled - Öçirilgan
+You have unsaved changes. Do you really want to quit? - Sizda saqlanmagan özgarişlar mavjud. Haqiqatan ham çiqmoqçimisiz?
+Unsaved changes - Saqlanmagan özgarişlar
+Save Color Scheme - Ranglar sxemasini saqlaş
+&Enter a name for the color scheme: - Ranglar sxemasi uçun nom &kiriting:
+A color scheme with that name already exists.\nDo you want to overwrite it? - Bunday nomli ranglar sxemasi allaqaçon mavjud.\nUni almaştirişni xohlaysizmi?
+This scheme is read-only. Please save the modifications with another name. - Uşbu sxema faqat öqiş uçun. Iltimos, özgartirişlarni boşqa nom bilan saqlang.
+Error - Xato
+Inactive - Nofaol
+Color: - Rang:
+Intensity: - Şiddatlilik:
+Disabled color effect type - Öçirilgan rang effekti turi
+None - Yöq
+Desaturate - Töyinmagan qiliş
+Fade - Söndiriş
+Tint - Tus beriş
+Disabled intensity effect type - Öçirilgan şiddatlilik effekti turi
+Shade - Soya beriş
+Darken - Qoraytiriş
+Lighten - Yoritiş
+Contrast: - Kontrast:
+Disabled color effect amount - Öçirilgan rang effekti miqdori
+Disabled intensity effect amount - Öçirilgan şiddatlilik effekti miqdori
+Disabled color - Öçirilgan rang
+Disabled contrast type - Öçirilgan kontrast turi
+Disabled contrast amount - Öçirilgan kontrast miqdori
+Apply &effects to inactive windows - Nofaol oynalarga &effektlarni qöllaş
+Use different colors for in&active selections - Nof&aol tanlovlar uçun turli ranglardan foydalaniş
+Shade sorted column &in lists - Röyxatlarda saralangan ustunga &soya beriş
+Make window titlebars a&ccent-colored - Oyna sarlavha panellarini &urguli rangga böyaş
+Tint all colors with accent color - Barça ranglarga urguli rang bilan tus beriş
+Tint strength: - Tus kuçi:
+Contrast of the frames, separators and outlines - Ramkalar, ajratuvçilar va çiziqlar kontrasti
+Frames and Outlines - Ramkalar va konturlar
+Contrast values below 15% may produce visually awkward effects with some applications and color schemes. Consider yourself warned! - 15% dan past kontrast qiymatlari baʼzi ilovalar va ranglar sxemalari bilan noqulay körinişdagi effektlarni keltirib çiqarişi mumkin. Ogohlantirilgan deb hisoblang!
+% - %
+Contrast - Kontrast
+Normal Text on Normal Background - Oddiy fondagi oddiy matn
+normal - oddiy
+Link Text on Normal Background - Oddiy fondagi havola matni
+Visited Text on Normal Background - Oddiy fondagi taşrif buyurilgan havola matni
+Active Text on Normal Background - Oddiy fondagi faol matn
+active - faol
+Inactive Text on Normal Background - Oddiy fondagi nofaol matn
+inactive - nofaol
+Negative Text on Normal Background - Oddiy fondagi salbiy matn
+negative - salbiy
+Neutral Text on Normal Background - Oddiy fondagi neytral matn
+neutral - neytral
+Positive Text on Normal Background - Oddiy fondagi ijobiy matn
+positive - ijobiy
+Hover on Normal Background - Oddiy fonda siçqonça borganda
+hover - siçqonça borganda
+Link Text on Link Background\n(Note: Link Background is derived from Link Text and cannot be separately configured at this time) - Havola fonidagi havola matni\n(Eslatma: Havola foni havola matnidan olinadi va hozirça alohida sozlanişi mumkin emas)
+Visited Text on Visited Background\n(Note: Visited Background is derived from Visited Text and cannot be separately configured at this time) - Taşrif buyurilgan fonidagi taşrif buyurilgan havola matni\n(Eslatma: Taşrif buyurilgan foni taşrif buyurilgan matnidan olinadi va hozirça alohida sozlanişi mumkin emas)
+Active Text on Active Background\n(Note: Active Background is derived from Active Text and cannot be separately configured at this time) - Faol fondagi faol matn\n(Eslatma: Faol fon faol matndan olinadi va hozirça alohida sozlanişi mumkin emas)
+Inactive Text on Alternate Background - Muqobil fondagi nofaol matn
+alternate - muqobil
+Negative Text on Negative Background\n(Note: Negative Background is derived from Negative Text and cannot be separately configured at this time) - Salbiy fondagi salbiy matn\n(Eslatma: Salbiy fon salbiy matndan olinadi va hozirça alohida sozlanişi mumkin emas)
+Neutral Text on Neutral Background\n(Note: Neutral Background is derived from Neutral Text and cannot be separately configured at this time) - Neytral fondagi neytral matn\n(Eslatma: Neytral fon neytral matndan olinadi va hozirça alohida sozlanişi mumkin emas)
+Positive Text on Positive Background\n(Note: Positive Background is derived from Positive Text and cannot be separately configured at this time) - Ijobiy fondagi ijobiy matn\n(Eslatma: Ijobiy fon ijobiy matndan olinadi va hozirça alohida sozlanişi mumkin emas)
+Focus on Normal Background - Oddiy fonda fokuslanganda
+focus - fokus
+This tool allows you to set the color scheme for the current Plasma session, without accidentally setting it to one that is either not available, or which is already set. - Uşbu vosita mavjud bölmagan yoki allaqaçon örnatilgan ranglar sxemasini adaşib örnatib qöymasdan, joriy Plasma seansi uçun ranglar sxemasini sozlaş imkonini beradi.
+The name of the color scheme you wish to set for your current Plasma session (passing a full path will only use the last part of the path) - Joriy Plasma seansi uçun örnatmoqçi bölgan ranglar sxemasi nomi (töliq yölni körsatiş faqat yölning oxirgi qismidan foydalanadi)
+Show all the color schemes available on the system (and which is the current theme) - Tizimda mavjud bölgan barça ranglar sxemalarini körsatiş (va ulardan qaysi biri joriy ekanligini)
+The name of the accent color you want to set. SVG color names (https://www.w3.org/TR/SVG11/types.html#ColorKeywords) and hex color codes are supported. Quote the hex code if there is possibility of shell expansion - Örnatmoqçi bölgan urguli rang nomi. SVG rang nomlari (https://www.w3.org/TR/SVG11/types.html#ColorKeywords) va ön oltilik (hex) rang kodlari qöllab-quvvatlanadi. Qobiq kengayişi ehtimoli bölsa, hex kodini qöştirnoq içiga oling
+The requested theme \"%1\" is already set as the theme for the current Plasma session. - Söralgan \"%1\" mavzusi allaqaçon joriy Plasma seansi uçun mavzu sifatida örnatilgan.
+Successfully applied the color scheme %1 to your current Plasma session - Joriy Plasma seansingizga %1 ranglar sxemasi muvaffaqiyatli qöllandi
+Could not find theme \"%1\". The theme should be one of the following options: %2 - \"%1\" mavzusi topilmadi. Mavzu quyidagi variantlardan biri bölişi kerak: %2
+You have managed to pass an empty color scheme name, which isn't supported behavior. - Siz böş ranglar sxemasi nomini uzatişga erişdingiz, bu qöllab-quvvatlanmaydigan harakatdir.
+The file you attempted to set as your scheme, %1, could not be identified as a color scheme. - Siz sxema sifatida örnatişga uringan fayl, %1, ranglar sxemasi sifatida aniqlanmadi.
+Successfully applied the accent color %1 - %1 urguli rangi muvaffaqiyatli qöllandi
+Invalid accent color  - Yaroqsiz urguli rang 
+You have the following color schemes on your system: - Tizimingizda quyidagi ranglar sxemalari mavjud:
+ * %1 (current color scheme) -  * %1 (joriy ranglar sxemasi)
+Accent color from color scheme - Ranglar sxemasidan olingan urguli rang
+Accent color from wallpaper - Fon rasmidan olingan urguli rang
+Custom accent color - Moslaştirilgan urguli rang
+The color scheme '%1' is not installed. Selecting the default theme instead. - '%1' ranglar sxemasi örnatilmagan. Buning örniga birlamçi mavzu tanlanmoqda.
+All schemes - Barça sxemalar
+Light schemes - Yoruğ sxemalar
+Dark schemes - Qoronği sxemalar
+Install from File… - Fayldan örnatiş…
+Get New… - Yangilarini oliş…
+Window Title - Oyna sarlavhasi
+Highlighted text - Ajratib körsatilgan matn
+Disabled text - Öçirilgan matn
+Edit Color Scheme… - Ranglar sxemasini tahrirlaş…
+Remove color scheme - Ranglar sxemasini olib taşlaş
+Cannot delete the active color scheme - Faol ranglar sxemasini öçirib bölmaydi
+Cannot delete system-installed color schemes - Tizim tomonidan örnatilgan ranglar sxemalarini öçirib bölmaydi
+Don’t delete this color scheme - Uşbu ranglar sxemasini öçirmaslik
+Open Color Scheme - Ranglar sxemasini oçiş
+Color Scheme Files (*.colors) - Ranglar sxemasi fayllari (*.colors)

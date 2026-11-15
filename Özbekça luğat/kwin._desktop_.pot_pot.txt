@@ -1,0 +1,28 @@
+Source text - Tarjima text
+KWin Dialog Helper - KWin dialog yordamçisi
+Provides feedback about user actions - Foydalanuvçi harakatlari haqida fikr-mulohaza bildiradi
+KWin Kill Helper - KWin jarayonni töxtatiş yordamçisi
+Prompts whether to kill an unresponsive window - Javob bermayotgan oynani majburiy yopişni söraydi
+Desktop Effects - Iş stoli effektlari
+Window Manager Scripts - Oyna boşqaruvçisi skriptlari
+Task Switcher Styles - Vazifalar almaştirgiçi uslublari
+KWin Window Manager - KWin oyna boşqaruvçisi
+Graphics Reset - Grafika qayta işga tuşirildi
+A graphics reset event occurred - Grafikani qayta sozlaş hodisasi yuz berdi
+Xwayland Crash - Xwayland nosozlik tufayli töxtadi
+Xwayland has crashed - Xwayland tizimida avariya yuz berdi
+Window Switcher Broken - Oynalarni almaştirgiç şikastlangan
+The Window Switcher installation is broken - Oynalarni almaştirgiç örnatilişi notöğri yoki şikastlangan
+Accessibility - Maxsus imkoniyatlar
+A modifier key has become active - Modifikator tugmasi faollaşdi
+A modifier key (e.g. Shift or Ctrl) has changed its state and is now active - Modifikator tugmasi (masalan, Shift yoki Ctrl) öz holatini özgartirdi va endi faol
+A modifier key has become inactive - Modifikator tugmasi nofaol böldi
+A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive - Modifikator tugmasi (masalan, Shift yoki Ctrl) nofaol holatga ötdi
+A modifier key has been locked - Modifikator tugmasi qulflandi
+A modifier key (e.g. Shift or Ctrl) has been locked and is now active for all of the following keypresses - Modifikator tugmasi qulflandi va keyingi barça bosişlar uçun faol bölib qoladi
+A lock key has been activated - Qulflaş tugmasi yoqildi
+A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now active - Qulflaş tugmasi (masalan, Caps Lock yoki Num Lock) faollaştirildi
+A lock key has been deactivated - Qulflaş tugmasi öçirildi
+A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now inactive - Qulflaş tugmasi (masalan, Caps Lock yoki Num Lock) öçirildi
+Windows - Oynalar
+List windows and desktops and switch them - Oynalar va iş stollari röyxatini köriş hamda ularni almaştiriş

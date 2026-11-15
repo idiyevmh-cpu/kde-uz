@@ -1,0 +1,17 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Plasmoidviewer - Plasmoidviewer
+Run Plasma widgets in their own window - Plasma vidjetlarini alohida oynada işga tuşiriş
+The name of the containment plugin - Konteyner plagini nomi
+The name of the applet plugin - Aplet plagini nomi
+The formfactor to use (horizontal, vertical, mediacenter, planar or application) - Foydalaniladigan forma-faktor (horizontal, vertical, mediacenter, planar yoki application)
+The location constraint to start the Containment with (floating, desktop, fullscreen, topedge, bottomedge, leftedge, rightedge) - Konteynerni boşlaş uçun joylaşuv çeklovi
+Set the x position of the plasmoidviewer on the Plasma desktop - Plasmoidviewer-ning Plasma iş stolidagi x koordinatasini örnatiş
+Set the y position of the plasmoidviewer on the Plasma desktop - Plasmoidviewer-ning Plasma iş stolidagi y koordinatasini örnatiş
+Set the window size of the plasmoidview - Plasmoidview oyna ölçamini örnatiş
+The size in kB to set the pixmap cache to - Piksel xaritasi keşiga örnatiladigan ölçam (kB)
+The name of the theme which the shell will use - Qobiq foydalanadigan mavzu nomi
+Data that should be passed to the applet as 'externalData' event - Apletga 'externalData' hodisasi sifatida uzatilişi kerak bölgan maʼlumotlar
+Applet %1 does not exist. - %1 apleti mavjud emas.
+Containment %1 does not exist. - %1 konteyneri mavjud emas.
+Save Screenshot - Skrinşotni saqlaş

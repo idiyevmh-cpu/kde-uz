@@ -1,0 +1,4 @@
+Tile: - Mozaika:
+Select Image… - Rasmni tanlang…
+Select a tile image - Mozaika rasmini tanlang
+Open Image - Rasmni oçiş

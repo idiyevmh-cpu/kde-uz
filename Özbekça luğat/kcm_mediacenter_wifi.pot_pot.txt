@@ -1,0 +1,15 @@
+Connected - Ulangan holatda qoliş
+IP Address Details - IP manzil tafsilotlari
+Network information - Tarmoq maʼlumoti
+Connect - Ulaş
+Disconnect - &Uziş
+Forget network - Tarmoqni esdan çiqariş
+Are you sure you want to forget the network %1? - %1 tarmoğini esdan çiqarişni xohlaysizmi?
+Network details - Tarmoq tafsilotlari
+Speed - Tezlik
+Network - Tarmoq
+Refresh - Yangilaş
+Connections - Ulaniş
+Enter Password For %1 - %1 uçun parolni kiriting
+Password… - Parol…
+Cancel - &Bekor qiliş

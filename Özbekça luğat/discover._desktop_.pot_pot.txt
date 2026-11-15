@@ -1,0 +1,22 @@
+Source text - Tarjima text
+Discover - Discover
+Install and remove apps and add-ons - Ilovalar va qöşimçalarni örnatiş hamda öçiriş
+Software Center - Dasturlar markazi
+program;software;store;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-ons;firmware; - dastur;dasturlar;dökoni;ombor;paket;qöşiş;örnatiş;öçiriş;yangilaş;ilovalar;öyinlar;flatpak;snap;qöşimçalar;mikrodastur;
+See Available Updates - Mavjud yangilanişlarni köriş
+Package management - Paketlarni boşqariş
+Install/remove/upgrade packages - Paketlarni örnatiş/öçiriş/yangilaş
+Snap login action - Snap tizimiga kiriş amali
+Allows snap front-ends to log in - Snap interfeyslariga tizimga kirişga ruxsat beradi
+Updates Are Available - Yangilanişlar mavjud
+Updates Available - Yangilanişlar bor
+Successful Offline Update - Oflayn yangilaniş muvaffaqiyatli yakunlandi
+System updated successfully - Tizim muvaffaqiyatli yangilandi
+Failed Offline Update - Oflayn yangilaniş muvaffaqiyatsiz tugadi
+System update failed - Tizimni yangilaş muvaffaqiyatsiz tugadi
+Repair Started - Tuzatiş başlandi
+Repaired Successfully - Muvaffaqiyatli tuzatildi
+Repair Failed - Tuzatiş muvaffaqiyatsiz tugadi
+Repair failure after offline update - Oflayn yangilanişdan söng tuzatiş muvaffaqiyatsiz böldi
+Restart is Required - Qayta işga tuşiriş talab qilinadi
+Upgrade available - Tizim yangilanişi (upgrade) mavjud

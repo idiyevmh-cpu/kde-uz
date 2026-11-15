@@ -1,0 +1,185 @@
+Currently being used - Ayni paytda işlatilmoqda
+Move to
+this activity - Uşbu faoliyatga
+ötkaziş
+Show also
+in this activity - Uşbu faoliyatda
+ham körsatiş
+Configure Activity “%1” - “%1” faoliyatini sozlaş
+Create activity… - Faoliyat yaratiş…
+Activities - Faoliyatlar
+Search - Qidiriş
+Configure Activities - Faoliyatlarni sozlaş
+Close - Yopiş
+Copy to Clipboard - Almaşiş buferiga nusxalaş
+View Error Details… - Xato tafsilotlarini köriş…
+Open %1 - %1 ni oçiş
+About - Haqida
+Keyboard Shortcuts - Klaviatura tezkor tugmalari
+Apply Settings - Sozlamalarni qöllaş
+The current page has unsaved changes. Apply the changes or discard them? - Joriy sahifada saqlanmagan özgarişlar mavjud. Özgarişlar qöllansinmi yoki bekor qilinsinmi?
+OK - OK
+Apply - Qöllaş
+Cancel - Bekor qiliş
+Open configuration page - Sozlaş sahifasini oçiş
+Left-Button - Çap tugma
+Right-Button - Öng tugma
+Middle-Button - Örta tugma
+Back-Button - Orqaga tugmasi
+Forward-Button - Oldinga tugmasi
+Vertical-Scroll - Vertikal aylantiriş
+Horizontal-Scroll - Gorizontal aylantiriş
+Shift - Shift
+Ctrl - Ctrl
+Alt - Alt
+Meta - Meta
++ - +
+Add Action - Amal qöşiş
+Layout changes have been restricted by the system administrator - Tartibni özgartiriş tizim maʼmuri tomonidan çeklangan
+Wallpaper type: - Fon rasmi turi:
+Get New Plugins… - Yangi plaginlarni oliş…
+Desktop: - Iş stoli:
+Icons for items in the selected location appear on the desktop - Tanlangan joylaşuvdagi elementlar belgilari iş stolida körinadi
+Show files and folders - Fayllar va jildlarni körsatiş
+Layout: - Tartib:
+Layout changes must be applied before other changes can be made - Boşqa özgarişlar kiritilişidan oldin tartib özgarişlari qöllanişi kerak
+Apply Now - Hozir qöllaş
+Shortcuts - Tezkor tugmalar
+Activate widget as if clicked: - Vidjetni bosilgandek faollaştiriş:
+Wallpaper - Fon rasmi
+Layout - Tartib
+Mouse Actions - Siçqonça amallari
+Input Here - Bu yerga kiriting
+Panel Settings - Panel sozlamalari
+Add New - Yangi qöşiş
+Spacer - Böşliq
+Margins Separator - Hoşiyalar ajratuvçisi
+Widgets… - Vidjetlar…
+Position - Örni
+Top - Yuqorida
+Right - Öngda
+Left - Çapda
+Bottom - Pastda
+Set Position… - Örnini belgilaş…
+Alignment - Tekislaş
+Center - Markazda
+Height - Balandlik
+Width - Kenglik
+Fill height - Balandlikni töldiriş
+Fill width - Kenglikni töldiriş
+Fit content - Tarkibga moslaş
+Custom - Moslaştirilgan
+Visibility - Körinuvçanlik
+Always visible - Har doim körinadigan
+Auto hide - Avtomatik yaşiriş
+Dodge windows - Oynalardan qoçiş
+Windows go below - Oynalar ostiga ötadi
+Opacity - Şaffoflik
+The current Plasma style does not support opacity options. - Joriy Plasma uslubi şaffoflik parametrlarini qöllab-quvvatlamaydi.
+Adaptive - Moslaşuvçan
+Opaque - Noş Favqulodda / Xira
+Translucent - Yarim şaffof
+Floating - Suzuvçi
+Disabled - Öçirilgan
+Applets only - Faqat apletlar
+Panel and applets - Panel va apletlar
+Panel Width: - Panel kengligi:
+Panel Height: - Panel balandligi:
+Focus shortcut: - Fokus tezkor tugmasi:
+Press this keyboard shortcut to move focus to the Panel - Fokusni panelga köçiriş uçun uşbu klaviatura tezkor tugmasini bosing
+Focus Shortcut Setter - Fokus tezkor tugmasini örnatuvçi
+Button to set the shortcut for the panel to gain focus - Panel fokus olişi uçun tezkor tugmani belgilaş tugmasi
+Delete Panel - Panelni öçiriş
+Remove this panel; this action can be undone - Uşbu panelni olib taşlaş; bu amalni qaytariş mumkin
+Clone Panel - Panel nusxasini yaratiş
+Create a new panel with the same settings and applets - Xuddi şu sozlamalar va apletlar bilan yangi panel yaratiş
+Exit Edit Mode - Tahrirlaş rejimidan çiqiş
+Close Panel Settings window and exit Edit Mode - Panel sozlamalari oynasini yopiş va Tahrirlaş rejimidan çiqiş
+Drag to change maximum height. - Maksimal balandlikni özgartiriş uçun sudrang.
+Drag to change maximum width. - Maksimal kenglikni özgartiriş uçun sudrang.
+Double-click to reset. - Tiklaş uçun ikki marta bosing.
+Drag to change minimum height. - Minimal balandlikni özgartiriş uçun sudrang.
+Drag to change minimum width. - Minimal kenglikni özgartiriş uçun sudrang.
+Drag to change position on this screen edge.
+Double-click to reset. - Uşbu ekran çetidagi örnini özgartiriş uçun sudrang.
+Tiklaş uçun ikki marta bosing.
+Manage Panels and Desktops - Panellar va iş stollarini boşqariş
+You can drag Panels and Desktops around to move them to different screens. - Panellar va iş stollarini boşqa ekranlarga köçiriş uçun ularni sudraşingiz mumkin.
+Swap with Desktop on Screen %1 - %1-ekrandagi iş stoli bilan almaştiriş
+Move to Screen %1 - %1-ekranga köçiriş
+Remove Desktop - Iş stolini olib taşlaş
+Remove Panel - Panelni olib taşlaş
+%1 (primary) - %1 (asosiy)
+Alternative Widgets - Muqobil vidjetlar
+Add %1 - %1 ni qöşiş
+Unsupported Widget - Qöllab-quvvatlanmaydigan vidjet
+New! - Yangi!
+%1 widget active - %1 ta vidjet faol
+Recently installed - Yaqinda örnatilgan
+Cancel Uninstallation - Öçirişni bekor qiliş
+Mark for Uninstallation - Öçiriş uçun belgilaş
+Cancel pending uninstallation for widget %1 - %1 vidjetining kutilayotgan öçirilişini bekor qiliş
+Mark widget %1 for uninstallation. Requires confirmation - %1 vidjetini öçiriş uçun belgilaş. Tasdiqlaş talab qilinadi
+Remove all instances - Barça nusxalarini olib taşlaş
+Remove running instance of widget %2 - %2 vidjetining işlayotgan nusxasini olib taşlaş
+All Widgets - Barça vidjetlar
+Widgets - Vidjetlar
+Get New… - Yangilarini oliş…
+Get New Widgets… - Yangi vidjetlarni oliş…
+Close Widget Explorer - Vidjet tadqiqotçisini yopiş
+Search through widgets - Vidjetlar böylab qidiriş
+Categories - Turkumlar
+Uninstall (%1 Widget) - Öçiriş (%1 ta vidjet)
+No widgets matched the search terms - Qidiruv şartlariga mos vidjetlar topilmadi
+No widgets available - Mavjud vidjetlar yöq
+Show clock: - Soatni körsatiş:
+Always - Har doim
+Always show clock - Har doim soatni körsatiş
+On unlocking prompt - Qulfdan çiqariş sörovida
+Show clock only on unlocking prompt - Faqat qulfdan çiqariş sörovida soatni körsatiş
+Never - Heç qaçon
+Never show clock - Heç qaçon soatni körsatmaslik
+Media controls: - Media boşqaruvi:
+Show under unlocking prompt - Qulfdan çiqariş sörovi ostida körsatiş
+Unlocking failed - Qulfdan çiqariş muvaffaqiyatsiz tugadi
+This authentication method is not functioning correctly. Please try another method, and check your system configuration. - Uşbu autentifikatsiya usuli töğri işlamayapti. Iltimos, boşqa usulni sinab köring va tizim sozlamalarini tekşiring.
+Caps Lock is on - Caps Lock yoqilgan
+Slow Keys are enabled - Sekin tugmalar yoqilgan
+Slee&p - Kutiş &rejimi
+&Hibernate - &Gipernatsiya
+Switch &User - Foydalanuvçini &almaştiriş
+Hide On-Screen Keyboard - Ekrandagi klaviaturani yaşiriş
+Show On-Screen Keyboard - Ekrandagi klaviaturani körsatiş
+Switch layout - Terilmani almaştiriş
+Password - Parol
+Unlock - Qulfdan çiqariş
+(or scan your fingerprint on the reader) - (yoki barmoq izingizni skanerdan ötkazing)
+(or scan your smartcard) - (yoki smart-kartangizni skanerdan ötkazing)
+No title - Sarlavhasiz
+No media playing - Heç qanday media ijro etilmayapti
+Previous track - Oldingi trek
+Play or Pause media - Mediani ijro etiş yoki pauza qiliş
+Next track - Keyingi trek
+Installing software updates and restarting in 1 second - Dasturiy taʼminot yangilanişlari örnatilmoqda va 1 soniyadan söng qayta işga tuşiriladi
+Restarting in 1 second - 1 soniyadan söng qayta işga tuşiriladi
+Logging out in 1 second - 1 soniyadan söng tizimdan çiqiladi
+Installing software updates and shutting down in 1 second - Dasturiy taʼminot yangilanişlari örnatilmoqda va 1 soniyadan söng tizim öçiriladi
+Shutting down in 1 second - 1 soniyadan söng tizim öçiriladi
+One other user is currently logged in. If the computer is shut down or restarted, that user may lose work. - Hozirda yana bitta boşqa foydalanuvçi tizimga kirgan. Agar kompyuter öçirilsa yoki qayta işga tuşirilsa, öşa foydalanuvçining işlari yöqolişi mumkin.
+When restarted, the computer will enter UEFI firmware settings. - Qayta işga tuşirilganda, kompyuter UEFI dasturiy taʼminot sozlamalariga kiradi.
+When restarted, the computer will enter the firmware setup screen. - Qayta işga tuşirilganda, kompyuter apparat taʼminoti (firmware) sozlaş ekraniga kiradi.
+When restarted, the computer will enter the boot loader menu. - Qayta işga tuşirilganda, kompyuter yuklovçi (boot loader) menyusiga kiradi.
+When restarted, the computer will switch to %1. - Qayta işga tuşirilganda, kompyuter %1 ga ötadi.
+Slee&p Now - Hozir kutiş &rejimiga ötiş
+&Hibernate Now - Hozir &gipernatsiyaga ötiş
+Install Updates and Restart - Yangilanişlarni örnatiş va qayta işga tuşiriş
+&Restart - Qayta &işga tuşiriş
+&Restart Now - Hozir qayta &işga tuşiriş
+Install Updates and Shut Down - Yangilanişlarni örnatiş va öçiriş
+&Shut Down - &Öçiriş
+&Shut Down Now - Hozir &öçiriş
+&Log Out - Tizimdan &çiqiş
+&Log Out Now - Hozir tizimdan &çiqiş
+&Cancel - &Bekor qiliş
+More - Köproq
+Panel Focus Indicator - Panel fokusi körsatkiçi

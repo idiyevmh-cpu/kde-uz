@@ -1,0 +1,186 @@
+NetworkManager is missing support for OpenVPN - NetworkManager dasturida OpenVPN qöllab-quvvatlaşi mavjud emas
+An unexpected error has occurred - Kutilmagan xatolik yuz berdi
+Gateway: - Şlyuz:
+Remote gateways(s), with optional port and protocol (e.g. ovpn.corp.com:1234:tcp). You can specify multiple hosts for redundancy (use commas or spaces as delimiters). - Ixtiyoriy port va protokolga ega masofaviy şlyuz(lar) (masalan, ovpn.corp.com:1234:tcp). Zaxira uçun bir neçta xostlarni körsatişingiz mumkin (ajratuvçi sifatida vergul yoki böş joylardan foydalaning).
+Connection type: - Ulaniş turi:
+Select an authentication mode. - Autentifikatsiya rejimini tanlang.
+Certificates (TLS) - Sertifikatlar (TLS)
+Static Key - Statik kalit
+Password - Parol
+Password with Certificates (TLS) - Sertifikatlar bilan parol (TLS)
+CA Certificate: - CA sertifikati:
+Certificate authority (CA) file in .pem format. - .pem formatidagi sertifikatlari markazi (CA) fayli.
+User Certificate: - Foydalanuvçi sertifikati:
+Local peer's signed certificate in .pem format (signed by CA of CA Certificate). - Mahalliy uzeldagi .pem formatidagi imzolangan sertifikat (CA sertifikatining CA tomonidan imzolangan).
+Private Key: - Maxfiy kalit:
+Local peer's private key in .pem format. - Mahalliy uzelning .pem formatidagi maxfiy kaliti.
+Private Key Password: - Maxfiy kalit paroli:
+Password for private key. - Maxfiy kalit uçun parol.
+Static Key: - Statik kalit:
+Pre-shared file for Static Key encryption mode (non-TLS). - Statik kalit şifrlaş rejimi uçun oldindan ulaşilgan fayl (TLS emas).
+Key Direction: - Kalit yönalişi:
+Direction for Static Key encryption mode (non-TLS). - Statik kalit şifrlaş rejimi uçun yönaliş (TLS emas).
+If key direction is used, it must be the opposite of that used on the VPN peer. - Agar kalit yönalişi işlatilsa, u VPN uzelida işlatilganiga teskari bölişi kerak.
+None - Heç biri
+0 - 0
+1 - 1
+Local IP Address: - Mahalliy IP manzili:
+IP address of the remote VPN endpoint. - Masofaviy VPN çekka nuqtasining IP manzili.
+Remote IP Address: - Masofaviy IP manzili:
+IP address of the local VPN endpoint. - Mahalliy VPN çekka nuqtasining IP manzili.
+If key direction is used, it must be the opposite of that used on the VPN peer. For example, if the peer uses '1', this connection must use '0'. If you are unsure what value to use, contact your system administrator. - Agar kalit yönalişi işlatilsa, u VPN uzelida işlatilganiga teskari bölişi kerak. Masalan, agar uzel '1' dan foydalansa, bu ulaniş '0' dan foydalanişi kerak. Qaysi qiymatni işlatişga işonçingiz komil bölmasa, tizim administratoringizga murojaat qiling.
+Username: - Foydalanuvçi nomi:
+Username passed to OpenVPN when prompted for it. - Söralganda OpenVPN-ga uzatiladigan foydalanuvçi nomi.
+Password: - Parol:
+Password passed to OpenVPN when prompted for it. - Söralganda OpenVPN-ga uzatiladigan parol.
+Advanced… - Kengaytirilgan…
+General - Umumiy
+TCP/UDP port number for peer. (Default value when there is no port for gateway). - Uzel uçun TCP/UDP port raqami. (Şlyuz uçun port bölmasa standart qiymat).
+Use custom gateway port: - Maxsus şlyuz portidan foydalaniş:
+Automatic - Avtomatik
+Renegotiate data channel key after the specified number of seconds. - Belgilangan soniyalar sonidan keyin maʼlumotlar kanali kalitini qayta kelişiş.
+Use custom renegotiation interval: - Maxsus qayta muzokara oraliğidan foydalaniş:
+Use compression. - Siqişdan foydalaniş.
+Use compression - Siqişdan foydalaniş
+No - Yöq
+LZO - LZO
+LZ4 - LZ4
+LZ4 v2 - LZ4 v2
+Adaptive - Moslaşuvçan
+Automatic - Avtomatik
+Use asymetric compression - Asimmetrik siqişdan foydalaniş
+Use TCP for communicating with remote host. - Masofaviy xost bilan aloqa qiliş uçun TCP-dan foydalaniş.
+Use a TCP connection - TCP ulanişidan foydalaniş
+Explicitly set virtual device type (TUN/TAP). - Virtual qurilma turini aniq körsatiş (TUN/TAP).
+Set virtual device type: - Virtual qurilma turini örnatiş:
+TUN - TUN
+TAP - TAP
+Use custom name for TUN/TAP virtual device (instead of default "tun" or "tap"). - TUN/TAP virtual qurilmasi uçun maxsus nomdan foydalaniş (standart "tun" yoki "tap" örniga).
+Set virtual device name: - Virtual qurilma nomini örnatiş:
+Take the TUN device MTU to be specified value and derive the link MTU from it. - TUN qurilmasi MTU qiymatini belgilangan qiymat sifatida qabul qiling va undan kanal MTU qiymatini çiqaring.
+Use custom tunnel Maximum Transmission Unit (MTU): - Maxsus tunnel maksimal uzatiş birligidan (MTU) foydalaniş:
+Enable internal datagram fragmentation with this maximum size. - Uşbu maksimal ölçam bilan içki datagramma fragmentatsiyasini yoqiş.
+Use custom UDP fragment size: - Maxsus UDP fragment ölçamidan foydalaniş:
+Restrict tunnel TCP maximum segment size. - Tunnel TCP maksimal segment ölçamini çeklaş.
+Restrict TCP maximum segment size (MSS) - TCP maksimal segment ölçamini (MSS) çeklaş
+Control Path MTU discovery behavior. - Path MTU aniqlaş xatti-harakatini boşqariş.
+Specify Path MTU discovery: - Path MTU aniqlaşni körsatiş:
+Maybe - Ehtimol
+Yes - Ha
+Randomize the order of gateways list (remote) as a kind of basic load- balancing measure. - Oddiy yuklamani muvozanatlaş çorasi sifatida şlyuzlar röyxati (masofaviy) tartibini tasodifiy tanlaş.
+Randomize remote hosts - Masofaviy xostlarni tasodifiy tanlaş
+Prefix remote DNS name with random string - Masofaviy DNS nomiga tasodifiy satr prefiksini qöşiş
+Time in seconds to wait for the initial connection before failing. - Muvaffaqiyatsizlikdan oldin dastlabki ulanişni kutiş vaqti (soniyalarda).
+Connect timeout: - Ulaniş kutiş vaqti:
+None - Heç biri
+s - soniya
+Allow pulling of peer DNS names (FQDN) sent by the server. - Server tomonidan yuborilgan uzel DNS nomlarini (FQDN) tortib olişga ruxsat beriş.
+Allow pull of peer DNS names (FQDN) - Uzel DNS nomlarini (FQDN) tortib olişga ruxsat beriş
+Push client information to the server for diagnostics. - Diagnostika uçun mijoz maʼlumotlarini serverga yuboriş.
+push peer info - uzel maʼlumotlarini yuboriş
+Build a tun link capable of forwarding IPv6 traffic. - IPv6 trafikni yönaltirişga qodir tun kanalini quriş.
+IPv6 tun link - IPv6 tun kanali
+Ping remote over the TCP/UDP control channel if no packets have been sent for at least n seconds. - Agar kamida n soniya davomida heç qanday paket yuborilmagan bölsa, TCP/UDP boşqaruv kanali orqali masofaviy uzelga ping yuboriş.
+Specify ping interval: - Ping oraliğini körsatiş:
+Exit or restart after n seconds pass without reception of a ping or other packet from remote. - Masofaviy uzeldan ping yoki boşqa paket qabul qilinmasdan n soniya ötgandan söng çiqiş yoki qayta işga tuşiriş.
+Specify exit or restart ping: - Çiqiş yoki qayta işga tuşiriş pingini körsatiş:
+ping-exit - ping-exit
+ping-restart - ping-restart
+Allow remote peer to change its IP address and/or port number such as due to DHCP (this is the default if --remote is not used). --float when specified with --remote allows an OpenVPN session to initially connect to a peer at a known address, however if packets arrive from a new address and pass all authentication tests, the new address will take control of the session. This is useful when you are connecting to a peer which holds a dynamic address such as a dial-in user or DHCP client.   Essentially, --float tells OpenVPN to accept authenticated packets from any address, not only the address which was specified in the --remote option. - Masofaviy uzelga DHCP tufayli IP manzilini va/yoki port raqamini özgartirişga ruxsat beriş (--remote işlatilmasa, bu standart hisoblanadi). --float parametri --remote bilan birga körsatilganda OpenVPN seansiga dastlab maʼlum manzildagi uzelga ulaniş imkonini beradi, biroq agar paketlar yangi manzildan kelsa va barça autentifikatsiya tekşiruvlaridan ötsa, yangi manzil seans boşqaruvini öz qöliga oladi. Bu dial-in foydalanuvçisi yoki DHCP mijozi kabi dinamik manzilga ega uzelga ulanayotganda foydalidir.   Aslida, --float parametri OpenVPN-ga faqat --remote parametrida körsatilgan manzildan emas, balki har qanday manzildan autentifikatsiya qilingan paketlarni qabul qilişni buyuradi.
+Accept authenticated packets from any address (Float) - Har qanday manzildan autentifikatsiya qilingan paketlarni qabul qiliş (Float)
+Specify the maximum number of routes the server is allowed to specify. - Server körsatişi mumkin bölgan maksimal yönalişlar (marşrutlar) sonini belgilang.
+Specify max routes: - Maksimal marşrutlarni körsatiş:
+Security - Xavfsizlik
+Encrypt packets with cipher algorithm. The default is BF-CBC (Blowfish in Cipher Block Chaining mode). - Paketlarni şifrlaş algoritmi bilan şifrlaş. Standart qiymat BF-CBC (Cipher Block Chaining rejimidagi Blowfish).
+Cipher: - Şifr:
+Obtaining available ciphers… - Mavjud şifrlar olinmoqda…
+Data channel cipher list to negotiate (OpenVPN 2.5+). - Kelişib olinadigan maʼlumotlar kanali şifrlari röyxati (OpenVPN 2.5+).
+Data Ciphers: - Maʼlumotlar şifrlari:
+Fallback data cipher if negotiation fails (OpenVPN 2.5+). - Muzokara muvaffaqiyatsiz tugasa, zaxira maʼlumotlar şifri (OpenVPN 2.5+).
+Data Ciphers Fallback: - Zaxira maʼlumotlar şifri:
+Disable OpenVPN NCP (cipher negotiation). Requires OpenVPN 2.4+. - OpenVPN NCP (şifrlaş böyiça kelişuv)ni öçiriş. OpenVPN 2.4+ talab etiladi.
+Disable cipher negotiation - Şifrlaş böyiça kelişuvni öçiriş
+Set cipher key size to a custom value. If unspecified, it defaults to cipher-specific size. - Şifr kaliti ölçamini maxsus qiymatga örnatiş. Agar körsatilmagan bölsa, standart şifrga xos ölçam işlatiladi.
+Use custom size of cipher key: - Şifr kalitining maxsus ölçamidan foydalaniş:
+Authenticate packets with HMAC using message digest algorithm. The default is SHA1. - Xabar dayjesti algoritmi yordamida paketlarni HMAC bilan autentifikatsiya qiliş. Standart qiymat SHA1.
+HMAC Authentication: - HMAC autentifikatsiyasi:
+Default - Standart
+None - Heç biri
+MD-4 - MD-4
+MD-5 - MD-5
+SHA-1 - SHA-1
+SHA-224 - SHA-224
+SHA-256 - SHA-256
+SHA-384 - SHA-384
+SHA-512 - SHA-512
+RIPEMD-160 - RIPEMD-160
+TLS Settings - TLS sozlamalari
+Verify server certificate identification.  When enabled, connection will only succeed if the server certificate matches some expected properties. Matching can either apply to the whole certificate subject (all the fields), or just the Common Name (CN field).  - Server sertifikati identifikatsiyasini tekşiriş.  Yoqilganda, ulaniş faqat server sertifikati kutilgan xususiyatlarga mos kelgandagina muvaffaqiyatli böladi. Moslik butun sertifikat mavzusiga (barça maydonlar) yoki faqat Umumiy nomga (CN maydoni) qöllanişi mumkin. 
+Server Certificate Check: - Server sertifikatini tekşiriş:
+Don't verify certificate identification - Sertifikat identifikatsiyasi tekşirilmasin
+Verify whole subject exactly - Butun mavzuni aniq tekşiriş
+Verify name exactly - Nomni aniq tekşiriş
+Verify name by prefix - Nomni prefiks böyiça tekşiriş
+Verify subject partially (legacy mode, strongly discouraged) - Mavzuni qisman tekşiriş (eskirgan rejim, qatʼiyan tavsiya etilmaydi)
+Subject or Common Name to verify server certificate information against. - Server sertifikati maʼlumotlarini tekşiriş uçun Mavzu yoki Umumiy nom (CN).
+Subject Match: - Mavzu mosligi:
+Connect only to servers whose certificate matches the given subject. Example: /CN=myvpn.company.com - Faqat sertifikati berilgan mavzuga mos keladigan serverlargagina ulaniş. Misol: /CN=myvpn.company.com
+Require that peer certificate was signed with an explicit key usage and extended key usage based on RFC3280 TLS rules. - Uzel sertifikati RFC3280 TLS qoidalariga asoslangan aniq kalitdan foydalaniş va kengaytirilgan kalitdan foydalaniş bilan imzolangan bölişini talab qiliş.
+Verify peer (server) certificate usage signature - Uzel (server) sertifikatidan foydalaniş imzosini tekşiriş
+Remote peer certificate TLS type: - Masofaviy uzel sertifikati TLS turi:
+Server - Server
+Client - Mijoz
+Require that peer certificate was signed with an explicit nsCertType designation. - Uzel sertifikati aniq nsCertType belgisi bilan imzolangan bölişini talab qiliş.
+Verify peer (server) certificate nsCertType designation - Uzel (server) sertifikati nsCertType belgisini tekşiriş
+Remote peer certificate nsCert designation: - Masofaviy uzel sertifikati nsCert belgisi:
+Add an additional layer of HMAC authentication. - Qöşimça HMAC autentifikatsiyasi qatlamini qöşiş.
+Mode: - Rejim:
+TLS-Auth - TLS-Auth
+TLS-Crypt - TLS-Crypt
+TLS-Crypt v2 - TLS-Crypt v2
+Add an additional layer of HMAC authentication on top of the TLS control channel to protect against DoS attacks. - DoS hujumlaridan himoyalaniş uçun TLS boşqaruv kanali ustiga qöşimça HMAC autentifikatsiya qatlamini qöşiş.
+Key File: - Kalit fayli:
+Additional local certificate file to help verify the peer certificate chain. - Uzel sertifikatlari zanjirini tekşirişga yordam beradigan qöşimça mahalliy sertifikat fayli.
+Extra certificates file: - Qöşimça sertifikatlar fayli:
+Direction parameter for static key mode. - Statik kalit rejimi uçun yönaliş parametri.
+Server (0) - Server (0)
+Client (1) - Mijoz (1)
+Minimum TLS version (e.g. 1.2). Optional. - Minimal TLS versiyasi (masalan, 1.2). Ixtiyoriy.
+TLS version minimum: - Minimal TLS versiyasi:
+Minimum TLS version (e.g. 1.2). Leave empty for default. - Minimal TLS versiyasi (masalan, 1.2). Standart qiymat uçun böş qoldiring.
+Allow negotiating higher TLS version than the minimum. - Minimal darajadan yuqori TLS versiyasini kelişişga ruxsat beriş.
+or highest - yoki eng yuqorisi
+Maximum TLS version (e.g. 1.3). Optional. - Maksimal TLS versiyasi (masalan, 1.3). Ixtiyoriy.
+TLS version maximum: - Maksimal TLS versiyasi:
+Maximum TLS version (e.g. 1.3). Leave empty for default. - Maksimal TLS versiyasi (masalan, 1.3). Standart qiymat uçun böş qoldiring.
+Path to a local Certificate Revocation List (CRL) file to verify peer certificates. - Uzel sertifikatlarini tekşiriş uçun mahalliy Sertifikatlarni bekor qiliş röyxati (CRL) fayliga yöl.
+CRL verify file: - CRL tekşiruv fayli:
+Path to a local directory containing Certificate Revocation List (CRL) files. - Sertifikatlarni bekor qiliş röyxati (CRL) fayllarini öz içiga olgan mahalliy jildga yöl.
+CRL verify directory: - CRL tekşiruv jildi:
+Proxies - Proksilar
+Proxy type: HTTP or SOCKS - Proksi turi: HTTP yoki SOCKS
+Proxy Type: - Proksi turi:
+Not Required - Talab qilinmaydi
+HTTP - HTTP
+SOCKS - SOCKS
+Select this option if your organization requires the use of a proxy server to access the Internet. - Agar taşkilotingiz internetga kiriş uçun proksi-serverdan foydalanişni talab qilsa, uşbu parametrni tanlang.
+Connect to remote host through a proxy with this address. - Masofaviy xostga uşbu manzilli proksi orqali ulaniş.
+Server Address: - Server manzili:
+Connect to remote host through a proxy with this port. - Masofaviy xostga uşbu portli proksi orqali ulaniş.
+Port: - Port:
+HTTP/SOCKS proxy username passed to OpenVPN when prompted for it. - Söralganda OpenVPN-ga uzatiladigan HTTP/SOCKS proksi foydalanuvçi nomi.
+Proxy Username: - Proksi foydalanuvçi nomi:
+HTTP/SOCKS proxy password passed to OpenVPN when prompted for it. - Söralganda OpenVPN-ga uzatiladigan HTTP/SOCKS proksi paroli.
+Proxy Password: - Proksi paroli:
+Retry indefinitely on proxy errors. It simulates a SIGUSR1 reset. - Proksi xatolarida çeksiz qayta urinib köriş. Bu SIGUSR1 qayta tiklaşini simulyatsiya qiladi.
+Retry indefinitely when errors occur - Xatolar yuz berganda çeksiz qayta urinib köriş
+Advanced OpenVPN properties - Kengaytirilgan OpenVPN xususiyatlari
+OpenVPN cipher lookup failed - OpenVPN şifrini qidiriş muvaffaqiyatsiz tugadi
+Default - Standart
+No OpenVPN ciphers found - OpenVPN şifrlari topilmadi
+Key Password: - Kalit paroli:
+OTP - OTP
+authenticator - autentifikator
+code - kod
+token - token
+one-time password - bir martalik parol

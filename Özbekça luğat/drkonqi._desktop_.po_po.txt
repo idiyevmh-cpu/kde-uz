@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Crashed Processes Viewer - Qulagan jarayonlarni köruvçi
+Offers detailed view of past crashes - Avval sodir bölgan nosozliklar (avariyalar)ning batafsil tafsilotini taqdim etadi
+drkonqi;crash;coredumpd;bug; - drkonqi;nosozlik;avariya;xatolik;qulaş;coredumpd;bug;
+Crash Reporting System - Nosozliklar haqida xabar beriş tizimi
+Crash - Xatolik (Avariya)
+An application or background service crashed - Ilova yoki fon xizmati nosozlik tufayli töxtab qoldi
+Dr Konqi - Dr Konqi

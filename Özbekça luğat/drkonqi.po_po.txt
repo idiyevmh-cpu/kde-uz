@@ -1,0 +1,204 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+<placeholder>In detail, tell us what you were doing  when the application crashed.</placeholder> - <placeholder>Ilova qulagan vaqtda nima qilayotganingizni batafsil aytib bering.</placeholder>
+Failed to create core dump directory: %1 - Asosiy xotira dampi (core dump) jildini yaratib bölmadi: %1
+Failed to open core dump file: %1 - Asosiy xotira dampi (core dump) faylini oçib bölmadi: %1
+Core dump file does not exist: %1 - Asosiy xotira dampi (core dump) fayli mavjud emas: %1
+Core dump file extraction process failed with code: %1 - Asosiy xotira dampi (core dump) faylini ajratib oliş jarayoni xato kodi bilan tugadi: %1
+Elevated core dump file extraction process failed: %1 - Imtiyozli asosiy xotira dampi (core dump) faylini ajratib oliş jarayoni muvaffaqiyatsiz tugadi: %1
+Subprocess exited with error: %1 - Qöşimça jarayon xato bilan yakunlandi: %1
+Subprocess crashed. Check your installation. - Qöşimça jarayon quladi. Örnatilgan tizimingizni tekşiring.
+Crashed Processes Viewer - Qulagan jarayonlarni köruvçi
+Offers detailed view of past crashes - Avval sodir bölgan nosozliklar (qulaşlar)ning batafsil körinişini taqdim etadi
+(C) 2020-2022, The DrKonqi Authors - (C) 2020-2022, DrKonqi mualliflari
+The <PID> of the program - Dasturning <PID> identifikatori
+Disable arbitrary disk access - Diskka ixtiyoriy kirişni öçiriş
+Do not show a notification but launch the debug dialog directly - Bildirişnomani körsatmasdan, töğridan-töğri nosozliklarni tuzatiş (debug) oynasini işga tuşiriş
+Start the application showing only a notification that a process has crashed - Ilovani faqat jarayon qulagani haqidagi bildirişnomani körsatgan holda işga tuşiriş
+The program has already been restarted - Dastur allaqaçon qayta işga tuşirilgan
+The path to the metadata file - Metamaʼlumotlar fayliga yöl
+Failure - Muvaffaqiyatsizlik
+Failed to access crash data for unknown reasons. - Nomaʼlum sabablarga köra qulaş maʼlumotlariga kirib bölmadi.
+Debugging is not possible for crashes of software run inside a Flatpak sandbox at this time. - Hozirgi vaqtda Flatpak qumloq muhitida işlayotgan dasturlar qulaşi uçun nosozliklarni tuzatiş (debug) imkonsiz.
+Debugging is not possible for crashes of software run inside a Snap sandbox at this time. - Hozirgi vaqtda Snap qumloq muhitida işlayotgan dasturlar qulaşi uçun nosozliklarni tuzatiş (debug) imkonsiz.
+Debugging is no longer possible for this crash. The core dump file is missing. - Uşbu qulaş uçun endi nosozliklarni tuzatiş imkonsiz. Asosiy xotira dampi (core dump) fayli topilmadi.
+Debugging is no longer possible for this crash. - Uşbu qulaş uçun endi nosozliklarni tuzatiş imkonsiz.
+Reporting is not supported for Flatpak applications at this time. - Hozirgi vaqtda Flatpak ilovalari uçun xatolar haqida xabar beriş qöllab-quvvatlanmaydi.
+Already reported. - Allaqaçon xabar berilgan.
+Your distribution has not provided a bug report URL. Please report this to your distribution. - Distributivingiz xato haqida xabar beriş URL manzilini taqdim etmagan. Iltimos, bu haqda distributivingizga xabar bering.
+Flatpak - Flatpak
+Snap Store - Snap Store
+KDE - KDE
+Details - Tafsilotlar
+Copy to Clipboard - Vaqtinçalik xotiraga nusxalaş
+Run Interactive Debugger - Interaktiv nosozliklarni tuzatuvçini (debugger) işga tuşiriş
+Report to %1 - %1 ga xabar beriş
+Crashes - Qulaşlar
+Loading crash reports - Qulaş hisobotlari yuklanmoqda
+No processes have crashed yet - Hali heç qanday jarayon qulamagan
+No crashes matching the search - Qidiruvga mos qulaşlar topilmadi
+Overview - Umumiy köriniş
+The application closed unexpectedly. - Ilova kutilmaganda yopildi.
+Please report this error to help improve this software. - Uşbu dasturiy taʼminotni yaxşilaşga yordam beriş uçun uşbu xato haqida xabar bering.
+The application closed unexpectedly. A report is being automatically submitted. - Ilova kutilmaganda yopildi. Hisobot avtomatik tarzda yuborilmoqda.
+%1 Closed Unexpectedly - %1 kutilmaganda yopildi
+Please report this error to help improve this software. - Uşbu dasturiy taʼminotni yaxşilaşga yordam beriş uçun uşbu xato haqida xabar bering.
+Report &Bug - &Xato haqida xabar beriş
+&Restart Application - Ilovani &qayta işga tuşiriş
+Hide - &Bekitiş
+%1 Closed Repeatedly - %1 qayta-qayta yopildi
+Add Details - Tafsilotlarni qöşiş
+Report Bug - Xato haqida xabar beriş
+Restart App - Ilovani qayta işga tuşiriş
+Application Crash - Ilova qulaşi
+<command>%1</command> (part of <command>%2</command>) has encountered a fatal error and was closed. - <command>%1</command> (<command>%2</command> qismi) jiddiy xatoga duç keldi va yopildi.
+Service Crash - Xizmat qulaşi
+<command>%1</command> has encountered a fatal error and was closed. - <command>%1</command> jiddiy xatoga duç keldi va yopildi.
+Details - Tafsilotlar
+Failed to Launch - Işga tuşirib bölmadi
+Could not launch the Crashed Process Viewer. - Qulagan jarayonlarni köruvçini işga tuşirib bölmadi.
+GDB - GDB
+LLDB - LLDB
+Requesting installation of missing debug symbols packages... - Yetişmayotgan nosozliklarni tuzatiş belgilari (debug symbols) paketlarini örnatiş söralmoqda...
+Cancel - Bekor qiliş
+Missing debug symbols - Yetişmayotgan nosozliklarni tuzatiş belgilari
+Could not find debug symbol packages for this application. - Uşbu ilova uçun nosozliklarni tuzatiş (debug) belgilari paketlari topilmadi.
+An error was encountered during the installation of the debug symbol packages. - Nosozliklarni tuzatiş belgilari paketlarini örnatiş vaqtida xato yuz berdi.
+Report saved to <filename>%1</filename>. - Hisobot <filename>%1</filename> fayliga saqlandi.
+Could not create a file in which to save the report. - Hisobotni saqlaş uçun fayl yaratib bölmadi.
+Save Report - Hisobotni saqlaş
+Cannot open file <filename>%1</filename> for writing. - <filename>%1</filename> faylini yoziş uçun oçib bölmadi.
+Crash Handler - Qulaşlarni qayta işlovçi
+Crash Handler gives the user feedback if a program has crashed. - Qulaşlarni qayta işlovçi dastur qulaganda foydalanuvçiga maʼlumot beradi.
+(C) 2000-2018, The DrKonqi Authors - (C) 2000-2018, DrKonqi mualliflari
+Hans Petter Bieker - Hans Petter Bieker
+Dario Andres Rodriguez - Dario Andres Rodriguez
+George Kiagiadakis - George Kiagiadakis
+A. L. Spehr - A. L. Spehr
+The signal <number> that was caught - Uşlangan signal raqami <number>
+<Name> of the program - Dasturning <Name> nomi
+<Path> to the executable - Bajariladigan faylga <Path> yöl
+The <version> of the program - Dasturning <version> versiyasi
+The bug <address> to use - Foydalaniladigan xato <address> manzili
+Translated <name> of the program - Dasturning tarjima qilingan <name> nomi
+Bugzilla product name - Bugzilla mahsulot nomi
+Startup <ID> of the program - Dasturning işga tuşiş <ID> identifikatori
+Keep the program running and generate the backtrace at startup - Dasturni işlab turgan holda qoldiriş va işga tuşganda izlar röyxatini (backtrace) yaratiş
+The <thread id> of the failing thread - Nosoz oqimning <thread id> identifikatori
+Go directly to the sentry page - Töğridan-töğri Sentry sahifasiga ötiş
+Fetching the Backtrace (Automatic Crash Information) - Izlar röyxatini (Avtomatik qulaş maʼlumotlarini) oliş
+Next - Keyingi
+Failed to contact %1: <message>%2</message> - %1 bilan boğlanib bölmadi: <message>%2</message>
+Retry - Qaytadan uriniş
+Trying to contact %1… - %1 bilan boğlanişga urinilmoqda…
+Your Knowledge - Sizning bilimingiz
+Do you remember what you were doing prior to the crash? - Qulaşdan oldin nima qilayotganingizni eslaysizmi?
+Yes - Ha
+No - Yöq
+Does the application crash again if you repeat the same situation? - Xuddi şu holatni takrorlasangiz, ilova yana qulaydimi?
+Please select which additional information you can provide: - Taqdim etişingiz mumkin bölgan qöşimça maʼlumotlarni tanlang:
+What I was doing when the application <application>%1</application> crashed - <application>%1</application> ilovasi qulagan vaqtda men nima qilayotgan edim
+Unusual desktop behavior I noticed - Men sezgan ğayrioddiy iş stoli xatti-harakati
+Custom settings of the application that may be related - Aloqador bölişi mumkin bölgan ilovaning maxsus sozlamalari
+Not Sufficiently Useful - Yetarliça foydali emas
+The information you can provide is not considered helpful enough in this case. If you can't think of any more information, you can close the bug report dialog. - Siz taqdim etişingiz mumkin bölgan maʼlumotlar bu holatda yetarliça foydali hisoblanmaydi. Agar qöşimça maʼlumotni eslay olmasangiz, xato haqida xabar beriş oynasini yopişingiz mumkin.
+Developer Information - Dasturçi maʼlumotlari
+Install Debug Symbols - Nosozliklarni tuzatiş belgilarini örnatiş
+Use this button to install the packages for missing debug symbols. - Yetişmayotgan nosozliklarni tuzatiş belgilari (debug symbols) paketlarini örnatiş uçun uşbu tugmadan foydalaning.
+Report on %1 - %1 da xabar beriş
+Starts the bug report assistant. - Xato haqida xabar beriş yordamçisini işga tuşiradi.
+Reload - Qayta yuklaş
+Use this button to reload the crash information (backtrace). This is useful when you have installed the proper debug symbol packages and you want to obtain a better backtrace. - Qulaş maʼlumotlarini (backtrace) qayta yuklaş uçun uşbu tugmadan foydalaning. Bu tegişli nosozliklarni tuzatiş belgilari paketlarini örnatganingizda va yaxşiroq izlar röyxatini olişni xohlaganingizda foydalidir.
+Copy - Nusxa oliş
+Use this button to copy the crash information (backtrace) to the clipboard. - Qulaş maʼlumotlarini (backtrace) vaqtinçalik xotiraga nusxalaş uçun uşbu tugmadan foydalaning.
+Save - Saqlaş
+Use this button to save the crash information (backtrace) to a file. This is useful if you want to take a look at it or to report the bug later. - Qulaş maʼlumotlarini (backtrace) faylga saqlaş uçun uşbu tugmadan foydalaning. Bu uni keyinroq körib çiqiş yoki xato haqida keyinroq xabar beriş uçun foydalidir.
+This backtrace is very limited because there was not enough memory available to generate a full backtrace. You can close some applications and try again. - Uşbu izlar röyxati (backtrace) juda çeklangan, çunki töliq izlar röyxatini yaratiş uçun xotira yetarli bölmagan. Baʼzi ilovalarni yopib, qaytadan urinib körişingiz mumkin.
+Retry - Qaytadan uriniş
+Error during the installation of debug symbols - Nosozliklarni tuzatiş belgilarini örnatiş vaqtida xato yuz berdi
+Click the <interface>Install Debug Symbols</interface> button in order to automatically install the missing debugging information packages. If this method does not work, read <link url='%1'>How to create useful crash reports</link> to learn how to get a useful backtrace, install the needed packages (<link url='%2'>list of files</link>), then click the <interface>Reload</interface> button. - Yetişmayotgan nosozliklarni tuzatiş maʼlumotlari paketlarini avtomatik örnatiş uçun <interface>Nosozliklarni tuzatiş belgilarini örnatiş</interface> tugmasini bosing. Agar bu usul işlamasa, foydali izlar röyxatini (backtrace) olişni örganiş uçun <link url='%1'>Foydali qulaş hisobotlarini qanday yaratiş mumkin</link> maqolasini öqing, kerakli paketlarni (<link url='%2'>fayllar röyxati</link>) örnating, söngra <interface>Qayta yuklaş</interface> tugmasini bosing.
+Read <link url='%1'>How to create useful crash reports</link> to learn how to get a useful backtrace, install the needed packages (<link url='%2'>list of files</link>), then click the <interface>Reload</interface> button. - Foydali izlar röyxatini (backtrace) olişni örganiş uçun <link url='%1'>Foydali qulaş hisobotlarini qanday yaratiş mumkin</link> maqolasini öqing, kerakli paketlarni (<link url='%2'>fayllar röyxati</link>) örnating, söngra <interface>Qayta yuklaş</interface> tugmasini bosing.
+Try to regenerate the backtrace by clicking the <interface>Reload</interface> button. - <interface>Qayta yuklaş</interface> tugmasini bosib, izlar röyxatini (backtrace) qayta yaratişga urinib köring.
+The backtrace generation failed to prepare. This indicates a severe problem which you likely cannot resolve. - Izlar röyxatini (backtrace) yaratişga tayyorgarlik muvaffaqiyatsiz tugadi. Bu ehtimol siz hal qila olmaydigan jiddiy muammodan darak beradi.
+<emphasis strong='true'>First install the debugger application (%1), then click the <interface>Reload</interface> button.</emphasis> - <emphasis strong='true'>Avval nosozliklarni tuzatuvçi ilovani (%1) örnating, söngra <interface>Qayta yuklaş</interface> tugmasini bosing.</emphasis>
+The backtrace generation was stopped due to memory pressure. You could try to regenerate the backtrace by clicking the <interface>Reload</interface> button. - Xotira yetişmasligi sababli izlar röyxatini (backtrace) yaratiş töxtatildi. <interface>Qayta yuklaş</interface> tugmasini bosib, izlar röyxatini qayta yaratişga urinib körişingiz mumkin.
+The packages containing debug information for the following application and libraries are missing: - Quyidagi ilova va kutubxonalar uçun nosozliklarni tuzatiş (debug) maʼlumotlarini öz içiga olgan paketlar topilmadi:
+Automatically download debug symbols to enhance crash reports - Qulaş hisobotlarini yaxşilaş uçun nosozliklarni tuzatiş belgilarini avtomatik yuklab oliş
+Crash reports can be of greater value if additional debugging resources are downloaded from your distributor first. This may also cause increased memory usage, will take longer, and causes downloads of unknown size when a crash occurs. This is skipped automatically when using a metered internet connection. - Agar avval distributivingizdan qöşimça nosozliklarni tuzatiş resurslari yuklab olinsa, qulaş hisobotlari yanada qimmatliroq bölişi mumkin. Bu şuningdek xotira sarfini oşirişi, köproq vaqt olişi va qulaş yuz berganda nomaʼlum hajmdagi yuklab olişlarga sabab bölişi mumkin. Çeklangan (trafik hisoblanadigan) internet ulanişidan foydalanilganda bu avtomatik ravişda ötkazib yuboriladi.
+Log in to the Bug Tracking System - Xatolarni kuzatiş tizimiga kiriş
+You need to login with your %1 account in order to proceed. - Davom etiş uçun %1 hisobingiz bilan kirişingiz kerak.
+Email Address: - E-poçta manzili:
+Password: - Parol:
+Save login information using the KDE Wallet system - Kiriş maʼlumotlarini KDE Hamyon (Wallet) tizimi yordamida saqlaş
+<note>You need a user account on the <link url='%1'>KDE bug tracking system</link> in order to file a bug report, because we may need to contact you later to request further information. If you do not have one, you can freely <link url='%2'>create one here</link>. Please do not use disposable email addresses.</note> - <note>Xato haqida hisobot yuboriş uçun sizda <link url='%1'>KDE xatolarni kuzatiş tizimi</link>da foydalanuvçi hisobi bölişi kerak, çunki keyinroq qöşimça maʼlumot söraş uçun siz bilan boğlanişimiz mumkin. Agar hisobingiz bölmasa, uni <link url='%2'>bu yerda bepul yaratişingiz</link> mumkin. Iltimos, bir martalik e-poçta manzillaridan foydalanmang.</note>
+Login - Kiriş
+Use this button to login to the KDE bug tracking system using the provided email address and password. - Kiritilgan e-poçta manzili va parol yordamida KDE xatolarni kuzatiş tizimiga kiriş uçun uşbu tugmadan foydalaning.
+<para>You cannot report this error, because <application>%1</application> does not provide a bug reporting address.</para> - <para>Siz uşbu xato haqida xabar bera olmaysiz, çunki <application>%1</application> xatolar haqida xabar beriş manzilini taqdim etmagan.</para>
+<para>As the Crash Handler itself has failed, the automatic reporting process is disabled to reduce the risks of failing again.<nl /><nl /> Please, <link url='%1'>manually report</link> this error to the KDE bug tracking system. Do not forget to include the backtrace from the <interface>Developer Information</interface> page.</para> - <para>Qulaşlarni qayta işlovçining özi xatoga uçraganligi sababli, qayta xatolik xavfini kamaytiriş uçun avtomatik xabar beriş jarayoni öçirildi.<nl /><nl /> Iltimos, uşbu xato haqida KDE xatolarni kuzatiş tizimiga <link url='%1'>qölda xabar bering</link>. <interface>Dasturçi maʼlumotlari</interface> sahifasidagi izlar röyxatini (backtrace) qöşişni unutmang.</para>
+<para>The reporting assistant is disabled because the crash handler dialog was started in safe mode.<nl /> You can manually report this bug to <link>%1</link> (including the backtrace from the <interface>Developer Information</interface> page.)</para> - <para>Xabar beriş yordamçisi öçirilgan, çunki qulaşlarni qayta işlovçi oynasi xavfsiz rejimda işga tuşirilgan.<nl /> Siz uşbu xato haqida <link>%1</link> manziliga qölda xabar berişingiz mumkin (<interface>Dasturçi maʼlumotlari</interface> sahifasidagi izlar röyxatini qöşgan holda).</para>
+<para>The reporting assistant is disabled because the crashed application appears to have been updated or uninstalled since it had been started. This prevents accurate crash reporting and can also be the cause of this crash.</para> <para>After updating it is always a good idea to log out and back in to make sure the update is fully applied and will not cause any side effects.</para> - <para>Xabar beriş yordamçisi öçirilgan, çunki qulagan ilova işga tuşirilganidan beri yangilangan yoki öçirilgan körinadi. Bu aniq qulaş hisobotini tuzişga xalaqit beradi va uşbu qulaşning sababi ham bölişi mumkin.</para> <para>Yangilangandan söng, yangilaniş töliq qöllanilganiga va heç qanday nojöya taʼsir körsatmasligiga işonç hosil qiliş uçun tizimdan çiqib, qayta kiriş tavsiya etiladi.</para>
+<para>You can help us improve KDE Software by reporting this error.<nl /><link url='%1'>Learn more about bug reporting.</link></para> - <para>Uşbu xato haqida xabar beriş orqali KDE dasturiy taʼminotini yaxşilaşimizga yordam berişingiz mumkin.<nl /><link url='%1'>Xatolar haqida xabar beriş böyiça batafsil maʼlumot.</link></para>
+There was not enough memory to gather crash information. You can close some applications to free up memory and try again. - Qulaş haqidagi maʼlumotlarni yiğiş uçun xotira yetarli bölmadi. Xotirani böşatiş uçun baʼzi ilovalarni yopib, qaytadan urinib körişingiz mumkin.
+Gathering crash information failed. You can close the window, or <link url='%1'>view detailed output</link>. - Qulaş haqidagi maʼlumotlarni yiğiş muvaffaqiyatsiz tugadi. Oynani yopişingiz yoki <link url='%1'>batafsil maʼlumotni körişingiz</link> mumkin.
+Gathering crash information failed for unknown reasons. You can retry, close the window, or <link url='%1'>view detailed output</link>. - Qulaş haqidagi maʼlumotlarni yiğiş nomaʼlum sabablarga köra muvaffaqiyatsiz tugadi. Qaytadan urinib körişingiz, oynani yopişingiz yoki <link url='%1'>batafsil maʼlumotni körişingiz</link> mumkin.
+Gathering crash information failed for unknown reasons. You can retry, or close the window. - Qulaş haqidagi maʼlumotlarni yiğiş nomaʼlum sabablarga köra muvaffaqiyatsiz tugadi. Qaytadan urinib körişingiz yoki oynani yopişingiz mumkin.
+Crash Handler - Qulaşlarni qayta işlovçi
+<application>%1</application> has closed unexpectedly. - <application>%1</application> kutilmaganda yopildi.
+Send Automatic Report - Avtomatik hisobot yuboriş
+See Developer Information - Dasturçi maʼlumotlarini köriş
+Bug Report Preview - Xato hisobotini oldindan köriş
+<para>This is a preview of the contents of the report which will be sent.</para><para>If you want to modify the report, return to the previous pages.</para> - <para>Bu yuboriladigan hisobot tarkibini oldindan köriş oynasidir.</para><para>Agar hisobotni özgartirişni xohlasangiz, oldingi sahifalarga qayting.</para>
+Submit - Yuboriş
+Waiting for data… - Maʼlumotlar kutilmoqda…
+The generated crash information is useful. - Yaratilgan qulaş maʼlumotlari foydali.
+The generated crash information may be useful. - Yaratilgan qulaş maʼlumotlari foydali bölişi mumkin.
+The generated crash information is likely not useful. - Yaratilgan qulaş maʼlumotlari ehtimol foydali emas.
+The generated crash information is not useful. - Yaratilgan qulaş maʼlumotlari foydali emas.
+Enter Details About the Crash - Qulaş haqida tafsilotlarni kiriting
+Please provide the following information in English. - Iltimos, quyidagi maʼlumotlarni ingliz tilida kiriting.
+Title of the bug report: - Xato hisobotining sarlavhasi:
+<subtitle>Examples of good titles:</subtitle> <list> <item>Plasma crashed after adding the Notes widget and writing on it</item> <item>Konqueror crashed when accessing the Facebook application 'X'</item> <item>Kopete closed after resuming the computer and talking to a MSN buddy</item> <item>Kate closed while editing a log file and pressing the Delete key a couple of times</item> </list> - <subtitle>Yaxşi sarlavhalarga misollar:</subtitle> <list> <item>Plasma crashed after adding the Notes widget and writing on it</item> <item>Konqueror crashed when accessing the Facebook application 'X'</item> <item>Kopete closed after resuming the computer and talking to a MSN buddy</item> <item>Kate closed while editing a log file and pressing the Delete key a couple of times</item> </list>
+Information about the crash: - Qulaş haqida maʼlumot:
+<subtitle>Describe in as much detail as possible the crash circumstances:</subtitle> <list> <item>Detail which actions were you taking inside and outside the application an instant before the crash.</item> <item>Note if you noticed any unusual behavior in the application or in the whole environment.</item> <item>Note any non-default configuration in the application</item> </list> - <subtitle>Qulaş holatlarini imkon qadar batafsil tasvirlab bering:</subtitle> <list> <item>Qulaşdan bir lahza oldin ilova içida va taşqarisida qanday amallarni bajarayotganingizni batafsil yozing.</item> <item>Ilovada yoki butun muhitda ğayrioddiy xatti-harakatlarni sezgan bölsangiz, buni qayd eting.</item> <item>Ilovadagi har qanday nostandart sozlamalarni körsatib öting</item> </list>
+Minimum length reached - Minimal uzunlikka yetdi
+Provide more information - Köproq maʼlumot kiriting
+Distribution method: - Tarqatiş usuli:
+Loading… - Yuklanmoqda…
+KDE Platform is compiled from source - KDE platformasi manba kodidan yiğilgan (kompilyatsiya qilingan)
+<note>The crash and system information will be automatically added to the bug report.</note> - <note>Qulaş va tizim maʼlumotlari xato hisobotiga avtomatik ravişda qöşiladi.</note>
+Preview Report - Hisobotni oldindan köriş
+Save Report to File - Hisobotni faylga saqlaş
+Use this button to save the crash information to a file for manual reporting. - Qölda xabar beriş maqsadida qulaş maʼlumotlarini faylga saqlaş uçun uşbu tugmadan foydalaning.
+Failed to submit bug report: <message>%1</message> - Xato hisobotini yuborib bölmadi: <message>%1</message>
+Retry Submission - Yuborişni takrorlaş
+Submitting bug report… - Xato hisoboti yuborilmoqda…
+Crash Report Sent - Qulaş hisoboti yuborildi
+Restart %1 - %1 ni qayta işga tuşiriş
+URL: <link url='%1'>%1</link> - URL: <link url='%1'>%1</link>
+Thank you for being a part of KDE. You may now close this window. - KDE jamoasining bir qismi bölganingiz uçun rahmat. Endi uşbu oynani yopişingiz mumkin.
+Automatic Report - Avtomatik hisobot
+Collecting crash data. This window can be closed. The collected data will automatically be submitted in the background. - Qulaş maʼlumotlari yiğilmoqda. Uşbu oynani yopiş mumkin. Yiğilgan maʼlumotlar orqa fonda avtomatik ravişda yuboriladi.
+Crash Report Sent - Qulaş hisoboti yuborildi
+In the future: - Kelajakda:
+Automatically report crashes - Qulaşlar haqida avtomatik xabar beriş
+Always automatically submit a crash report to KDE's crash tracking system, with no manual input required. You will not receive any more crash notifications. - Qölda maʼlumot kiritmasdan, har doim KDE qulaşlarni kuzatiş tizimiga avtomatik tarzda hisobot yuboriş. Sizga boşqa qulaş bildirişnomalari kelmaydi.
+Tell us more about the crash… - Qulaş haqida bizga köproq maʼlumot bering…
+Send Message - Xabar yuboriş
+Finish - Tugatiş
+Reporting Assistant - Xabar beriş yordamçisi
+This assistant will analyze the crash information and guide you through the bug reporting process. - Uşbu yordamçi qulaş maʼlumotlarini tahlil qiladi va xato haqida xabar beriş jarayonida sizga yöriqnoma körsatadi.
+<para><note>Since communication between you and the developers is required for effective debugging, to continue reporting this bug it is <emphasis strong='true'>required for you to agree that developers may contact you</emphasis>. </note></para><para>Feel free to close this dialog if you do not wish to accept this.</para> - <para><note>Nosozliklarni samarali tuzatiş uçun siz va dasturçilar örtasida muloqot talab qilinganligi sababli, uşbu xato haqida xabar berişni davom ettiriş uçun <emphasis strong='true'>dasturçilar siz bilan boğlanişiga rozilik bildirişingiz talab etiladi</emphasis>. </note></para><para>Agar bunga rozi bölmasangiz, uşbu oynani bemalol yopişingiz mumkin.</para>
+I Agree to be Contacted - Men bilan boğlanişlariga roziman
+Failed to get platform list - Platformalar röyxatini olib bölmadi
+I did not try again - Men qayta urinib körmadim
+Never - Heç qaçon
+Sometimes - Baʼzida
+Every time - Har safar
+backtraceparsertest_manual - backtraceparsertest_manual
+The debugger name passed to the parser factory - Tahlilçi (parser) fabrikasiga uzatilgan nosozliklarni tuzatuvçi (debugger) nomi
+A file containing the backtrace. - Izlar röyxatini (backtrace) öz içiga olgan fayl.
+BugzillaLib Test (DrKonqi2) - BugzillaLib sinovi (DrKonqi2)
+Test application for bugtracker manager lib - Xatolarni kuzatiş boşqaruvçisi kutubxonasi uçun sinov ilovasi
+(c) 2009, DrKonqi2 Developers - (c) 2009, DrKonqi2 dasturçilari
+bugstest.kde.org username - bugstest.kde.org foydalanuvçi nomi
+bugstest.kde.org password - bugstest.kde.org paroli

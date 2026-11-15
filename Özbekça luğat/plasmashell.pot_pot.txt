@@ -1,0 +1,70 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Configure Mouse Actions Plugin - Siçqonça amallari plaginini sozlaş
+KDE Plasma 6.0 Dev - KDE Plasma 6.0 Dev
+KDE Plasma 6.0 Alpha - KDE Plasma 6.0 Alpha
+KDE Plasma 6.0 Beta 1 - KDE Plasma 6.0 Beta 1
+KDE Plasma 6.0 Beta 2 - KDE Plasma 6.0 Beta 2
+KDE Plasma 6.0 RC1 - KDE Plasma 6.0 RC1
+KDE Plasma 6.0 RC2 - KDE Plasma 6.0 RC2
+KDE Plasma %1 Dev - KDE Plasma %1 Dev
+KDE Plasma %1 Beta - KDE Plasma %1 Beta
+KDE Plasma %1 Beta %2 - KDE Plasma %1 Beta %2
+KDE Plasma %1 - KDE Plasma %1
+Visit bugs.kde.org to report issues - Xatolar haqida xabar beriş uçun bugs.kde.org saytiga kiring
+Copy Plasma Version - Plasma talqinidan nusxa oliş
+Report a Bug… - Xato haqida xabar beriş…
+Hide Preview Banner - Oldindan köriş bannerini yaşiriş
+Hide Until Restart - Qayta işga tuşirilgunça yaşiriş
+Hide Permanently… - Butunlay yaşiriş…
+Are you sure you want to permanently hide the preview banner?<nl/><nl/>This action can only be undone by removing the line beginning with <icode>ShowDesktopPreviewBanner</icode> in the <filename>kdeglobals</filename> config file. - Haqiqatan ham oldindan köriş bannerini butunlay yaşirmoqçimisiz?<nl/><nl/>Bu amalni faqat <filename>kdeglobals</filename> sozlaş faylidagi <icode>ShowDesktopPreviewBanner</icode> bilan boşlanadigan qatorni olib taşlaş orqali bekor qiliş mumkin.
+Hide Preview Banner? - Oldindan köriş banneri yaşirilsinmi?
+Enter Edit Mode - Tahrirlaş rejimiga kiriş
+Exit Edit Mode - Tahrirlaş rejimidan çiqiş
+Plasma Shell - Plasma qobiği
+Enable QML Javascript debugger - QML Javascript nosozlik tuzatuvçisini yoqiş
+Do not restart plasma-shell automatically after a crash - Avariyaviy töxtaşdan keyin plasma-shell ni avtomatik qayta işga tuşirmaslik
+Force loading the given shell plugin - Berilgan qobiq plaginini majburan yuklaş
+Replace an existing instance - Mavjud nusxani almaştiriş
+Lists the available options for user feedback - Foydalanuvçi fikr-mulohazasi uçun mavjud parametrlarni röyxatlaydi
+Plasma Failed To Start - Plasma işga tuşmadi
+Plasma is unable to start as it could not correctly use OpenGL 2 or software fallback\nPlease check that your graphic drivers are set up correctly. - Plasma işga tuşa olmayapti, çunki u OpenGL 2 yoki dasturiy renderdan töğri foydalana olmadi\nIltimos, grafik drayverlaringiz töğri sozlanganligini tekşiring.
+%1: %2% - %1: %2%
+Audio Muted - Ovoz öçirildi
+Microphone Muted - Mikrofon öçirildi
+%1 Muted - %1 ovozsiz qilindi
+Touchpad On - Taçpad yoqildi
+Touchpad Off - Taçpad öçirildi
+Wifi On - Wi-Fi yoqildi
+Wifi Off - Wi-Fi öçirildi
+Bluetooth On - Bluetooth yoqildi
+Bluetooth Off - Bluetooth öçirildi
+Mobile Internet On - Mobil internet yoqildi
+Mobile Internet Off - Mobil internet öçirildi
+On-Screen Keyboard Activated - Ekrandagi klaviatura faollaştirildi
+On-Screen Keyboard Deactivated - Ekrandagi klaviatura öçirildi
+Sleep and Screen Locking Blocked - Kutiş rejimi va ekranni qulflaş bloklandi
+Sleep and Screen Locking Unblocked - Kutiş rejimi va ekranni qulflaş blokdan çiqarildi
+Power Save Mode - Quvvatni tejaş rejimi
+Balanced Power Mode - Muvozanatli quvvat rejimi
+Performance Mode - Yuqori unumdorlik rejimi
+Hide Panel Configuration - Panel sozlamalarini yaşiriş
+Show Panel Configuration - Panel sozlamalarini körsatiş
+%1% - %1%
+Built-in Screen - Örnatilgan ekran
+Disconnected Screen %1 - Uzilgan ekran %1
+Show Desktop - Iş stolini körsatiş
+Hide Desktop - Iş stolini yaşiriş
+Activate Application Launcher - Ilovalarni işga tuşirgiçni faollaştiriş
+Show Activity Switcher - Faoliyatlarni almaştirgiçni körsatiş
+Switch to Previous Activity - Oldingi faoliyatga ötiş
+Switch to Next Activity - Keyingi faoliyatga ötiş
+Manage Desktops and Panels… - Iş stollari va panellarni boşqariş…
+Move keyboard focus between panels - Klaviatura fokusini panellar örtasida köçiriş
+Add Panel - Panel qöşiş
+Empty %1 - Böş %1
+Software Renderer In Use - Dasturiy renderdan foydalanilmoqda
+Rendering may be degraded - Renderlaş sifati pasayişi mumkin
+Never show again - Boşqa heç qaçon körsatilmasin
+Panel Count - Panellar soni
+Counts the panels - Panellarni hisoblaydi

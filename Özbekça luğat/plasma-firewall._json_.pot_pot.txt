@@ -1,0 +1,5 @@
+Backend for Firewalld - Firewalld bekendi
+Backend for Uncomplicated Firewall - Uncomplicated Firewall (UFW) bekendi
+Firewall - Fayrvoll (brandmauer)
+firewall,network,security,block,allow,internet,web,websites,whitelist,blacklist,allowlist,blocklist,ports,rules,connections,udp,tcp,ip,address,ipv4,ipv6,protection,privacy,local address,remote address,gateway,localhost,ufw,firewalld,firewall rules,firewall exception,firewall exceptions,origin,destination,protocol,interface - fayrvoll,tarmoq,xavfsizlik,bloklaş,ruxsat beriş,internet,veb,saytlar,oq röyxat,qora röyxat,portlar,qoidalar,ulanmalar,udp,tcp,ip,manzil,ipv4,ipv6,himoya,maxfiylik,şlyuz,ufw,firewalld
+Control your network rules - Tarmoq qoidalarini boşqariş

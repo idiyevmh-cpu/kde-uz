@@ -1,0 +1,11 @@
+No error information. - Xatolik haqida maʼlumot yöq.
+Open %1 - %1 ni oçiş
+Layout changes have been restricted by the system administrator - Tartibni özgartiriş tizim maʼmuri tomonidan çeklangan
+Layout: - Tartib:
+Wallpaper Type: - Fon rasmi turi:
+Get New Plugins… - Yangi plaginlarni oliş…
+Layout changes must be applied before other changes can be made - Boşqa özgarişlar kiritilişidan oldin tartib özgarişlari qöllanişi kerak
+Apply now - Hozir qöllaş
+Wallpaper - Fon rasmi
+Customize... - Moslaştiriş...
+Widgets - Vidjetlar

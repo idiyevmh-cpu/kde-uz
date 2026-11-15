@@ -1,0 +1,26 @@
+power - quvvat
+suspend - töxtatib turiş
+to ram - tezkor xotiraga
+sleep - kutiş rejimi
+hibernate - gipernatsiya
+to disk - diskka
+hybrid sleep - gibrid kutiş rejimi
+hybrid - gibrid
+dim screen - ekranni xiralaştiriş
+Lists system suspend (e.g. sleep, hibernate) options and allows them to be activated - Tizimni töxtatib turiş parametrlarini (masalan, kutiş, gipernatsiya) röyxatlaydi va ularni faollaştiriş imkonini beradi
+Suspends the system to RAM - Tizimni tezkor xotiraga (RAM) töxtatib turadi
+Suspends the system to disk - Tizimni diskka töxtatib turadi (gipernatsiya)
+Sleeps now and falls back to hibernate - Hozir kutiş rejimiga ötadi va keyin gipernatsiyaga ötadi
+screen brightness <percent value> - ekran yorqinligi <foiz qiymati>
+Lists screen brightness options or sets it to the brightness defined by the search term; e.g. screen brightness 50 would dim the screen to 50% maximum brightness - Ekran yorqinligi parametrlarini röyxatlaydi yoki uni qidiruv sözi bilan belgilangan yorqinlikka örnatadi; masalan, ekran yorqinligi 50 ekranni maksimal yorqinlikning 50% igaça xiralaştiradi
+Set Brightness to %1% - Yorqinlikni %1% ga örnatiş
+Dim screen totally - Ekranni butunlay xiralaştiriş
+Dim screen by half - Ekranni yarmigaça xiralaştiriş
+Sleep - Kutiş rejimi
+Suspend to RAM - Tezkor xotiraga töxtatib turiş
+Hibernate - Gipernatsiya
+Suspend to disk - Diskka töxtatib turiş
+Hybrid sleep - Gibrid kutiş rejimi
+Sleep now and fall back to hibernate - Hozir kutiş rejimiga ötiş va keyin gipernatsiyaga ötiş
+screen brightness  - ekran yorqinligi 
+dim screen  - ekranni xiralaştiriş

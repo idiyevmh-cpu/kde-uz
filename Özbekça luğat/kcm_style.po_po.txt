@@ -1,0 +1,76 @@
+%1 is not a valid GTK Theme archive. - %1 yaroqli GTK mavzusi arxivi emas.
+Installation failed: Cannot install a style from a remote location. - Örnatiş muvaffaqiyatsiz tugadi: Masofaviy joylaşuvdan uslubni örnatib bölmaydi.
+Installation failed: The style file could not be read. - Örnatiş muvaffaqiyatsiz tugadi: Uslub faylini öqib bölmadi.
+Installation failed: The style file does not contain any data. - Örnatiş muvaffaqiyatsiz tugadi: Uslub faylida heç qanday maʼlumot yöq.
+Installation failed: The style file could not be unpacked. - Örnatiş muvaffaqiyatsiz tugadi: Uslub faylini arxivdan çiqarib bölmadi.
+Installation failed: The style could not be found. - Örnatiş muvaffaqiyatsiz tugadi: Uslub topilmadi.
+Installation failed: The selected file is not a valid Union style. - Örnatiş muvaffaqiyatsiz tugadi: Tanlangan fayl yaroqli Union uslubi emas.
+Installation failed: The selected style is not supported. - Örnatiş muvaffaqiyatsiz tugadi: Tanlangan uslub qöllab-quvvatlanmaydi.
+Installing “%1” failed: The style is already installed. - “%1” ni örnatiş muvaffaqiyatsiz tugadi: Uslub allaqaçon örnatilgan.
+Installing “%1” failed: Permission was denied. - “%1” ni örnatiş muvaffaqiyatsiz tugadi: Ruxsat berilmadi.
+Installing “%1” failed: %2 - “%1” ni örnatiş muvaffaqiyatsiz tugadi: %2
+Successfully installed “%1”. - “%1” muvaffaqiyatli örnatildi.
+Uninstall failed: The style with ID “%1” could not be found. - Öçiriş muvaffaqiyatsiz tugadi: “%1” identifikatorli uslub topilmadi.
+Uninstalling “%1” failed: Permission was denied. - “%1” ni öçiriş muvaffaqiyatsiz tugadi: Ruxsat berilmadi.
+Uninstalling “%1” failed: The style is not installed. - “%1” ni öçiriş muvaffaqiyatsiz tugadi: Uslub örnatilmagan.
+Uninstalling “%1” failed: The style is in use. - “%1” ni öçiriş muvaffaqiyatsiz tugadi: Uslub ayni paytda işlatilmoqda.
+Uninstalling “%1” failed: %2 - “%1” ni öçiriş muvaffaqiyatsiz tugadi: %2
+Could not uninstall styles:  - Uslublarni öçirib bölmadi: 
+Successfully uninstalled “%1” but could not uninstall others:  - “%1” muvaffaqiyatli öçirildi, ammo boşqalarini öçirib bölmadi: 
+Successfully uninstalled %1 style but could not uninstall others:  - %1 ta uslub muvaffaqiyatli öçirildi, ammo boşqalarini öçirib bölmadi: 
+Successfully uninstalled “%1”. - “%1” muvaffaqiyatli öçirildi.
+Successfully uninstalled %1 style - %1 uslubi muvaffaqiyatli öçirildi
+There was an error loading the configuration dialog for this style. - Uşbu uslub uçun moslaş oynasini yuklaşda xato röy berdi.
+Failed to apply selected style '%1'. - Tanlangan '%1' uslubini qöllab bölmadi.
+Configure %1 - %1 moslamasi
+Tab 1 - Varaq 1
+%p% - %p%
+Button - Tugma
+Combo box - Oçiluvçi röyxat
+Checkbox - Belgilaş katagi
+Radio button - Tanlaş tugmasi
+Text Field - Matn maydoni
+Tab 2 - Varaq 2
+Application style - Ilova uslubi
+Union Style ID - Union uslubi ID si
+Show icons on buttons - Tugmalarda belgilarni körsatiş
+Show icons in menus - Menyularda belgilarni körsatiş
+Main toolbar label - Asosiy asboblar paneli yorliği
+Secondary toolbar label - Ikkilamçi asboblar paneli yorliği
+Configure Icons and Toolbars - Belgilar va asboblar panellarini sozlaş
+Show icons: - Belgilarni körsatiş:
+On buttons - Tugmalarda
+In menus - Menyularda
+Main toolbar label: - Asosiy asboblar paneli yorliği:
+None - Yöq
+Text only - Faqat matn
+Beside icons - Belgilar yonida
+Below icon - Belgi ostida
+Secondary toolbar label: - Ikkilamçi asboblar paneli yorliği:
+GNOME/GTK Application Style - GNOME/GTK ilova uslubi
+Install from File… - Fayldan örnatiş…
+Get New… - Yangilarini oliş…
+GTK theme: - GTK mavzusi:
+Preview… - Oldindan köriş…
+Select GTK Theme Archive - GTK mavzusi arxivini tanlang
+GTK Theme Archive (*.tar.xz *.tar.gz *.tar.bz2) - GTK mavzusi arxivi (*.tar.xz *.tar.gz *.tar.bz2)
+Install From File… - Fayldan örnatiş…
+Configure Icons and Toolbars… - Belgilar va asboblar panellarini sozlaş…
+Configure GNOME/GTK Application Style… - GNOME/GTK ilova uslubini sozlaş…
+This style is using the Union style engine which is still under development. Some things may look or behave incorrectly when using this style. - Uşbu uslub hali işlab çiqilayotgan Union uslub mexanizmidan foydalanadi. Uşbu uslubdan foydalanganda baʼzi narsalar notöğri körinişi yoki notöğri işlaşi mumkin.
+Configure Style… - Uslubni sozlaş…
+Uninstall… - Öçiriş…
+Cannot uninstall system-installed styles. - Tizim tomonidan örnatilgan uslublarni öçirib bölmaydi.
+Can only uninstall Union styles. - Faqat Union uslublarini öçiriş mumkin.
+Do not uninstall this style. - Uşbu uslubni öçirmaslik.
+Choose Union Style to Install - Örnatiş uçun Union uslubini tanlang
+Install - Örnatiş
+Tab 1 - 1-ilova (Varaq)
+Tab 2 - 2-ilova (Varaq)
+Checkbox - Belgilaş katakçasi
+Radio Button - Radio tugma
+Combo Box - Oçiluvçi röyxat
+Combo Box Item - Oçiluvçi röyxat elementi
+Button - Tugma
+Text Field - Matn maydoni
+%1% - %1%

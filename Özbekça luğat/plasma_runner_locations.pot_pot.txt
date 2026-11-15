@@ -1,0 +1,5 @@
+Finds local directories and files, network locations and Internet sites with paths matching :q:. - :q: söziga mos keluvçi yöllar bilan mahalliy jildlar va fayllarni, tarmoq manzillarini va internet saytlarini topadi.
+Open %1 - %1 manzilini oçiş
+Launch with %1 - %1 bilan işga tuşiriş
+Go to %1 - %1 manziliga ötiş
+Send email to %1 - %1 manziliga e-poçta yuboriş

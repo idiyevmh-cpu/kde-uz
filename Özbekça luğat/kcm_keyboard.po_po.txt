@@ -1,0 +1,83 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Keyboard Layout Switcher - Klaviatura tartibini almaştirgiç
+Switch to Next Keyboard Layout - Keyingi klaviatura tartibiga ötiş
+Switch to Last-Used Keyboard Layout - Sönggi işlatilgan klaviatura tartibiga ötiş
+Switch keyboard layout to %1 - Klaviatura tartibini %1 ga almaştiriş
+Unknown - Nomaʼlum
+%1 | %2 - %1 | %2
+Keyboard Preview - Klaviaturani oldindan köriş
+Keyboard layout visualization - Klaviatura tartibi vizualizatsiyasi
+The keyboard geometry failed to load. This often indicates that the selected model does not support a specific layout or layout variant. This problem will likely also present when you try to use this combination of model, layout and variant. Previewing layouts that are defined outside your systems xkb directory is not supported and  will also trigger this message. These might still work fine if applied - Klaviatura geometriyasini yuklab bölmadi. Bu köpinça tanlangan model muayyan tartib yoki tartib variantini qöllab-quvvatlamasligini anglatadi. Bu muammo model, tartib va variantning uşbu birikmasidan foydalanişga uringaningizda ham yuzaga çiqişi mumkin. Tizimingizning xkb jildidan taşqarida aniqlangan tartiblarni oldindan köriş qöllab-quvvatlanmaydi va bu xabarni keltirib çiqaradi. Biroq, ular qöllanilganda töğri işlaşi mumkin
+Key Bindings - Tugmalar birikmasi
+Configure keyboard options - Klaviatura parametrlarini sozlaş
+Reset - Tiklaş
+Reset selected options for this group - Uşbu guruh uçun tanlangan parametrlarni tiklaş
+Reset selected options for this group - Uşbu guruh uçun tanlangan parametrlarni tiklaş
+Set Layout - Tartibni örnatiş
+Add Layout - Tartib qöşiş
+Short layout name - Tartibning qisqa nomi
+The abbreviated name of the selected layout, which will be displayed in the system tray. You can change this setting yourself. - Tanlangan tartibning tizim lotogida körsatiladigan qisqartirilgan nomi. Bu sozlamani özingiz özgartirişingiz mumkin.
+Shortcut: - Tezkor tugma:
+Preview - Oldindan köriş
+Configure Switching… - Almaştirişni sozlaş…
+Configure Switching - Almaştirişni sozlaş
+Key Bindings - Tugmalar birikmasi
+Key Bindings - Tugmalar birikmasi
+Add… - Qöşiş…
+Add layout - Tartib qöşiş
+Model: - Model:
+NumLock on startup: - Tizim işga tuşganda NumLock:
+Turn on - Yoqiş
+Turn off - Öçiriş
+Leave unchanged - Özgarişsiz qoldiriş
+Key repeat: - Tugma takrorlanişi:
+Key repeat - Tugma takrorlanişi
+Delay: - Keçikiş:
+Key repeat delay %1 - Tugma takrorlanişi keçikişi %1
+%1 ms - %1 ms
+ms - ms
+Rate: - Tezlik:
+Key repeat rate %1 - Tugma takrorlanişi tezligi %1
+%1 repeats/s - %1 takror/s
+repeats/s - takror/s
+Test area: - Sinov maydoni:
+Type here to test settings - Sozlamalarni sinaş uçun şu yerga yozing
+Layouts - Tartiblar
+Using system-wide layout “%1” - Tizim miqyosidagi “%1” tartibi işlatilmoqda
+To override this or add more layouts for this user account, press the <interface>Add…</interface> button. - Buni bekor qiliş yoki uşbu foydalanuvçi hisobi uçun köproq tartiblar qöşiş uçun <interface>Qöşiş…</interface> tugmasini bosing.
+Move Up - Yuqoriga köçiriş
+Move %1 layout up - %1 tartibini yuqoriga köçiriş
+Move Down - Pastga köçiriş
+Move %1 layout Down - %1 tartibini pastga köçiriş
+Preview - Oldindan köriş
+Remove - Olib taşlaş
+Remove layout %1 - %1 tartibini olib taşlaş
+Spare layouts: - Zaxira tartiblar:
+Number of spared main layouts - Zaxiradagi asosiy tartiblar soni
+main layouts - asosiy tartiblar
+You can have up to 4 main layouts, all other layouts are spare. Spare layouts are not included when cycling through the layouts, but can be accessed through the keyboard indicator applet or by setting a custom shortcut. - Sizda 4 tagaça asosiy tartib bölişi mumkin, qolgan barça tartiblar zaxira hisoblanadi. Zaxira tartiblar tartiblarni aylantirib almaştirişda iştirok etmaydi, lekin ularga klaviatura indikatori appleti orqali yoki maxsus tezkor tugma örnatiş orqali kiriş mumkin.
+Change layout shortcut: - Tartibni özgartiriş tezkor tugmasi:
+or - yoki
+Model & Layout - Model va tartib
+Keyboard Model - Klaviatura modeli
+Change Layout... - Tartibni özgartiriş...
+Key Repeat - Tugma takrorlanişi
+Customize Repeat - Takrorlanişni moslaştiriş
+Configure Switching - Almaştirişni sozlaş
+Behavior - Xulq-atvor
+Switching layout affects: - Tartibni almaştiriş quyidagilarga taʼsir qiladi:
+All windows - Barça oynalar
+All windows on current desktop - Joriy iş stolidagi barça oynalar
+All windows of current application - Joriy ilovaning barça oynalari
+Current window only - Faqat joriy oyna
+Show OSD popup on layout change - Tartib özgarganda OSD qalqib çiquvçi oynasini körsatiş
+Shortcuts - Tezkor tugmalar
+Change layout: - Tartibni özgartiriş:
+Switch to last used layout: - Sönggi işlatilgan tartibga ötiş:
+Legacy Shortcuts - Eski turdagi tezkor tugmalar
+Legacy X11 shortcuts allow finer control of modifier-only shortcuts and have slightly better support on X11 in edge cases. They can also be used on Wayland.<nl/><nl/>Setting these shortcuts will take you to the Key bindings page. - Eski X11 tezkor tugmalari faqat modifikatorlardan iborat tezkor tugmalarni aniqroq boşqariş imkonini beradi va murakkab holatlarda X11 da biroz yaxşiroq qöllab-quvvatlanadi. Ulardan Wayland da ham foydalaniş mumkin.<nl/><nl/>Uşbu tezkor tugmalarni sozlaş sizni Tugmalar birikmasi sahifasiga olib ötadi.
+Alternative symbols: - Muqobil belgilar:
+Modifier keys can be used to type additional characters, symbols, and diacritical marks. - Modifikator tugmalaridan qöşimça harflar, belgilar va diakritik belgilarni yoziş uçun foydalaniş mumkin.
+%1 shortcut - %1 tezkor tugmasi
+None - Yöq

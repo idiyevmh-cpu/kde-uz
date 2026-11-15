@@ -1,0 +1,4 @@
+Source text - Tarjima text
+display manager,themes,login theme,login screen,login skin,login visual,login look,authentication screen,session,default session,default user,user uid,login as, authenticate as - kiriş menejeri,mavzular,kiriş ekrani,kiriş mavzusi,autentifikatsiya ekrani,seans,standart seans,standart foydalanuvçi,kiriş
+Login Screen - Tizimga kiriş ekrani
+Configure Login Manager - Kiriş menejerini sozlaş

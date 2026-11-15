@@ -1,0 +1,5 @@
+Source text - Tarjima text
+Learn more about KDE Plasma - KDE Plasma haqida köproq bilib oling
+Welcome Center - Qutlov markazi (Xuş kelibsiz)
+Welcome;Wizard;Onboarding;Contribute;Get involved; - xuş kelibsiz;qutlov;usta;taniştiruv;hissa qöşiş;iştirok etiş;
+Welcome Center - Qutlov markazi

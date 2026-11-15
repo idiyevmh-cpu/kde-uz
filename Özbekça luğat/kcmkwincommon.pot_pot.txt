@@ -1,0 +1,9 @@
+Managing agent for composite desktop for KDE games - KDE öyinlari uçun kompozit iş stoli boşqaruv agenti
+KWin - KWin
+(c) 1999-2013, The KDE Developers - (c) 1999-2013, KDE dasturçilari
+Matthias Ettrich - Matthias Ettrich
+Cristian Tibirna - Cristian Tibirna
+Daniel M. Duley - Daniel M. Duley
+Luboš Luňák - Luboš Luňák
+Martin Gräßlin - Martin Gräßlin
+Maintainer - Taʼminotçi

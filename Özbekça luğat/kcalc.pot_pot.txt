@@ -1,0 +1,395 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+C1 - C1
+C2 - C2
+C3 - C3
+C4 - C4
+C5 - C5
+C6 - C6
+Follow system color scheme - Tizim ranglar sxemasidan foydalaniş
+Display Colors - Displey ranglari
+&Foreground: - &Matn rangi:
+&Background: - Orqa &fon:
+Button Colors - Tugmalar rangi
+Background - Orqa fon
+Foreground - Matn rangi
+&Functions: - &Funksiyalar:
+St&atistic functions: - &Statistik funksiyalar:
+He&xadecimals: - &Ön oltilik:
+&Numbers: - &Sonlar:
+&Memory: - &Xotira:
+O&perations: - &Amallar:
+&Constants: - &Doimiylar:
+Constants - Doimiylar
+Predefined - Oldindan belgilangan
+&Button font: - &Tugmalar şrifti:
+The font to use for the buttons - Tugmalardagi yozuvlar uçun işlatiladigan şrift
+&Display font: - &Displey şrifti:
+The font to use in the display - Displeydagi raqamlar uçun işlatiladigan şrift
+&History font: - &Tarix şrifti:
+The font to use in the history - Tarix oynasida işlatiladigan şrift
+General - Umumiy
+Precision - Aniqlik
+&Maximum number of digits: - &Maksimal raqamlar soni:
+Maximum number of digits displayed - Körsatiladigan maksimal raqamlar soni
+KCalc can compute with many more digits than the number that fits on the display. This setting gives the maximum number of digits displayed, before KCalc starts using scientific notation, i.e. notation of the type 2.34e12. - KCalc displeyga siğadiganidan ança köp raqamlar bilan hisob-kitob qila oladi. Uşbu parametr KCalc ilmiy (eksponensial) yozuvga, yaʼni 2.34e12 kabi yozuv turiga ötişidan oldin displeyda körsatiladigan maksimal raqamlar sonini belgilaydi.
+Whether to use fixed decimal places - Kasr qismida qatʼiy belgilangan xonalar sonidan foydalaniş
+Set &decimal precision - &Önlik kasr aniqligini belgilaş
+Number of fixed decimal digits - Kasr qismidagi qatʼiy belgilangan raqamlar soni
+Grouping - Guruhlaş
+Whether to group digits - Raqamlarni guruhlaşni belgilaydi
+Group digits - Raqamlarni guruhlaş
+Binary - Kilobytes (KB), Megabytes (MB), Gigabytes (GB) - Ikkilik - Kilobayt (KB), Megabayt (MB), Gigabayt (GB)
+Octal - Sakkizlik
+Hexadecimal - Ön oltilik
+Misc - Har xil
+Whether to beep on error - Xatolikda tovuşli signal çalişni belgilaydi
+&Beep on error - Xatoda tovuş &beriş
+Whether to show the result in the window title - Natijani oyna sarlavhasida körsatişni belgilaydi
+Show &result in window title - &Natijani oyna sarlavhasida körsatiş
+Whether to use Two's Complement for non-decimal numbers - Önlik bölmagan sonlar uçun ikkilik töldiruvçi koddan foydalaniş
+Select to use Two's Complement notation for Binary, Octal and Hexidecimal numbers. This is a common notation to represent negative numbers for non-decimal numbers in computers. - Ikkilik, sakkizlik va ön oltilik sanoq tizimlaridagi sonlar uçun ikkilik töldiruvçi kod (Two's Complement) yozuvidan foydalanişni tanlang. Bu kompyuterlarda önlik bölmagan manfiy sonlarni ifodalaşning keng tarqalgan usulidir.
+Two's complement - Ikkilik töldiruvçi kod
+Hex - Hex
+Dec - Dec
+Oct - Oct
+Bin - Bin
+Simple Mode - Oddiy rejim
+Science Mode - Ilmiy rejim
+Statistic Mode - Statistika rejimi
+Numeral System Mode - Sanoq tizimlari rejimi
+Show &History - &Tarixni körsatiş
+Constants &Buttons - &Doimiylar tugmalari
+Show B&it Edit - &Bitlarni tahrirlaşni körsatiş
+Force scientific notation - Majburiy ilmiy (eksponensial) yozuv
+&Constants - &Doimiylar
+M+ - M+
+Add display to memory - Displeydagi qiymatni xotiraga qöşiş
+M− - M−
+Subtract from memory - Xotiradan ayiriş
+&radic;x - &radic;x
+Square root - Kvadrat ildiz
+Cube root - Kub ildiz
+sin - sin
+Sine - Sinus
+asin - asin
+Arc sine - Arksinus
+sinh - sinh
+Hyperbolic sine - Giperbolik sinus
+asinh - asinh
+Inverse hyperbolic sine - Teskari giperbolik sinus
+cos - cos
+Cosine - Kosinus
+acos - acos
+Arc cosine - Arkkosinus
+cosh - cosh
+Hyperbolic cosine - Giperbolik kosinus
+acosh - acosh
+Inverse hyperbolic cosine - Teskari giperbolik kosinus
+tan - tan
+Tangent - Tangens
+atan - atan
+Arc tangent - Arktangens
+tanh - tanh
+Hyperbolic tangent - Giperbolik tangens
+atanh - atanh
+Inverse hyperbolic tangent - Teskari giperbolik tangens
+log - log
+Logarithm to base 10 - 10 asosli logarifm
+10<sup>x</sup> - 10<sup>x</sup>
+10 to the power of x - 10 ning x-darajasi
+ln - ln
+Natural log - Natural logarifm
+e<sup>x</sup> - e<sup>x</sup>
+Exponential function - Eksponensial funksiya
+i - i
+Imaginary unit - Mavhum birlik
+∠ - ∠
+Polar complex - Qutb şaklidagi kompleks son
+N - N
+Number of data entered - Kiritilgan maʼlumotlar soni
+Sum of all data items - Barça maʼlumotlar yiğindisi
+Mea - Mea
+Mean - Örtaça qiymat
+Sum of all data items squared - Barça maʼlumotlar kvadratlarining yiğindisi
+Standard deviation - Standart çetlaniş
+Sample standard deviation - Tanlanma standart çetlanişi
+Dat - Dat
+Enter data - Maʼlumotlarni kiritiş
+CDat - CDat
+Delete last data item - Oxirgi kiritilgan maʼlumotni öçiriş
+mod - mod
+Modulo - Böliş qoldiği (modul)
+IntDiv - IntDiv
+Integer division - Butun böliş
+1/x - 1/x
+Reciprocal - Teskari qiymat
+nCm - nCm
+n Choose m - n dan m ta kombinatsiya (binom koeffitsiyenti)
+x! - x!
+Factorial - Faktorial
+Gamma - Gamma-funksiya
+x<sup>2</sup> - x<sup>2</sup>
+Square - Kvadrat
+Third power - Kub (uçinçi daraja)
+x<sup>y</sup> - x<sup>y</sup>
+x to the power of y - x ning y-darajasi
+x<sup>1/y</sup> - x<sup>1/y</sup>
+x to the power of 1/y - x ning 1/y darajasi
+Exponent - Daraja körsatkiçi
+Shift - Shift
+M cleared - Xotira tozalandi
+Number of data entered =  - Kiritilgan maʼlumotlar soni = 
+Number of data entered = - Kiritilgan maʼlumotlar soni =
+Sum of all data items = - Barça maʼlumotlar yiğindisi =
+Mean =  - Örtaça qiymat = 
+Sum of squares = - Kvadratlar yiğindisi =
+Median = - Mediana =
+Median =  - Mediana = 
+DAT [ - DAT [
+] =  - ] = 
+Last stat data erased - Oxirgi statistik maʼlumot öçirildi
+Stat mem cleared - Statistik xotira tozalandi
+General Settings - Umumiy sozlamalar
+Fonts - Şriftlar
+Colors - Ranglar
+Button & Display Colors - Tugmalar va displey ranglari
+Define Constants - Doimiylarni belgilaş
+KCalc - KCalc
+KDE Calculator - KDE kalkulyatori
+Copyright © 2008-2013, Evan Teran Copyright © 2000-2026, The KDE Team Copyright © 2003-2005, Klaus Niederkrüger Copyright © 1996-2000, Bernd Johannes Wuebben - Copyright © 2008-2013, Evan Teran Copyright © 2000-2026, The KDE Team Copyright © 2003-2005, Klaus Niederkrüger Copyright © 1996-2000, Bernd Johannes Wuebben
+Gabriel Barrantes - Gabriel Barrantes
+Maintainer - Taʼminotçi
+Klaus Niederkrüger - Klaus Niederkrüger
+Bernd Johannes Wuebben - Bernd Johannes Wuebben
+Evan Teran - Evan Teran
+Espen Sand - Espen Sand
+Chris Howells - Chris Howells
+Aaron J. Seigo - Aaron J. Seigo
+Charles Samuels - Charles Samuels
+René Mérou - René Mérou
+Michel Marti - Michel Marti
+David Johnson - David Johnson
+Niklas Freund - Niklas Freund
+The foreground color of the display. - Displey matnining rangi.
+The background color of the display. - Displey orqa fonining rangi.
+The color of number buttons. - Raqamli tugmalar rangi.
+The color of function buttons. - Funksiya tugmalari rangi.
+The color of statistical buttons. - Statistik tugmalar rangi.
+The color of hex buttons. - Ön oltilik tugmalar rangi.
+The color of memory buttons. - Xotira tugmalari rangi.
+The color of operation buttons. - Amallar tugmalari rangi.
+The color of constants buttons. - Doimiylar tugmalari rangi.
+The color of number fonts. - Raqamli tugmalar şriftining rangi.
+The color of function fonts. - Funksiya tugmalari şriftining rangi.
+The color of statistical fonts. - Statistik tugmalar şriftining rangi.
+The color of hex fonts. - Ön oltilik tugmalar şriftining rangi.
+The color of memory fonts. - Xotira tugmalari şriftining rangi.
+The color of operation font. - Amallar tugmalari şriftining rangi.
+The color of constants fonts. - Doimiylar tugmalari şriftining rangi.
+The font to use for the buttons. - Tugmalardagi yozuvlar uçun işlatiladigan şrift.
+The font to use in the display. - Displeydagi raqamlar uçun işlatiladigan şrift.
+The font to use in the history. - Tarix oynasida işlatiladigan şrift.
+Maximum number of digits displayed. - Körsatiladigan maksimal raqamlar soni.
+ 	KCalc can compute with many more digits than the number that 	fits on the display. This setting gives the maximum number of 	digits displayed, before KCalc starts using scientific notation, 	i.e. notation of the type 2.34e12.        -  	KCalc displeyga siğadiganidan ança köp raqamlar bilan hisob-kitob 	qila oladi. Uşbu parametr KCalc ilmiy (eksponensial) yozuvga, 	yaʼni 2.34e12 kabi yozuv turiga ötişidan oldin displeyda körsatiladigan 	maksimal raqamlar sonini belgilaydi.       
+Number of fixed decimal digits. - Kasr qismidagi qatʼiy belgilangan raqamlar soni.
+Whether to use fixed decimal places. - Kasr qismida qatʼiy belgilangan xonalar sonidan foydalaniş.
+Whether to beep on error. - Xatolikda tovuşli signal çalişni belgilaydi.
+Whether to show the result in the window title. - Natijani oyna sarlavhasida körsatişni belgilaydi.
+Whether to group digits. - Raqamlar guruhini ajratuvçini körsatiş.
+Whether to use Two's Complement for non-decimal numbers. - Önlik bölmagan sonlar uçun ikkilik töldiruvçi koddan foydalaniş.
+         Select to use Two's Complement notation for Binary, Octal         and Hexidecimal numbers. This is a common notation to represent         negative numbers in computers.        -          Ikkilik, sakkizlik va ön oltilik sanoq tizimlaridagi sonlar uçun         ikkilik töldiruvçi kod (Two's Complement) yozuvidan foydalanişni tanlang.         Bu kompyuterlarda manfiy sonlarni ifodalaşning keng tarqalgan usulidir.       
+Easy Calculator Mode - Oddiy kalkulyator rejimi
+A very simple mode where only the basic calculator buttons are shown - Faqat asosiy hisoblaş tugmalari körsatiladigan juda oddiy rejim
+Science Calculator Mode - Ilmiy kalkulyator rejimi
+Mode with science buttons and optional constants buttons - Ilmiy hisoblaş tugmalari va ixtiyoriy doimiylar tugmalariga ega rejim
+Statistic Calculator Mode - Statistik kalkulyator rejimi
+Mode with additional statistics buttons and optional constants buttons - Qöşimça statistik hisoblaş tugmalari va ixtiyoriy doimiylar tugmalariga ega rejim
+Mode with logic buttons and selectable base. Optional bit edit available. - Mantiqiy amal tugmalari va sanoq tizimini tanlaş imkoniyatiga ega rejim. Ixtiyoriy bit tahrirlovçisi mavjud.
+Whether to show the bit edit widget. - Bitlarni tahrirlaş panelini körsatiş.
+Whether to show constant buttons. - Doimiylar tugmalarini körsatiş.
+Whether to show the history window. - Tarix oynasini körsatiş.
+Degrees, radians or grads - Darajalar, radianlar yoki gradlar
+Numeric base - Sanoq tizimi asosi
+Force to show calculation results in scientific notation. - Hisoblaş natijalarini majburiy ravişda ilmiy (eksponensial) yozuvda körsatiş.
+Binary figures will be separated by a whitespace after every Xth digit. - Ikkilik raqamlar har X ta raqamdan keyin böş joy bilan ajratiladi.
+             For easier reading it's possible to visually group the individual digits into pairs             for example instead of 10111001 you can display 1011 1001, by setting the setting to             4, thus inserting a whitespace after every 4th digit.          -              Osonroq öqiş uçun alohida raqamlarni vizual ravişda guruhlaş mumkin,             masalan, uşbu parametrni 4 ga sozlab, har 4-raqamdan keyin böş joy qöyiş orqali             10111001 örniga 1011 1001 körinişida aks ettiriş mumkin.         
+Octal figures will be separated by a whitespace after every Xth digit. - Sakkizlik raqamlar har X ta raqamdan keyin böş joy bilan ajratiladi.
+             For easier reading it's possible to visually group the individual digits into pairs             for example instead of 42140213 you can display 4214 0213, by setting the setting to             4, thus inserting a whitespace after every 4th digit.          -              Osonroq öqiş uçun alohida raqamlarni vizual ravişda guruhlaş mumkin,             masalan, uşbu parametrni 4 ga sozlab, har 4-raqamdan keyin böş joy qöyiş orqali             42140213 örniga 4214 0213 körinişida aks ettiriş mumkin.         
+Hexadecimal figures will be separated by a whitespace after every Xth digit. - Ön oltilik raqamlar har X ta raqamdan keyin böş joy bilan ajratiladi.
+             For easier reading it's possible to visually group the individual digits into pairs             for example instead of AF1C42 you can display AF 1C 42, by setting the setting to             2, thus inserting a whitespace after every 2nd digit.          -              Osonroq öqiş uçun alohida raqamlarni vizual ravişda guruhlaş mumkin,             masalan, uşbu parametrni 2 ga sozlab, har 2-raqamdan keyin böş joy qöyiş orqali             AF1C42 örniga AF 1C 42 körinişida aks ettiriş mumkin.         
+Name of the user programmable constants. - Foydalanuvçi dasturlaydigan doimiylar nomi.
+List of user programmable constants - Foydalanuvçi dasturlaydigan doimiylar röyxati
+Dec - Dec
+Result Display - Natija displeyi
+Click on a Bit to toggle it. - Bit qiymatini almaştiriş uçun uning ustiga bosing.
+&Deg - &Deg (Daraja)
+&Rad - &Rad (Radian)
+&Grad - &Grad
+Switch base - Sanoq tizimini almaştiriş
+x2 - x²
+B - B
+Bitwise OR - Bitli OR (YOKI)
+OR - OR
+E - E
+Sin - Sin
+S - S
+C2 - C2
+C - C
+EXP - EXP
+Mod - Mod
+N - N
+Log - Log
+L - L
+Tan - Tan
+T - T
+F - F
+Bitwise AND - Bitli AND (VA)
+AND - AND
+C6 - C6
+A - A
+D - D
+C1 - C1
+Hyperbolic mode - Giperbolik rejim
+Hyp - Hyp
+H - H
+Bitwise XOR - Bitli XOR (ISTISNOLI YOKI)
+XOR - XOR
+Mea - Mea
+x! - x!
+Dat - Dat
+C3 - C3
+One's complement - Teskari kod (birlik töldiruvçi)
+Cmp - Cmp
+Clear data store - Maʼlumotlar xotirasini tozalaş
+CSt - CSt
+Right bit shift - Bitlarni öngga suriş
+Rsh - Rsh
+Cos - Cos
+1/X - 1/X
+R - R
+Ln - Ln
+Imaginary Unit - Mavhum birlik
+i - i
+Median - Mediana
+Med - Med
+C5 - C5
+C4 - C4
+SD - SD
+Left bit shift - Bitlarni çapga suriş
+Lsh - Lsh
+sqrt - √
+pow - xⁿ
+Six - Olti
+6 - 6
+Two - Ikki
+2 - 2
+Percent - Foiz
+Percentage - Foiz
+% - %
+Nine - Töqqiz
+9 - 9
+Four - Tört
+4 - 4
+Five - Beş
+5 - 5
+Minus - Minus
+Subtract - Ayiriş
+− - −
+Plus - Plyus
+Add - Qöşiş
++ - +
+One - Bir
+1 - 1
+Division - Böliş
+Divide - Böliş
+÷ - ÷
+Multiplication - Köpaytiriş
+Multiply - Köpaytiriş
+× - ×
+Zero - Nol
+0 - 0
+Decimal point - Önlik nuqta (vergul)
+. - .
+Three - Uç
+3 - 3
+Result - Natija
+Equals - Teng
+= - =
+Seven - Yetti
+7 - 7
+Eight - Sakkiz
+8 - 8
+Clear all - Hammasini tozalaş
+All clear - Hammasini tozalaş
+AC - AC
+Memory clear - Xotirani tozalaş
+MC - MC
+Memory recall - Xotiradan öqiş
+MR - MR
+Change sign - Işorani özgartiriş
++/− - +/−
+Open parenthesis - Qavsni oçiş
+( - (
+Clear - Tozalaş
+Add to memory - Xotiradagi songa qöşiş
+M+ - M+
+Memory store - Xotirada saqlaş
+MS - MS
+Close parenthesis - Qavsni yopiş
+) - )
+Return - Qaytariş (Enter)
+← - ←
+Backspace - Backspace
+Second button function - Tugmaning ikkinçi funksiyasi
+Shift - Shift
+Ctrl+2 - Ctrl+2
+Bit %1 = %2 - Bit %1 = %2
+Store - Saqlaş
+Write display data into memory - Displeydagi sonni xotiraga yoziş
+Set Name - Nom beriş
+Choose From List - Röyxatdan tanlaş
+New Name for Constant - Doimiyning yangi nomi
+New name: - Yangi nomi:
+Mathematics - Matematika
+Electromagnetism - Elektromagnetizm
+Atomic && Nuclear - Atom va yadro fizikasi
+Thermodynamics - Termodinamika
+Gravitation - Tortişiş (Gravitatsiya)
+Result Display - Natija displeyi
+&Copy - &Nusxa oliş
+NORM - NORM
+SHIFT - SHIFT
+DEC - DEC
+BIN - BIN
+OCT - OCT
+HEX - HEX
+DEG - DEG
+RAD - RAD
+GRA - GRA
+M - M
+BIN - BIN
+OCT - OCT
+DEC - DEC
+HEX - HEX
+DEG - DEG
+RAD - RAD
+GRA - GRA
+&Settings - Soz&lamalar
+Pi - Pi soni
+Euler Number - Eyler soni
+Golden Ratio - Oltin nisbat
+Light Speed - Yoruğlik tezligi
+Planck's Constant - Plank doimiysi
+Gravitational Constant - Gravitatsion doimiy
+Earth Acceleration - Erkin tuşiş tezlanişi (Yerda)
+Elementary Charge - Elementar zaryad
+Impedance of Vacuum - Vakuumning tölqin qarşiligi
+Fine-Structure Constant - Nozik tuziliş doimiysi
+Permeability of Vacuum - Magnit doimiysi
+Permittivity of Vacuum - Elektr doimiysi
+Boltzmann Constant - Bolsman doimiysi
+Atomic Mass Unit - Atom massa birligi
+Molar Gas Constant - Molyar gaz doimiysi
+Stefan-Boltzmann Constant - Stefan-Bolsman doimiysi
+Avogadro's Number - Avogadro soni

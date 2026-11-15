@@ -1,0 +1,30 @@
+Source text - Tarjima text
+Blue Deep - Çuqur kök
+Cherry Blossom - Olça guli
+Chrome - Xrom
+Desert - Sahro
+Evening Lilac - Oqşom nastarini
+Highland Mist - Toğli tuman
+Honeycomb - Asalari uyasi
+Midnight Meadow - Yarim tun ötloği
+Norway - Norvegiya
+Obsidian Coast - Obsidian qirğoği
+Steel - Pölat
+Stone Orchid - Toş orxideyasi
+Terra - Yer (Terra)
+White Peach - Oq şaftoli
+Whitewater - Şiddatli oqim
+Wonton Soup - Vonton şörva
+Zion - Sion
+Zion (Reversed) - Sion (teskari)
+Oxygen Cold - Sovuq Oxygen
+Oxygen - Oxygen
+Oxygen Dark - Töq Oxygen
+KDE Classic - Klassik KDE
+The default cursor theme in KDE 2 and 3 - KDE 2 va 3 dagi standart kursor mavzusi
+Oxygen Black - Qora Oxygen
+Oxygen mouse theme. Oxygenize your desktop! - Oxygen siçqonça mavzusi. Iş stolingizni nafislaştiring!
+Oxygen Blue - Kök Oxygen
+Oxygen Yellow - Sariq Oxygen
+Oxygen Zion - Oxygen Sion
+Widget style for the Plasma desktop - Plasma iş stoli uçun vidjet uslubi

@@ -1,0 +1,2 @@
+Finds shortcuts with names or descriptions matching :q: or gets the name of a shortcut - :q: söziga mos keluvçi nom yoki tavsifga ega tezkor tugmalarni topadi yoki tezkor tugma nomini oladi
+%1 - %2 - %1 - %2

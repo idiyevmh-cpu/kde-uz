@@ -1,0 +1,24 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Select User - Foydalanuvçini tanlang
+%1 (%2) - %1 (%2)
+(c) 2009 Red Hat, Inc. - (c) 2009 Red Hat, Inc.
+Lukáš Tinkl - Lukáš Tinkl
+Maintainer - Taʼminotçi
+Jaroslav Reznik - Jaroslav Reznik
+Former maintainer - Sobiq taʼminotçi
+Another client is already authenticating, please try again later. - Boşqa mijoz allaqaçon autentifikatsiyadan ötmoqda, iltimos keyinroq qayta urinib köring.
+No user to authenticate as. Please check your system configuration. - Autentifikatsiya qiliş uçun foydalanuvçi yöq. Iltimos, tizim sozlamalarini tekşiring.
+Authentication Required - Autentifikatsiya talab qilinadi
+Authentication failure, please try again. - Autentifikatsiya muvaffaqiyatsiz böldi, iltimos qayta urinib köring.
+Change user - Foydalanuvçini almaştiriş
+Authenticating as %1 - %1 sifatida autentifikatsiya qilinmoqda
+Password… - Parol…
+OK - OK
+Cancel - Bekor qiliş
+User: %1 - Foydalanuvçi: %1
+Details - Tafsilotlar
+Action: - Amal:
+ID: - ID:
+Vendor: - Işlab çiqaruvçi:
+Switch… - Almaştiriş…

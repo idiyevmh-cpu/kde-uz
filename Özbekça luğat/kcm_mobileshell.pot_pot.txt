@@ -1,0 +1,49 @@
+Shell - Qobiq (Shell)
+General - Umumiy
+Shell Vibrations - Qobiq tebranişlari
+Animations - Animatsiya
+If this is off, animations will be reduced as much as possible. - Öçirilsa, animatsiyalar imkon qadar kamaytiriladi.
+Auto Hide Panels - Panellarni avtomatik yaşiriş
+Auto-hide the status and navigation panels to allow applications to always be in fullscreen. - Ilovalar doimo töliq ekranda bölişi uçun holat va navigatsiya panellarini avtomatik yaşiriş.
+Double Tap to Wakeup - Uyğotiş uçun ikki marta bosing
+When the screen is off, double tap to wakeup the device. - Ekran öçiq bölganda qurilmani uyğotiş uçun ikki marta bosing.
+Confirm Close All - Barçasini yopişni tasdiqlaş
+Require confirmation before closing all apps in the task switcher. - Vazifalar almaştirgiçida barça ilovalarni yopişdan oldin tasdiqlaşni talab qiliş.
+Status Bar - Holat paneli
+Date in status bar - Holat panelidagi sana
+If on, date will be shown next to the clock in the status bar. - Yoqilgan bölsa, sana holat panelidagi soat yonida körsatiladi.
+Battery Percentage - Batareya foizi
+Show battery percentage in the status bar. - Holat panelida batareya foizini körsatiş.
+Status Bar Size - Holat paneli ölçami
+Size of the top panel (needs restart). - Yuqori panel ölçami (qayta işga tuşiriş talab qilinadi).
+Tiny - &Juda kiçik
+Small - &Kiçik
+Normal - Oddiy
+Large - K&atta
+Very Large - Juda katta
+Action Drawer - Harakatlar tortmasi
+Pinned Mode - Qadalgan rejim
+Expanded Mode - Kengaytirilgan rejim
+Quick Settings - Tezkor sozlamalar
+Top Left Drawer Mode - Yuqori çap tortma rejimi
+Mode when opening from the top left. - Yuqori çap tomondan oçilgandagi rejim.
+Top Right Drawer Mode - Yuqori öng tortma rejimi
+Mode when opening from the top right. - Yuqori öng tomondan oçilgandagi rejim.
+Lock Screen Shortcuts - Qulf ekrani yorliqlari
+None - Yöq
+Flashlight - Fonarçik
+Camera - Fotoaparat
+Left button - Çap tugma
+Right button - Öng tugma
+Hide - &Bekitiş
+Show - Körsatiş
+Quick Settings Columns - Tezkor sozlamalar ustunlari
+Maximum number of columns in landscape orientation. - Gorizontal (manzara) yönalişdagi ustunlarning maksimal soni.
+Customize the order of quick settings in the pull-down panel and hide them. - Pastga tortiladigan paneldagi tezkor sozlamalar tartibini sozlang va ularni yaşiring.
+Disabled Quick Settings - Öçirilgan tezkor sozlamalar
+Re-enable previously disabled quick settings. - Avval öçirilgan tezkor sozlamalarni qayta yoqiş.
+Whether to have vibrations enabled in the shell. - Qobiqda tebranişlar yoqilgan bölişi kerakmi yoki yöq.
+Vibration duration (ms) - Tebraniş davomiyligi (ms)
+How long shell vibrations should be. - Qobiq tebranişlari qança davom etişi kerak.
+Reset to default duration - Standart davomiylikka tiklaş
+Keyboard vibrations are controlled separately in the keyboard settings module. - Klaviatura tebranişlari klaviatura sozlamalari modulida alohida boşqariladi.

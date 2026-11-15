@@ -1,0 +1,18 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+SSH Credentials - SSH hisob maʼlumotlari
+KDE version of ssh-askpass - ssh-askpass dasturining KDE talqini
+(c) 2006 Hans van Leeuwen\n(c) 2008-2010 Armin Berres\n(c) 2013 Pali Rohár - (c) 2006 Hans van Leeuwen\n(c) 2008-2010 Armin Berres\n(c) 2013 Pali Rohár
+Ksshaskpass allows you to interactively prompt users for a passphrase for ssh-add - Ksshaskpass foydalanuvçilardan ssh-add uçun maxfiy iborani interaktiv söraş imkonini beradi
+Armin Berres - Armin Berres
+Current author - Hozirgi muallif
+Hans van Leeuwen - Hans van Leeuwen
+Original author - Asl muallif
+Pali Rohár - Pali Rohár
+Contributor - Hissa qöşuvçi
+Prompt - Sörov
+Please enter passphrase - Iltimos, maxfiy iborani kiriting
+Accept - Qabul qiliş
+Unknown SSH Host Key - Nomaʼlum SSH xost kaliti
+Yes - Ha
+Remember password - Parolni eslab qoliş

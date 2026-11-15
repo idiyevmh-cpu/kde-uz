@@ -1,0 +1,71 @@
+Enable media controls on: - Media boşqaruvini quyidagilarda yoqiş:
+Media Controls - Media boşqaruvi
+Plasma Browser Integration - Plasma brauzer integratsiyasi
+The native host disconnected unexpectedly. - Mahalliy xost kutilmaganda uzilib qoldi.
+This extension is only supported on Linux and FreeBSD. - Uşbu kengaytma faqat Linux va FreeBSD-da qöllab-quvvatlanadi.
+Unsupported operating system - Qöllab-quvvatlanmaydigan operatsion tizim
+Make sure the 'plasma-browser-integration' package is installed correctly and that you are running Plasma 5.13 or later. - 'plasma-browser-integration' paketi töğri örnatilganligiga va sizda Plasma 5.13 yoki undan keyingi versiyasi işlayotganligiga işonç hosil qiling.
+Failed to connect to the native host. - Mahalliy xostga ulanib bölmadi.
+Visit project wiki page for more information - Köproq maʼlumot oliş uçun loyiha viki-sahifasiga taşrif buyuring
+Unknown Error - Nomaʼlum xato
+Call on '$1' - '$1' orqali qönğiroq qiliş
+Open on '$1' - '$1' da oçiş
+Open via KDE Connect - KDE Connect orqali oçiş
+If you find an issue, please check the <a href="$1">list of open bugs</a> and then <a href="$2">file a bug report</a>. - Agar muammo topsangiz, iltimos, <a href="$1">oçiq xatolar röyxatini</a> tekşiring va keyin <a href="$2">xato haqida hisobot yuboring</a>.
+View Changelog - Özgarişlar jurnalini köriş
+© 2017-2020 Kai Uwe Broulik and David Edmundson - © 2017-2020 Kai Uwe Broulik va David Edmundson
+This browser extension was created by the <a href="$1">KDE Community</a>. You can find more information about this project on the <a href="$2">KDE Community Wiki</a>. - Uşbu brauzer kengaytmasi <a href="$1">KDE hamjamiyati</a> tomonidan yaratilgan. Uşbu loyiha haqida batafsil maʼlumotni <a href="$2">KDE hamjamiyati vikisida</a> topişingiz mumkin.
+If you like what you saw, please consider <a href="$1">donating to KDE</a>, so we can continue to make the best free software possible. - Agar sizga körganlaringiz maʼqul kelgan bölsa, imkon qadar eng yaxşi erkin dasturiy taʼminotni yaratişda davom etişimiz uçun <a href="$1">KDE-ga xayriya qilişni</a> öylab köring.
+Extension version: $1 - Kengaytma versiyasi: $1
+Host version: $1 - Xost versiyasi: $1
+KDE is a world-wide community of software engineers, artists, writers, translators and creators who are committed to <a href="$1">Free Software</a> development. KDE produces the Plasma desktop environment, hundreds of applications, and the many software libraries that support them. KDE is a cooperative enterprise: no single entity controls its direction or products. Instead, we work together to achieve the common goal of building the world's finest Free Software. Everyone is welcome to <a href="$2">join and contribute</a> to KDE, including you. Visit <a href="$3">$3</a> for more information about the KDE community and the software we produce. - KDE — bu <a href="$1">Erkin dasturiy taʼminot</a> işlab çiqişga sodiq bölgan dasturiy taʼminot muhandislari, rassomlar, yozuvçilar, tarjimonlar va ijodkorlarning butunjahon hamjamiyatidir. KDE Plasma iş stoli muhitini, yuzlab ilovalarni va ularni qöllab-quvvatlaydigan köplab dasturiy taʼminot kutubxonalarini işlab çiqaradi. KDE — bu hamkorlikdagi taşkilot: heç bir yakka tuzilma uning yönalişi yoki mahsulotlarini nazorat qilmaydi. Buning örniga, biz dunyodagi eng yaxşi Erkin dasturiy taʼminotni yaratişdek umumiy maqsadga erişiş uçun birgalikda işlaymiz. Har kim, jumladan siz ham KDE-ga <a href="$2">qöşilişingiz va hissa qöşişingiz</a> mumkin. KDE hamjamiyati va biz işlab çiqarayotgan dasturiy taʼminot haqida köproq maʼlumot oliş uçun <a href="$3">$3</a> saytiga taşrif buyuring.
+License: <a href="$1">GNU General Public License Version 3</a> - Litsenziya: <a href="$1">GNU General Public License 3-versiyasi</a>
+Translated by: $1 - Tarjimon: $1
+Your names - Mashrab Quvatov
+Plasma Search - Plasma qidiruvi
+This extension is not supported on this operating system. - Uşbu kengaytma bu operatsion tizimda qöllab-quvvatlanmaydi.
+This may interfere with the appearance of websites that already apply a custom styling to their scroll bars. - Bu öz aylantiriş çiziqlariga allaqaçon maxsus uslub qöllaydigan veb-saytlarning körinişiga xalaqit berişi mumkin.
+Use Breeze-style scroll bars - Breeze uslubidagi aylantiriş çiziqlaridan foydalaniş
+Add downloaded files to recent documents - Yuklab olingan fayllarni oxirgi hujjatlarga qöşiş
+Prevent system from going to sleep when downloading - Yuklab oliş vaqtida tizimning uyqu rejimiga ötişini oldini oliş
+Save URL a file was downloaded from in the file's attributes - Fayl yuklab olingan URL manzilni fayl atributlarida saqlaş
+Note: The URL may contain sensitive information that could be disclosed when the file is accessible by or shared with others - Eslatma: URL manzilda fayl boşqalar uçun oçiq bölganda yoki ular bilan baham körilganda oşkor bölişi mumkin bölgan maxfiy maʼlumotlar bölişi mumkin
+Show downloads in notification area - Yuklab olişlarni bildirişnomalar hududida körsatiş
+Search through browser history - Brauzer tarixi böyiça qidiriş
+Adds a context menu entry to links enabling you to send them to your phone and other paired devices using <a href="$1">KDE Connect</a>. - Havolalarga ularni <a href="$1">KDE Connect</a> yordamida telefoningizga va boşqa juftlangan qurilmalarga yuboriş imkonini beruvçi kontekst menyusi bandini qöşadi.
+Send via KDE Connect - KDE Connect orqali yuboriş
+Lets you control video and audio players in websites using the Media Controller plasmoid. - Media boşqaruvçisi plazmoidi yordamida veb-saytlardagi video va audio pleyerlarni boşqariş imkonini beradi.
+Block media controls on the following domains: - Quyidagi domenlarda media boşqaruvini bloklaş:
+Extract metadata and thumbnails of currently playing content. - Hozirda ijro etilayotgan kontentning metamaʼlumotlari va eskizlarini ajratib oliş.
+Enhanced Media Controls - Kengaytirilgan media boşqaruvi
+Media Controls - Media boşqaruvi
+Adds a "Share..." context menu entry. - "Ulaşiş..." kontekst menyusi bandini qöşadi.
+Content Sharing - Kontent ulaşiş
+Make sure the “Browser Tabs” module is enabled in <a id="$1" href="$2">Plasma Search settings</a>. - <a id="$1" href="$2">Plasma qidiruv sozlamalari</a>da “Brauzer varaqlari” moduli yoqilganligiga işonç hosil qiling.
+Find browser tabs in “Run Command” window - Brauzer varaqlarini “Buyruqni bajariş” oynasidan topiş
+Saving settings failed - Sozlamalarni saqlaş muvaffaqiyatsiz tugadi
+Settings successfully saved - Sozlamalar muvaffaqiyatli saqlandi
+About - Haqida
+General - Umumiy
+Media Controls - Media boşqaruvi
+Plasma Integration Settings - Plasma integratsiyasi sozlamalari
+You have already granted this permission. - Siz uşbu ruxsatni allaqaçon bergansiz.
+Request Permission - Ruxsat söraş
+Revoke Permission - Ruxsatni qaytarib oliş
+In order to provide search results for your browser history, additional permissions are required. - Brauzer tarixi böyiça qidiruv natijalarini taqdim etiş uçun qöşimça ruxsatlar talab qilinadi.
+You can disable this feature in <a id="$1" href="$2">Plasma search settings</a>. - Bu xususiyatni <a id="$1" href="$2">Plasma qidiruv sozlamalari</a>da öçirib qöyişingiz mumkin.
+Additional permissions required - Qöşimça ruxsatlar talab qilinadi
+Share... - Ulaşiş...
+Could not share this content: $1 - Uşbu kontentni ulaşib bölmadi: $1
+Sharing Failed - Ulaşiş muvaffaqiyatsiz tugadi
+The shared content link ($1) has been copied to the clipboard. - Ulaşilgan kontent havolasi ($1) vaqtinçalik xotiraga nusxalandi.
+Content Shared - Kontent ulaşildi
+Multitask efficiently by controlling browser functions from the desktop, even while Chrome is in the background. Manage audio and video playback, check downloads in the notification area, send files to your phone using KDE Connect and more inside the KDE Plasma Desktop!
+
+The plasma-browser-integration package must be installed for this extension to work. It should be available from your distribution's package manager when running Plasma 5.13 or later.
+
+NOTE: This extension is not supported on Debian. - Hatto Chrome orqa fonda bölganda ham brauzer funksiyalarini iş stolidan boşqariş orqali samarali köp vazifali işlang. KDE Plasma iş stoli içida audio va video ijrosini boşqaring, bildirişnomalar hududida yuklab olişlarni tekşiring, KDE Connect yordamida telefoningizga fayllar yuboring va hokazo!
+
+Uşbu kengaytma işlaşi uçun plasma-browser-integration paketi örnatilgan bölişi kerak. Plasma 5.13 yoki undan keyingi versiyasi işlatilganda u distributivingizning paket menejerida mavjud bölişi kerak.
+
+ESLATMA: Uşbu kengaytma Debian-da qöllab-quvvatlanmaydi.

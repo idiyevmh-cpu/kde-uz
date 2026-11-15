@@ -1,0 +1,28 @@
+Settings - Sozlamalar
+Touch-friendly settings application. - Sensorli boşqaruvga moslaştirilgan sozlamalar ilovasi.
+© 2011-2025 KDE Community - © 2011-2025 KDE hamjamiyati
+Devin Lin - Devin Lin
+Maintainer - Taʼminotçi
+Sebastian Kügler - Sebastian Kügler
+Previous Maintainer - Oldingi taʼminotçi
+Marco Martin - Marco Martin
+List available settings modules - Mavjud sozlamalar modullarini röyxatlaş
+Limit to modules suitable for <formfactor>, e.g. handset, tablet, mediacenter, desktop, test, all (default handset) - <formfactor> ga mos keladigan modullar bilan çeklaş, masalan, handset, tablet, mediacenter, desktop, test, all (birlamçi handset)
+formfactor - form-faktor
+Settings module to open - Oçiladigan sozlamalar moduli
+modulename - modulnomi
+Only show a single module, requires --module - Faqat bitta modulni körsatiş, --module parametrini talab qiladi
+Start window fullscreen - Oynani töliq ekranda boşlaş
+Package to use for the UI (default org.kde.mobile.settings) - Foydalanuvçi interfeysi uçun işlatiladigan paket (birlamçi org.kde.mobile.settings)
+packagename - paketnomi
+Navigate Back - Orqaga qaytiş
+System Settings - Tizim sozlamalari
+Open a configuration page from the sidebar. - Yon paneldan sozlaş sahifasini oçing.
+Reset - Qayta tiklaş
+Defaults - Birlamçi holatlar
+Apply - Qöllaş
+Search… - Qidiriş…
+Show menu - Menyuni körsatiş
+Show Modules for All Platforms - Barça platformalar uçun modullarni körsatiş
+About Plasma Settings - Plasma sozlamalari haqida
+About KDE - KDE haqida

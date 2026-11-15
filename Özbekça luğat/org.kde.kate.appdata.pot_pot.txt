@@ -1,0 +1,20 @@
+Source text - Tarjima text
+Kate - Kate
+Advanced text editor - Kengaytirilgan matn muharriri
+Kate is a fast multi-document, multi-view text editor for programmers by KDE. - Kate — bu KDE tomonidan dasturçilar uçun yaratilgan, bir vaqtning özida bir neçta hujjat va körinişlar bilan işlay oladigan tezkor matn muharriri.
+Features: - Xususiyatlari:
+MDI, window splitting, window tabbing - Köp oynali rejim, oynani böliş, içki varaqlar
+Spell checking - Imlo tekşiruvi
+Syntax highlighting for 300+ languages - 300 dan ortiq dasturlaş tillari uçun sintaksisni ajratib körsatiş
+Code and text folding - Kod va matn bloklarini yiğiş (folding)
+Multiple cursors and multiple selections - Bir neçta kursorlar va bir neçta tanlovlar
+Block selection mode - Blokli tanlaş rejimi
+Auto indentation - Avtomatik xatboşi taşlaş (indentatsiya)
+Auto completion support - Avtomatik töldiriş imkoniyati
+Integrated terminal - Örnatilgan terminal
+Vi mode - Vi (Vim) rejimi
+Intellisense support using LSP (Language Server Protocol) - LSP yordamida intellektual kod töldiriş (IntelliSense)
+Git integration - Git bilan integratsiya
+Editing code with Kate - Kate bilan kod tahrirlaş
+Kate with split view - Oynasi bölingan holdagi Kate
+Kate in dark mode - Qoronği mavzudagi Kate

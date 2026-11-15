@@ -1,0 +1,79 @@
+Events - Voqealar
+Add… - Qöşiş…
+Add a new event - Yangi voqea qöşiş
+No events for today - Bugun uçun heç qanday voqealar yöq
+No events for this day - Bu kun uçun heç qanday voqealar yöq
+Time Zones - Vaqt mintaqalari
+Switch… - Almaştiriş…
+Switch to another time zone - Boşqa vaqt mintaqasiga almaştiriş
+Appearance - Taşqi köriniş
+Calendar - Taqvim
+Information: - Maʼlumot:
+Show date - Sanani körsatiş
+Adaptive location - Moslaşuvçan joylaşuv
+Always beside time - Har doim vaqt yonida
+Always below time - Har doim vaqt ostida
+Show seconds: - Soniyalarni körsatiş:
+Never - Heç qaçon
+Only in the tooltip - Faqat qalqib çiquvçi maslahatda
+Always - Har doim
+Show time zone: - Vaqt mintaqasini körsatiş:
+Only when different from local time zone - Faqat mahalliy vaqt mintaqasidan farq qilganda
+Display time zone as: - Vaqt mintaqasini şunday körsatiş:
+Code - Kod
+City - Şahar
+Offset from UTC time - UTC vaqtidan siljiş
+Switch Time Zone… - Vaqt mintaqasini almaştiriş…
+Time display: - Vaqt körinişi:
+12-Hour - 12 soatlik
+Use region defaults - Hududiy birlamçi sozlamalardan foydalaniş
+24-Hour - 24 soatlik
+Change Regional Settings… - Hududiy sozlamalarni özgartiriş…
+Date format: - Sana formati:
+Long date - Töliq sana
+Short date - Qisqa sana
+ISO date - ISO sana
+Custom - Moslaştirilgan
+<a href="https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-method">Time Format Documentation</a> - <a href="https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-method">Vaqt formati hujjatlari</a>
+Text display: - Matn körinişi:
+Automatic - Avtomatik
+Text will follow the system font and expand to fill the available space. - Matn tizim şriftiga moslaşadi va böş joyni töldiriş uçun kengayadi.
+Manual - Qölda
+Choose Style… - Uslubni tanlaş…
+%1pt %2 - %1pt %2
+Note: size may be reduced if the panel is not thick enough. - Eslatma: agar panel yetarliça qalin bölmasa, hajm qisqarişi mumkin.
+Choose a Font - Şriftni tanlaş
+General: - Umumiy:
+Show week numbers - Hafta raqamlarini körsatiş
+First day of week: - Haftaning birinçi kuni:
+Available Add-Ons - Mavjud qöşimçalar
+Cancel - Bekor qiliş
+Add Selected Time Zone - Tanlangan vaqt mintaqasini qöşiş
+Add Time Zone… - Vaqt mintaqasini qöşiş…
+Clock is currently using this time zone - Soat ayni paytda uşbu vaqt mintaqasidan foydalanmoqda
+Hidden while this is the local time zone's city - Bu mahalliy vaqt mintaqasi şahri bölganda yaşiriladi
+Switch Systemwide Time Zone… - Tizim böyiça vaqt mintaqasini almaştiriş…
+Remove this time zone - Uşbu vaqt mintaqasini olib taşlaş
+Systemwide Time Zone - Tizim böyiça vaqt mintaqasi
+Additional Time Zones - Qöşimça vaqt mintaqalari
+Add more time zones to display all of them in the applet's pop-up, or use one of them for the clock itself - Ularning barçasini aplet qalqib çiquvçi oynasida körsatiş yoki soatning özi uçun ulardan birini işlatiş maqsadida köproq vaqt mintaqalarini qöşing
+Tip: Add your home time zone to this list to see the time there even when you're traveling. It will not be shown twice while at home. - Maslahat: Sayohat paytida ham vaqtni köriş uçun asosiy vaqt mintaqangizni uşbu röyxatga qöşing. Uyda bölganingizda u ikki marta körsatilmaydi.
+Switch displayed time zone by scrolling over clock applet - Soat apletining ustida ğildirakçani aylantiriş orqali körsatilgan vaqt mintaqasini almaştiriş
+Using this feature does not change the systemwide time zone. When you travel, switch the systemwide time zone instead. - Uşbu xususiyatdan foydalaniş butun tizim böyiça vaqt mintaqasini özgartirmaydi. Sayohat qilganingizda, buning örniga tizim böyiça vaqt mintaqasini almaştiring.
+Choose Time Zone - Vaqt mintaqasini tanlaş
+ • %1 hour later -  • %1 soat keyin
+ • %1:%2 later -  • %1:%2 keyin
+ • %1 hour earlier -  • %1 soat oldin
+ • %1:%2 earlier -  • %1:%2 oldin
+Copy to Clipboard - Almaşiş buferiga nusxalaş
+Time zone is not set; click here to open Date & Time settings and set one - Vaqt mintaqasi örnatilmagan; Sana va vaqt sozlamalarini oçiş va uni örnatiş uçun bu yerni bosing
+Other Calendars - Boşqa taqvimlar
+%1 (UNIX Time) - %1 (UNIX vaqti)
+%1 (Julian Date) - %1 (Yulian sanasi)
+Local - Mahalliy
+System's local time zone - Tizimning mahalliy vaqt mintaqasi
+Today is %1 - Bugun %1
+Time zone is not set - Vaqt mintaqasi örnatilmagan
+Click the clock icon to open Date & Time settings and set a time zone. - Sana va vaqt sozlamalarini oçiş hamda vaqt mintaqasini örnatiş uçun soat belgisini bosing.
+%1: - %1:
+Middle-click to open %1 - %1 ilovasini oçiş uçun siçqonçaning örta tugmasini bosing

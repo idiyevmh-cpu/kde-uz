@@ -1,0 +1,138 @@
+Clipboard history: - Almaşiş buferi tarixi:
+%v entry - %v ta yozuv
+Selection and Clipboard: - Tanlov va almaşiş buferi:
+When text or an area of the screen is highlighted with the mouse or keyboard, this is the <emphasis>selection</emphasis>. It can be pasted using the middle mouse button.<nl/><nl/>If the selection is explicitly copied using a <interface>Copy</interface> or <interface>Cut</interface> action, it is saved to the <emphasis>clipboard</emphasis>. It can be pasted using a <interface>Paste</interface> action.<nl/><nl/>When turned on, this option keeps the selection and the clipboard the same,  so that any selection is immediately available to paste by any means. If it is turned off, the selection may still be saved in the clipboard history (subject to the option below), but it can only be pasted using the middle mouse button. - Matn yoki ekranning biror qismi siçqonça yoxud klaviatura yordamida belgilanganda, bu <emphasis>tanlov</emphasis> hisoblanadi. Uni siçqonçaning örta tugmasi yordamida joylaştiriş mumkin.<nl/><nl/>Agar tanlov <interface>Nusxa oliş</interface> yoki <interface>Qirqib oliş</interface> amali yordamida aniq nusxalansa, u <emphasis>almaşiş buferi</emphasis>ga saqlanadi. Uni <interface>Joylaştiriş</interface> amali yordamida joylaştiriş mumkin.<nl/><nl/>Bu parametr yoqilganda, tanlov va almaşiş buferi bir xil saqlanadi, şuning uçun har qanday tanlovni darhol istalgan usul bilan joylaştiriş mumkin böladi. Agar u öçirilgan bölsa, tanlov hali ham almaşiş buferi tarixida saqlanişi mumkin (quyidagi parametrga boğliq holda), lekin uni faqat siçqonçaning örta tugmasi yordamida joylaştiriş mumkin böladi.
+Text selected with the pointer or keyboard - Körsatkiç yoki klaviatura yordamida tanlangan matn
+Include in history: - Tarixga qöşiş:
+Text copied explicitly is always saved unless it is marked as a password. - Aniq nusxalangan matn, agar parol sifatida belgilanmagan bölsa, doimo saqlanadi.
+Image data copied explicitly - Aniq nusxalangan rasm maʼlumotlari
+For example, layers and selections copied in image editors like Krita or GIMP.<br/><a href="1">More about images in the clipboard.</a> - Masalan, Krita yoki GIMP kabi tasvir muharrirlarida nusxalangan qatlamlar va tanlovlar.<br/><a href="1">Almaşiş buferidagi rasmlar haqida batafsil.</a>
+Clipboard will always allow copying image files as filenames and will show their thumbnails.  This setting covers cases where images are stored directly as data.  Some applications support both cases, but some only accept images as data.<nl/><nl/>Also note that the Spectacle screenshot tool will ignore this setting when configured to save screenshots to the clipboard. Any application that sends both text and image will also ignore it. - Almaşiş buferi doimo rasm fayllarini fayl nomlari sifatida nusxalaşga ruxsat beradi va ularning kicik tasvirlarini (eskizlarini) körsatadi. Uşbu sozlama rasmlar bevosita maʼlumot sifatida saqlanadigan holatlarni qamrab oladi. Baʼzi ilovalar ikkala holatni ham qöllab-quvvatlaydi, baʼzilari esa rasmlarni faqat maʼlumot sifatida qabul qiladi.<nl/><nl/>Şuningdek, Spectacle ekran tasvirini oliş vositasi skrinşotlarni almaşiş buferiga saqlaşga sozlanganda uşbu sozlamani eʼtiborsiz qoldirişini unutmang. Ham matn, ham rasm yuboradigan har qanday ilova ham uni eʼtiborsiz qoldiradi.
+On the <interface>Actions Configuration</interface> page, enable the <interface>Offer applications for copied links and files</interface> setting or enable at least one action to make settings on this page have any effect. - Uşbu sahifadagi sozlamalar kuçga kirişi uçun <interface>Amallar moslamasi</interface> sahifasida <interface>Nusxalangan havolalar va fayllar uçun ilovalarni taklif qiliş</interface> sozlamasini yoqing yoki kamida bitta amalni faollaştiring.
+Show action popup menu: - Amal qalqib çiquvçi menyusini körsatiş:
+When text that matches an action pattern is copied, selected or chosen from the clipboard history, automatically show the popup menu with applicable actions. For files, this only applies when they are copied or chosen from history.<nl/><nl/>The menu can also be reached by using the <shortcut>%1</shortcut> key shortcut or with a button for each matching entry in the history. - Amal andozasiga mos keladigan matn nusxalanganda, belgilanganda yoki almaşiş buferi tarixidan tanlanganda, qöllanişi mumkin bölgan amallar bilan qalqib çiquvçi menyuni avtomatik ravişda körsatiş. Fayllar uçun bu faqat ular nusxalanganda yoki tarixdan tanlanganda amal qiladi.<nl/><nl/>Menyuga <shortcut>%1</shortcut> tugmalar birikmasi orqali yoki tarixdagi har bir mos yozuv uçun tugma yordamida ham ötiş mumkin.
+%v second - %v soniya
+None - Yöq
+Options: - Parametrlar:
+Match pattern and commands - Moslik andozasi va buyruqlar
+Description - Tavsifi
+Add Action… - Amal qöşiş…
+Edit Action… - Amalni tahrirlaş…
+Delete Action - Amalni öçiriş
+Delete the selected action <resource>%1</resource><nl/>and all of its commands? - Tanlangan <resource>%1</resource> amali<nl/>va uning barça buyruqlari öçirib taşlansinmi?
+Confirm Delete Action - Amalni öçirişni tasdiqlaş
+General - Umumiy
+General Configuration - Umumiy moslama
+Actions Configuration - Amallar moslamasi
+Actions Configuration - Amallar moslamasi
+Action Menu - Amallar menyusi
+Action Menu - Amallar menyusi
+Shortcuts - Tezkor tugmalar
+Shortcuts Configuration - Tezkor tugmalar moslamasi
+Return to Clipboard - Almaşiş buferiga qaytiş
+Copy - Nusxa oliş
+An image of the QR code has been copied to clipboard - QR kod tasviri almaşiş buferiga nusxalandi
+Copy QR code image to clipboard - QR kod tasvirini almaşiş buferiga nusxalaş
+QR Code - QR kod
+There is not enough space to display the QR code. Try resizing this applet. - QR kodni körsatiş uçun joy yetarli emas. Uşbu applet ölçamini özgartirib köring.
+Creating QR code failed - QR kodni yaratiş muvaffaqiyatsiz tugadi
+Collapse - Yiğiş
+Expand - Kengaytiriş
+Clear History - Tarixni tozalaş
+Configure Clipboard… - Almaşiş buferini sozlaş…
+All History - Barça tarix
+Starred Only - Faqat yulduzçali (sevimli)lar
+The clipboard and the selection currently hold a sensitive piece of data that will not be stored in history. - Almaşiş buferi va tanlov hozirda tarixda saqlanmaydigan maxfiy maʼlumotni uşlab turibdi.
+The clipboard currently holds a sensitive piece of data that will not be stored in history. - Almaşiş buferi hozirda tarixda saqlanmaydigan maxfiy maʼlumotni uşlab turibdi.
+The selection currently holds a sensitive piece of data that will not be stored in history. - Tanlov hozirda tarixda saqlanmaydigan maxfiy maʼlumotni uşlab turibdi.
+Clear Secret Data - Maxfiy maʼlumotlarni tozalaş
+No matches - Mos keluvçilar topilmadi
+Clipboard is empty - Almaşiş buferi böş
+Invoke action - Amalni çaqiriş
+Show QR code - QR kodni körsatiş
+Edit contents - Tarkibni tahrirlaş
+Remove from history - Tarixdan olib taşlaş
+Remove Star - Yulduzçani olib taşlaş
+Star - Yulduzça qöyiş (Sevimlilarga qöşiş)
+Text edit area - Matnni tahrirlaş maydoni
+Save - Saqlaş
+Cancel - Bekor qiliş
++%1 - +%1
+Ignore - Eʼtibor berilmasin
+Replace Clipboard - Almaşiş buferini almaştiriş
+Add to Clipboard - Almaşiş buferiga qöşiş
+Command - Buyruq
+Output - Çiqiş
+Description - Tavsifi
+Action Properties - Amal xossalari
+An action takes effect when its <interface>match pattern</interface> matches the clipboard contents. When this happens, the action's <interface>commands</interface> appear in the Klipper popup menu; if one of them is chosen, the command is executed. - Amal uning <interface>moslik andozasi</interface> almaşiş buferi tarkibiga mos kelganda kuçga kiradi. Bu sodir bölganda, amalning <interface>buyruqlari</interface> Klipper qalqib çiquvçi menyusida paydo böladi; agar ulardan biri tanlansa, buyruq bajariladi.
+Enter a pattern to match against the clipboard - Almaşiş buferi bilan soliştiriş uçun andozani kiriting
+Match pattern: - Moslik andozasi:
+The match pattern is a regular expression. For more information see the <link url="https://en.wikipedia.org/wiki/Regular_expression">Wikipedia entry</link> for this topic. - Moslik andozasi muntazam ifoda (regular expression) hisoblanadi. Qöşimça maʼlumot oliş uçun uşbu mavzu böyiça <link url="https://en.wikipedia.org/wiki/Regular_expression">Vikipediya maqolasi</link>ga qarang.
+Enter a description for the action - Amal uçun tavsif kiriting
+Description: - Tavsifi:
+Include in automatic popup - Avtomatik qalqib çiquvçi menyuga qöşiş
+The commands for this match will be included in the automatic action popup, if it is enabled in the <interface>Action Menu</interface> page. If this option is turned off, the commands for this match will not be included in the automatic popup but they will be included if the popup is activated manually with the <shortcut>%1</shortcut> key shortcut. - Agar <interface>Amallar menyusi</interface> sahifasida yoqilgan bölsa, uşbu moslik buyruqlari avtomatik amal qalqib çiquvçi menyusiga qöşiladi. Agar bu parametr öçirilgan bölsa, uşbu moslik buyruqlari avtomatik qalqib çiquvçi menyuga qöşilmaydi, lekin qalqib çiquvçi menyu <shortcut>%1</shortcut> tezkor tugmasi yordamida qölda faollaştirilsa, ular qöşiladi.
+Add Command… - Buyruq qöşiş…
+Edit Command… - Buyruqni tahrirlaş…
+Delete Command - Buyruqni öçiriş
+Delete the selected command <resource>%1</resource>? - Tanlangan <resource>%1</resource> buyruği öçirib taşlansinmi?
+Confirm Delete Command - Buyruqni öçirişni tasdiqlaş
+Command Properties - Buyruq xossalari
+Enter the command and arguments - Buyruq va argumentlarni kiriting
+Command: - Buyruq:
+A <b>&#37;s</b> in the command will be replaced by the complete clipboard contents. <b>&#37;0</b> through <b>&#37;9</b> will be replaced by the corresponding captured texts from the match pattern. - Buyruqdagi <b>&#37;s</b> almaşiş buferining töliq tarkibi bilan almaştiriladi. <b>&#37;0</b> dan <b>&#37;9</b> gaça bölgan qismlar moslik andozasidan tutib olingan tegişli matnlar bilan almaştiriladi.
+Enter a description for the command - Buyruq uçun tavsif kiriting
+Output from command: - Buyruq çiqişi (natijasi):
+Replace current clipboard - Joriy almaşiş buferini almaştiriş
+Append to clipboard - Almaşiş buferiga qöşiş
+What happens to the standard output of the command executed. - Bajarilgan buyruqning standart çiqişi bilan nima sodir bölişi.
+Reset the icon to the default for the command - Belgini buyruq uçun birlamçi holatga qaytariş
+Icon: - Belgi:
+Do you really want to clear and delete the entire clipboard history? - Haqiqatan ham butun bufer tarixini tozalab, öçirib taşlamoqçimisiz?
+Clear Clipboard History - Bufer tarixini tozalaş
+Do not ask again - Boşqa söralmasin
+%1x%2 - %1×%2
+This item is starred. Do you really want to remove it from history? - Uşbu elementga yulduzça qöyilgan. Haqiqatan ham uni tarixdan olib taşlamoqçimisiz?
+Remove Starred Item - Yulduzçali elementni olib taşlaş
+Clipboard - Almaşiş buferi
+Toggle Automatic Popping Up of Action Menu - Amallar menyusining avtomatik qalqib çiqişini yoqiş/öçiriş
+C&lear Clipboard History - Almaşiş buferi tarixini &tozalaş
+Manually Invoke Action on Current Clipboard - Joriy almaşiş buferida amalni qölda çaqiriş
+&Edit Contents… - Tarkibni &tahrirlaş…
+&Show Barcode… - Ştrix-kodni &körsatiş…
+Rotate History Down - Tarixni pastga aylantiriş
+Rotate History Up - Tarixni yuqoriga aylantiriş
+Show Clipboard Items at Mouse Position - Almaşiş buferi elementlarini siçqonça joylaşuvida körsatiş
+Clipboard history - Almaşiş buferi tarixi
+Newer:  - Yangiroq: 
+Current:  - Joriy: 
+Older:  - Eskiroq: 
+Klipper version - Klipper versiyasi
+Save history across desktop sessions - Tarixni iş stoli seanslari oraliğida saqlaş
+Retain the clipboard history, so it will be available the next time you log in. - Keyingi safar tizimga kirganingizda mavjud bölişi uçun almaşiş buferi tarixini saqlab qoliş.
+Prevent the clipboard from being cleared - Almaşiş buferi tozalanişining oldini oliş
+Do not allow the clipboard to be cleared, for example when an application exits. - Masalan, ilova yopilganda almaşiş buferi tozalanişiga ruxsat bermaslik.
+Keep the selection and clipboard the same - Tanlov va almaşiş buferini bir xil saqlaş
+Content selected with the pointer is automatically copied to the clipboard so that it can be pasted with either a <i>Paste</i> action or a middle-click.<br/><a href="1">More about the selection and clipboard</a>. - Körsatkiç bilan tanlangan tarkib avtomatik ravişda almaşiş buferiga nusxalanadi, natijada uni <i>Joylaştiriş</i> amali yoki siçqonçaning örta tugmasini bosiş orqali joylaştiriş mumkin böladi.<br/><a href="1">Tanlov va almaşiş buferi haqida batafsil</a>.
+Save the selection - Tanlovni saqlaş
+Content selected with the pointer but not explicitly copied to the clipboard is automatically stored in the clipboard history. - Körsatkiç bilan tanlangan, lekin almaşiş buferiga aniq nusxalanmagan tarkib avtomatik ravişda almaşiş buferi tarixida saqlanadi.
+Save images - Rasmlarni saqlaş
+Store images in the clipboard history. - Rasmlarni almaşiş buferi tarixida saqlaş.
+When text or a file is copied - Matn yoki fayl nusxalanganda
+Show the popup menu as soon as text or file is copied. - Matn yoki fayl nusxalanişi bilanoq qalqib çiquvçi menyuni körsatiş.
+When text is selected - Matn tanlanganda
+Show the popup menu as soon as text is selected, without waiting for it to be copied. - Matn nusxalanişini kutmasdan, u tanlanişi bilanoq qalqib çiquvçi menyuni körsatiş.
+Automatic action menu time: - Avtomatik amallar menyusi vaqti:
+Display the automatic action popup menu for this time. - Avtomatik amallar qalqib çiquvçi menyusini şu vaqt davomida körsatiş.
+History size: - Tarix hajmi:
+The clipboard history will store up to this many items. Maximum is 2048. - Almaşiş buferi tarixi şu miqdorgaça elementlarni saqlaydi. Maksimal qiymat — 2048.
+Dummy entry for indicating changes in an action's tree widget - Amalning daraxtsimon vidjetidagi özgarişlarni körsatiş uçun sinov yozuvi
+Trim whitespace - Böş joylarni qirqib taşlaş
+Remove any whitespace from the start and end of the text passed to an action. The text saved in history is not affected. - Amalga uzatilgan matnning boşi va oxiridagi har qanday böş joylarni olib taşlaş. Tarixda saqlangan matnga taʼsir qilmaydi.
+When an item is chosen from history - Tarixdan element tanlanganda
+Show the popup menu of applicable actions if an entry is chosen from the clipboard history. - Agar almaşiş buferi tarixidan yozuv tanlansa, qöllanişi mumkin bölgan amallarning qalqib çiquvçi menyusini körsatiş.
+Offer applications for copied links and files - Nusxalangan havolalar va fayllar uçun ilovalarni taklif qiliş
+For a link starting with <i>http://</i> or <i>https://</i> or for files, applications that can open them will be offered alongside your matching actions, if any. - <i>http://</i> yoki <i>https://</i> bilan boşlanadigan havola yoxud fayllar uçun, ularni oça oladigan ilovalar mos keladigan amallaringiz (agar mavjud bölsa) bilan bir qatorda taklif qilinadi.
+Clipboard Popup - Almaşiş buferi qalqib çiquvçi oynasi
+&Cancel - &Bekor qiliş

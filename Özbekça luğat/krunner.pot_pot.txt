@@ -1,0 +1,13 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+KRunner - KRunner
+Run Command interface - Buyruqlarni bajariş interfeysi
+Use the clipboard contents as query for KRunner - Almaşiş buferi tarkibidan KRunner sörovi sifatida foydalaniş
+Searç… - Qidiriş…
+Configure KRunner Behavior - KRunner işlaş tartibini sozlaş
+Configure KRunner… - KRunner tizimini sozlaş…
+Pin Searç - Qidiruvni mahkamlaş
+Keep Open - Oçiq qoldiriş
+Recent Queries - Sönggi sörovlar
+Remove - Olib taşlaş

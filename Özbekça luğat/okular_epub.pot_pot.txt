@@ -1,0 +1,5 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Error while opening the EPub document. - EPub hujjatini oçişda xatolik yuz berdi.
+EPub - EPub
+EPub Backend Configuration - EPub bekendi sozlamalari

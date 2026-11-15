@@ -1,0 +1,66 @@
+Run - Işga tuşiriş
+Run time (milliseconds): - Işlaş vaqti (millisoniyalarda):
+Probe level: - Tekşiriş darajasi (probe level):
+User operations layout module: - Foydalanuvçi amallari tartibi moduli:
+User classes file: - Foydalanuvçi sinflari fayli:
+Base period: - Asosiy davr:
+Reduction core count: - Qisqartiriş yadrolari soni:
+Time core count: - Vaqt yadrolari soni:
+System - Tizim
+Model inertia success rate threshold: - Model inersiyasi muvaffaqiyat darajasi çegarasi:
+Model inertia count threshold: - Model inersiyasi soni çegarasi:
+Targeted pattern extractor delta success rate threshold: - Maqsadli naqş ajratib oluvçi delta muvaffaqiyat darajasi çegarasi:
+Minimum simulation time horizon: - Minimal simulyatsiya vaqt ufqi:
+Maximum simulation time horizon: - Maksimal simulyatsiya vaqt ufqi:
+Simulation time horizon: - Simulyatsiya vaqt ufqi:
+Targeted pattern extractor time horizon: - Maqsadli naqş ajratib oluvçi vaqt ufqi:
+Perf sampling period: - Unumdorlikdan namuna oliş davri:
+Float tolerance: - Suzuvçi nuqtali sonlar xatoligi (tolerance):
+Timer tolerance: - Taymer xatoligi (tolerance):
+Primary time horizon: - Birlamçi vaqt ufqi:
+Secondary time horizon: - Ikkilamçi vaqt ufqi:
+Notification marker resilience: - Bildirişnoma belgisi barqarorligi:
+Goal prediction success resilience: - Maqsadni başorat qiliş muvaffaqiyati barqarorligi:
+Debug - Nosozliklarni tuzatiş (Debug)
+Debug: - Nosozliklarni tuzatiş:
+Debug windows: - Nosozliklarni tuzatiş oynalari:
+Traces: - Izlar:
+Composite inputs - Kompozit kirişlar
+Composite outputs - Kompozit çiqişlar
+Model inputs - Model kirişlari
+Model outputs - Model çiqişlari
+Prediction monitoring - Başorat monitoringi
+Goal monitoring - Maqsad monitoringi
+Model revision - Model qayta körib çiqilişi (revision)
+Model/composite injections - Model/kompozit inyeksiyalari
+Decompile objects: - Obyektlarni dekompilyatsiya qiliş:
+Decompile to file: - Faylga dekompilyatsiya qiliş:
+Ignore named objects: - Nomlangan obyektlarni eʼtiborsiz qoldiriş:
+Dump objects to file: - Obyektlarni faylga tökiş (dump):
+Test objects: - Sinov obyektlari:
+Decompile models: - Modellarni dekompilyatsiya qiliş:
+Ignore named models: - Nomlangan modellarni eʼtiborsiz qoldiriş:
+Dump models to file: - Modellarni faylga tökiş (dump):
+Test models: - Sinov modellari:
+Path to replicode executor: - Replicode bajaruvçisiga yöl:
+Replicode - Replicode
+Replicode configuration - Replicode sozlamalari
+Run replicode - Replicode-ni işga tuşiriş
+Stop replicode - Replicode-ni töxtatiş
+Replicode Config - Replicode sozlamalari
+Run (%1) - Işga tuşiriş (%1)
+Stop (%1) - Töxtatiş (%1)
+Active Document Not Found - Faol hujjat topilmadi
+Could not find an active document to run. - Işga tuşiriş uçun faol hujjat topilmadi.
+Empty Document - Böş hujjat
+Cannot execute an empty document. - Böş hujjatni bajarib bölmaydi.
+File Not Found - Fayl topilmadi
+Unable to open source file for reading. - Manba faylini öqiş uçun oçib bölmadi.
+Replicode Executable Not Found - Replicode bajariladigan fayli topilmadi
+Unable to find replicode executor.
+Please go to settings and set the path to the Replicode executable. - Replicode bajaruvçisi topilmadi. Iltimos, sozlamalarga öting va Replicode bajariladigan fayliga yölni belgilang.
+User Operator Library Not Found - Foydalanuvçi operatori kutubxonasi topilmadi
+Unable to find user operator library.
+Please go to settings and set the path to the library. - Foydalanuvçi operatori kutubxonasi topilmadi. Iltimos, sozlamalarga öting va kutubxonaga yölni belgilang.
+Replicode execution failed: %1 - Replicode bajarişi muvaffaqiyatsiz tugadi: %1
+Replicode execution finished. - Replicode bajarişi yakunlandi.

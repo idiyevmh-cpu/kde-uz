@@ -1,0 +1,1077 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Okular - Okular
+Okular, a universal document viewer - Okular — universal hujjat köruvçi dastur
+(C) 2002 Wilco Greven, Christophe Devriese (C) 2004-2005 Enrico Ros (C) 2005 Piotr Szymanski (C) 2004-2017 Albert Astals Cid (C) 2006-2009 Pino Toscano - (C) 2002 Wilco Greven, Christophe Devriese (C) 2004-2005 Enrico Ros (C) 2005 Piotr Szymanski (C) 2004-2017 Albert Astals Cid (C) 2006-2009 Pino Toscano
+Pino Toscano - Pino Toscano
+Former maintainer - Oldingi taʼminlovçi
+Tobias Koenig - Tobias Koenig
+Lots of framework work, FictionBook backend and former ODT backend - Katta hajmdagi tizim işlari, FictionBook va avvalgi ODT bekendlari
+Albert Astals Cid - Albert Astals Cid
+Developer - Dasturçi
+Piotr Szymanski - Piotr Szymanski
+Created Okular from KPDF codebase - KPDF kod bazasidan Okular dasturini yaratgan
+Enrico Ros - Enrico Ros
+KPDF developer - KPDF dasturçisi
+Eugene Trounev - Eugene Trounev
+Annotations artwork - Izohlar dizayni va grafikasi
+Jiri Baum - NICTA - Jiri Baum - NICTA
+Table selection tool - Jadval tanlaş vositasi
+Fabio D'Urso - Fabio D'Urso
+Annotation improvements - Izohlar tizimini takomillaştiriş
+Go to page %1 - %1-sahifaga ötiş
+Open external file - Taşqi faylni oçiş
+Execute '%1'… - '%1' ni işga tuşiriş…
+First Page - Birinçi sahifa
+Previous Page - Oldingi sahifa
+Next Page - Keyingi sahifa
+Last Page - Oxirgi sahifa
+Back - Orqaga
+Forward - Oldinga
+Quit - Çiqiş
+Start Presentation - Taqdimotni boşlaş
+End Presentation - Taqdimotni yakunlaş
+Find… - Qidiriş…
+Go To Page… - Sahifaga ötiş…
+Play sound… - Tovuşni ijro etiş…
+JavaScript Script - JavaScript skripti
+Play movie… - Videoni ijro etiş…
+Play movie - Videoni ijro etiş
+Stop movie - Videoni töxtatiş
+Pause movie - Videoni vaqtinça töxtatiş
+Resume movie - Videoni davom ettiriş
+This Okular is built without audio support - Uşbu Okular audio qöllab-quvvatlovisiz yiğilgan
+Backend Selection - Bekendni tanlaş
+<qt>More than one backend found for the MIME type:<br /><b>%1</b> (%2).<br /><br />Please select which one to use:</qt> - <qt>Uşbu MIME turi uçun bittadan ortiq bekend topildi:<br /><b>%1</b> (%2).<br /><br />Iltimos, qaysi biridan foydalanişni tanlang:</qt>
+Most pages are %1. - Aksariyat sahifalar — %1.
+Portrait %1 - Kitobiy %1
+Landscape %1 - Albomiy %1
+%1 × %2 in (%3) - %1 × %2 dyuym (%3)
+%1 × %2 mm (%3) - %1 × %2 mm (%3)
+Continuing search from beginning - Qidiriş hujjat boşidan davom ettirilmoqda
+Continuing search from bottom - Qidiriş hujjat oxiridan davom ettirilmoqda
+Can not find a plugin which is able to handle the document being passed. - Uzatilgan hujjatga işlov bera oladigan plagin topilmadi.
+Signing not implemented for this document type - Uşbu hujjat turi uçun imzolaş amalga oşirilmagan
+remove annotations - izohlarni olib taşlaş
+The document is trying to execute an external application and, for your safety, Okular does not allow that. - Hujjat taşqi ilovani işga tuşirişga urinmoqda va xavfsizligingiz uçun Okular bunga ruxsat bermaydi.
+No application found for opening file of mimetype %1. - %1 MIME turidagi faylni oçiş uçun heç qanday ilova topilmadi.
+Could not open a temporary file - Vaqtinçalik faylni oçib bölmadi
+Print conversion failed - Çop etiş uçun ögiriş amalga oşmadi
+Printing process crashed - Çop etiş jarayoni avariyaviy töxtadi
+Printing process could not start - Çop etiş jarayonini boşlab bölmadi
+Printing to file failed - Faylga çop etiş amalga oşmadi
+Printer was in invalid state - Printer yaroqsiz holatda edi
+Unable to find file to print - Çop etiş uçun fayl topilmadi
+There was no file to print - Çop etiş uçun heç qanday fayl yöq edi
+Could not find a suitable binary for printing. Make sure CUPS lpr binary is available - Çop etiş uçun mos dastur topilmadi. CUPS lpr dasturi mavjudligiga işonç hosil qiling
+The page print size is invalid - Sahifani çop etiş ölçami yaroqsiz
+Could not open '%1'. File does not exist - '%1' ni oçib bölmadi. Fayl mavjud emas
+Title - Sarlavha
+Subject - Mavzu
+Description - Tavsifi
+Author - Muallif
+Creator - Yaratuvçi
+Producer - Işlab çiqaruvçi
+Copyright - Mualliflik huquqi
+Pages - Sahifalar
+Created - Yaratilgan
+Modified - Özgartirilgan
+MIME Type - MIME turi
+Category - Turkum
+Keywords - Kalit sözlar
+File Path - Fayl yöli
+File Size - Fayl hajmi
+Page Size - Sahifa ölçami
+add annotation - izoh qöşiş
+remove annotation - izohni olib taşlaş
+modify annotation properties - izoh xossalarini özgartiriş
+translate annotation - izohni köçiriş
+adjust annotation - izohni moslaştiriş
+edit text - matnni tahrirlaş
+edit annotation contents - izoh tarkibini tahrirlaş
+edit form contents - şakl (forma) tarkibini tahrirlaş
+edit list form choices - röyxat şakli tanlovlarini tahrirlaş
+edit combo form selection - aralaş röyxat (combo) tanlovini tahrirlaş
+edit form button states - şakl tugmalari holatini tahrirlaş
+Plain &Text… - Oddiy &matn…
+PDF - PDF
+OpenDocument Text - OpenDocument matni
+HTML - HTML
+&Image - &Tasvir
+Print Options - Çop etiş parametrlari
+Fit to printable area - Çop etiladigan maydonga siğdiriş
+Fit to full page - Töliq sahifaga siğdiriş
+Scale mode: - Maştablaş rejimi:
+Do not show this message again - Uşbu xabar boşqa körsatilmasin
+Not Available - Mavjud emas
+Signing certificate not found. If you are using a smartcard, it might have been removed or the signature store changed - Imzolaş sertifikati topilmadi. Agar smart-kartadan foydalanayotgan bölsangiz, u çiqarib olingan yoki imzolar ombori özgargan bölişi mumkin
+Internal signing error. Please report a bug with the steps to reproduce it. Error code %1 - Içki imzolaş xatoligi. Iltimos, uni takrorlaş qadamlari bilan xato haqida xabar bering. Xatolik kodi %1
+Could not sign the document: <filename>%1</filename> - Hujjatni imzolab bölmadi: <filename>%1</filename>
+Signing cancelled by user - Imzolaş foydalanuvçi tomonidan bekor qilindi
+Signing failed: Wrong passphrase - Imzolaş amalga oşmadi: Notöğri parol iborasi
+Could not write the signed document to <filename>%1</filename>, please ensure you have selected a folder with write permission - Imzolangan hujjatni <filename>%1</filename> fayliga yozib bölmadi, iltimos yoziş ruxsati bor jildni tanlaganingizga işonç hosil qiling
+Unsupported signature type for current certificate - Joriy sertifikat uçun qöllab-quvvatlanmaydigan imzo turi
+Unknown signing error - Nomaʼlum imzolaş xatoligi
+Source: %1 - Manba: %1
+&Default Font: - &Standart şrift:
+Version - Versiya
+Serial Number - Seriya raqami
+Issuer - Beruvçi
+Issued On - Berilgan sana
+Expires On - Amal qiliş muddati
+Subject - Mavzu
+User Id - Foydalanuvçi ID
+Public Key - Oçiq kalit
+Key Usage - Kalitdan foydalaniş
+V%1 - V%1
+%1 (%2 bits) - %1 (%2 bit)
+Property - Xossa
+Value - Qiymat
+Pop-up Note - Qalqib çiquvçi eslatma
+Typewriter - Yozuv maşinkasi
+Inline Note - Matn içi eslatmasi
+Arrow with Comment - Izohli körsatkiç
+Arrow - Körsatkiç
+Straight Line with Comment - Izohli töğri çiziq
+Straight Line - Töğri çiziq
+Polygon with Comment - Izohli köpburçak
+Polygon - Köpburçak
+Rectangle with Comment - Izohli töğri törtburçak
+Rectangle - Töğri törtburçak
+Ellipse with Comment - Izohli ellips
+Ellipse - Ellips
+Highlight with Comment - Izohli ajratib körsatiş
+Highlight - Ajratib körsatiş
+Squiggle with Comment - Izohli tölqinli çiziq
+Squiggle - Tölqinli çiziq
+Underline with Comment - Izohli tagiga çiziş
+Underline - Tagiga çiziş
+Strike Out with Comment - Izohli ustidan çiziş
+Strike Out - Ustidan çiziş
+Stamp with Comment - Izohli muhr
+Stamp - Muhr
+Freehand Line with Comment - Izohli erkin çiziq
+Freehand Line - Erkin çiziq
+Caret - Karetka belgisi
+File Attachment - Biriktirilgan fayl
+Sound - Tovuş
+Movie - Video
+Screen - Ekran
+Widget - Vidjet
+Rich Media - Multimedia
+Annotation - Izoh
+Unknown - Nomaʼlum
+Author: %1 - Muallif: %1
+Where do you want to save %1? - %1 faylini qayerga saqlamoqçisiz?
+Could not open "%1" for writing. File was not saved. - Yoziş uçun "%1" faylini oçib bölmadi. Fayl saqlanmadi.
+The signature is cryptographically valid. - Imzo kriptografik jihatdan haqiqiy.
+The signature is cryptographically invalid. - Imzo kriptografik jihatdan yaroqsiz.
+Digest Mismatch occurred. - Xeş-qiymat (dayjest) mos kelmadi.
+The signature CMS/PKCS7 structure is malformed. - Imzoning CMS/PKCS7 tuzilmasi buzilgan.
+The requested signature is not present in the document. - Söralgan imzo hujjatda mavjud emas.
+The signature could not be verified. - Imzoni tekşirib bölmadi.
+Certificate is Trusted. - Sertifikat işonçli.
+Certificate issuer isn't Trusted. - Sertifikat beruvçisi işonçli emas.
+Certificate issuer is unknown. - Sertifikat beruvçisi nomaʼlum.
+Certificate has been Revoked. - Sertifikat bekor qilingan.
+Certificate has Expired. - Sertifikat muddati tugagan.
+Certificate has not yet been verified. - Sertifikat hali tekşirilmagan.
+Certificate validation in progress - Sertifikatni tekşiriş davom etmoqda
+Unknown issue with Certificate or corrupted data. - Sertifikat bilan boğliq nomaʼlum muammo yoki buzilgan maʼlumotlar.
+MD2 - MD2
+MD5 - MD5
+SHA1 - SHA1
+SHA256 - SHA256
+SHA384 - SHA384
+SHA512 - SHA512
+SHA224 - SHA224
+Unknown Algorithm - Nomaʼlum algoritm
+RSA - RSA
+DSA - DSA
+EC - EC
+Unknown Type - Nomaʼlum tur
+Digital Signature - Raqamli imzo
+Non-Repudiation - Inkor etmaslik (Non-Repudiation)
+Encrypt Keys - Kalitlarni şifrlaş
+Decrypt Keys - Kalitlarni şifrdan oçiş
+Key Agreement - Kalit kelişuvi
+Sign Certificate - Sertifikatni imzolaş
+Sign CRL - CRL röyxatini imzolaş
+Encrypt Only - Faqat şifrlaş
+No Usage Specified - Foydalaniş maqsadi körsatilmagan
+,  - , 
+The document has not been modified since it was signed. - Hujjat imzolanganidan beri özgartirilmagan.
+The revision of the document that was covered by this signature has not been modified; however there have been subsequent changes to the document. - Uşbu imzo bilan qamrab olingan hujjat tahriri özgartirilmagan; biroq hujjatga keyinçalik özgartirişlar kiritilgan.
+The document has been modified in a way not permitted by a previous signer. - Hujjat avvalgi imzolovçi tomonidan ruxsat etilmagan tarzda özgartirilgan.
+The document integrity verification could not be completed. - Hujjat butunligini tekşirişni yakunlab bölmadi.
+This document has signature placeholder fields. - Uşbu hujjatda imzo qöyiş maydonlari mavjud.
+This document is digitally signed. - Uşbu hujjat raqamli imzolangan.
+This document is digitally signed. There have been changes since last signed. - Uşbu hujjat raqamli imzolangan. Oxirgi imzolaşdan beri özgarişlar kiritilgan.
+This document is digitally signed. Some of the signatures could not be validated properly. - Uşbu hujjat raqamli imzolangan. Baʼzi imzolarni töğri tekşirib bölmadi.
+Signature placeholder %1 - Imzo joyi %1
+Field: %1 on page %2 - Maydon: %1, %2-sahifada
+Rev. %1: Signed By %2 - Tahrir %1: %2 tomonidan imzolangan
+Signing Time: %1 - Imzolangan vaqt: %1
+Reason: %1 - Sabab: %1
+Location: %1 - Joylaşuv: %1
+PGP Signature - PGP imzosi
+Adobe PKCS7 - Adobe PKCS7
+Adobe PKCS7 Sha1 - Adobe PKCS7 Sha1
+ETSI CAdES - ETSI CAdES
+Unknown - Nomaʼlum
+Signature placeholder - Imzo joyi
+Signature Type: %1 - Imzo turi: %1
+Red - Qizil
+Orange - Zartoq (Apelsin)
+Yellow - Sariq
+Green - Yaşil
+Cyan - Moviy (Cyan)
+Blue - Kök
+Magenta - Qirmizi (Magenta)
+White - Oq
+Gray - Kulrang
+Black - Qora
+Width %1 - Kenglik %1
+%1% - %1%
+Annotation line width (No annotation selected) - Izoh çiziği qalinligi (Izoh tanlanmagan)
+Annotation color (No annotation selected) - Izoh rangi (Izoh tanlanmagan)
+Annotation fill color (No annotation selected) - Izohni töldiriş rangi (Izoh tanlanmagan)
+Annotation opacity (No annotation selected) - Izoh şaffofligi (Izoh tanlanmagan)
+Annotation font (No annotation selected) - Izoh şrifti (Izoh tanlanmagan)
+Add the current annotation to the quick annotations menu (No annotation selected) - Joriy izohni tezkor izohlar menyusiga qöşiş (Izoh tanlanmagan)
+Constrain shape ratio to 1:1 or line angle to 15° steps (No annotation selected) - Şakl nisbatini 1:1 ga yoki çiziq burçagini 15° qadamlarga çeklaş (Izoh tanlanmagan)
+Advanced settings for the current annotation tool (No annotation selected) - Joriy izoh vositasi uçun qöşimça sozlamalar (Izoh tanlanmagan)
+Annotation line width - Izoh çiziği qalinligi
+Annotation line width (Current annotation has no line width) - Izoh çiziği qalinligi (Joriy izohda çiziq qalinligi yöq)
+Annotation text color - Izoh matni rangi
+Annotation border color - Izoh çegarasi rangi
+Annotation color - Izoh rangi
+Annotation fill color - Izohni töldiriş rangi
+Annotation fill color (Current annotation has no fill color) - Izohni töldiriş rangi (Joriy izohda töldiriş rangi yöq)
+Annotation font - Izoh şrifti
+Annotation font (Current annotation has no font) - Izoh şrifti (Joriy izohda şrift yöq)
+Constrain line angle to 15° steps - Çiziq burçagini 15° qadamlarga çeklaş
+Constrain shape ratio to 1:1 - Şakl nisbatini 1:1 ga çeklaş
+Constrain shape ratio to 1:1 or line angle to 15° steps (Not supported by current annotation) - Şakl nisbatini 1:1 ga yoki çiziq burçagini 15° qadamlarga çeklaş (Joriy izoh tomonidan qöllab-quvvatlanmaydi)
+Annotation opacity - Izoh şaffofligi
+Add the current annotation to the quick annotations menu - Joriy izohni tezkor izohlar menyusiga qöşiş
+Advanced settings for the current annotation tool - Joriy izoh vositasi uçun qöşimça sozlamalar
+Color - Rang
+Fill Color - Töldiriş rangi
+Transparent - Şaffof
+Custom Color… - Maxsus rang…
+Select color - Rangni tanlang
+&Annotations - &Izohlar
+Hide - Bekitiş
+Show more annotation tools - Köproq izoh vositalarini körsatiş
+Highlighter - Marker (Ajratib körsatuvçi)
+Underline - Tagiga çiziş
+Squiggle - Tölqinli çiziq
+Strike Out - Ustidan çiziş
+Typewriter - Yozuv maşinkasi
+Inline Note - Matn içi eslatmasi
+Popup Note - Qalqib çiquvçi eslatma
+Freehand Line - Erkin çiziq
+Straight line - Töğri çiziq
+Arrow - Körsatkiç
+Rectangle - Töğri törtburçak
+Ellipse - Ellips
+Polygon - Köpburçak
+Geometrical shapes - Geometrik şakllar
+Stamp - Muhr
+Quick Annotations - Tezkor izohlar
+Choose an annotation tool from the quick annotations - Tezkor izohlardan izoh vositasini tanlang
+Quick Annotation Bar - Tezkor izohlar paneli
+Add to Quick Annotations - Tezkor izohlarga qöşiş
+Keep Active - Faol qoldiriş
+Keep the annotation tool active after use - Foydalanilgandan söng izoh vositasini faol qoldiriş
+Constrain Ratio and Angle of Annotation Tools - Izoh vositalarining nisbati va burçagini çeklaş
+Font - Şrift
+Annotation Settings - Izoh sozlamalari
+Line width - Çiziq qalinligi
+Opacity - Şaffoflik
+%1% - %1%
+Page %1 (%2) - Sahifa %1 (%2)
+Page %1 - Sahifa %1
+Annotation - Izoh
+&Open Pop-up Note - Qalqib çiquvçi eslatmani &oçiş
+Remove Bookmark - Xatçöpni olib taşlaş
+Add Bookmark - Xatçöp qöşiş
+Copy - Nusxa oliş
+Paste - Qöyiş
+Copy Text to Clipboard - Matndan vaqtinçalik xotiraga nusxa oliş
+Copy forbidden by DRM - DRM tomonidan nusxa oliş taqiqlangan
+&Delete - &Öçiriş
+&Properties - &Xossalar
+&Open '%1'… - '%1' ni &oçiş…
+&Save '%1'… - '%1' ni &saqlaş…
+Play this Sound - Uşbu tovuşni ijro etiş
+Stop Sound - Tovuşni töxtatiş
+&Appearance - &Taşqi köriniş
+&General - &Umumiy
+&Author: - &Muallif:
+Created: - Yaratilgan:
+Modified: - Özgartirilgan:
+Pop-up Note Properties - Qalqib çiquvçi eslatma xossalari
+Typewriter Properties - Yozuv maşinkasi xossalari
+Inline Note Properties - Matn içi eslatmasi xossalari
+Straight Line Properties - Töğri çiziq xossalari
+Polygon Properties - Köpburçak xossalari
+Geometry Properties - Geometriya xossalari
+Text Markup Properties - Matn belgilaş xossalari
+Stamp Properties - Muhr xossalari
+Freehand Line Properties - Erkin çiziq xossalari
+Caret Properties - Karetka xossalari
+File Attachment Properties - Biriktirilgan fayl xossalari
+Sound Properties - Tovuş xossalari
+Movie Properties - Video xossalari
+Annotation Properties - Izoh xossalari
+Select a custom stamp symbol from file - Fayldan maxsus muhr belgisini tanlang
+Select custom stamp symbol - Maxsus muhr belgisini tanlang
+*.ico *.png *.xpm *.svg *.svgz | Icon Files (*.ico *.png *.xpm *.svg *.svgz) - *.ico *.png *.xpm *.svg *.svgz | Belgi fayllari (*.ico *.png *.xpm *.svg *.svgz)
+Could not load the file <filename>%1</filename> - <filename>%1</filename> faylini yuklab bölmadi
+Invalid file - Yaroqsiz fayl
+&Color: - &Rang:
+%v% - %v%
+&Opacity: - &Şaffoflik:
+Icon: - Belgi:
+Comment - Izoh
+Help - Yordam
+Insert - Qöyiş
+Key - Kalit
+New paragraph - Yangi xatboşi
+Note - Eslatma
+Paragraph - Xatboşi
+Font: - Şrift:
+Text &color: - Matn &rangi:
+&Align: - &Tekislaş:
+Left - Çapda
+Center - Markazda
+Right - Öngda
+Border &width: - Çegara &qalinligi:
+Approved - Tasdiqlangan
+As Is - Borini öziday
+Confidential - Maxfiy
+Departmental - Bölim uçun
+Draft - Qoralama
+Experimental - Tajribaviy
+Expired - Muddati tugagan
+Final - Yakuniy
+For Comment - Izoh qoldiriş uçun
+For Public Release - Ommaviy eʼlon qiliş uçun
+Not Approved - Tasdiqlanmagan
+Not For Public Release - Ommaviy eʼlon qiliş uçun emas
+Sold - Sotilgan
+Top Secret - Öta maxfiy
+Bookmark - Xatçöp
+Information - Maʼlumot
+KDE - KDE
+Stamp symbol: - Muhr belgisi:
+&Width: - &Qalinligi:
+Line start: - Çiziq boşi:
+Line end: - Çiziq oxiri:
+Square - Kvadrat
+Circle - Doira
+Diamond - Romb
+Open Arrow - Oçiq körsatkiç
+Closed Arrow - Yopiq körsatkiç
+None - Yöq
+Butt - Tekis kesilgan
+Right Open Arrow - Öng oçiq körsatkiç
+Right Closed Arrow - Öng yopiq körsatkiç
+Slash - Qiya çiziq
+Leader line length: - Yönaltiruvçi çiziq uzunligi:
+Leader line extensions length: - Yönaltiruvçi çiziq davomi uzunligi:
+Enabled - Yoqilgan
+Shape fill: - Şaklni töldiriş:
+Type: - Turi:
+Strike out - Ustidan çiziş
+File attachment symbol: - Biriktirilgan fayl belgisi:
+Graph - Grafik
+Push Pin - Knopka-igna
+Paperclip - Qisqiç (Skrepka)
+Tag - Yorliq (Teg)
+File - Fayl
+N/A - N/A
+No description available. - Tavsif mavjud emas.
+Name: - Nomi:
+Description: - Tavsifi:
+Caret symbol: - Karetka belgisi:
+None - Yöq
+P - P
+Close this note - Uşbu eslatmani yopiş
+Options - Parametrlar
+This annotation may contain LaTeX code. Click here to render. - Uşbu izohda LaTeX kodi bölişi mumkin. Tasvirlaş uçun bu yerga bosing.
+Unknown author - Nomaʼlum muallif
+No date recognized - Sana aniqlanmadi
+Cannot find latex executable. - latex bajariluvçi fayli topilmadi.
+LaTeX rendering failed - LaTeX tasvirlaş amalga oşmadi
+Cannot find dvipng executable. - dvipng bajariluvçi fayli topilmadi.
+A problem occurred during the execution of the 'latex' command. - 'latex' buyruğini bajariş vaqtida muammo yuz berdi.
+A problem occurred during the execution of the 'dvipng' command. - 'dvipng' buyruğini bajariş vaqtida muammo yuz berdi.
+%1  One bookmark - %1  Bitta xatçöp
+Bookmarks - Xatçöplar
+Show for all documents - Barça hujjatlar uçun körsatiş
+Search… - Qidiriş…
+Expand All - Barçasini yoyiş
+Collapse All - Barçasini yiğib qöyiş
+Go to This Bookmark - Uşbu xatçöpga ötiş
+Rename Bookmark - Xatçöp nomini özgartiriş
+Open Document - Hujjatni oçiş
+Remove all Bookmarks for this Document - Uşbu hujjat uçun barça xatçöplarni olib taşlaş
+Certificate Viewer - Sertifikatni köruvçi
+Export… - Eksport qiliş…
+General - Umumiy
+Issued By - Kim tomonidan berilgan
+Common Name(CN) - Umumiy nom (CN)
+EMail - E-poçta
+Organization(O) - Taşkilot (O)
+Issued To - Kimga berilgan
+Name - Nomi
+Validity - Amal qiliş muddati
+Never - Heç qaçon
+Fingerprints - Barmoq izlari
+SHA-1 Fingerprint - SHA-1 barmoq izi
+SHA-256 Fingerprint - SHA-256 barmoq izi
+Fingerprint - Barmoq izi
+Details - Tafsilotlar
+Certificate Data: - Sertifikat maʼlumotlari:
+Where do you want to save this certificate? - Uşbu sertifikatni qayerga saqlamoqçisiz?
+Certificate File (*.asc) - Sertifikat fayli (*.asc)
+Certificate File (*.cer) - Sertifikat fayli (*.cer)
+Could not export the certificate - Sertifikatni eksport qilib bölmadi
+&Color Mode - &Rang rejimi
+Change Colors - Ranglarni özgartiriş
+&Normal Colors - &Oddiy ranglar
+&Invert Colors - Ranglarni &teskari qiliş
+Change &Paper Color - &Qoğoz rangini özgartiriş
+Change &Dark && Light Colors - &Töq va oç ranglarni özgartiriş
+Convert to &Black && White - &Oq-qoraga aylantiriş
+Invert &Lightness - &Yoruğlikni teskari qiliş
+Invert L&uma (sRGB Linear) - L&uma-ni teskari qiliş (çiziqli sRGB)
+Invert Luma (&Symmetric) - Luma-ni teskari qiliş (&simmetrik)
+Shift Hue P&ositive - Rang tusini &musbat siljitiş
+Shift Hue N&egative - Rang tusini m&anfiy siljitiş
+Red - Qizil
+Green - Yaşil
+Blue - Kök
+Yellow - Sariq
+Black - Qora
+White - Oq
+Yellow Highlighter - Sariq marker
+Green Highlighter - Yaşil marker
+Insert Text - Matn qöyiş
+Draw border around links - Havolalar atrofida çegara çiziş
+Change colors - Ranglarni özgartiriş
+<b>Warning:</b> these options can badly affect drawing speed. - <b>Diqqat:</b> uşbu parametrlar tasvirlaş tezligiga salbiy taʼsir körsatişi mumkin.
+Invert colors - Ranglarni teskari qiliş
+Change paper color - Qoğoz rangini özgartiriş
+Change dark & light colors - Töq va oç ranglarni özgartiriş
+Convert to black & white - Oq-qoraga aylantiriş
+Invert lightness - Yoruğlikni teskari qiliş
+Invert luma (sRGB linear) - Luma-ni teskari qiliş (çiziqli sRGB)
+Invert luma (symmetric) - Luma-ni teskari qiliş (simmetrik)
+Shift hue positive - Rang tusini musbat siljitiş
+Shift hue negative - Rang tusini manfiy siljitiş
+Color mode: - Rang rejimi:
+Paper color: - Qoğoz rangi:
+Dark color: - Töq rang:
+Light color: - Oç rang:
+Threshold: - Çegara qiymati:
+Contrast: - Kontrast:
+Text-to-speech engine: - Matnni ovozga ögiriş tizimi:
+Text-to-speech voice: - Matnni ovozga ögiriş ovozi:
+Full Annotation Toolbar - Töliq izohlar paneli
+Quick Annotation Toolbar - Tezkor izohlar paneli
+Annotation toolbar: - Izohlar paneli:
+Author: - Muallif:
+<b>Note:</b> the information here is used only for annotations. The information is saved in annotated documents, and so will be transmitted together with the document. - <b>Eslatma:</b> bu yerdagi maʼlumotlar faqat izohlar uçun işlatiladi. Maʼlumotlar izohli hujjatlarda saqlanadi va hujjat bilan birga uzatiladi.
+Prefill new annotations with the selected text. - Yangi izohlarni tanlangan matn bilan oldindan töldiriş.
+<h3>Quick Annotation Tools</h3> - <h3>Tezkor izoh vositalari</h3>
+Choose the editor you want to launch when Okular wants to open a source file. - Okular manba faylini oçmoqçi bölganda işga tuşiriladigan muharrirni tanlang.
+Custom Text Editor - Maxsus matn muharriri
+Kate - Kate
+Kile - Kile
+SciTE - SciTE
+Emacs client - Emacs mijozi
+Lyx client - Lyx mijozi
+TeXstudio - TeXstudio
+TeXiFy IDEA - TeXiFy IDEA
+Editor: - Muharrir:
+<qt>Set the command of a custom text editor to be launched.<br /> You can also put few placeholders: <ul>   <li>%f - the file name</li>   <li>%l - the line of the file to be reached</li>   <li>%c - the column of the file to be reached</li> </ul> If %f is not specified, then the file name is appended to the specified command. - <qt>Işga tuşiriladigan maxsus matn muharriri buyruğini belgilang.<br /> Şuningdek, bir neçta örinbosarlarni qöyişingiz mumkin: <ul>   <li>%f - fayl nomi</li>   <li>%l - ötilişi kerak bölgan qator</li>   <li>%c - ötilişi kerak bölgan ustun</li> </ul> Agar %f körsatilmasa, fayl nomi körsatilgan buyruq oxiriga qöşiladi.
+Command: - Buyruq:
+Use smooth scrolling - Tekis (ravon) varaqlaşdan foydalaniş
+Appearance: - Taşqi köriniş:
+Show scrollbars - Aylantiriş çiziqlarini körsatiş
+Link the thumbnails with the page - Miniatyuralarni sahifa bilan boğlaş
+Show hints and info messages - Maslahatlar va maʼlumot xabarlarini körsatiş
+Notify about embedded files, forms, or signatures - Içiga joylangan fayllar, şakllar yoki imzolar haqida xabar beriş
+Display document title in titlebar if available - Mavjud bölsa, sarlavha satrida hujjat nomini körsatiş
+Display file name only - Faqat fayl nomini körsatiş
+Display full file path - Faylning töliq yölini körsatiş
+When not displaying document title: - Hujjat sarlavhasi körsatilmaganda:
+Use custom background color: - Maxsus orqa fon rangidan foydalaniş:
+Program features: - Dastur imkoniyatlari:
+Open new files in tabs - Yangi fayllarni varaqalarda (tab) oçiş
+Switch to existing tab if file is already open - Fayl allaqaçon oçiq bölsa, mavjud varaqaga ötiş
+Obey DRM limitations - DRM çeklovlariga rioya qiliş
+Reload document on file change - Fayl özgarganda hujjatni qayta yuklaş
+Show backend selection dialog - Bekend tanlaş oynasini körsatiş
+Right to left reading direction - Öngdan çapga öqiş yönalişi
+Use file information to determine whether to open in continuous mode by default - Standart holatda uzluksiz rejimda oçişni aniqlaş uçun fayl maʼlumotlaridan foydalaniş
+For files without file information, open in continuous mode by default - Fayl maʼlumotlari bölmagan fayllarni standart holatda uzluksiz rejimda oçiş
+Open in continuous mode by default - Standart holatda uzluksiz rejimda oçiş
+Continue from last viewed page - Oxirgi körilgan sahifadan davom ettiriş
+When using Browse Tool, wrap cursor at screen edges - Köriş vositasidan foydalanilganda, kursorni ekran çetlaridan ötkaziş
+Items in recent history: - Yaqinda oçilganlar tarixidagi elementlar soni:
+Overview columns: - Umumiy köriniş ustunlari:
+%v% - %v%
+Defines how much of the current viewing area will still be visible when pressing the Page Up/Down keys. - Page Up/Down tugmalari bosilganda joriy köriş maydonining qança qismi körinib turişini belgilaydi.
+Page Up/Down overlap: - Page Up/Down ustma-ust tuşişi:
+Defines the vertical spacing between pages in continuous mode. - Uzluksiz rejimda sahifalar orasidagi vertikal masofani belgilaydi.
+Vertical page spacing: - Sahifalar orasidagi vertikal masofa:
+%v% - %v%
+100% - 100%
+Fit Width - Kenglik böyiça moslaştiriş
+Fit Page - Sahifa böyiça moslaştiriş
+Auto Fit - Avto-moslaştiriş
+Custom - Maxsus
+Defines the default zoom mode for files which were never opened before. For files which were opened before the previous zoom is applied. - Avval heç qaçon oçilmagan fayllar uçun standart maştab rejimini belgilaydi. Avval oçilgan fayllar uçun oldingi maştab qöllaniladi.
+Default zoom: - Standart maştab:
+Enable transparency effects - Şaffoflik effektlarini yoqiş
+CPU usage: - Protsessor (CPU) yuklamasi:
+Low - Past
+Normal (default) - Normal (standart)
+Aggressive - Faol (Aggressive)
+Greedy - Maksimal (Greedy)
+Memory usage: - Xotiradan foydalaniş:
+Enable text antialias - Matnni tekislaşni (antialiasing) yoqiş
+Rendering options: - Tasvirlaş parametrlari:
+Enable graphics antialias - Grafikani tekislaşni (antialiasing) yoqiş
+Enable text hinting - Matn xintingini yoqiş
+Keeps used memory as low as possible. Do not reuse anything. (For systems with low memory.) - Foydalaniladigan xotirani imkon qadar kam uşlab turadi. Heç narsani qayta işlatmaydi. (Xotirasi kam tizimlar uçun.)
+A good compromise between memory usage and speed gain. Preload next page and boost searches. (For systems with 2GB of memory, typically.) - Xotiradan foydalaniş va tezlik örtasida yaxşi muvozanat. Keyingi sahifani oldindan yuklaydi va qidirişni tezlaştiradi. (Odatda 2 GB xotirali tizimlar uçun.)
+Keeps everything in memory. Preload next pages. Boost searches. (For systems with more than 4GB of memory.) - Barçasini xotirada saqlaydi. Keyingi sahifalarni oldindan yuklaydi. Qidirişni tezlaştiradi. (4 GB dan ortiq xotirali tizimlar uçun.)
+Loads and keeps everything in memory. Preload all pages. (Will use at maximum 50% of your total memory or your free memory, whatever is bigger.) - Barçasini yuklaydi va xotirada saqlaydi. Barça sahifalarni oldindan yuklaydi. (Umumiy yoki böş xotiraning qaysi biri katta bölsa, maksimal 50% qismidan foydalanadi.)
+every %v second - har %v soniyada
+Advance automatically: - Avtomatik ötkaziş:
+Loop after last page - Oxirgi sahifadan keyin boşidan takrorlaş
+Tap left/right side to go back/forward - Orqaga/oldinga ötiş uçun çap/öng tomonga bosing
+Tap anywhere to go forward - Oldinga ötiş uçun istalgan joyga bosing
+Disabled - Öçirilgan
+Touch navigation: - Sensorli navigatsiya:
+Background color: - Orqa fon rangi:
+Hidden after delay - Keçiğişdan söng bekitiladi
+Always visible - Har doim körinadigan
+Always hidden - Har doim yaşirin
+Mouse cursor: - Siçqonça kursori:
+Show progress indicator - Jarayon körsatkiçini körsatiş
+Show summary page - Xulosa sahifasini körsatiş
+Instant (Never use animations) - Oniy (animatsiyalarsiz)
+Replace - Almaştiriş
+Random transition - Tasodifiy ötiş
+Blinds vertical - Vertikal jalyuzi
+Blinds horizontal - Gorizontal jalyuzi
+Box in - Içkariga quti
+Box out - Taşqariga quti
+Dissolve - Eriş
+Fade - Söndiriş
+Glitter down - Pastga porlaş
+Glitter right - Öngga porlaş
+Glitter right-down - Öng-pastga porlaş
+Split horizontal in - Gorizontal içkariga böliş
+Split horizontal out - Gorizontal taşqariga böliş
+Split vertical in - Vertikal içkariga böliş
+Split vertical out - Vertikal taşqariga böliş
+Wipe down - Pastga siriş
+Wipe right - Öngga siriş
+Wipe left - Çapga siriş
+Wipe up - Yuqoriga siriş
+Default transition: - Standart ötiş effekti:
+Preferred screen: - Afzal körilgan ekran:
+<h3>Drawing Tools</h3> - <h3>Çiziş vositalari</h3>
+Current Screen - Joriy ekran
+Default Screen - Standart ekran
+Screen %1 (%2 %3 %4) - Ekran %1 (%2 %3 %4)
+Screen %1 (disconnected) - Ekran %1 (uzilgan)
+Drawing Tool: %1 - Çiziş vositasi: %1
+Eraser - Öçirğiç
+&Name: - &Nomi:
+&Type: - &Turi:
+Appearance - Taşqi köriniş
+Text markup - Matn belgilaş
+Geometrical shape - Geometrik şakl
+Create annotation tool - Izoh vositasini yaratiş
+Edit annotation tool - Izoh vositasini tahrirlaş
+Color: - Rang:
+&Pen Width: - &Pero qalinligi:
+%v px - %v px
+Create drawing tool - Çiziş vositasini yaratiş
+Edit drawing tool - Çiziş vositasini tahrirlaş
+Unknown - Nomaʼlum
+Embedded Files - Içiga joylangan fayllar
+View - Köriş
+Open - Oçiş
+Name - Nomi
+Description - Tavsifi
+Size - Hajmi
+Created - Yaratilgan
+Modified - Özgartirilgan
+&Save As… - Boşqa nom bilan &saqlaş…
+&View… - &Köriş…
+&Open… - &Oçiş…
+PNG - PNG
+Output path: - Çiqiş yöli:
+... - ...
+The images would be exported in a subfolder in this path of the same name as the file - Tasvirlar uşbu yöldagi fayl bilan bir xil nomdagi qism-jildga eksport qilinadi
+Export range - Eksport diapazoni
+Export all - Barçasini eksport qiliş
+Pages from - Sahifalar:
+to - dan şu sahifagaça:
+Export - Eksport qiliş
+Export Image - Tasvirni eksport qiliş
+Failed to save a file %1 - %1 faylini saqlaş amalga oşmadi
+Failed - Xatolik yuz berdi
+Failed creating folder to save images to: %1 - Tasvirlarni saqlaş uçun jild yaratib bölmadi: %1
+Exporting images - Tasvirlar eksport qilinmoqda
+Cancel - Bekor qiliş
+Could not load print preview part - Çop etişdan oldin köriş qismini yuklab bölmadi
+Print Preview - Çop etişdan oldin köriş
+Close - Yopiş
+F&ind: - &Topiş:
+Text to search for - Qidiriladigan matn
+Next - Keyingi
+Jump to next match - Keyingi moslikka ötiş
+Previous - Oldingi
+Jump to previous match - Oldingi moslikka ötiş
+Modify search behavior - Qidiriş xulq-atvorini özgartiriş
+Case sensitive - Katta-kiçik harflarni farqlaş
+From current page - Joriy sahifadan
+Find as you type - Yoziş davomida topiş
+All Files (*) - Barça fayllar (*)
+Signature placeholder (Click to Sign) - Imzo joyi (Imzolaş uçun bosing)
+&Sign… - &Imzolaş…
+Signature Properties - Imzo xossalari
+Search Options - Qidiriş parametrlari
+Case Sensitive - Katta-kiçik harflarni farqlaş
+Regular Expression - Muntazam ifoda (RegExp)
+Layers - Qatlamlar
+of - /
+Zoom - Maştab (Zoom)
+Zoom to 100% - 100% maştab
+Rotate &Right - &Öngga buriş
+Right - Öngda
+Rotate &Left - &Çapga buriş
+Left - Çapda
+Original Orientation - Asl yönaliş
+&Trim View - Körinişni &kesiş
+&Trim Margins - Hoşiyalarni &kesiş
+Trim To &Selection - &Tanlangan joygaça kesiş
+Fit &Width - &Kenglik böyiça moslaştiriş
+Fit &Page - &Sahifa böyiça moslaştiriş
+&Auto Fit - &Avto-moslaştiriş
+Fit Wi&ndow to Page - &Oynani sahifaga moslaştiriş
+&View Mode - &Köriş rejimi
+&Single Page - &Bitta sahifa
+&Facing Pages - &Yondama-yon sahifalar
+Facing Pages (&Center First Page) - Yondama-yon sahifalar (&Birinçi sahifa markazda)
+&Overview - &Umumiy köriniş
+&Continuous - &Uzluksiz
+Use Right to Left Reading Direction - Öngdan çapga öqiş yönalişidan foydalaniş
+&Browse - &Köriş
+&Zoom - &Maştab
+Area &Selection - Hududni &tanlaş
+&Text Selection - &Matnni tanlaş
+T&able Selection - &Jadvalni tanlaş
+&Magnifier - &Lupa
+Selection Tools - Tanlaş vositalari
+Digitally &Sign… - Raqamli &imzolaş…
+Speak Whole Document - Butun hujjatni ovoz çiqarib öqiş
+Speak From Current Page - Joriy sahifadan ovoz çiqarib öqiş
+Speak Current Page - Joriy sahifani ovoz çiqarib öqiş
+Stop Speaking - Öqişni töxtatiş
+Pause/Resume Speaking - Öqişni vaqtinça töxtatiş/davom ettiriş
+Scroll Up - Yuqoriga aylantiriş
+Scroll Down - Pastga aylantiriş
+Scroll Page Up - Bir sahifa yuqoriga aylantiriş
+Scroll Page Down - Bir sahifa pastga aylantiriş
+Show Forms - Şakllarni (formalarni) körsatiş
+ Loaded a one-page document. -  Bir sahifali hujjat yuklandi.
+Copy Table Contents to Clipboard - Jadval tarkibidan vaqtinçalik xotiraga nusxa oliş
+Text (1 character) - Matn (1 ta belgi)
+Copy to Clipboard - Vaqtinçalik xotiraga nusxa oliş
+Copy Text (Without line breaks) - Matndan nusxa oliş (qator uzilişlarisiz)
+Speak Text - Matnni ovoz çiqarib öqiş
+Image (%1 × %2 pixels) - Tasvir (%1 × %2 piksel)
+Save to File… - Faylga saqlaş…
+Image [%1 × %2] copied to clipboard. - Tasvir [%1 × %2] vaqtinçalik xotiraga nusxalandi.
+Save file - Faylni saqlaş
+Images (*.png *.jpeg) - Tasvirlar (*.png *.jpeg)
+File not saved. - Fayl saqlanmadi.
+Image [%1 × %2] saved to %3 file. - Tasvir [%1 × %2] %3 fayliga saqlandi.
+Copy Text - Matndan nusxa oliş
+Go to '%1' - '%1' ga ötiş
+Fit Width - Kenglik böyiça moslaştiriş
+Fit Page - Sahifa böyiça moslaştiriş
+Auto Fit - Avto-moslaştiriş
+%1% - %1%
+Search for '%1' with - '%1' ni quyidagi orqali qidiriş:
+Configure Web Shortcuts… - Veb-qisqartmalarni sozlaş…
+Follow This Link - Uşbu havola böyiça ötiş
+Copy Link Address - Havola manzilidan nusxa oliş
+Search for '%1' in this document - Uşbu hujjatdan '%1' ni qidiriş
+Welcome - Xuş kelibsiz
+Select zooming area. Right-click to zoom out. - Maştablaş hududini tanlang. Kiçraytiriş uçun siçqonçaning öng tugmasini bosing.
+Click to see the magnified view. - Kattalaştirilgan körinişni köriş uçun bosing.
+Draw a rectangle around the text/graphics to copy. - Nusxa oliş uçun matn/grafika atrofida töğri törtburçak çizing.
+Select text - Matnni tanlang
+Draw a rectangle around the table, then click near edges to divide up; press Esc to clear. - Jadval atrofida töğri törtburçak çizing, söngra böliş uçun çetlari yaqiniga bosing; tozalaş uçun Esc tugmasini bosing.
+All your signing certificates are invalid. In case signing worked before, please check their validity dates. - Barça imzolaş sertifikatlaringiz yaroqsiz. Agar imzolaş avval işlagan bölsa, ularning amal qiliş muddatlarini tekşiring.
+No valid certificates - Yaroqli sertifikatlar yöq
+Open Certificate Manager - Sertifikatlar boşqaruvçisini oçiş
+There are no available signing certificates.<br/>Launch Certificate Manager to import or manage certificates<br/>For more information, please see the section about <a href="%1">Adding Digital Signatures</a> in the manual. - Mavjud imzolaş sertifikatlari yöq.<br/>Sertifikatlarni import qiliş yoki boşqariş uçun Sertifikatlar boşqaruvçisini işga tuşiring.<br/>Batafsil maʼlumot oliş uçun qöllanmadagi <a href="%1">Raqamli imzolarni qöşiş</a> bölimiga qarang.
+No certificates found - Sertifikatlar topilmadi
+There are no available signing certificates.<br/>For more information, please see the section about <a href="%1">Adding Digital Signatures</a> in the manual. - Mavjud imzolaş sertifikatlari yöq.<br/>Batafsil maʼlumot oliş uçun qöllanmadagi <a href="%1">Raqamli imzolarni qöşiş</a> bölimiga qarang.
+You have unsaved changes. Please save the document before signing it. - Sizda saqlanmagan özgarişlar mavjud. Hujjatni imzolaşdan oldin uni saqlang.
+Draw a rectangle to insert the signature field - Imzo maydonini qöyiş uçun töğri törtburçak çizing
+Draw a rectangle around the page area you wish to keep visible - Körinib turişini xohlagan sahifa hududi atrofida töğri törtburçak çizing
+New Text Note - Yangi matnli eslatma
+Text of the new note: - Yangi eslatma matni:
+Signed by: %1  Date: %2 - Imzoladi: %1  Sana: %2
+Author name - Muallif nomi
+Author name for the annotation: - Izoh uçun muallif nomi:
+Draw an ellipse (drag to select a zone) - Ellips çiziş (hududni tanlaş uçun torting)
+Highlight text - Matnni ajratib körsatiş
+Draw a freehand line - Erkin çiziq çiziş
+Inline Text Annotation (drag to select a zone) - Matn içi izohi (hududni tanlaş uçun torting)
+Put a pop-up note - Qalqib çiquvçi eslatma qöyiş
+Draw a polygon (click on the first point to close it) - Köpburçak çiziş (yopiş uçun birinçi nuqtaga bosing)
+Draw a rectangle - Töğri törtburçak çiziş
+Squiggle text - Matn tagiga tölqinli çiziş
+Put a stamp symbol - Muhr belgisini qöyiş
+Draw a straight line - Töğri çiziq çiziş
+Strike out text - Matn ustidan çiziş
+Underline text - Matn tagiga çiziş
+Typewriter Annotation (drag to select a zone) - Yozuv maşinkasi izohi (hududni tanlaş uçun torting)
+Highlighter - Marker (Ajratib körsatuvçi)
+Add favorite annotation - Sevimli izohni qöşiş
+Custom annotation name: - Maxsus izoh nomi:
+&File - &Fayl
+&Settings - &Sozlamalar
+&Help - &Yordam
+&Orientation - &Yönaliş
+&Bookmarks - &Xatçöplar
+Viewer Toolbar - Köruvçi asboblar paneli
+Thumbnails - Miniatyuralar
+Annotations - Izohlar
+This document contains annotations or form data that were saved internally by a previous Okular version. Internal storage is <b>no longer supported</b>.<br/>Please save to a file in order to move them if you want to continue to edit the document. - Uşbu hujjatda avvalgi Okular versiyasi tomonidan içki saqlangan izohlar yoki şakl maʼlumotlari mavjud. Içki xotira <b>endi qöllab-quvvatlanmaydi</b>.<br/>Agar hujjatni tahrirlaşni davom ettirmoqçi bölsangiz, ularni köçiriş uçun faylga saqlang.
+This document has embedded files. <a href="okular:/embeddedfiles">Click here to see them</a> or go to File -> Embedded Files. - Uşbu hujjatda içiga joylangan fayllar mavjud. <a href="okular:/embeddedfiles">Ularni köriş uçun bu yerga bosing</a> yoki Fayl -> Içiga joylangan fayllar menyusiga öting.
+This document has elements that might be hidden or shown differently when printed. For important documents, please verify both. - Uşbu hujjatda çop etilganda yaşirin bölişi yoki boşqaça körinişi mumkin bölgan elementlar mavjud. Muhim hujjatlar uçun ikkalasini ham tekşiring.
+Signing in progress. You can adjust the position and size of the signature - Imzolaş davom etmoqda. Imzoning joylaşuvi va ölçamini moslaştirişingiz mumkin
+Finish Signing - Imzolaşni yakunlaş
+Previous - Oldingi
+Go back to the Previous Page - Oldingi sahifaga qaytiş
+Moves to the previous page of the document - Hujjatning oldingi sahifasiga ötadi
+Next - Keyingi
+Advance to the Next Page - Keyingi sahifaga ötiş
+Moves to the next page of the document - Hujjatning keyingi sahifasiga ötadi
+Beginning of the document - Hujjatning boşi
+Moves to the beginning of the document - Hujjatning boşiga ötadi
+End of the document - Hujjatning oxiri
+Moves to the end of the document - Hujjatning oxiriga ötadi
+Rename the current bookmark - Joriy xatçöp nomini özgartiriş
+Previous Bookmark - Oldingi xatçöp
+Go to the previous bookmark - Oldingi xatçöpga ötiş
+Next Bookmark - Keyingi xatçöp
+Go to the next bookmark - Keyingi xatçöpga ötiş
+Configure Okular… - Okular sozlamalari…
+Configure Viewer… - Köruvçi sozlamalari…
+About Backend - Bekend haqida
+Reloa&d - &Qayta yuklaş
+Reload the current document from disk. - Joriy hujjatni diskdan qayta yuklaş.
+Close &Find Bar - &Qidiruv panelini yopiş
+Page Number - Sahifa raqami
+Configure Color Modes… - Rang rejimlarini sozlaş…
+Paste Annotation - Izohni qöyiş
+Select All Text on Current Page - Joriy sahifadagi barça matnni tanlaş
+Show S&idebar - &Yon panelni körsatiş
+Show &Page Bar - &Sahifalar panelini körsatiş
+Show &Signatures Panel - &Imzolar panelini körsatiş
+&Embedded Files - &Içiga joylangan fayllar
+E&xport As - Şu sifatida &eksport qiliş
+S&hare - &Ulaşiş
+P&resentation - &Taqdimot
+Open Con&taining Folder - Fayl joylaşgan &jildni oçiş
+&Import PostScript as PDF… - PostScript-ni PDF sifatida &import qiliş…
+Switch Blackscreen Mode - Qora ekran rejimiga ötiş
+Erase Drawing - Çizmani öçiriş
+Configure Annotations… - Izohlarni sozlaş…
+Play/Pause Presentation - Taqdimotni ijro etiş/vaqtinça töxtatiş
+You have just modified the open document, but this kind of document can not be saved. Any modification will be lost once Okular is closed. - Siz hozirgina oçiq hujjatni özgartirdingiz, ammo bu turdagi hujjatni saqlab bölmaydi. Okular yopilganda har qanday özgariş yöqoladi.
+Document can't be saved - Hujjatni saqlab bölmaydi
+Could not open '%1' (%2)  - '%1' (%2) ni oçib bölmadi 
+The loading of %1 has been canceled. - %1 yuklanişi bekor qilindi.
+Could not open %1. Reason: %2 - %1 ni oçib bölmadi. Sababi: %2
+The program "ps2pdf" was not found, so Okular can not import PS files using it. - "ps2pdf" dasturi topilmadi, şuning uçun Okular uning yordamida PS fayllarini import qila olmaydi.
+ps2pdf not found - ps2pdf topilmadi
+PostScript files (%1) - PostScript fayllari (%1)
+Importing PS file as PDF (this may take a while)… - PS fayli PDF sifatida import qilinmoqda (bu biroz vaqt olişi mumkin)…
+Please enter the password to read the document: %1 - Hujjatni öqiş uçun parolni kiriting: %1
+Incorrect password. Try again: %1 - Notöğri parol. Qayta urinib köring: %1
+Document Password - Hujjat paroli
+This document has XFA forms, which are currently <b>unsupported</b>. - Uşbu hujjatda hozirda <b>qöllab-quvvatlanmaydigan</b> XFA şakllari mavjud.
+This document has forms. Click on the button to interact with them, or use View -> Show Forms. - Uşbu hujjatda şakllar (formalar) mavjud. Ular bilan işlaş uçun tugmani bosing yoki Köriş -> Şakllarni körsatiş menyusidan foydalaning.
+All editing and interactive features for this document are disabled. Please save a copy and reopen to edit this document. - Uşbu hujjat uçun barça tahrirlaş va interaktiv imkoniyatlar öçirilgan. Hujjatni tahrirlaş uçun uning nusxasini saqlang va qayta oçing.
+This document wants to be shown full screen. Leave normal mode and enter presentation mode? - Uşbu hujjat töliq ekranda körsatilişni söramoqda. Oddiy rejimdan çiqib, taqdimot rejimiga ötilsinmi?
+Request to Change Viewing Mode - Köriş rejimini özgartiriş sörovi
+Enter Presentation Mode - Taqdimot rejimiga ötiş
+Deny Request - Sörovni rad etiş
+Could not open %1. %2 - %1 ni oçib bölmadi. %2
+The file <filename>%1</filename> has unsaved changes but has been modified by another program. Reloading it will replace the unsaved changes with the changes made in the other program.<nl/><nl/>Do you want to continue reloading the file? - <filename>%1</filename> faylida saqlanmagan özgarişlar bor, lekin u boşqa dastur tomonidan özgartirilgan. Uni qayta yuklaş saqlanmagan özgarişlarni boşqa dasturda qilingan özgarişlar bilan almaştiradi.<nl/><nl/>Faylni qayta yuklaşni davom ettirişni xohlaysizmi?
+File Changed - Fayl özgardi
+Continue Reloading - Qayta yuklaşni davom ettiriş
+Abort Reloading - Qayta yuklaşni töxtatiş
+The file <filename>%1</filename> has unsaved changes but has been modified by another program. Closing it will replace the unsaved changes with the changes made in the other program.<nl/><nl/>Do you want to continue closing the file? - <filename>%1</filename> faylida saqlanmagan özgarişlar bor, lekin u boşqa dastur tomonidan özgartirilgan. Uni yopiş saqlanmagan özgarişlarni boşqa dasturda qilingan özgarişlar bilan almaştiradi.<nl/><nl/>Faylni yopişni davom ettirişni xohlaysizmi?
+Continue Closing - Yopişni davom ettiriş
+Abort Closing - Yopişni töxtatiş
+Do you want to save your changes to "%1" or discard them? - "%1" faylidagi özgarişlarni saqlaşni xohlaysizmi yoki ularni rad etasizmi?
+Close Document - Hujjatni yopiş
+This link points to a close document action that does not work when using the embedded viewer. - Uşbu havola içki örnatilgan köruvçidan foydalanilganda işlamaydigan hujjatni yopiş amaliga işora qiladi.
+This link points to a quit application action that does not work when using the embedded viewer. - Uşbu havola içki örnatilgan köruvçidan foydalanilganda işlamaydigan dasturdan çiqiş amaliga işora qiladi.
+Reloading the document… - Hujjat qayta yuklanmoqda…
+Contents - Mundarija
+Signatures - Imzolar
+Go to Page - Sahifaga ötiş
+&Page: - &Sahifa:
+Enter the new name of the bookmark: - Xatçöpning yangi nomini kiriting:
+Rename this Bookmark - Uşbu xatçöp nomini özgartiriş
+Remove this Bookmark - Uşbu xatçöpni olib taşlaş
+%1 (%2) - %1 (%2)
+Save As - Boşqa nom bilan saqlaş
+You have chosen to save an Okular Archive without the file name ending with the '%1' extension. That is not allowed, do you want to choose a new name? - Siz Okular arxivini '%1' kengaytmasi bilan tugamaydigan fayl nomi bilan saqlaşni tanladingiz. Bunga ruxsat berilmaydi, yangi nom tanlaşni xohlaysizmi?
+Unsupported extension - Qöllab-quvvatlanmaydigan kengaytma
+Choose New Name - Yangi nom tanlaş
+The file <filename>%1</filename> has been modified by another program. If you save now, any changes made in the other program will be lost. Are you sure you want to continue? - <filename>%1</filename> fayli boşqa dastur tomonidan özgartirilgan. Agar hozir saqlasangiz, boşqa dasturda qilingan barça özgarişlar yöqoladi. Davom etişga işonçingiz komilmi?
+Save - Warning - Saqlaş — Ogohlantiriş
+Save a Copy Elsewhere - Nusxasini boşqa joyga saqlaş
+The current document is protected with a password.<br />In order to save, the file needs to be reloaded. You will be asked for the password again and your undo/redo history will be lost.<br />Do you want to continue? - Joriy hujjat parol bilan himoyalangan.<br />Saqlaş uçun faylni qayta yuklaş kerak. Sizdan parol qayta söraladi va bekor qiliş/qayta bajariş tarixi yöqoladi.<br />Davom etişni xohlaysizmi?
+Could not open the temporary file for saving. - Saqlaş uçun vaqtinçalik faylni oçib bölmadi.
+Could not overwrite <filename>%1</filename> because that file is read-only. Try saving to another location or changing that file's permissions. - <filename>%1</filename> fayli faqat öqiş uçun bölganligi sababli uning ustiga yozib bölmadi. Boşqa joyga saqlab köring yoki fayl ruxsatlarini özgartiring.
+After saving, the current document format requires the file to be reloaded. Your undo/redo history will be lost.<br />Do you want to continue? - Saqlangandan söng, joriy hujjat formati faylni qayta yuklaşni talab qiladi. Bekor qiliş/qayta bajariş tarixi yöqoladi.<br />Davom etişni xohlaysizmi?
+File could not be saved in '%1'. Try to save it to another location. - Faylni '%1' içiga saqlab bölmadi. Uni boşqa joyga saqlab köring.
+Filled form contents - Töldirilgan şakl maʼlumotlari
+User annotations - Foydalanuvçi izohlari
+You are about to save changes, but the current file format does not support saving the following elements. Please use the <i>Okular document archive</i> format to preserve them. - Siz özgarişlarni saqlamoqçisiz, biroq joriy fayl formati quyidagi elementlarni saqlaşni qöllab-quvvatlamaydi. Ularni saqlab qoliş uçun <i>Okular hujjat arxivi</i> formatidan foydalaning.
+Warning - Ogohlantiriş
+Save as Okular document archive… - Okular hujjat arxivi sifatida saqlaş…
+You are about to save changes, but the current file format does not support saving the following elements. Please use the <i>Okular document archive</i> format to preserve them. Click <i>Continue</i> to save the document and discard these elements. - Siz özgarişlarni saqlamoqçisiz, biroq joriy fayl formati quyidagi elementlarni saqlaşni qöllab-quvvatlamaydi. Ularni saqlab qoliş uçun <i>Okular hujjat arxivi</i> formatidan foydalaning. Hujjatni saqlaş va uşbu elementlardan voz keçiş uçun <i>Davom etiş</i> tugmasini bosing.
+You are about to save changes, but the current file format does not support saving the following elements. Please use the <i>Okular document archive</i> format to preserve them. Click <i>Continue</i> to save, but you will lose these elements as well as the undo/redo history. - Siz özgarişlarni saqlamoqçisiz, biroq joriy fayl formati quyidagi elementlarni saqlaşni qöllab-quvvatlamaydi. Ularni saqlab qoliş uçun <i>Okular hujjat arxivi</i> formatidan foydalaning. Saqlaş uçun <i>Davom etiş</i> tugmasini bosing, ammo uşbu elementlar hamda bekor qiliş/qayta bajariş tarixi yöqoladi.
+Continue - Davom etiş
+Continue losing changes - Özgarişlarni yöqotib davom etiş
+File could not be saved in '%1'. %2 - Faylni '%1' içiga saqlab bölmadi. %2
+Okular cannot copy %1 to the specified location.  The document does not exist anymore. - Okular %1 faylini körsatilgan joyga nusxalay olmaydi.  Hujjat endi mavjud emas.
+File could not be saved in '%1'. Error: '%2'. Try to save it to another location. - Faylni '%1' içiga saqlab bölmadi. Xatolik: '%2'. Uni boşqa joyga saqlab köring.
+Expand Whole Section - Butun bölimni yoyiş
+Collapse Whole Section - Butun bölimni yiğib qöyiş
+Sync Thumbnail with Page - Miniatyurani sahifa bilan sinxronlaş
+Tools - Vositalar
+Speak - Ovoz çiqarib öqiş
+Invalid options have been received. - Yaroqsiz parametrlar qabul qilindi.
+Print - Çop etiş
+Printing this document is not allowed. - Uşbu hujjatni çop etişga ruxsat berilmagan.
+Could not print the document. Unknown error. Please report to bugs.kde.org - Hujjatni çop etib bölmadi. Nomaʼlum xatolik. Iltimos, bugs.kde.org saytiga xabar bering
+Could not print the document. Detailed error is "%1". Please report to bugs.kde.org - Hujjatni çop etib bölmadi. Batafsil xatolik: "%1". Iltimos, bugs.kde.org saytiga xabar bering
+Go to the place you were before - Avvalgi joyga qaytiş
+Go to the place you were after - Keyingi joyga ötiş
+<qt><strong>File Error!</strong> Could not create temporary file <nobr><strong>%1</strong></nobr>.</qt> - <qt><strong>Fayl xatoligi!</strong> <nobr><strong>%1</strong></nobr> vaqtinçalik faylini yaratib bölmadi.</qt>
+<qt><strong>File Error!</strong> Could not open the file <nobr><strong>%1</strong></nobr> for uncompression. The file will not be loaded.</qt> - <qt><strong>Fayl xatoligi!</strong> Arxivdan çiqariş uçun <nobr><strong>%1</strong></nobr> faylini oçib bölmadi. Fayl yuklanmaydi.</qt>
+<qt>This error typically occurs if you do not have enough permissions to read the file. You can check ownership and permissions if you right-click on the file in the Dolphin file manager, then choose the 'Properties' option, and select 'Permissions' tab in the opened window.</qt> - <qt>Uşbu xatolik odatda faylni öqiş uçun yetarli ruxsatga ega bölmasangiz yuz beradi. Dolphin fayl boşqaruvçisida fayl ustiga siçqonçaning öng tugmasini bosib, 'Xossalar' bandini tanlab va oçilgan oynada 'Ruxsatlar' varaqasiga ötib egalik huquqi va ruxsatlarni tekşirişingiz mumkin.</qt>
+<qt><strong>File Error!</strong> Could not uncompress the file <nobr><strong>%1</strong></nobr>. The file will not be loaded.</qt> - <qt><strong>Fayl xatoligi!</strong> <nobr><strong>%1</strong></nobr> faylini arxivdan çiqarib bölmadi. Fayl yuklanmaydi.</qt>
+<qt>This error typically occurs if the file is corrupt. If you want to be sure, try to decompress the file manually using command-line tools.</qt> - <qt>Uşbu xatolik odatda fayl buzilgan bölsa yuz beradi. Işonç hosil qiliş uçun buyruq satri vositalari yordamida faylni qölda arxivdan çiqarib köring.</qt>
+No Bookmarks - Xatçöplar yöq
+There was a problem sharing the document: %1 - Hujjatni ulaşişda muammo yuz berdi: %1
+Share - Ulaşiş
+Document shared successfully - Hujjat muvaffaqiyatli ulaşildi
+You can find the shared document at: <a href="%1">%1</a> - Ulaşilgan hujjatni bu yerdan topişingiz mumkin: <a href="%1">%1</a>
+&Edit - &Tahrirlaş
+&View - &Köriniş
+&Go - Ö&tiş
+&Tools - &Vositalar
+Main Toolbar - Asosiy asboblar paneli
+Annotation Toolbar - Izohlar paneli
+Quick Annotation Toolbar - Tezkor izohlar paneli
+General Options - Umumiy parametrlar
+Accessibility - Maxsus imkoniyatlar
+Accessibility Reading Aids - Öqiş uçun maxsus imkoniyatlar
+Performance - Unumdorlik
+Performance Tuning - Unumdorlikni sozlaş
+Configure Viewer - Köruvçini sozlaş
+Presentation - Taqdimot
+Options for Presentation Mode - Taqdimot rejimi parametrlari
+Annotation Options - Izoh parametrlari
+Editor - Muharrir
+Editor Options - Muharrir parametrlari
+The editor was set by the command line to   %1  If you want to use the setting, start okular without the option --editor-cmd - Muharrir buyruq satri orqali %1 ga örnatilgan. Agar sozlamadan foydalanmoqçi bölsangiz, okular-ni --editor-cmd parametrisiz işga tuşiring
+Find Next - Keyingisini topiş
+%1 – Presentation - %1 – Taqdimot
+Switch Screen - Ekranni almaştiriş
+Screen %1 - Ekran %1
+Exit Presentation Mode - Taqdimot rejimidan çiqiş
+Title: %1 - Sarlavha: %1
+Pages: %1 - Sahifalar: %1
+Click to begin - Boşlaş uçun bosing
+Pause - Vaqtinça töxtatiş
+Play - Ijro etiş
+There are two ways of exiting presentation mode, you can press either ESC key or click with the quit button that appears when placing the mouse in the top-right corner. Of course you can cycle windows (Alt+TAB by default) - Taqdimot rejimidan çiqişning ikki yöli mavjud: ESC tugmasini bosişingiz yoki siçqonçani yuqori öng burçakka olib borganda paydo böladigan çiqiş tugmasini bosişingiz mumkin. Albatta, oynalar orasida almaşişingiz ham mumkin (standart Alt+TAB)
+Giving a presentation - Taqdimot ötkaziş
+Unknown File - Nomaʼlum fayl
+%1 Properties - %1 xossalari
+%1 (%2) - %1 (%2)
+%1: - %1:
+&Fonts - &Şriftlar
+Reading font information… - Şrift maʼlumotlari öqilmoqda…
+&Page Sizes - &Sahifa ölçamlari
+&Extract Font - Şriftni &ajratib oliş
+Type 1 - Type 1
+Type 1C - Type 1C
+Type 1C (OT) - Type 1C (OT)
+Type 3 - Type 3
+TrueType - TrueType
+TrueType (OT) - TrueType (OT)
+CID Type 0 - CID Type 0
+CID Type 0C - CID Type 0C
+CID Type 0C (OT) - CID Type 0C (OT)
+CID TrueType - CID TrueType
+CID TrueType (OT) - CID TrueType (OT)
+TeX PK - TeX PK
+TeX virtual - TeX virtual
+TeX Font Metric - TeX Font Metric
+TeX FreeType-handled - TeX FreeType-handled
+Unknown - Nomaʼlum
+Embedded (subset) - Içiga joylangan (qism-töplam)
+Fully embedded - Töliq içiga joylangan
+No - Yöq
+Yes (subset) - Ha (qism-töplam)
+Yes - Ha
+%1 (substituting with %2) - %1 (%2 bilan almaştirilmoqda)
+[n/a] - [m/e]
+Unknown font - Nomaʼlum şrift
+Embedded: %1 - Içiga joylangan: %1
+Type - Turi
+File - Fayl
+Page - Sahifa
+Size - Hajmi
+Revision Preview - Tahrirni oldindan köriş
+Where do you want to save this revision? - Uşbu tahrirni qayerga saqlamoqçisiz?
+Could not save file %1. - %1 faylini saqlab bölmadi.
+Could not view revision. - Tahrirni körib bölmadi.
+Enter at least 3 letters to filter pages - Sahifalarni saralaş uçun kamida 3 ta harf kiriting
+Case Sensitive - Katta-kiçik harflarni farqlaş
+Match Phrase - Iborani moslaştiriş
+Match All Words - Barça sözlarni moslaştiriş
+Match Any Word - Istalgan sözni moslaştiriş
+Filter Options - Saralaş parametrlari
+Certificates - Sertifikatlar
+Select certificate to sign with: - Imzolaş uçun sertifikatni tanlang:
+All - Hammasi
+Only QES certificates - Faqat QES sertifikatlari
+Only PGP keys - Faqat PGP kalitlari
+Reason: - Sabab:
+optional - ixtiyoriy
+Location: - Joylaşuv:
+Background: - Orqa fon:
+Choose... - Tanlaş...
+Recent backgrounds: - Yaqinda işlatilgan orqa fonlar:
+Signature Type - Imzo turi
+<div align=center><h3>No annotations</h3>To create new annotations press F6 or select <i>Tools -&gt; Annotations</i> from the menu.</div> - <div align=center><h3>Izohlar yöq</h3>Yangi izohlar yaratiş uçun F6 tugmasini bosing yoki menyudan <i>Vositalar -&gt; Izohlar</i> bandini tanlang.</div>
+Group by Page - Sahifa böyiça guruhlaş
+Group by Author - Muallif böyiça guruhlaş
+Show annotations for current page only - Faqat joriy sahifa uçun izohlarni körsatiş
+Expand all elements - Barça elementlarni yoyiş
+Collapse all elements - Barça elementlarni yiğib qöyiş
+Properties - Xossalar
+NONE - YÖQ
+Adobe PKCS7 signature - Adobe PKCS7 imzosi
+Basic eIDAS signature - Asosiy eIDAS imzosi
+eIDAS signature with timestamp - Vaqt tamğali eIDAS imzosi
+eIDAS signature with timestamp for long term validation - Uzoq muddatli tekşiriş uçun vaqt tamğali eIDAS imzosi
+eIDAS signature with timestamp for long term validation and support for re-validation - Uzoq muddatli tekşiriş va qayta tekşirişni qöllab-quvvatlovçi vaqt tamğali eIDAS imzosi
+Images (%1) - Tasvirlar (%1)
+Select background image - Orqa fon tasvirini tanlang
+Forget image - Tasvirni unutiş
+Forget all images - Barça tasvirlarni unutiş
+Enter password/pin (if any) to unlock certificate: %1 - Sertifikatni qulfdan çiqariş uçun parol/PIN-kodni (agar bölsa) kiriting: %1
+Enter document password - Hujjat parolini kiriting
+Save Signed File As - Imzolangan faylni boşqa nom bilan saqlaş
+The original file cannot be overwritten. Please choose a different filename. - Asl fayl ustiga yozib bölmaydi. Iltimos, boşqa fayl nomini tanlang.
+%1_signed.%2 - %1_imzolangan.%2
+Validity Status - Haqiqiylik holati
+Signature Validity: - Imzo haqiqiyligi:
+Document Modifications: - Hujjat özgarişlari:
+Additional Information - Qöşimça maʼlumot
+Signed By: - Imzoladi:
+Signing Time: - Imzolangan vaqt:
+Document Version - Hujjat versiyasi
+Document Revision %1 of %2 - Hujjat tahriri %1 / %2
+View Signed Version… - Imzolangan versiyani köriş…
+View Certificate… - Sertifikatni köriş…
+View in Certificate Manager - Sertifikatlar boşqaruvçisida köriş
+KDE Certificate Manager (kleopatra) not found - KDE Sertifikatlar boşqaruvçisi (kleopatra) topilmadi
+Qualified - Malakali (Qualified)
+PGP - PGP
+Show bookmarked pages only - Faqat xatçöpli sahifalarni körsatiş
+Play - Ijro etiş
+Pause - Vaqtinça töxtatiş
+Stop - Töxtatiş
+Videos not supported in this okular - Uşbu okular-da videolar qöllab-quvvatlanmaydi
+Videos not supported in this Okular - Uşbu Okular-da videolar qöllab-quvvatlanmaydi
+&Add… - &Qöşiş…
+&Edit… - &Tahrirlaş…
+&Remove - &Olib taşlaş
+Move &Up - &Yuqoriga
+Move &Down - &Pastga
+Default Drawing Tool #%1 - Standart çiziş vositasi #%1
+There's already a tool with that name. Using a default one - Bunday nomli vosita allaqaçon mavjud. Standart nomdan foydalanilmoqda
+Duplicated Name - Takroriy nom
+Page of the document to be shown - Körsatiladigan hujjat sahifasi
+Start the document in presentation mode - Hujjatni taqdimot rejimida boşlaş
+Start with print dialog - Çop etiş oynasi bilan boşlaş
+Start with print dialog and exit after printing - Çop etiş oynasi bilan boşlaş va çop etgandan söng çiqiş
+"Unique instance" control - "Yagona nusxa" nazorati
+Not raise window - Oynani oldinga çiqarmaslik
+Find a string on the text - Matndan satrni topiş
+Sets the external editor command - Taşqi muharrir buyruğini belgilaydi
+Documents to open. Specify '-' to read from stdin. - Oçiladigan hujjatlar. stdin-dan öqiş uçun '-' belgisini körsating.
+You cannot set the editor command in an already running okular instance. Please disable the tabs and try again. Please note, that unique is also not supported when setting the editor command at the commandline.  - Allaqaçon işlab turgan okular nusxasida muharrir buyruğini örnata olmaysiz. Iltimos, varaqalarni (tabs) öçiring va qayta urinib köring. Şuni yodda tutingki, buyruq satrida muharrir buyruğini örnatişda yagona nusxa (unique) rejimi ham qöllab-quvvatlanmaydi. 
+Error: Can't open more than one document with the --unique switch - Xatolik: --unique kaliti bilan bittadan ortiq hujjatni oçib bölmaydi
+Error: Can't open more than one document with the --presentation switch - Xatolik: --presentation kaliti bilan bittadan ortiq hujjatni oçib bölmaydi
+Error: Can't open more than one document with the --print switch - Xatolik: --print kaliti bilan bittadan ortiq hujjatni oçib bölmaydi
+Error: Can't open more than one document with the --page switch - Xatolik: --page kaliti bilan bittadan ortiq hujjatni oçib bölmaydi
+Error: Can't open more than one document with the --find switch - Xatolik: --find kaliti bilan bittadan ortiq hujjatni oçib bölmaydi
+Unable to find the Okular component: %1 - Okular komponenti topilmadi: %1
+Sidebar - Yon panel
+There is already a unique Okular instance running. This instance won't be the unique one. - Yagona Okular nusxasi allaqaçon işlab turibdi. Uşbu nusxa yagona bölmaydi.
+Unable to find the Okular component. - Okular komponenti topilmadi.
+Click to open a file Click and hold to open a recent file - Faylni oçiş uçun bosing. Yaqinda oçilgan faylni oçiş uçun bosib turing
+<b>Click</b> to open a file or <b>Click and hold</b> to select a recent file - Faylni oçiş uçun <b>bosing</b> yoki yaqinda oçilgan faylni tanlaş uçun <b>bosib turing</b>
+Next Tab - Keyingi varaqa
+Previous Tab - Oldingi varaqa
+Switch to Tab %1 - %1-varaqaga ötiş
+Undo close tab - Yopilgan varaqani qayta oçiş
+Lock Sidebar - Yon panelni mahkamlaş
+All files (*) - Barça fayllar (*)
+All supported files (%1) - Barça qöllab-quvvatlanadigan fayllar (%1)
+Open Document - Hujjatni oçiş
+Confirm Close - Yopişni tasdiqlaş
+Close Tabs - Varaqalarni yopiş
+You are about to close %1 tabs. Are you sure you want to continue? - Siz %1 ta varaqani yopmoqçisiz. Davom etişga işonçingiz komilmi?
+Warn me when I attempt to close multiple tabs - Bir neçta varaqalarni yopişga uringanimda meni ogohlantir
+&Copy Path - Yöldan &nusxa oliş
+&Open Containing Folder - Fayl joylaşgan &jildni oçiş
+&Forget This Item - Uşbu elementni &unutiş
+No recent documents - Yaqinda oçilgan hujjatlar yöq
+Welcome to Okular - Okular dasturiga xuş kelibsiz
+Open Document... - Hujjatni oçiş...
+Recent documents - Yaqinda oçilgan hujjatlar
+Forget All - Barçasini unutiş
+Hide welcome screen - Qarşilaş ekranini bekitiş

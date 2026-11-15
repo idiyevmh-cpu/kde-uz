@@ -1,0 +1,60 @@
+NetworkManager is missing support for Cisco Compatible VPN - NetworkManager-da Cisco mos VPN qöllab-quvvatlaşi mavjud emas
+%1: file could not be created - %1: faylni yaratib bölmadi
+Gateway: - Şlyuz:
+IP/hostname of IPsec gateway. - IPsec şlyuzining IP/xost nomi.
+User name: - Foydalanuvçi nomi:
+User name for the connection. - Ulaniş uçun foydalanuvçi nomi.
+User password: - Foydalanuvçi paroli:
+User password for the connection. - Ulaniş uçun foydalanuvçi paroli.
+Group name: - Guruh nomi:
+Group name - Guruh nomi
+Group password: - Guruh paroli:
+Group password. - Guruh paroli.
+Enable hybrid authentication, i.e. use certificate in addition to password. - Gibrid autentifikatsiyani yoqiş (parolga qöşimça sertifikatdan foydalaniş).
+Use hybrid authentication - Gibrid autentifikatsiyadan foydalaniş
+CA file: - CA fayli:
+CA certificate in PEM format. - PEM formatidagi CA sertifikati.
+Advanced… - Kengaytirilgan…
+Identification - Identifikatsiya
+Domain: - Domen:
+(NT-)Domain name for authentication. - Autentifikatsiya uçun (NT-)domen nomi.
+Vendor: - Işlab çiqaruvçi:
+Vendor of your IPsec gateway. - IPsec şlyuzingiz işlab çiqaruvçisi.
+Transport and Security - Transport va xavfsizlik
+Encryption method: - Şifrlaş usuli:
+Encryption method. - Şifrlaş usuli.
+NAT traversal: - NAT orqali ötiş (NAT traversal):
+NAT traversal method to use. - Foydalaniladigan NAT orqali ötiş usuli.
+IKE DH Group: - IKE DH guruhi:
+Name of the IKE DH group. - IKE DH guruhi nomi.
+Perfect Forward Secrecy: - Perfect Forward Secrecy (PFS):
+Diffie-Hellman group to use for PFS. - PFS uçun işlatiladigan Diffie-Hellman guruhi.
+Local Port: - Mahalliy port:
+Local port to use (0-65535). 0 (default value) means random port. 500 is vpnc's default. - Foydalaniladigan mahalliy port (0-65535). 0 (standart qiymat) tasodifiy portni anglatadi. 500 — vpnc standarti.
+Random - Tasodifiy
+Disable sending DPD packets (set timeout to 0). - DPD paketlarini yuborişni öçiriş (kutiş vaqtini 0 ga örnating).
+Disable dead peer detection - Işlamayotgan tugunni aniqlaşni öçiriş (DPD)
+Advanced VPNC properties - Kengaytirilgan VPNC xususiyatlari
+Cisco - Cisco
+Netscreen - Netscreen
+Fortigate - Fortigate
+Secure (default) - Xavfsiz (standart)
+Weak (DES encryption, use with caution) - Kuçsiz (DES şifrlaş, ehtiyotkorlik bilan foydalaning)
+None (completely insecure) - Yöq (mutlaqo xavfsiz emas)
+NAT-T when available (default) - Mavjud bölganda NAT-T (standart)
+NAT-T always - Har doim NAT-T
+Cisco UDP - Cisco UDP
+Disabled - Öçirilgan
+DH Group 1 - DH guruhi 1
+DH Group 2 (default) - DH guruhi 2 (standart)
+DH Group 5 - DH guruhi 5
+Server (default) - Server (standart)
+None - Yöq
+DH Group 1 - DH guruhi 1
+DH Group 2 - DH guruhi 2
+DH Group 5 - DH guruhi 5
+VPNCAuthentication - VPNC autentifikatsiyasi
+User Password: - Foydalanuvçi paroli:
+Group Password: - Guruh paroli:
+Username: - Foydalanuvçi:
+Group name. - Guruh nomi.

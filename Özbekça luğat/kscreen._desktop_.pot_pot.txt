@@ -1,0 +1,3 @@
+Source text - Tarjima text
+Display Configuration - Ekran sozlamalari
+Switch Display - Ekranni almaştiriş

@@ -1,0 +1,10 @@
+spell - imlo
+%1:q: - %1:q:
+Checks the spelling of :q:. - :q: imlosini tekşiradi.
+Correct - Töğri
+Suggested term - Taklif qilingan atama
+No dictionary found. Please install <resource>hunspell</resource> package using your package manager - Heç qanday luğat topilmadi. Iltimos, paketlar boşqaruvçisi orqali <resource>hunspell</resource> paketini örnating
+Spell Check Settings - Imloni tekşiriş sozlamalari
+&Require trigger word - &Işga tuşiruvçi söz talab qilinsin
+&Trigger word: - &Işga tuşiruvçi söz:
+Configure Dictionaries… - Luğatlarni sozlaş…

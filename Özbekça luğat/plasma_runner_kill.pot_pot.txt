@@ -1,0 +1,12 @@
+Source text - Tarjima text
+Send SIGTERM - SIGTERM signalini yuboriş
+Send SIGKILL - SIGKILL signalini yuboriş (Majburiy töxtatiş)
+kill - töxtatiş (kill)
+Terminate running applications whose names matç the query. - Nomi sörovga mos keluvçi işlayotgan ilovalarni töxtatiş.
+Terminate %1 - %1 ni töxtatiş
+Process ID: %1 - Jarayon identifikatori (PID): %1
+CPU usage - Protsessor (CPU) yuki
+Kill Applications Config - Ilovalarni töxtatiş sozlamasi
+Use trigger word - Çaqiruvçi sözdan foydalaniş
+Trigger word: - Çaqiruvçi söz:
+Sort by - Saralaş tartibi

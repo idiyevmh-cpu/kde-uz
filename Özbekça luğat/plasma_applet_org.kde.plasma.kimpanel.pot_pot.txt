@@ -1,0 +1,20 @@
+(Empty) - (Böş)
+Appearance - Taşqi köriniş
+Input method list: - Kiritiş usullari röyxati:
+Vertical - Vertikal
+Horizontal - Gorizontal
+Font: - Şrift:
+Use custom: - Moslaştirilgandan foydalaniş:
+%1 %2 pt - %1 %2 pt
+Choose Font… - Şriftni tanlaş…
+Panel icon size: - Panel belgisi hajmi:
+Small - Kiçik
+Scale with Panel height - Panel balandligi bilan masştablaş
+Scale with Panel width - Panel kengligi bilan masştablaş
+Select Font - Şriftni tanlaş
+Show - Körsatiş
+Hide %1 - %1 ni yaşiriş
+Configure Input Method - Kiritiş usulini sozlaş
+Reload Config - Sozlamalarni qayta yuklaş
+Exit Input Method - Kiritiş usulidan çiqiş
+Input Method Panel - Kiritiş usuli paneli

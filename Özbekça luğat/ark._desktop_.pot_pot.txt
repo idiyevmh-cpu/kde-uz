@@ -1,0 +1,6 @@
+Source text - Tarjima text
+Archiving Tool - Arxivlaş vositasi
+Ark - Ark
+Work with file archives - Fayl arxivlari bilan işlaş
+Archiver - Arxivlagiç
+Archive Handling Tool - Arxivlar bilan işlaş vositasi

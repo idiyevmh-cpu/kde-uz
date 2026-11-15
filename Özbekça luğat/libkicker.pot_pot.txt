@@ -1,0 +1,58 @@
+Open with: - Bilan oçiş:
+Properties - Xossalari
+Add to Desktop - Iş stoliga qöşiş
+Pin to Task Manager - Vazifalar boşqaruvçisiga qadaş
+Add to Panel (Widget) - Panelga qöşiş (Vidjet)
+Recent Files - Yaqinda oçilgan fayllar
+Forget Recent Files - Yaqinda oçilgan fayllarni unutiş
+Edit Application… - Ilovani tahrirlaş…
+Uninstall or Manage Add-Ons… - Qöşimçalarni öçiriş yoki boşqariş…
+Hide Application - Ilovani yaşiriş
+%1 (%2) - %1 (%2)
+Applications - Ilovalar
+Unhide Applications in this Submenu - Uşbu quyi menyudagi ilovalarni körsatiş
+Unhide Applications in '%1' - '%1' dagi ilovalarni körsatiş
+Show KRunner - KRunner ni körsatiş
+Search, calculate, or run a command - Qidiriş, hisoblaş yoki buyruqni bajariş
+Computer - Kompyuter
+Favorites - Saralanganlar
+Recently Used - Yaqinda işlatilgan
+Places - Joylar
+Files - Fayllar
+Forget Application - Ilovani unutiş
+Folders - Jildlar
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Forget Folder - Jildni unutiş
+Forget File - Faylni unutiş
+Forget All - Hammasini unutiş
+Forget All Applications - Barça ilovalarni unutiş
+Forget All Folders - Barça jildlarni unutiş
+Forget All Files - Barça fayllarni unutiş
+All Applications - Barça ilovalar
+Hide %1 - %1 ni yaşiriş
+This shouldn't be visible! Use KICKER_FAVORITES_MODEL - Bu körinmasligi kerak! KICKER_FAVORITES_MODEL dan foydalaning
+Recent Places - Yaqinda oçilgan joylar
+Often Used Places - Tez-tez oçiladigan joylar
+Often Used Files - Tez-tez işlatiladigan fayllar
+Recent Applications - Yaqinda işlatilgan ilovalar
+Often Used Applications - Tez-tez işlatiladigan ilovalar
+Power / Session - Quvvat / Seans
+Search results - Qidiruv natijalari
+Lock - Qulflaş
+Log Out - Tizimdan çiqiş
+Save Session - Seansni saqlaş
+Switch User - Foydalanuvçini almaştiriş
+Sleep - Kutiş rejimi
+Hibernate - Gipenatsiya
+Restart - Qayta işga tuşiriş
+Shut Down - Öçiriş
+Session - Seans
+System - Tizim
+Lock screen - Ekranni qulflaş
+End session - Seansni yakunlaş
+Start a parallel session as a different user - Boşqa foydalanuvçi sifatida parallel seansni boşlaş
+Suspend to RAM - Tezkor xotirada töxtatib turiş
+Suspend to disk - Diskda töxtatib turiş
+Restart computer - Kompyuterni qayta işga tuşiriş
+Turn off computer - Kompyuterni öçiriş
+System actions - Tizim amallari

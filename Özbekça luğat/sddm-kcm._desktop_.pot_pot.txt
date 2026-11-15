@@ -1,0 +1,13 @@
+Source text - Tarjima text
+SDDM - SDDM
+Save Settings - Sozlamalarni saqlaş
+Save Settings in SDDM - Sozlamalarni SDDM tizimida saqlaş
+Install an SDDM theme - SDDM mavzusini örnatiş
+Extract a zip file containing an SDDM theme to the SDDM theme location - SDDM mavzusiga ega zip faylini mavzular jildiga ajratiş
+Uninstall an SDDM theme - SDDM mavzusini öçiriş
+Remove a previously installed SDDM theme - Avval örnatilgan SDDM mavzusini olib taşlaş
+Synchronize Settings - Sozlamalarni sinxronlaş
+Synchronize user settings with SDDM settings - Foydalanuvçi parametrlarini SDDM parametrlari bilan sinxronlaş
+Reset Settings - Sozlamalarni qayta tiklaş
+Reset SDDM settings to factory default state - SDDM sozlamalarini standart (boşlanğiç) holatiga qaytariş
+Login Screen - Tizimga kiriş ekrani

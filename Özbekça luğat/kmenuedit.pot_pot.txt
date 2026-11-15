@@ -1,0 +1,92 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+&Name: - &Nomi:
+&Generic name: - &Umumiy nomi:
+&Comment: - I&zoh:
+Environment variables: - Muhit özgaruvçilari:
+Program: - Dastur:
+Command-line arguments: - Buyruqlar satri argumentlari:
+Following the command, you can have several place holders which will be replaced with the actual values when the actual program is run:
+%f - a single file name
+%F - a list of files; use for applications that can open several local files at once
+%u - a single URL
+%U - a list of URLs
+%d - the folder of the file to open
+%D - a list of folders
+%i - the icon
+%m - the mini-icon
+%c - the caption - Buyruqdan söng dastur işga tuşganda haqiqiy qiymatlar bilan almaştiriladigan bir neçta töldiruvçilar bölişi mumkin:
+%f - bitta fayl nomi
+%F - fayllar röyxati
+%u - bitta URL
+%U - URLlar röyxati
+%d - oçiladigan fayl jildi
+%D - jildlar röyxati
+%i - nişonça
+%c - sarlavha
+Enable &launch feedback - &Işga tuşiriş aks-sadosini yoqiş
+Only show when logged into a Plasma session - Faqat Plasma seansiga kirganda körsatiş
+Hidden entry - Yaşirin band
+General - Umumiy
+&Work path: - &Iş yöli:
+Run in term&inal - &Terminalda bajariş
+Terminal &options: - Terminalning &parametrlari:
+&Run as a different user - Boşqa &foydalanuvçi sifatida bajariş
+&Username: - F&oydalanuvçi:
+Run using dedicated &graphics card - Alohida &videokarta yordamida işga tuşiriş
+Current shortcut &key: - &Joriy tugmalar birikmasi:
+Advanced - Qöşimça
+Launch %1 - %1 ni işga tuşiriş
+This will hide the menu bar completely. You can show it again by typing %1. - Bu menyu panelini butunlay yaşiradi. Uni %1 orqali qayta körsatişingiz mumkin.
+Hide menu bar - Menyu panelini yaşiriş
+&New Submenu... - Yangi quyi &menyu
+New &Item... - Yangi &band
+New S&eparator - &Yangi ajratuvçi
+Copy Location - Joylaşuvdan nusxa oliş
+&Open Containing Folder - Joylaşgan jildni &oçiş
+Properties - Xossalari
+&New - &Yangi
+&Sort - &Saralaş
+&Sort Selection by Name - Tanlanganlarni nomi böyiça &saralaş
+&Sort Selection by Description - Tanlanganlarni taʼrifi böyiça &saralaş
+&Sort All by Name - Barçasini nomi böyiça &saralaş
+&Sort All by Description - Barçasini taʼrifi böyiça &saralaş
+Move &Up - &Yuqoriga
+Move &Down - &Pastga
+Restore to System Menu - Tizim menyusiga qaytariş
+Search... - Qidiriş...
+Search through the list of applications below - Quyidagi ilovalar röyxatidan qidiriş
+&Delete - &Öçiriş
+You have made changes to the menu.
+Do you want to save the changes or discard them? - Menyuga özgarişlar kiritildi.
+Ularni saqlaşni istaysizmi yoki ulardan voz keçasizmi?
+Save Menu Changes? - Menyuga kiritilgan özgarişlarni saqlaymi?
+&File - &Fayl
+File Act&ions - Fayl &amallari
+&Edit - &Tahrirlaş
+Main Toolbar - Asboblar paneli
+Hamburger Menu Toolbar - Gamburger menyusi asboblar paneli
+KDE Menu Editor - KDE menyu tahrirçi
+KDE menu editor - KDE menyu tahrirçi
+(C) 2000-2003, Waldo Bastian, Raffaele Sandrini, Matthias Elter - (C) 2000-2003, Waldo Bastian, Raffaele Sandrini, Matthias Elter
+Waldo Bastian - Waldo Bastian
+Maintainer - Taʼminlovçi
+Raffaele Sandrini - Raffaele Sandrini
+Previous Maintainer - Oldingi taʼminlovçi
+Matthias Elter - Matthias Elter
+Original Author - Birinçi muallif
+Montel Laurent - Montel Laurent
+Entry and/or menu to select, e.g. "org.kde.dolphin.desktop", "Utilties/org.kde.kwrite.desktop", "Education/Mathematics" - Tanlaş uçun band yoki menyu
+Could not write to %1 - %1'ga yozib bölmadi
+General options - Umumiy parametrlar
+Spell Checking - Imloni tekşiriş
+Spell checking Options - Imloni tekşiriş variantlari
+Show hidden entries - Yaşirin bandlarni körsatiş
+ [Hidden] -  [Yaşirilgan]
+New Submenu - Yangi quyi menyu
+Submenu name: - Quyi menyuning nomi:
+New Item - Yangi band
+Item name: - Bandning nomi:
+Menu changes could not be saved because of the following problem: - Menyuga kiritilgan özgarişlar quyidagi muammoga köra saqlanmadi:
+Do you want to restore the system menu? Warning: This will remove all custom menus. - Tizim menyusini tiklaşni xohlaysizmi? Ogohlantiriş: Bu barça maxsus menyularni olib taşlaydi.
+Restore Menu System - Menyu tizimini tiklaş

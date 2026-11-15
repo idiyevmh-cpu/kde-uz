@@ -1,0 +1,3 @@
+Use sensor color: - Datçik rangidan foydalaning:
+Number of columns: - Ustunlar soni:
+Automatic - Avtomatik

@@ -1,0 +1,152 @@
+Media Settings - Media sozlamalari
+Banners, Policies and Allowed Users - Bannerlar, siyosatlar va ruxsat berilgan foydalanuvçilar
+The current page has changes. Do you want to save them? - Joriy sahifada özgarişlar mavjud. Ularni saqlamoqçimisiz?
+Save - Saqlaş
+Configure Printer - Printerni sozlaş
+ConfigurePrinter - Printerni sozlaş
+(C) 2010-2018 Daniel Nicoletti - © 2010-2018 Daniel Nicoletti
+Port to Qt 5 / Plasma 5 - Qt 5 / Plasma 5 versiyasiga köçiriş
+Port to Qt 6 / Plasma 6 - Qt 6 / Plasma 6 versiyasiga köçiriş
+Printer to be configured - Sozlanadigan printer
+Abort job - Vazifani bekor qiliş
+Retry current job - Joriy vazifani qayta urinib köriş
+Retry job - Vazifani qayta urinib köriş
+Stop printer - Printerni töxtatiş
+Authenticated - Tasdiqlangan
+Default - Standart
+None - Heç qaysi
+Classified - Maxfiy
+Confidential - Maxfiy (işonçli)
+Secret - Sir
+Standard - Standart
+Topsecret - Öta maxfiy
+Unclassified - Maxfiy bölmagan
+Banners - Bannerlar
+Starting Banner: - Boşlanğiç banner:
+Ending Banner: - Yakuniy banner:
+Policies - Siyosatlar
+Operation Policy: - Amal siyosati:
+Error Policy: - Xatolik siyosati:
+Allowed Users - Ruxsat berilgan foydalanuvçilar
+Pre&vent these users from printing  - Bu foydalanuvçilarga çop etişni ta&qiqlaş 
+A&llow these users to print - Bu foydalanuvçilarga çop etişga ru&xsat beriş
+Set Default Options - Standart parametrlarni örnatiş
+Query Printer for Default Options - Standart parametrlar uçun printerdan sörov oliş
+Add a new printer - Yangi printer qöşiş
+Add a new printer group - Yangi printerlar guruhini qöşiş
+Configure a printer - Printerni sozlaş
+IPP Everywhere™ - IPP Everywhere™
+Driverless - Drayversiz
+PPD File - PPD fayli
+Failed to get server settings: %1 - Server sozlamalarini oliş muvaffaqiyatsiz tugadi: %1
+Server Settings Not Saved: (%1): %2 - Server sozlamalari saqlanmadi: (%1): %2
+Fatal Save Server Settings: (%1): %2 - Server sozlamalarini saqlaşda jiddiy xato: (%1): %2
+Install Error (package: %1) Check authentication credentials and make sure PackageKit is installed properly. - Örnatiş xatosi (paket: %1) Kiriş maʼlumotlarini tekşiring va PackageKit töğri örnatilganiga işonç hosil qiling.
+%1 The print job will complete when the printer becomes available. - %1 Printer mavjud bölganda çop etiş vazifasi yakunlanadi.
+Resume Printer - Printerni davom ettiriş
+Check Levels… - Darajalarni tekşiriş…
+The New Printer was added - Yangi printer qöşildi
+The New Printer might have a driver problem - Yangi printerda drayver muammosi bölişi mumkin
+Printer queue was not created - Printer navbati yaratilmadi
+Printer driver not found for %1 %2 - %1 %2 uçun printer drayveri topilmadi
+Printer driver not found for %1 - %1 uçun printer drayveri topilmadi
+Printer driver not found for this printer - Uşbu printer uçun printer drayveri topilmadi
+Add Printer… - Printer qöşiş…
+'%1' has been added, please check its driver - '%1' qöşildi, iltimos, uning drayverini tekşiring
+Configure - Sozlaş
+'%1' has been added, using the '%2' driver - '%1' qöşildi, '%2' drayveridan foydalanilmoqda
+Print test page - Sinov sahifasini çop etiş
+Check driver - Drayverni tekşiriş
+'%1' is ready for printing. - '%1' çop etişga tayyor.
+Failed to configure class:  - Sinfni sozlaş muvaffaqiyatsiz tugadi: 
+Failed to configure printer:  - Printerni sozlaş muvaffaqiyatsiz tugadi: 
+Print Self-Test Page - Öz-özini sinaş sahifasini çop etiş
+Clean Print Heads - Çop etiş kallaklarini tozalaş
+Manual Config - Qölda sozlaş
+Parallel Port - Parallel port
+Serial Port - Ketma-ket port
+USB - USB
+Bluetooth - Bluetooth
+Fax - HP Linux Imaging and Printing (HPLIP) - Faks - HP Linux Imaging and Printing (HPLIP)
+HP Linux Imaging and Printing (HPLIP) - HP Linux Imaging and Printing (HPLIP)
+Hardware Abstraction Layer (HAL) - Uskunaviy abstraksiya qatlami (HAL)
+AppSocket/HP JetDirect - AppSocket/HP JetDirect
+LPD/LPR queue - LPD/LPR navbati
+LPD/LPR queue %1 - LPD/LPR navbati %1
+Windows Printer via SAMBA - SAMBA orqali Windows printeri
+IPP - IPP
+IPP %1 - IPP %1
+HTTP - HTTP
+Remote CUPS printer via DNS-SD - DNS-SD orqali masofaviy CUPS printeri
+IPP network printer via DNS-SD - DNS-SD orqali IPP tarmoq printeri
+LPD network printer via DNS-SD - DNS-SD orqali LPD tarmoq printeri
+AppSocket/JetDirect network printer via DNS-SD - DNS-SD orqali AppSocket/JetDirect tarmoq printeri
+Network printer via DNS-SD - DNS-SD orqali tarmoq printeri
+A printer connected to the parallel port - Parallel portga ulangan printer
+A printer connected via Bluetooth - Bluetooth orqali ulangan printer
+Local printer detected by the Hardware Abstraction Layer (HAL) - Uskunaviy abstraksiya qatlami (HAL) tomonidan aniqlangan mahalliy printer
+HPLIP software driving a fax machine, or the fax function of a multi-function device - Faks qurilmasini yoki köp funksiyali qurilmaning faks funksiyasini boşqaruvçi HPLIP dasturi
+HPLIP software driving a printer, or the printer function of a multi-function device - Printerni yoki köp funksiyali qurilmaning printer funksiyasini boşqaruvçi HPLIP dasturi
+IPP Network printer via IPP - IPP orqali IPP tarmoq printeri
+A printer connected to a USB port - USB portiga ulangan printer
+Remote CUPS printer via DNS-SD - DNS-SD orqali masofaviy CUPS printeri
+Network printer via DNS-SD - DNS-SD orqali tarmoq printeri
+%1 network printer via DNS-SD - DNS-SD orqali %1 tarmoq printeri
+Failed to get a list of devices: '%1' - Qurilmalar röyxatini oliş muvaffaqiyatsiz böldi: '%1'
+Failed to group devices: '%1' - Qurilmalarni guruhlaş muvaffaqiyatsiz böldi: '%1'
+Discovered Network Printers - Topilgan tarmoq printerlari
+Other Network Printers - Boşqa tarmoq printerlari
+Local Printers - Mahalliy printerlar
+Status - Holat
+Name - Nom
+User - Foydalanuvçi
+Created - Yaratilgan
+Completed - Yakunlangan
+Pages - Sahifalar
+Processed - Qayta işlangan
+Size - Hajm
+Status Message - Holat xabari
+Printer - Printer
+From Hostname - Xost nomidan
+Processing	%1 [%2] - Bajarilmoqda	%1 [%2]
+%1	%2 [%3] - %1	%2 [%3]
+Pending - Kutilmoqda
+On hold - Uşlab turilibdi
+Stopped - Töxtatilgan
+Canceled - Bekor qilingan
+Aborted - Töxtatib qöyilgan
+A CUPS connection requires authentication: "%1" - CUPS ulanişi tasdiqlanişni talab qiladi: "%1"
+Enter an username and a password to complete the task - Vazifani yakunlaş uçun foydalanuvçi nomi va parolni kiriting
+Wrong username or password - Foydalanuvçi nomi yoki parol notöğri
+%1 (%2) appears to be empty. - %1 (%2) böş körinadi.
+%1 (%2) appears to be low (%3% remaining). - %1 (%2) kam qolgan körinadi (%3% qoldi).
+%1 (%2) is almost full (%3%) - %1 (%2) deyarli tölgan (%3%)
+The printer is paused or stopped. - Printer töxtatib turilibdi yoki töxtagan.
+Print service is unavailable - Çop etiş xizmati mavjud emas
+Not found - Topilmadi
+Test Page - Sinov sahifasi
+Unable to send command to printer driver! - Printer drayveriga buyruq yuborib bölmadi!
+Failed to invoke method: %1 - Metodni çaqiriş muvaffaqiyatsiz böldi: %1
+Empty ppd model - Böş ppd modeli
+Printers - Printerlar
+Idle - Kutilmoqda
+Idle, rejecting jobs - Böş turibdi, vazifalarni rad etmoqda
+Idle - '%1' - Böş turibdi - '%1'
+Idle, rejecting jobs - '%1' - Böş turibdi, vazifalarni rad etmoqda - '%1'
+In use - Foydalanilmoqda
+In use - '%1' - Foydalanilmoqda - '%1'
+Paused - Pauzada
+Paused, rejecting jobs - Pauzada, vazifalarni rad etmoqda
+Paused - '%1' - Pauzada - '%1'
+Paused, rejecting jobs - '%1' - Pauzada, vazifalarni rad etmoqda - '%1'
+Unknown - Nomaʼlum
+Unknown - '%1' - Nomaʼlum - '%1'
+Plasma Print Queue Manager - Plasma çop etiş navbati boşqaruvçisi
+Manage printer job queues - Printer vazifalari navbatlarini boşqariş
+© KDE Community - © KDE hamjamiyati
+Mike Noe - Mike Noe
+Developer - Dasturçi
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Show printer queue - Printer navbatini körsatiş
+Enter credentials to print from <b>%1</b> - <b>%1</b> dan çop etiş uçun hisob maʼlumotlarini kiriting

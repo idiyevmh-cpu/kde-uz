@@ -1,0 +1,16 @@
+Printers - Printerlar
+Printer Groups - Printerlar guruhlari
+No printers have been configured or discovered - Heç qanday printer sozlanmagan yoki aniqlanmagan
+No matches - <heç narsa mos kelamadi>
+There is one print job in the queue - Navbatda bitta çop etiş vazifasi bor
+Printing %1 with %2 - %1 ni %2 bilan çop etiş
+Printing with %1 - %1 bilan çop etiş
+Print queue is empty - Çop etiş navbati böş
+%1 - %1%
+&Configure Printers… - &Printerlarni sozlaş…
+Resume - &Davom etiş
+Pause - Vaqtinça töxtatiş
+Configure Printer… - Printerni sozlaş…
+View Print Queue - Çop etiş navbatini köriş
+Cancel - &Bekor qiliş
+%1 more job - Yana %1 ta vazifa

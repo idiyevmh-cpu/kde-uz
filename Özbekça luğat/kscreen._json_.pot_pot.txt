@@ -1,0 +1,6 @@
+Source text - Tarjima text
+display,monitor,screen,scale,scaling,resolution,orientation,rotate,rotation,output,outputs,refresh,refresh rate,desktop size,hardware,devices,device,fractional,dpi,graphics,framerate,frame rate,fps,hertz,hz,arrange monitors,screen arrangement,aspect ratio,secondary screen,secondary monitor,secondary display,vrr,variable refresh rate,hdr,high dynamic range,freesync,g-sync,quality,hdmi,display port,displayport,dp,vga,dvi,type-c,thunderbolt display,external display,external monitor,external screen,pixels,16:9,21:9,4:3,720p,1080p,1440p,4k,5k,8k,12k,16k,display grid,tablet mode,rgb range,washed out,color profile,color accuracy,dim,brightness,screen tearing,blurry,latency,fullscreen - ekran,monitor,masştab,ölçam,aniqlik,yönaliş,aylantiriş,yangilaniş çastotasi,apparat taʼminoti,qurilmalar,dpi,grafika,fps,hz,monitorlarni joylaştiriş,taşqi monitor,vrr,hdr,hdmi,displayport,vga,dvi,type-c,yorqinlik
+Display Configuration - Ekran sozlamalari
+Manage and configure monitors and displays - Monitorlar va displeylarni sozlaş hamda boşqariş
+Quickly switch between screen layouts and presentation mode - Ekran sxemalari va taqdimot rejimi örtasida tezkor almaşiş
+Kai Uwe Broulik - Kai Uwe Broulik

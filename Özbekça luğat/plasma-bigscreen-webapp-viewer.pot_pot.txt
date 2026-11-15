@@ -1,0 +1,39 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+The user agent to browse with. - Körib çiqiş uçun User Agent.
+The name of the web app - Veb-ilova nomi
+link of website to launch - işga tuşiriladigan veb-sayt havolasi
+Webview - Veb-köriniş (Webview)
+Plasma Bigscreen Webapp runtime - Plasma Bigscreen veb-ilovalar iş muhiti
+© 2025 Plasma developers - © 2025 Plasma dasturçilari
+Entered Full Screen mode - Töliq ekran rejimiga ötildi
+Exit Full Screen (Esc) - Töliq ekrandan çiqiş (Esc)
+Play - Öynaş
+Pause - Vaqtinça töxtatiş
+Unmute - Ovozni yoqiş
+Mute - Tovuşsiz
+Speed - Tezlik
+Loop - Sikl (takrorlaş)
+Exit Fullscreen - Töliq ekrandan çiqiş
+Enter Fullscreen - Töliq ekranga ötiş
+Hide Controls - Boşqaruv elementlarini yaşiriş
+Show Controls - Boşqaruv elementlarini körsatiş
+Open Video - Videoni oçiş
+Open Audio - Audioni oçiş
+Open Video in New Tab - Videoni yangi varaqda oçiş
+Open Audio in New Tab - Audioni yangi varaqda oçiş
+Save Video - Videoni saqlaş
+Copy Video Link - Video havolasidan nusxa oliş
+Open Image - Rasmni oçiş
+Open Image in New Tab - Rasmni yangi varaqda oçiş
+Save Image - Rasmni saqlaş
+Copy Image - Rasmdan nusxa oliş
+Copy Image Link - Rasm havolasidan nusxa oliş
+Open Link - Havolani oçiş
+Open Link in New Window - Havolani yangi oynada oçiş
+Save Link - Havolani saqlaş
+Copy Link - Havoladan nusxa oliş
+Copy - Nusxa oliş
+Cut - Kesiş
+Paste - Qöyiş
+Open - Oçiş

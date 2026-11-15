@@ -1,0 +1,13 @@
+Failed to get secrets for %1 - %1 uçun maxfiy maʼlumotlarni olib bölmadi
+my_shared_connection - mening_ulaşilgan_ulanişim
+New %1 connection - Yangi %1 ulanişi
+Do you want to save changes made to the connection '%1'? - '%1' ulanişiga kiritilgan özgarişlarni saqlamoqçimisiz?
+Save Changes - Belgi uslubini özgartiriş
+ (Copy) -  (Nusxa)
+VPN connections (%1) - VPN ulanişlari (%1)
+All files (*) - Barça fayllar (*)
+This VPN type cannot be exported. - Uşbu VPN turini eksport qilib bölmaydi.
+The connection is no longer available. - Ulaniş endi mavjud emas.
+No file was provided - Fayl taqdim etilmadi
+Could not read the WireGuard configuration - WireGuard sozlamalarini öqib bölmadi
+Unknown VPN type - Nomaʼlum VPN turi

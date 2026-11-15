@@ -1,0 +1,5 @@
+Icon Picker - Nişonça tanlagiç
+PlasmoidViewerShell - PlasmoidViewerShell
+Invokes Icon Explorer icon picker - Nişonçalar tadqiqotçisi nişonça tanlagiçini çaqiradi
+PlasmoidViewer Shell - PlasmoidViewer qobiği
+Marco Martin - Marco Martin

@@ -1,0 +1,100 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+<qt>KDE has requested to create a new wallet named '<b>%1</b>'. This is used to securely store sensitive data, such as account passwords. Choose the type of the new wallet below or click Cancel to deny the application's request.</qt> - <qt>KDE '<b>%1</b>' nomli yangi hamyon yaratişni söradi. U hisob parollari kabi maxfiy maʼlumotlarni xavfsiz saqlaş uçun işlatiladi. Quyida yangi hamyon turini tanlang yoki ilova sörovini rad etiş uçun Bekor qiliş tugmasini bosing.</qt>
+The GpgME library failed to initialize for the OpenPGP protocol. Please check your system's configuration then try again. - GpgME kutubxonasini OpenPGP protokoli uçun işga tuşirib bölmadi. Tizim konfiguratsiyasini tekşiring va qayta urinib köring.
+No suitable GPG encryption keys were found. To create one, choose one of the following options:<list><item>Install Kleopatra and use it to create a new key. See these <link url='https://docs.kde.org/stable_kf6/en/kleopatra/kleopatra/functions-newkey.html'>instructions</link>.</item><item>Open a terminal and enter <command>gpg --full-gen-key</command>.</item><item>Go back and use Blowfish encryption instead, which only requires a password.</item></list> - Mos keladigan GPG şifrlaş kalitlari topilmadi. Kalit yaratiş uçun quyidagi variantlardan birini tanlang:<list><item>Kleopatra dasturini örnating va undan yangi kalit yaratiş uçun foydalaning. Uşbu <link url='https://docs.kde.org/stable_kf6/en/kleopatra/kleopatra/functions-newkey.html'>körsatmalarga</link> qarang.</item><item>Terminalni oçing va <command>gpg --full-gen-key</command> buyruğini kiriting.</item><item>Orqaga qayting va faqat parol talab qiladigan Blowfish şifrlaşidan foydalaning.</item></list>
+Select the signing key from the list below: - Quyidagi röyxatdan imzolaş kalitini tanlang:
+<html><head/><body><p><span style=" font-weight:600;">Note:</span> this list shows only &quot;ultimate-level&quot; trusted keys</p></body></html> - <html><head/><body><p><span style=" font-weight:600;">Eslatma:</span> bu röyxatda faqat &quot;eng yuqori darajadagi&quot; işonçli kalitlar körsatiladi</p></body></html>
+Name - Nomi
+E-Mail - Elektron poçta
+Key-ID - Kalit ID-si
+Refresh - Yangilaş
+Refresh the list of GPG certificates. - GPG sertifikatlari röyxatini yangilaş.
+The KDE Wallet System - KDE Hamyon tizimi
+<html><head/><body><p>The application '<span style=" font-weight:600;">%1</span>' has requested to open the KDE wallet. This is used to securely store sensitive data, such as account passwords. Choose the type of the new wallet below or click Cancel to deny the application's request.</p></body></html> - <html><head/><body><p>'<span style=" font-weight:600;">%1</span>' ilovasi KDE hamyonini oçişni söradi. U hisob parollari kabi maxfiy maʼlumotlarni xavfsiz saqlaş uçun işlatiladi. Quyida yangi hamyon turini tanlang yoki ilova sörovini rad etiş uçun Bekor qiliş tugmasini bosing.</p></body></html>
+Blowfish encryption - Blowfish şifrlaşi
+Password-protected, so it does not require the setup of encryption keys. - Parol bilan himoyalangan, şuning uçun şifrlaş kalitlarini sozlaşni talab qilmaydi.
+GPG encryption - GPG şifrlaşi
+More secure, but requires the setup of GPG encryption keys. - Xavfsizroq, lekin GPG şifrlaş kalitlarini sozlaşni talab qiladi.
+<qt>KDE has requested to open the wallet '<b>%1</b>'. Please enter the password for this wallet below.</qt> - <qt>KDE '<b>%1</b>' hamyonini oçişni söradi. Iltimos, uşbu hamyon uçun parolni quyida kiriting.</qt>
+KDE Wallet Service - KDE Hamyon xizmati
+An application has requested to open a wallet (%1). - Ilova hamyonni oçişni söradi (%1).
+Switch there - U yerga ötiş
+<qt>Error opening the wallet '<b>%1</b>'. Please try again.<br />(Error code %2: %3)</qt> - <qt>'<b>%1</b>' hamyonini oçişda xato. Iltimos, qayta urinib köring.<br />(Xato kodi %2: %3)</qt>
+KDE has requested to open the wallet. This is used to store sensitive data in a secure fashion. Please enter a password to use with this wallet or click cancel to deny the application's request. - KDE hamyonni oçişni söradi. U maxfiy maʼlumotlarni xavfsiz tarzda saqlaş uçun işlatiladi. Uşbu hamyon bilan işlatiş uçun parolni kiriting yoki ilova sörovini rad etiş uçun bekor qiliş tugmasini bosing.
+<qt>KDE has requested to create a new wallet named '<b>%1</b>'. Please choose a password for this wallet, or cancel to deny the application's request.</qt> - <qt>KDE '<b>%1</b>' nomli yangi hamyon yaratişni söradi. Uşbu hamyon uçun parol tanlang yoki ilova sörovini rad etiş uçun bekor qiling.</qt>
+Unable to open wallet. The wallet must be opened in order to change the password. - Hamyonni oçib bölmadi. Parolni özgartiriş uçun hamyon oçiq bölişi kerak.
+<qt>The <b>%1</b> wallet is encrypted using GPG key <b>%2</b>. Please use <b>GPG</b> tools to change the passphrase associated to that key.</qt> - <qt><b>%1</b> hamyoni <b>%2</b> GPG kaliti yordamida şifrlangan. Uşbu kalit bilan boğliq parol iborasini özgartiriş uçun <b>GPG</b> vositalaridan foydalaning.</qt>
+<qt>Please choose a new password for the wallet '<b>%1</b>'.</qt> - <qt>'<b>%1</b>' hamyoni uçun yangi parol tanlang.</qt>
+Error re-encrypting the wallet. Password was not changed. - Hamyonni qayta şifrlaşda xato. Parol özgarmadi.
+Error reopening the wallet. Data may be lost. - Hamyonni qayta oçişda xato. Maʼlumotlar yöqolişi mumkin.
+There have been repeated failed attempts to gain access to a wallet. An application may be misbehaving. - Hamyonga kiriş uçun takroriy muvaffaqiyatsiz urinişlar böldi. Ilova notöğri işlayotgan bölişi mumkin.
+KWallet - KWallet
+<qt>Password is empty.  <b>(WARNING: Insecure)</b></qt> - <qt>Parol böş.  <b>(OGOHLANTIRIŞ: Xavfsiz emas)</b></qt>
+Passwords match. - Parollar mos keladi.
+Passwords do not match. - Parollar mos kelmaydi.
+<html><head/><body><p>The KDE Wallet system stores your data in a <span style=" font-style:italic;">wallet</span> file on your local hard disk. The data is encrypted using your chosen method: the Blowfish algorithm with your password as the key, or GPG with an encryption key. When a wallet is opened, the wallet manager will launch and display an icon in the system tray. You can use this application to manage all of your wallets. It even permits you to drag-and-drop wallets and their contents, allowing you to easily copy a wallet to a remote system.</p></body></html> - <html><head/><body><p>KDE Hamyon tizimi maʼlumotlaringizni mahalliy qattiq diskingizdagi <span style=" font-style:italic;">hamyon</span> faylida saqlaydi. Maʼlumotlar siz tanlagan usul yordamida şifrlanadi: kalit sifatida parolingiz bilan Blowfish algoritmi yoki şifrlaş kaliti bilan GPG. Hamyon oçilganda, hamyon boşqaruvçisi işga tuşadi va tizim lotogida belgini körsatadi. Barça hamyonlaringizni boşqariş uçun uşbu ilovadan foydalanişingiz mumkin. U hatto hamyonlarni va ularning tarkibini sudrab taşlaş imkonini beradi, bu esa hamyonni masofaviy tizimga osonlik bilan nusxalaş imkonini beradi.</p></body></html>
+<html><head/><body><p>The GPG-based wallet uses a GPG encryption key to securely encrypt data on disk. The key must be available when the wallet is decrypted or your wallet will not be accessible. For example, if you choose a SmartCard-based encryption key, you will be prompted to insert it and enter its associated PIN when attempting to open the wallet. <span style=" font-weight:600;">Note:</span> this list contains only &quot;ultimate-level&quot; trusted keys.</p></body></html> - <html><head/><body><p>GPG-ga asoslangan hamyon diskdagi maʼlumotlarni xavfsiz şifrlaş uçun GPG şifrlaş kalitidan foydalanadi. Hamyon şifrdan çiqarilganda kalit mavjud bölişi kerak, aks holda hamyoningizga kirib bölmaydi. Masalan, agar siz SmartCard-ga asoslangan şifrlaş kalitini tanlasangiz, hamyonni oçişga uringanda uni kiritişingiz va unga tegişli PIN kodni terişingiz söraladi. <span style=" font-weight:600;">Eslatma:</span> bu röyxatda faqat &quot;eng yuqori darajadagi&quot; işonçli kalitlar mavjud.</p></body></html>
+Select GPG encryption key: - GPG şifrlaş kalitini tanlang:
+Unable to locate at least one GPG encryption key. KDE Wallet needs a GPG encryption key to securely store passwords or other sensitive data on disk. If you still want to setup a GPG-based wallet, exit this wizard, create an encryption key and return to this wizard. Otherwise, you can return to the previous page and select Blowfish encryption, which does not require an encryption key. - Kamida bitta GPG şifrlaş kalitini topib bölmadi. KDE Hamyoniga parollarni yoki boşqa maxfiy maʼlumotlarni diskda xavfsiz saqlaş uçun GPG şifrlaş kaliti kerak. Agar siz hali ham GPG-ga asoslangan hamyonni sozlamoqçi bölsangiz, uşbu ustadan çiqing, şifrlaş kalitini yarating va uşbu ustaga qayting. Aks holda, oldingi sahifaga qaytişingiz va şifrlaş kalitini talab qilmaydigan Blowfish şifrlaşini tanlaşingiz mumkin.
+Welcome to KWallet, the KDE Wallet System. KWallet allows you to store your passwords and other sensitive information on disk in an encrypted file, preventing unauthorized access. This wizard will help you set up KWallet for the first time. - KDE Hamyon tizimi bölgan KWallet-ga xuş kelibsiz. KWallet parollaringizni va boşqa maxfiy maʼlumotlarni diskda şifrlangan faylda saqlaş imkonini beradi va ruxsatsiz kirişning oldini oladi. Uşbu usta KWallet-ni birinçi marta sozlaşga yordam beradi.
+&Basic setup (recommended) - &Asosiy sozlaş (tavsiya etiladi)
+&Advanced setup - &Kengaytirilgan sozlaş
+KWallet lets you adjust the security of your personal data. While the default settings work for most users, you can modify them if needed. Additional adjustments can be made on the KWallet settings page. - KWallet şaxsiy maʼlumotlaringiz xavfsizligini sozlaş imkonini beradi. Standart sozlamalar köpçilik foydalanuvçilar uçun mos kelsa-da, zarur bölganda ularni özgartirişingiz mumkin. Qöşimça sozlaşlarni KWallet sozlamalari sahifasida amalga oşiriş mumkin.
+Automatically close idle wallets - Faol bölmagan hamyonlarni avtomatik yopiş
+Store network passwords and local passwords in separate wallet files - Tarmoq parollari va mahalliy parollarni alohida hamyon fayllarida saqlaş
+Various applications may request access to the KDE wallet to store passwords, web form data, or cookies. To allow this, enable the wallet and set a password. Note that the password <i>cannot</i> be recovered if lost and grants full access to all information stored in the wallet. - Turli ilovalar parollar, veb-forma maʼlumotlari yoki kukilarni saqlaş uçun KDE hamyoniga kirişni söraşi mumkin. Bunga ruxsat beriş uçun hamyonni yoqing va parol örnating. Eʼtibor bering, agar parol yöqolsa, uni tiklab <i>bölmaydi</i> va u hamyonda saqlangan barça maʼlumotlarga töliq kiriş huquqini beradi.
+Use the KDE wallet to store sensitive information - Maxfiy maʼlumotlarni saqlaş uçun KDE hamyonidan foydalaniş
+Enter a new password: - Yangi parolni kiriting:
+Verify password: - Parolni tasdiqlang:
+<html><head/><body><p>Various applications may request access to the KDE wallet to store passwords, web form data, or cookies. To allow this, enable the wallet and choose an encryption method. </p><p>GPG encryption is more secure, but you must have at least one encryption key configured on your system.</p><p>If you choose the classic format, note that the password <span style=" font-style:italic;">cannot</span> be recovered if lost and grants full access to all information stored in the wallet.</p></body></html> - <html><head/><body><p>Turli ilovalar parollar, veb-forma maʼlumotlari yoki kukilarni saqlaş uçun KDE hamyoniga kirişni söraşi mumkin. Bunga ruxsat beriş uçun hamyonni yoqing va şifrlaş usulini tanlang. </p><p>GPG şifrlaşi xavfsizroq, ammo tizimingizda kamida bitta şifrlaş kaliti sozlangan bölişi kerak.</p><p>Agar siz klassik formatni tanlasangiz, eʼtibor bering, parol yöqolsa uni tiklab <span style=" font-style:italic;">bölmaydi</span> va u hamyonda saqlangan barça maʼlumotlarga töliq kiriş huquqini beradi.</p></body></html>
+Encryption type - Şifrlaş turi
+More secure but requires the setup of GPG encryption keys. - Xavfsizroq, lekin GPG şifrlaş kalitlarini sozlaşni talab qiladi.
+(C) 2002-2025, The KDE Developers - (C) 2002-2025, KDE dasturçilari
+Valentin Rusu - Valentin Rusu
+Former Maintainer, GPG backend support - Sobiq taʼminlovçi, GPG bekend qöllab-quvvatlovi
+Michael Leupold - Michael Leupold
+Former Maintainer - Sobiq taʼminlovçi
+George Staikos - George Staikos
+Former maintainer - Sobiq taʼminlovçi
+Thiago Maceira - Thiago Maceira
+D-Bus Interface - D-Bus interfeysi
+<qt>Error when attempting to initialize OpenPGP while attempting to save the wallet <b>%1</b>. Error code is <b>%2</b>. Please fix your system configuration, then try again.</qt> - <qt><b>%1</b> hamyonini saqlaşga uriniş paytida OpenPGP-ni işga tuşirişda xato yuz berdi. Xato kodi: <b>%2</b>. Tizim konfiguratsiyasini tuzating va qayta urinib köring.</qt>
+<qt>Error when attempting to initialize OpenPGP while attempting to save the wallet <b>%1</b>. Please fix your system configuration, then try again.</qt> - <qt><b>%1</b> hamyonini saqlaşga uriniş paytida OpenPGP-ni işga tuşirişda xato yuz berdi. Tizim konfiguratsiyasini tuzating va qayta urinib köring.</qt>
+<qt>Encryption error while attempting to save the wallet <b>%1</b>. Error code is <b>%2 (%3)</b>. Please fix your system configuration, then try again. This error may occur if you are not using a full trust GPG key. Please ensure you have the secret key for the key you are using.</qt> - <qt><b>%1</b> hamyonini saqlaşga urinişda şifrlaş xatosi. Xato kodi: <b>%2 (%3)</b>. Tizim konfiguratsiyasini tuzating va qayta urinib köring. Bu xato töliq işonçli GPG kalitidan foydalanmayotgan bölsangiz yuz berişi mumkin. Foydalanayotgan kalitingiz uçun maxfiy kalitingiz borligiga işonç hosil qiling.</qt>
+<qt>File handling error while attempting to save the wallet <b>%1</b>. Error was <b>%2</b>. Please fix your system configuration, then try again.</qt> - <qt><b>%1</b> hamyonini saqlaşga urinişda fayl bilan işlaş xatosi. Xato: <b>%2</b>. Tizim konfiguratsiyasini tuzating va qayta urinib köring.</qt>
+<qt>Error when attempting to initialize OpenPGP while attempting to open the wallet <b>%1</b>. Error code is <b>%2</b>. Please fix your system configuration, then try again.</qt> - <qt><b>%1</b> hamyonini oçişga uriniş paytida OpenPGP-ni işga tuşirişda xato yuz berdi. Xato kodi: <b>%2</b>. Tizim konfiguratsiyasini tuzating va qayta urinib köring.</qt>
+<qt>Error when attempting to initialize OpenPGP while attempting to open the wallet <b>%1</b>. Please fix your system configuration, then try again.</qt> - <qt><b>%1</b> hamyonini oçişga uriniş paytida OpenPGP-ni işga tuşirişda xato yuz berdi. Tizim konfiguratsiyasini tuzating va qayta urinib köring.</qt>
+Retry - Qayta uriniş
+<qt>Error when attempting to decrypt the wallet <b>%1</b> using GPG. If you're using a SmartCard, please ensure it's inserted then try again.<br><br>GPG error was <b>%2</b></qt> - <qt>GPG yordamida <b>%1</b> hamyonini şifrdan çiqarişga urinişda xato yuz berdi. Agar SmartCard işlatayotgan bölsangiz, u kiritilganligiga işonç hosil qiling va qayta urinib köring.<br><br>GPG xatosi: <b>%2</b></qt>
+kwalletd GPG backend - kwalletd GPG bekendi
+<qt>Error when attempting to open the wallet <b>%1</b>. The wallet was encrypted using the GPG Key ID <b>%2</b> but this key was not found on your system.</qt> - <qt><b>%1</b> hamyonini oçişga urinişda xato. Hamyon <b>%2</b> GPG kalit ID-si yordamida şifrlangan, ammo bu kalit tizimingizda topilmadi.</qt>
+Already open. - Allaqaçon oçiq.
+Error opening file. - Faylni oçişda xato yuz berdi.
+Not a wallet file. - Hamyon fayli emas.
+Unsupported file format revision. - Qöllab-quvvatlanmaydigan fayl formati versiyasi.
+Unknown encryption scheme. - Nomaʼlum şifrlaş sxemasi.
+Corrupt file? - Fayl buzuqmi?
+Error validating wallet integrity. Possibly corrupted. - Hamyon butunligini tekşirişda xato. Ehtimol buzilgan.
+Read error - possibly incorrect password. - Öqiş xatosi - ehtimol parol notöğri.
+Decryption error. - Şifrdan çiqariş xatosi.
+Failed to sync wallet <b>%1</b> to disk. Error codes are:
+RC <b>%2</b>
+SF <b>%3</b>. Please file a BUG report using this information to bugs.kde.org - <b>%1</b> hamyonini diskka sinxronlab bölmadi. Xato kodlari: RC <b>%2</b>, SF <b>%3</b>. Iltimos, uşbu maʼlumotlardan foydalanib bugs.kde.org saytiga XATO haqida xabar bering
+Migrating the wallet "%1". Please provide the password to unlock. - "%1" hamyoni köçirilmoqda. Qulfdan çiqariş uçun parolni kiriting.
+kwalletd - kwalletd
+A KWallet compatibility service, wrapping upon Secret Service - Secret Service ustiga qurilgan KWallet moslik xizmati
+(C) 2025, The KDE Developers - (C) 2025, KDE dasturçilari
+Marco Martin - Marco Martin
+Author - Muallif
+Item not found - Element topilmadi
+Could not connect to Secret Service - Secret Service bilan boğlanib bölmadi
+Unable to unlock collectionName %1 - %1 töplam nomini qulfdan çiqarib bölmadi
+No collections - Töplamlar yöq
+No entries - Yozuvlar yöq
+Entry not found, key: %1, folder: %2 - Yozuv topilmadi, kalit: %1, jild: %2
+Unable to unlock item - Elementni qulfdan çiqarib bölmadi
+Entry to rename not found - Nomini özgartiriş uçun yozuv topilmadi
+Entry named %1 in folder %2 and wallet %3 already exists. - %3 hamyonining %2 jildida %1 nomli yozuv allaqaçon mavjud.
+Entry to rename incomplete - Nomini özgartiriş uçun yozuv töliq emas
+Failed to create SecretValue - SecretValue yaratib bölmadi

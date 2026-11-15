@@ -1,0 +1,4 @@
+Source text - Tarjima text
+KCalc - KCalc
+Calculator which offers many mathematical functions, such as trigonometric functions, logic operations, and statistical calculations - Trigonometrik funksiyalar, mantiqiy amallar va statistik hisoblaşlar kabi köplab matematik imkoniyatlarni taqdim etuvçi kalkulyator
+Scientific Calculator - Ilmiy kalkulyator

@@ -1,0 +1,117 @@
+Connection Wizard - Ulaniş ustasi
+Database Driver - Maʼlumotlar bazasi drayveri
+Select the database driver - Maʼlumotlar bazasi drayverini tanlang
+Database driver: - Maʼlumotlar bazasi drayveri:
+Connection Parameters - Ulaniş parametrlari
+Please enter connection parameters - Iltimos, ulaniş parametrlarini kiriting
+Default - Standart
+Hostname: - Xost nomi:
+Username: - Foydalanuvçi:
+Password: - Parol:
+Port: - Port:
+Database name: - Maʼlumotlar bazasi nomi:
+Connection options: - Ulaniş variantlari:
+Unable to connect to database. - Maʼlumotlar bazasiga ulanib bölmadi.
+Please enter the SQLite database file path.
+If the file does not exist, a new database will be created. - Iltimos, SQLite maʼlumotlar bazasi fayli yölini kiriting.
+Agar fayl mavjud bölmasa, yangi maʼlumotlar bazasi yaratiladi.
+Database files - Maʼlumotlar bazasi fayllari
+All files - Barça fayllar
+Path: - Yöl:
+Unable to connect to database.<nl/><message>%1</message> - Maʼlumotlar bazasiga ulanib bölmadi: <message>%1</message>
+Connection Name - Ulaniş nomi
+Enter a unique connection name - Noyob ulaniş nomini kiriting
+Connection name: - Ulaniş nomi:
+SQL - SQL
+Refresh - Yangilaş
+Resize columns to contents - Ustunlar ölçamini tarkibga moslaştiriş
+Resize rows to contents - Qatorlar ölçamini tarkibga moslaştiriş
+Export... - Eksport qiliş...
+Copy - Nusxa oliş
+Clear - Tozalaş
+Use system locale - Tizim hududiy sozlamasidan foydalaniş
+Paste - Joylaştiriş
+Set Null - NULL örnatiş
+Insert Row - Satrni qöyiş
+Remove Selected Rows - Tanlangan qatorlarni olib taşlaş
+Duplicate Selected Rows - Tanlangan qatorlardan nusxa oliş
+Undo - Bekor qiliş
+Save - Saqlaş
+Make this column presentable for related tables - Uşbu ustunni aloqador jadvallar uçun körinadigan qiliş
+Warning! For columns without a unique constraint we cannot guarantee a correct copy-pasting (when the column is shown instead of the foreign key) - Ogohlantiriş! Yagona çeklovga ega bölmagan ustunlar uçun töğri nusxalaş kafolatlanmaydi.
+Where: - Qayerda:
+id > 0 - id > 0
+Enter SQL WHERE clause to filter data - Maʼlumotlarni filtrlaş uçun SQL WHERE şartini kiriting
+Unable to open file <filename>%1</filename> - <filename>%1</filename> faylini oçib bölmadi
+Failed to save changes: <message>%1</message> - Özgarişlarni saqlab bölmadi: <message>%1</message>
+Export Wizard - Eksport ustasi
+Output Target - Çiqiş manzili
+Select the output target. - Çiqiş nişonini tanlang.
+Current document - Joriy hujjat
+Clipboard - Vaqtinçalik xotira
+File - Fayl
+Comma Separated Values - Vergul bilan ajratilgan qiymatlar (CSV)
+Fields Format - Maydonlar formati
+Select fields format.
+Click on "Finish" button to export data. - Maydonlar formatini tanlang.
+Eksport qiliş uçun "Tugatiş" tugmasini bosing.
+Headers - &Sarlavhalar
+Export column names - Ustun nomlarini eksport qiliş
+Export line numbers - Qator raqamlarini eksport qiliş
+Quotes - Qöştirnoqlar
+Quote strings - Satrlarni qöştirnoqqa oliş
+Quote numbers - Raqamlarni qöştirnoqqa oliş
+Character: - Belgi:
+Delimiters - Ajratuvçilar
+Field delimiter: - Maydon ajratuvçisi:
+Save and restore connections in Kate session - Kate seansida ulanişlarni saqlaş va tiklaş
+Enable editable table for Browse Data - Maʼlumotlarni köriş uçun tahrirlanadigan jadvalni yoqiş
+Enable editable relational tables - Tahrirlanadigan relyatsion jadvallarni yoqiş
+Experimental - Eksperimental
+Treat a blank line as a statement break - Böş qatorni operator ajratuvçisi sifatida qabul qiliş
+Output Customization - Çiqişni moslaştiriş
+Use system defaults - Tizim standart sozlamalaridan foydalaniş
+Reset to System Defaults - Tizim standartlariga tiklaş
+SQL - SQL
+SQL ConfigPage Settings - SQL sozlaş sahifasi moslamalari
+SQL - SQL
+SQL Schema - SQL sxemasi
+Add Connection... - Ulaniş qöşiş...
+Remove Connection - Ulanişni olib taşlaş
+Edit Connection... - Ulanişni tahrirlaş...
+Reconnect - Qayta ulaniş
+Connection - Ulaniş
+Run Query - Sörovni bajariş
+Context - Kontekst
+Text Color - Matnning rangi
+Background Color - Qöşimça orqa fon rangi
+Changed Text Color - Matn rangi özgartirildi
+Changed Background Color - Fon rangi özgartirildi
+Text - Matn
+Number - Son
+Bool - Mantiqiy (Bool)
+Date & Time - Sana va vaqt
+NULL - NULL
+BLOB - BLOB
+SQL Text Output - SQL matn çiqişi
+SQL Data Output - SQL maʼlumotlar çiqişi
+Filter tables and views... - Jadvallar va körinişlarni filtrlaş...
+Database schema - Maʼlumotlar bazasi sxemasi
+Tables - Jadvallar
+Views - Körinişlar
+System Tables - Tizim jadvallari
+Select Data - Maʼlumotlarni tanlang
+Generate - Yaratiş
+SELECT - SELECT
+UPDATE - YANGILAŞ (UPDATE)
+INSERT - QÖŞIŞ (INSERT)
+DELETE - ÖÇIRIŞ (DELETE)
+Refresh - Yangilaş
+Prepare Statement Failure - Ifodani tayyorlaş xatosi
+<p>Preparing the query failed with the following error: %1</p><p>Do you want to continue without preparing the query?</p> - <p>Sörovni tayyorlaşda xatolik: %1</p><p>Sörovni tayyorlamasdan davom etişni xohlaysizmi?</p>
+Query completed successfully - Sörov muvaffaqiyatli yakunlandi
+%1 record selected - %1 ta yozuv tanlandi
+%1 row affected - %1 ta qator taʼsirlandi
+&SQL - &SQL
+SQL Connections Toolbar - SQL ulanişlari asboblar paneli
+SQL Toolbar - SQL asboblar paneli

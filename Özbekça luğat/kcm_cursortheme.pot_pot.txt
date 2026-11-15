@@ -1,0 +1,18 @@
+Source text - Tarjima text
+Name of the current pointer theme - Joriy kursor mavzusining nomi
+Current pointer size - Kursorning joriy olçami
+Overwrite Theme? - Mavzu ustidan yozilsinmi?
+Theme installed successfully. - Mavzu muvaffakiyatli ornatildi.
+Remove pointer theme - Kursor mavzusini olib taşlaş
+Cannot delete the active pointer theme - Faol kursor mavzusini oçirib bolmaydi
+Cannot delete system-installed pointer themes - Tizim tomonidan ornatilgan kursor mavzularini oçirib bolmaydi
+Launch Feedback - Işga tuşiriş indikatori
+Pointer feedback: - Kursor animatsiyasi:
+None - Heç kanday
+Static - Statik
+Blinking - Miltillovçi
+Bouncing - Sakrovçi
+Task Manager feedback: - Vazifalar paneli animatsiyasi:
+Enable animation - Animatsiyani yokiş
+Stop animations after: - Animatsiyani tokhtatiş vakti:
+Size: %1 - Olçami: %1

@@ -1,0 +1,29 @@
+Source text - Tarjima text
+ComicBook Backend - Komikslar formati drayveri (backend)
+DjVu Backend - DjVu formati drayveri
+DVI Backend - DVI formati drayveri
+EPub Backend - EPub formati drayveri
+Fax Backend - Faks hujjatlari drayveri
+Fiction Book Backend - Fiction Book drayveri
+Image Backend - Rasmlar formati drayveri
+Markdown Backend - Markdown formati drayveri
+Mobipocket Backend - Mobipocket formati drayveri
+PDF Backend - PDF formati drayveri
+PS Backend - PostScript drayveri
+TIFF Backend - TIFF drayveri
+Txt Backend - Matnli fayllar (Txt) drayveri
+XPS Backend - XPS drayveri
+Okular - Okular
+A renderer for various comic book formats - Turli xil komikslar formatlarini qayta işlovçi vosita
+DjVu backend based on DjVuLibre - DjVuLibre kutubxonasiga asoslangan DjVu drayveri
+A DVI file renderer - DVI fayllarini qayta işlovçi
+An EPub backend - EPub drayveri
+A G3/G4 fax document backend - G3/G4 faks hujjatlari drayveri
+A renderer for FictionBook eBooks - FictionBook elektron kitoblarini qayta işlovçi vosita
+A simple image backend - Rasmlar uçun oddiy drayver
+A mobipocket backend - Mobipocket kitoblari drayveri
+A PDF file renderer - PDF fayllarini qayta işlovçi vosita
+A PostScript file renderer based on the Spectre library - Spectre kutubxonasiga asoslangan PostScript fayllarini körsatuvçi vosita
+A TIFF backend - TIFF rasmlari drayveri
+Txt backend - Txt matn drayveri
+An XPS backend - XPS hujjatlari drayveri

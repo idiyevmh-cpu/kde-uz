@@ -1,0 +1,20 @@
+Prefail attributes <= threshold. - Nosozlikdan oldingi atributlar <= çegara qiymati.
+SMART status check returned 'DISK OK' but we found that some (usage or prefail) attributes have been <= threshold at some time in the past. - SMART holati tekşiruvi 'DISK OK' qaytardi, ammo ötmişda baʼzi (foydalaniş yoki nosozlikdan oldingi) atributlar çegara qiymatidan (<=) past bölganligi aniqlandi.
+The device error log contains records of errors. - Qurilma xatolar jurnalida xatolar qaydlari mavjud.
+The device self-test log contains records of errors. [ATA only] Failed self-tests outdated by a newer successful extended self-test are ignored. - Qurilmaning özini-özi tekşiriş jurnalida xatoliklar qayd etilgan.
+Open Partition Manager - Disk bölimlari boşqaruvçisini oçiş
+Perform Backup - Zaxira nusxa oliş
+Unable to obtain data. KDED is not running. - Maʼlumotlarni olib bölmadi. KDED işlamayapti.
+No S.M.A.R.T. devices found. - S.M.A.R.T. qurilmalari topilmadi.
+The SMART system of this device is reporting problems. This may be a sign of imminent device failure or data reliability being compromised. Back up your data and replace this drive as soon as possible to avoid losing any data. - Uşbu qurilmaning SMART tizimi muammolar haqida xabar bermoqda. Maʼlumotlarni yöqotmaslik uçun zaxiralang va diskni imkon qadar tezroq almaştiring.
+<p>The SMART firmware is not reporting a failure, but there are early signs of malfunction. This might not point at imminent device failure but requires longer term analysis. Back up your data and contact the manufacturer of this disk, or replace it preemptively just to be safe.</p><ul>%1</ul> - <p>SMART dasturiy taʼminoti xatolik haqida xabar bermayapti, ammo nosozlikning dastlabki belgilari mavjud. Maʼlumotlaringizni zaxiralang va xavfsizlik uçun uşbu diskni almaştiring.</p><ul>%1</ul>
+This device appears to be working as expected. - Uşbu qurilma kutilgandek işlayotganga öxşaydi.
+Monitor - Monitor
+Ignore - Eʼtibor berilmasin
+Show Details - Tafsilotlarni körsatiş
+Copy to Clipboard - Vaqtinçalik xotiraga nusxalaş
+Read SMART report for storage device %1 - %1 xotira qurilmasi uçun SMART hisobotini öqiş
+Storage Device Problems - Xotira qurilmasidagi muammolar
+The storage device <emphasis>%1</emphasis> (<filename>%2</filename>) is likely to fail soon! - <emphasis>%1</emphasis> (<filename>%2</filename>) xotira qurilmasi tez orada işdan çiqişi mumkin!
+The storage device <emphasis>%1</emphasis> (<filename>%2</filename>) is showing indications of instability. - <emphasis>%1</emphasis> (<filename>%2</filename>) xotira qurilmasi beqarorlik belgilarini körsatmoqda.
+Manage - Boşqariş

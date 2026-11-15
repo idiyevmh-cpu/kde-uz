@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Plasma System Monitor - Plasma tizim monitori
+Monitor app and system resource usage - Ilovalar va tizim resurslaridan foydalanişni kuzatiş
+Plasma System Monitor provides an interface for monitoring system sensors, process information and other system resources. - Plasma tizim monitori tizim sensorlarini, jarayonlar haqidagi maʼlumotlarni va boşqa tizim resurslarini kuzatib boriş uçun qulay interfeysni taqdim etadi.

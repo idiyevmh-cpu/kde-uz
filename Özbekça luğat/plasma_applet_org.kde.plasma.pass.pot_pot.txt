@@ -1,0 +1,6 @@
+Filter... - Filtr...
+One-time password (OTP) - Bir martalik parol (OTP)
+Unsupported OTP type %1 - Qöllab-quvvatlanmaydigan OTP turi %1
+Failed to open password file: %1 - Parol faylini oçib bölmadi: %1
+Failed to decrypt password: %1 - Parolni şifrdan çiqarib bölmadi: %1
+No password found - Parol topilmadi

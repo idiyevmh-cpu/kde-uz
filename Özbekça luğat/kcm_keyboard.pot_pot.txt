@@ -1,0 +1,27 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+Keyboard Layout Switcher - Klaviatura tartibini almaştirgiç
+Switch to Next Keyboard Layout - Keyingi klaviatura tartibiga ötiş
+Switch to Last-Used Keyboard Layout - Sönggi işlatilgan klaviatura tartibiga ötiş
+Switch keyboard layout to %1 - Klaviatura tartibini %1 ga almaştiriş
+Keyboard Preview - Klaviaturani oldindan köriş
+Key Bindings - Tugmalar birikmasi
+Reset - Tiklaş (Boşlanğiç holatga)
+Set Layout - Tartibni örnatiş
+Add Layout - Tartib qöşiş
+Short layout name - Tartibning qisqa nomi
+Shortcut: - Tezkor tugma:
+Model: - Model:
+NumLock on startup: - Tizim işga tuşganda NumLock:
+Turn on - Yoqiş
+Turn off - Öçiriş
+Leave unchanged - Özgarişsiz qoldiriş
+Key repeat: - Tugma takrorlanişi:
+Delay: - Keçikiş:
+Rate: - Tezlik:
+Layouts - Tartiblar
+Move Up - Yuqoriga suriş
+Move Down - Pastga suriş
+Preview - Oldindan köriş
+Remove - Olib taşlaş

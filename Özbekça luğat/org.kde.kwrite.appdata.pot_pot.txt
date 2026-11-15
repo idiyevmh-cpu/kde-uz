@@ -1,0 +1,11 @@
+Source text - Tarjima text
+KWrite - KWrite
+Text Editor - Matn muharriri
+KWrite is a text editor by KDE, based on the Kate's editor component. - KWrite — KDE tomonidan yaratilgan, Kate muharrir komponentiga asoslangan matn muharriri.
+Features: - Xususiyatlari:
+Syntax highlighting according to the file type - Fayl turiga mos sintaksisni ajratib körsatiş
+Word completion - Sözlarni avtomatik töldiriş
+Auto-indentation - Avtomatik xatboşi
+Plugin support - Plaginlarni qöllab-quvvatlaş
+Vi input mode - Vi kiritiş rejimi
+Editing code with KWrite - KWrite bilan kodni tahrirlaş

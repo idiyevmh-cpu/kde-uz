@@ -1,0 +1,2 @@
+PostScript - PostScript
+Adds support for reading PostScript documents - PostScript hujjatlarini öqişni qöllab-quvvatlaydi

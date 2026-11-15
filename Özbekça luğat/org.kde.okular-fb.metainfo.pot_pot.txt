@@ -1,0 +1,2 @@
+FictionBook - FictionBook
+Adds support for reading FictionBooks - FictionBook kitoblarini öqişni qöllab-quvvatlaydi

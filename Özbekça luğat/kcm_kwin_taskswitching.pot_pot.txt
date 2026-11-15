@@ -1,0 +1,65 @@
+KWin - KWin
+Walk Through Windows - Oynalar böylab ötiş
+Walk Through Windows (Reverse) - Oynalar böylab ötiş (Teskari)
+Walk Through Windows of Current Application - Joriy ilova oynalari böylab ötiş
+Walk Through Windows of Current Application (Reverse) - Joriy ilova oynalari böylab ötiş (Teskari)
+Walk Through Windows Alternative - Oynalar böylab muqobil ötiş
+Walk Through Windows Alternative (Reverse) - Oynalar böylab muqobil ötiş (Teskari)
+Walk Through Windows of Current Application Alternative - Joriy ilova oynalari böylab muqobil ötiş
+Walk Through Windows of Current Application Alternative (Reverse) - Joriy ilova oynalari böylab muqobil ötiş (Teskari)
+Cycle through Overview and Grid View - Umumiy köriniş va Katak körinişi böylab aylanib ötiş
+Cycle through Grid View and Overview - Katak körinişi va Umumiy köriniş böylab aylanib ötiş
+Toggle Overview - Umumiy körinişni yoqiş/öçiriş
+Toggle Grid View - Katak körinişini yoqiş/öçiriş
+None - Yöq
+Task Switcher - Vazifalarni almaştirgiç
+Task Switcher (Alternative) - Vazifalarni almaştirgiç (Muqobil)
+Overview - Umumiy köriniş
+Focus policy settings limit the functionality of navigating through windows. - Fokus siyosati sozlamalari oynalar böylab navigatsiya funksionalligini çeklaydi.
+The alternative task switcher is a second switcher with its own separate shortcut, appearance, and behavior settings. - Muqobil vazifalar almaştirgiçi — bu özining alohida tezkor tugmasi, taşqi körinişi va xatti-harakat sozlamalariga ega ikkinçi almaştirgiçdir.
+Overview: - Umumiy köriniş:
+Swipe up with four fingers on a touchpad or three on a touchscreen, or use screen edge gestures to toggle the overview - Umumiy körinişni yoqiş/öçiriş uçun taçpadda tört barmoq bilan yoki sensorli ekranda uç barmoq bilan yuqoriga suring yoki ekran çeti imo-işoralaridan foydalaning
+Press %1, swipe up with four fingers on a touchpad or three on a touchscreen, or use screen edge gestures to toggle the overview - Umumiy körinişni yoqiş/öçiriş uçun %1 tugmasini bosing, taçpadda tört barmoq bilan yoki sensorli ekranda uç barmoq bilan yuqoriga suring yoki ekran çeti imo-işoralaridan foydalaning
+Press %1 or %2, swipe up with four fingers on a touchpad or three on a touchscreen, or use screen edge gestures to toggle the overview - Umumiy körinişni yoqiş/öçiriş uçun %1 yoki %2 tugmasini bosing, taçpadda tört barmoq bilan yoki sensorli ekranda uç barmoq bilan yuqoriga suring yoki ekran çeti imo-işoralaridan foydalaning
+Enable - Yoqiş
+Show minimized windows - Qayirilgan oynalarni körsatiş
+Search results include windows - Qidiruv natijalari oynalarni öz içiga oladi
+Organize windows in the Grid view - Oynalarni Katak körinişida tartiblaş
+Configure Shortcuts… - Tezkor tugmalarni sozlaş…
+Configure Screen Edges… - Ekran çetlarini sozlaş…
+Configure Touchscreen Gestures… - Sensorli ekran imo-işoralarini sozlaş…
+Appearance - Taşqi köriniş
+Switcher style: - Almaştirgiç uslubi:
+Get New… - Yangilarini oliş…
+Show Preview - Oldindan körişni körsatiş
+Selecting a window: - Oynani tanlaş:
+Hides other windows - Boşqa oynalarni yaşiradi
+Show on screen: - Ekranda körsatiş:
+Active screen - Faol ekran
+Primary screen - Asosiy ekran
+Show delay: - Körsatiş keçikişi:
+Time to wait before showing the task switcher. Also applies to the alternative task switcher. - Vazifalar almaştirgiçini körsatişdan oldin kutiş vaqti. Muqobil vazifalar almaştirgiçiga ham tegişli.
+%1 ms - %1 ms
+ms - ms
+Behavior - Xatti-harakat
+Include: - Qöşiş:
+“Show Desktop” entry - “Iş stolini körsatiş” bandi
+Sort windows by: - Oynalarni quyidagiça saralaş:
+Recently used - Yaqinda işlatilgan
+Stacking order - Taxlaniş tartibi
+Sort minimized windows after unminimized - Qayirilgan oynalarni qayirilmaganlardan keyin saralaş
+Show windows: - Oynalarni körsatiş:
+From all desktops - Barça iş stollaridan
+From the current desktop - Joriy iş stolidan
+From all other desktops - Barça boşqa iş stollaridan
+From all activities - Barça faoliyatlardan
+From the current activity - Joriy faoliyatdan
+From all other activities - Barça boşqa faoliyatlardan
+From all screens - Barça ekranlardan
+From the current screen - Joriy ekrandan
+From all other screens - Barça boşqa ekranlardan
+Regardless of minimization state - Qayiriliş holatidan qatʼi nazar
+That are unminimized - Qayirilmaganlar
+That are minimized - Qayirilganlar
+Only one window per application - Har bir ilova uçun faqat bitta oyna
+Use shortcuts to activate the task switcher - Vazifalar almaştirgiçini faollaştiriş uçun tezkor tugmalardan foydalaniş

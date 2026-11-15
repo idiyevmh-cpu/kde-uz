@@ -1,0 +1,63 @@
+Source text - Tarjima text
+Recent Downloads - Sönggi yuklab olinganlar
+Recent Connections - Sönggi ulanişlar
+Recent Places - Sönggi joylar
+Forget Recent Files - Sönggi fayllarni unutiş
+Activate Previous Task Manager Entry - Vazifalar panelining oldingi elementini faollaştiriş
+Activate Next Task Manager Entry - Vazifalar panelining keyingi elementini faollaştiriş
+Unmute - Ovozni yoqiş
+Mute - Ovozni öçiriş
+Appearance - Taşqi köriniş
+Behavior - Xulq-atvor (işlaş tartibi)
+Show small window previews when hovering over tasks - Vazifalar ustiga borganda oynaning kiçik eskizini körsatiş
+Show an indicator when a task is playing audio - Vazifa audio ijro etayotganda indikatorni körsatiş
+Show media and volume controls in tooltip - Qalqib çiquvçi maslahat oynasida media va ovoz boşqaruvini körsatiş
+Fill free space on panel - Paneldagi böş joyni töldiriş
+Maximum task width: - Vazifaning maksimal kengligi:
+Narrow - Tor
+Medium - Örtaça
+Wide - Keng
+Spacing between icons: - Belgilar orasidagi masofa:
+Group: - Guruhlaş:
+Do not group - Guruhlamaslik
+By program name - Dastur nomi böyiça
+Shows small window previews - Kiçik oyna eskizlarini körsatadi
+Shows large window previews - Katta oyna eskizlarini körsatadi
+Shows textual list - Matnli röyxatni körsatadi
+Sort: - Saralaş:
+Do not sort - Saralamaslik
+Manually - Qölda
+Alphabetically - Alifbo böyiça
+By desktop - Iş stoli böyiça
+Minimizes the task - Vazifani yiğiş (minimallaştiriş)
+Closes window or group - Oyna yoki guruhni yopadi
+Opens a new window - Yangi oynani oçadi
+Adjusts the hovered task’s volume - Kursor ostidagi vazifaning ovoz balandligini sozlaydi
+Skip minimized tasks - Yiğilgan vazifalarni ötkazib yuboriş
+Show only tasks: - Faqat quyidagi vazifalarni körsatiş:
+From the current desktop - Joriy iş stolidan
+From the current activity - Joriy faoliyatdan
+From the current screen - Joriy ekrandan
+That are minimized - Faqat yiğilganlar
+Actions - Amallar
+Previous Track - Oldingi trek
+Pause - Pauza
+Play - Ijro
+Next Track - Keyingi trek
+Stop - Töxtatiş
+Quit - Çiqiş
+Restore - Qayta tiklaş
+Open New Window - Yangi oyna oçiş
+Move to &Desktop - &Iş stoliga köçiriş
+Move &To Current Desktop - &Joriy iş stoliga köçiriş
+&Pin to Task Manager - Vazifalar paneliga &mahkamlaş
+Unpin from Task Manager - Vazifalar panelidan olib taşlaş
+&Move - &Köçiriş
+Re&size - Ö&lçamini özgartiriş
+Ma&ximize - &Kattalaştiriş
+Mi&nimize - &Yiğiş
+Keep &Above Others - Boşqalar &ustida uşlab turiş
+Keep &Below Others - Boşqalar &ostida uşlab turiş
+&Fullscreen - &Butun ekranga
+&Close All - &Barçasini yopiş
+&Close - &Yopiş

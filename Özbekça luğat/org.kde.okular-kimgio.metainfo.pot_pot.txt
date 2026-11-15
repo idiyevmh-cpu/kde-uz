@@ -1,0 +1,2 @@
+Images - Rasmlar
+Adds support for reading many image formats - Köplab rasm formatlarini öqişni qöllab-quvvatlaydi

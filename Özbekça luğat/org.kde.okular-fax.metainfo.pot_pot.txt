@@ -1,0 +1,2 @@
+Fax - Faks
+Adds support for reading Fax documents - Faks hujjatlarini öqişni qöllab-quvvatlaydi

@@ -1,0 +1,64 @@
+deployment must be an object - joriy qiliş (deployment) obyekt bölişi kerak
+deployment host must not be empty - joriy qiliş xosti böş bölmasligi kerak
+deployment host is invalid - joriy qiliş xosti yaroqsiz
+deployment port must be between 1 and 65535 - joriy qiliş porti 1 va 65535 orasida bölişi kerak
+project base must not be empty - loyiha bazasi böş bölmasligi kerak
+project base must be an existing directory - loyiha bazasi mavjud jild bölişi kerak
+deployment localRoot must not contain traversal - joriy qiliş localRoot yöl ötişlarini öz içiga olmasligi kerak
+deployment localRoot must be an existing directory inside the project base - joriy qiliş localRoot loyiha bazasi içidagi mavjud jild bölişi kerak
+deployment remoteRoot must be an absolute path without traversal - joriy qiliş remoteRoot yöl ötişlarisiz mutlaq yöl bölişi kerak
+deployment exclude entries must be strings - joriy qiliş istisnolari qator (string) bölişi kerak
+deployment exclude must be a list of strings - joriy qiliş istisnolari qatorlar röyxati bölişi kerak
+Configure Deployment - Joriy qilişni sozlaş
+Configure the SFTP destination for <filename>%1</filename>. Authentication is handled by KIO. - <filename>%1</filename> uçun SFTP manzilini sozlang. Autentifikatsiya KIO tomonidan boşqariladi.
+One project-relative glob per line - Har bir qatorda loyihaga nisbatan bitta glob andozasi
+Host: - Xost:
+Port: - Port:
+User: - Foydalanuvçi:
+Local root: - Mahalliy ildiz jild:
+Remote root: - Masofaviy ildiz jild:
+Exclude: - Istisno qiliş:
+Invalid Deployment Configuration - Yaroqsiz joriy qiliş sozlamasi
+Deployment - Joriy qiliş (Deployment)
+Upload Current File - Joriy faylni yuklaş
+Upload Project - Loyihani yuklaş
+Cancel Deployment Transfers - Joriy qiliş uzatmalarini bekor qiliş
+Configure Deployment... - Joriy qilişni sozlaş...
+Browse Remote Host - Masofaviy xostni körib çiqiş
+Remote Host - Masofaviy xost
+Deployment Root - Joriy qiliş ildizi
+File Transfer - Fayl uzatiş
+Cancel - Bekor qiliş
+Clear - Tozalaş
+Loading %1... - %1 yuklanmoqda...
+Connected to %1 - %1 ga ulandi
+Failed to list %1 (KIO error %2): %3 - %1 röyxatini olib bölmadi (KIO xatosi %2): %3
+Upload Folder to Remote Host - Jildni masofaviy xostga yuklaş
+Upload to Remote Host - Masofaviy xostga yuklaş
+Open or select a Kate project before configuring deployment. - Joriy qilişni sozlaşdan oldin Kate loyihasini oçing yoki tanlang.
+Deployment configuration requires a file-backed <filename>.kateproject</filename>. - Joriy qiliş sozlamasi faylga asoslangan <filename>.kateproject</filename> talab qiladi.
+Could not read <filename>%1</filename>. - <filename>%1</filename> ni öqib bölmadi.
+Could not update malformed JSON in <filename>%1</filename>: %2 - <filename>%1</filename> dagi buzuq JSON-ni yangilab bölmadi: %2
+Could not write <filename>%1</filename>. - <filename>%1</filename> ga yozib bölmadi.
+Saved deployment configuration to %1 - Joriy qiliş sozlamasi %1 ga saqlandi
+The current document is not a local file. - Joriy hujjat mahalliy fayl emas.
+The file could not be saved before upload. - Yuklaşdan oldin faylni saqlab bölmadi.
+Deployment is not configured for this project. - Uşbu loyiha uçun joriy qiliş sozlanmagan.
+A deployment transfer is already running. - Joriy qiliş uzatmasi allaqaçon işlayapti.
+Cannot upload %1 because its remote version is open in Kate. - %1 ni yuklab bölmaydi, çunki uning masofaviy versiyasi Kate-da oçiq.
+No deployable files were selected. - Joriy qilinadigan fayllar tanlanmadi.
+Queued one file for upload. - Bitta fayl yuklaş uçun navbatga qöyildi.
+The remote file is open in Kate. - Masofaviy fayl Kate-da oçiq.
+Uploading %1 to %2 - %1 %2 ga yuklanmoqda
+Cancel Deployment Transfers (%1%) - Joriy qiliş uzatmalarini bekor qiliş (%1%)
+Failed to upload %1: %2 - %1 ni yuklab bölmadi: %2
+Uploaded %1 - %1 yuklandi
+Cancelled deployment transfers. - Joriy qiliş uzatmalari bekor qilindi.
+Not connected - Ulanmagan
+The SFTP KIO worker is not installed or does not support directory listing. - SFTP KIO işçisi örnatilmagan yoki jildlar röyxatini körsatişni qöllab-quvvatlamaydi.
+Open Remote File - Masofaviy faylni oçiş
+Open Mapped Local File - Moslaştirilgan mahalliy faylni oçiş
+Upload Mapped Local File - Moslaştirilgan mahalliy faylni yuklaş
+Copy Remote URL - Masofaviy URL manzildan nusxa oliş
+Copy Remote Path - Masofaviy yöldan nusxa oliş
+No mapped local file exists for %1. - %1 uçun moslaştirilgan mahalliy fayl mavjud emas.

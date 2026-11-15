@@ -1,0 +1,191 @@
+Username or password is wrong. - Foydalanuvçi nomi yoki parol notöğri.
+Server returned no valid JSON. - Server yaroqli JSON qaytarmadi.
+Server returned the status code %1 - Server %1 holat kodini qaytardi
+This instance has disabled the registration. - Uşbu serverda (instansiyada) röyxatdan ötiş öçirib qöyilgan.
+Playing video - Video ijro etilmoqda
+PlasmaTube - PlasmaTube
+YouTube client - YouTube mijozi
+© 2019-2025 Linus Jahn, 2019-2025 KDE Community - © 2019-2025 Linus Jahn, 2019-2025 KDE hamjamiyati
+Linus Jahn - Linus Jahn
+Creator - Yaratuvçi
+Joshua Goins - Joshua Goins
+Maintainer - Taʼminotçi
+Your names - Ismingiz
+Your emails - E-poçtangiz
+No server description provided. - Server tavsifi taqdim etilmagan.
+Subscriptions - Obunalar
+All - Hammasi
+Gaming - Öyinlar
+Movies - Filmlar
+Music - Musiqa
+News - Yangiliklar
+History - Tarix
+Search results for "%1" - "%1" böyiça qidiruv natijalari
+Share - Ulaşiş
+Share the selected media - Tanlangan mediani ulaşiş
+Proxy Settings - Proksi sozlamalari
+Open in Browser - Brauzerda oçiş
+Videos - Videolar
+Playlists - Ijro röyxatlari
+No Videos - Videolar yöq
+No Playlists - Ijro röyxatlari yöq
+Videos - Videolar
+Search - Qidiruv
+Settings - Sozlamalar
+Settings - Sozlamalar
+Load more - Köproq yuklaş
+No comments - Izohlar yöq
+%1 video - %1 ta video
+Sharing failed - Ulaşiş muvaffaqiyatsiz tugadi
+Trending - Ommabop
+Playlists - Ijro röyxatlari
+History - Tarix
+Settings - Sozlamalar
+Invidious - Invidious
+PeerTube - PeerTube
+Piped - Piped
+Switch Source - Manbani almaştiriş
+Add Source - Manba qöşiş
+Add a new video source - Yangi video manbasini qöşiş
+Unsubscribe%1 - Obunani bekor qiliş%1
+Subscribe%1 - Obuna böliş%1
+Please log in to subscribe to channels. - Kanallarga obuna böliş uçun tizimga kiring.
+Live - Jonli
+Short - Qisqa video (Short)
+No views - Körişlar yöq
+%1 views - %1 marta körilgan
+<i>live now</i> - <i>hozir jonli efirda</i>
+ • %1 -  • %1
+Play Now - Hozir ijro etiş
+Play - Ijro etiş
+Play Next - Keyingisini ijro etiş
+Play in Picture-in-Picture - Rasm-içida-rasm rejimida ijro etiş
+Mark as Unwatched - Körilmagan deb belgilaş
+Mark as Watched - Körilgan deb belgilaş
+Add to Playlist… - Ijro röyxatiga qöşiş…
+Remove from Playlist - Ijro röyxatidan olib taşlaş
+Failed to contact server: %1. Please check your proxy settings. - Server bilan boğlanib bölmadi: %1. Iltimos, proksi sozlamalaringizni tekşiring.
+Add Invidious Source - Invidious manbasini qöşiş
+Add PeerTube Source - PeerTube manbasini qöşiş
+Add Piped Source - Piped manbasini qöşiş
+Search or enter URL… - Qidiruv yoki URL manzilni kiriting…
+Custom Server - Maxsus server
+Public Servers - Ommaviy serverlar
+No Public Servers - Ommaviy serverlar yöq
+Enter a server URL manually in the search field. - Qidiruv maydoniga server URL manzilini qölda kiriting.
+Add a Video Source - Video manbasini qöşiş
+Visit Website - Veb-saytga ötiş
+Add Invidious Source - Invidious manbasini qöşiş
+Watch YouTube videos - YouTube videolarini tomoşa qiliş
+Add PeerTube Source - PeerTube manbasini qöşiş
+Watch PeerTube videos - PeerTube videolarini tomoşa qiling
+Add Piped Source - Piped manbasini qöşiş
+Welcome - Xuş kelibsiz
+PlasmaTube - PlasmaTube
+Watch YouTube and PeerTube videos. - YouTube va PeerTube videolarini tomoşa qiling.
+Add a Video Source - Video manbasini qöşiş
+Settings - Sozlamalar
+Log in - Kiriş
+Username - Foydalanuvçi nomi
+Password - Parol
+Log in - Kiriş
+Username must not be empty! - Foydalanuvçi nomi böş bölmasligi kerak!
+Password must not be empty! - Parol böş bölmasligi kerak!
+Add to Playlist - Ijro röyxatiga qöşiş
+Play - Ijro etiş
+Sort By: - Saralaş turi:
+Rating - Reyting
+Relevance - Moslik darajasi
+Upload Date - Yuklangan sana
+View Count - Körişlar soni
+No Results - Natijalar yöq
+Currently logged in as %1. - Hozirda %1 sifatida tizimga kirilgan.
+Log out - Tizimdan çiqiş
+Log in - Kiriş
+Subscribe to channels, keep track of watched videos and more. - Kanallarga obuna böling, körilgan videolarni kuzatib boring va hokazo.
+Edit Source - Manbani tahrirlaş
+Remove Source… - Manbani olib taşlaş…
+Cannot remove the only source. - Yagona manbani olib taşlab bölmaydi.
+Remove Source - Manbani olib taşlaş
+Are you sure you want to remove this source? - Haqiqatan ham uşbu manbani olib taşlamoqçimisiz?
+General - Umumiy
+Preferred Video Quality - Afzal körilgan video sifati
+This selected quality will be used if available, otherwise the highest available quality is used. - Agar mavjud bölsa, uşbu tanlangan sifat işlatiladi, aks holda mavjud bölgan eng yuqori sifat işlatiladi.
+2160p - 2160p
+1440p - 1440p
+1080p - 1080p
+720p - 720p
+480p - 480p
+360p - 360p
+240p - 240p
+144p - 144p
+Hide Shorts - Qisqa videolarni (Shorts) yaşiriş
+Hide short-form videos designed for viewing on a mobile device. - Mobil qurilmada köriş uçun möljallangan qisqa şakldagi videolarni yaşiriş.
+Check for sponsored segments - Homiy qismlarini tekşiriş
+Show a notification when a community-submitted segment (typically a sponsorship) is in the video. This feature requires contacting a 3rd-party service. - Videoda hamjamiyat tomonidan yuborilgan qism (odatda homiylik reklamasi) bölganda bildirişnoma körsatiş. Bu xususiyat uçinçi tomon xizmati bilan boğlanişni talab qiladi.
+Skip sponsored segments - Homiy qismlarini ötkazib yuboriş
+Automatically skip sponsored segments in the video. - Videodagi homiy qismlarini avtomatik ravişda ötkazib yuboriş.
+Account - Hisob
+Preferences - Afzalliklar
+Autoplay videos - Videolarni avtomatik ijro etiş
+Whether to start playing videos immediately, or wait until the play button is pressed. - Videolarni darhol ijro etişni boşlaş yoki ijro etiş tugmasi bosilgunça kutiş.
+Default Page - Birlamçi sahifa
+The first page to load when switching to this source. - Uşbu manbaga ötganda yuklanadigan birinçi sahifa.
+Search - Qidiruv
+Trending - Ommabop
+Subscriptions - Obunalar
+Playlists - Ijro röyxatlari
+Network Proxy - Tarmoq proksisi
+System Default - Tizimning birlamçi holati
+HTTP - HTTP
+Host - Xost
+Port - Port
+User - Foydalanuvçi
+Apply - Qöllaş
+Sources - Manbalar
+Network Proxy - Tarmoq proksisi
+About PlasmaTube - PlasmaTube haqida
+About KDE - KDE haqida
+Add Source… - Manba qöşiş…
+Subscribed Channels - Obuna bölingan kanallar
+Importing Completed - Import qiliş yakunlandi
+Exporting Completed - Eksport qiliş yakunlandi
+Imported %1 new subscription. - %1 ta yangi obuna import qilindi.
+All imported channels were already subscribed to. - Barça import qilingan kanallarga allaqaçon obuna bölingan.
+Exported %1 subscription. - %1 ta obuna eksport qilindi.
+Error - Xato
+Import… - Import qiliş…
+Import OPML Subscriptions - OPML obunalarini import qiliş
+Import - Import qiliş
+Export… - Eksport qiliş…
+Export OPML Subscriptions - OPML obunalarini eksport qiliş
+Export - Eksport qiliş
+Importing… - Import qilinmoqda…
+Exporting… - Eksport qilinmoqda…
+No channels - Kanallar yöq
+Subscribed Channels - Obuna bölingan kanallar
+Trending - Ommabop
+Picture in Picture - Rasm-içida-rasm
+Video settings - Video sozlamalari
+Seek backward - Orqaga ötkaziş
+Play - Ijro etiş
+Seek forward - Oldinga ötkaziş
+Fullscreen - Töliq ekran
+Picture-in-picture - Rasm-içida-rasm
+Hide player - Pleyerni yaşiriş
+Add to Playlist… - Ijro röyxatiga qöşiş…
+Error Loading Video - Videoni yuklaşda xatolik
+Open in Browser - Brauzerda oçiş
+Copy Video URL - Video URL manzilidan nusxa oliş
+Video Statistics - Video statistikasi
+%1 Likes - %1 ta yoqdi
+No description was set for this video. - Uşbu video uçun tavsif kiritilmagan.
+Comments - Izohlar
+Recommended - Tavsiya etilgan
+No recommended videos - Tavsiya etilgan videolar yöq
+The sponsored segment of the video has been skipped - Videoning homiylik qismi ötkazib yuborildi
+This segment of the video is sponsored - Videoning uşbu qismi homiylik asosida
+Skip - Ötkazib yuboriş
+Queue - Navbat
+Clear - Tozalaş
+Loading… - Yuklanmoqda…

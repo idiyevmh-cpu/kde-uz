@@ -1,0 +1,46 @@
+Plasma Print Queue Manager - Plasma çop etiş navbati boşqaruvçisi
+Manage printer job queues - Printer vazifalari navbatlarini boşqariş
+© KDE Community - © KDE Hamjamiyati
+Mike Noe - Mike Noe
+Developer - Tuzuvçi
+Your names - Ismingiz
+Your emails - Emailingiz
+Show printer queue - Printer navbatini körsatiş
+Enter credentials to print from <b>%1</b> - <b>%1</b> dan çop etiş uçun hisob maʼlumotlarini kiriting
+%1 Jobs - %1 ta vazifa
+Filter Jobs - Vazifalarni filtrlaş
+Active - Aktiv
+Completed - Bajarilgan
+All - Hammasi
+Hide Job Details - Vazifa tafsilotlarini yaşiriş
+Show Job Details - Vazifa tafsilotlarini körsatiş
+Cancel All Jobs - Barça vazifalarni bekor qiliş
+Cancel all active print jobs? - Barça faol çop etiş vazifalari bekor qilinsinmi?
+The print queue is empty - Çop etiş navbati böş
+Move to %1 - %1 ga köçiriş
+Cancel - &Bekor qiliş
+Hold - Kutib turiş (Hold)
+Release - Qöyib yuboriş
+Reprint - Qayta çop etiş
+Move - Köçiriş
+Authenticate - Autentifikatsiyadan ötiş
+Status: %1, %2 - Holat: %1, %2
+Status: %1 - Holat: %1
+Created: %1 - Yaratilgan: %1
+Completed: %1 - Bajarildi: %1
+Processed: %1 - Qayta işlangan: %1
+Pages: %1 - Sahifalar: %1
+Printers - Printerlar
+About - &Haqida
+Printers - Printerlar
+Printer Groups - Printer guruhlari
+Resume - &Davom etiş
+Pause - Vaqtinça töxtatiş
+Configure… - Sozlaş…
+Media Settings… - Media sozlamalari…
+No printers have been set up - Heç qanday printer örnatilmagan
+Set Up a Printer… - Printerni sozlaş…
+Printing services not available - Çop etiş xizmatlari mavjud emas
+Verify that the CUPS system service is active or check: <a href="%1">%2 Support</a> - CUPS tizim xizmati faol ekanligini tekşiring: <a href="%1">%2 Yordam</a>
+Unknown error condition with printing services - Çop etiş xizmatlarida nomaʼlum xatolik holati
+Check for issues here: <a href="%1">%2 Issues</a> - Muammolarni bu yerda tekşiring: <a href="%1">%2 Muammolar</a>

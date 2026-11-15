@@ -1,0 +1,2 @@
+Finds Konsole profiles matching :q:. - :q: ga mos keladigan Konsole profillarini topadi.
+Lists all the Konsole profiles in your account. - Hisobingizdagi barça Konsole profillarini sanaydi.

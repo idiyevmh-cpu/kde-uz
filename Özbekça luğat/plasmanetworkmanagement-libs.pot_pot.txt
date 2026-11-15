@@ -1,0 +1,1186 @@
+Error resetting the modem: %1 - Modemni qayta tiklaşda xatolik: %1
+Could not apply the roaming preference. Activating the access point with its existing setting. - Rouming parametrini qöllab bölmadi. Kiriş nuqtasi mavjud sozlamalari bilan faollaştirilmoqda.
+Error activating connection: %1 - Ulanişni faollaştirişda xatolik: %1
+Cannot change roaming because no access point is available. - Mavjud kiriş nuqtasi yöqligi sababli roumingni özgartirib bölmadi.
+Error applying roaming preference to the selected access point. - Tanlangan kiriş nuqtasiga rouming parametrini qöllaşda xatolik.
+Error adding connection: %1 - Ulanişni qöşişda xatolik: %1
+Error removing connection: %1 - Ulanişni öçirişda xatolik: %1
+Error updating connection settings for %1: %2. - %1 ulaniş sozlamalarini yangilaşda xatolik: %2.
+Unknown - Nomaʼlum
+POTS - POTS
+GSM - GSM
+GSM Compact - GSM Compact
+GPRS - GPRS
+EDGE - EDGE
+UMTS - UMTS
+HSDPA - HSDPA
+HSUPA - HSUPA
+HSPA - HSPA
+HSPA+ - HSPA+
+CDMA2000 1xRTT - CDMA2000 1xRTT
+CDMA2000 EVDO-0 - CDMA2000 EVDO-0
+CDMA2000 EVDO-A - CDMA2000 EVDO-A
+CDMA2000 EVDO-B - CDMA2000 EVDO-B
+LTE - LTE
+5GNR - 5G NR
+Off - Öçirilgan
+Low-power mode - Kam quvvat sarflaş rejimi
+Full power mode - Töliq quvvat rejimi
+Failed - Xatolik yuz berdi
+Initializing - Işga tuşirilmoqda
+Locked - Qulflangan
+Disabled - Öçirilgan
+Disabling - Öçirilmoqda
+Enabling - Yoqilmoqda
+Enabled - Yoqilgan
+Searching for network provider - Tarmoq operatori qidirilmoqda
+Registered with network provider - Tarmoq operatorida röyxatdan ötilgan
+Disconnecting - Uzilmoqda
+Connecting - Ulanmoqda
+Connected - Ulangan
+No error. - Xatolik yöq.
+Unknown error. - Nomaʼlum xatolik.
+SIM is required but missing. - SIM-karta talab qilinadi, lekin topilmadi.
+SIM is available but unusable. - SIM-karta mavjud, lekin yaroqsiz.
+Unknown modem capabilities. - Modem imkoniyatlari nomaʼlum.
+eSIM is not initialized. - eSIM-karta işga tuşirilmagan.
+Not registered, not searching for new operator to register. - Röyxatdan ötilmagan, yangi operator qidirilmayapti.
+Registered on home network. - Uy tarmoğida röyxatdan ötilgan.
+Not registered, searching for new operator to register with. - Röyxatdan ötilmagan, yangi operator qidirilmoqda.
+Registration denied. - Röyxatdan ötiş rad etildi.
+Unknown registration status. - Röyxatdan ötiş holati nomaʼlum.
+Registered on a roaming network. - Rouming tarmoğida röyxatdan ötilgan.
+Registered for "SMS only", on home network. - Uy tarmoğida "Faqat SMS" rejimida röyxatdan ötilgan.
+Registered for "SMS only", roaming network. - Rouming tarmoğida "Faqat SMS" rejimida röyxatdan ötilgan.
+Emergency services only. - Faqat favqulodda xizmatlar.
+Registered for "CSFB not preferred", home network. - Uy tarmoğida "CSFB ustuvor emas" rejimida röyxatdan ötilgan.
+Registered for "CSFB not preferred", roaming network. - Rouming tarmoğida "CSFB ustuvor emas" rejimida röyxatdan ötilgan.
+Attached for access to Restricted Local Operator Services. - Çeklangan mahalliy operator xizmatlaridan foydalaniş uçun biriktirilgan.
+Scanning networks failed: %1 - Tarmoqlarni qidirişda xatolik: %1
+Yes - Ha
+No - Yöq
+GuessYes - Taxminan ha
+GuessNo - Taxminan yöq
+2G - 2G
+3G - 3G
+4G - 4G
+5G - 5G
+Any - Har qanday
+Lock reason unknown. - Qulflaniş sababi nomaʼlum.
+Modem is unlocked. - Modem qulfdan çiqarilgan.
+SIM requires the PIN code. - SIM-karta PIN-kodni talab qiladi.
+SIM requires the PIN2 code. - SIM-karta PIN2-kodni talab qiladi.
+SIM requires the PUK code. - SIM-karta PUK-kodni talab qiladi.
+SIM requires the PUK2 code. - SIM-karta PUK2-kodni talab qiladi.
+Modem requires the service provider PIN code. - Modem operatorning PIN-kodini talab qiladi.
+Modem requires the service provider PUK code. - Modem operatorning PUK-kodini talab qiladi.
+Modem requires the network PIN code. - Modem tarmoq PIN-kodini talab qiladi.
+Modem requires the network PUK code. - Modem tarmoq PUK-kodini talab qiladi.
+Modem requires the PIN code. - Modem PIN-kodni talab qiladi.
+Modem requires the corporate PIN code. - Modem korporativ PIN-kodni talab qiladi.
+Modem requires the corporate PUK code. - Modem korporativ PUK-kodni talab qiladi.
+Modem requires the PH-FSIM PIN code. - Modem PH-FSIM PIN-kodini talab qiladi.
+Modem requires the PH-FSIM PUK code. - Modem PH-FSIM PUK-kodini talab qiladi.
+Modem requires the network subset PIN code. - Modem qism-tarmoq PIN-kodini talab qiladi.
+Modem requires the network subset PUK code. - Modem qism-tarmoq PUK-kodini talab qiladi.
+(empty) - (böş)
+Error toggling SIM lock: %1 - SIM-karta qulfini özgartirişda xatolik: %1
+Error changing the PIN: %1 - PIN-kodni özgartirişda xatolik: %1
+Error sending the PIN: %1 - PIN-kodni yuborişda xatolik: %1
+Error sending the PUK: %1 - PUK-kodni yuborişda xatolik: %1
+Connection speed - Ulaniş tezligi
+MAC Address - MAC-manzil
+Ethernet - Ethernet
+Access Point (SSID) - Kiriş nuqtasi (SSID)
+Signal Strength - Signal darajasi
+%1% - %1%
+Security Type - Xavfsizlik turi
+Connection Speed - Ulaniş tezligi
+Frequency - Çastota
+%1 (Channel %2) - %1 (%2-kanal)
+BSSID - BSSID
+Wi-Fi - Wi-Fi
+Operator - Operator
+Network ID - Tarmoq identifikatori
+Signal Quality - Signal sifati
+Access Technology - Ulaniş texnologiyasi
+Mobile Broadband - Mobil internet
+VPN Plugin - VPN plagini
+Banner - Banner
+VPN - VPN
+WireGuard - WireGuard
+Name - Nomi
+Capabilities - Imkoniyatlar
+Bluetooth - Bluetooth
+Type - Turi
+Infiniband - Infiniband
+Bond - Birlaştirma (Bond)
+Bridge - Köprik (Bridge)
+Vlan - VLAN
+Vlan ID - VLAN identifikatori
+Adsl - ADSL
+Team - Guruh (Team)
+Device - Qurilma
+General - Umumiy
+IPv4 Address - IPv4 manzili
+IPv4 Default Gateway - Standart IPv4 şlyuzi
+IPv4 Primary Nameserver - Asosiy IPv4 DNS-serveri
+IPv4 Secondary Nameserver - Qöşimça IPv4 DNS-serveri
+IPv4 - IPv4
+IPv6 Address - IPv6 manzili
+IPv6 ULA Address - IPv6 ULA manzili
+IPv6 Default Gateway - Standart IPv6 şlyuzi
+IPv6 Primary Nameserver - Asosiy IPv6 DNS-serveri
+IPv6 Secondary Nameserver - Qöşimça IPv6 DNS-serveri
+IPv6 - IPv6
+Status - Holati
+General - Umumiy
+Wired - Simli
+802.1x Security - 802.1x xavfsizligi
+DSL - DSL
+Mobile Broadband (%1) - Mobil internet (%1)
+PPP - PPP
+WireGuard Interface - WireGuard interfeysi
+VPN (%1) - VPN (%1)
+Failed to get secrets for %1 - %1 uçun maxfiy maʼlumotlarni olib bölmadi
+New Connection (%1) - Yangi ulaniş (%1)
+Edit Connection '%1' - '%1' ulanişini tahrirlaş
+New %1 connection - Yangi %1 ulanişi
+Connection name: - Ulaniş nomi:
+InfiniBand - InfiniBand
+Round-robin - Navbatma-navbat (Round-robin)
+Active backup - Faol zaxira (Active backup)
+XOR - XOR
+Broadcast - Keng uzatiş (Broadcast)
+802.3ad - 802.3ad
+Adaptive transmit load balancing - Uzatiş yuklamasini moslaşuvçan taqsimlaş
+Adaptive load balancing - Yuklamani moslaşuvçan taqsimlaş
+MII (recommended) - MII (tavsiya etiladi)
+ARP - ARP
+Do you want to remove the connection '%1'? - '%1' ulanişini öçirişni xohlaysizmi?
+Remove Connection - Ulanişni öçiriş
+VLAN - VLAN
+DUN (dial up networking) - DUN (telefon orqali tarmoqqa ulaniş)
+PAN (personal area network) - PAN (şaxsiy tarmoq)
+Disconnected - Uzilgan
+Advanced Permissions Editor - Kengaytirilgan ruxsatlar muharriri
+Datagram - Datagramma
+Connected - Ulangan
+Address - Manzil
+Netmask - Tarmoq niqobi
+Gateway - Şlyuz
+Other DNS Servers: - Boşqa DNS-serverlar:
+DNS Servers: - DNS-serverlar:
+<qt>You can find more information about these values here:<br/><a href='https://networkmanager.dev/docs/api/latest/nm-settings-nmcli.html'>https://networkmanager.dev/docs/api/latest/nm-settings-nmcli.html</a></qt> - <qt>Uşbu qiymatlar haqida batafsil maʼlumotni bu yerdan topişingiz mumkin:<br/><a href='https://networkmanager.dev/docs/api/latest/nm-settings-nmcli.html'>https://networkmanager.dev/docs/api/latest/nm-settings-nmcli.html</a></qt>
+Send hostname: - Xost nomini yuboriş:
+DHCP hostname: - DHCP xost nomi:
+Default - Standart
+ ms -  ms
+DAD timeout: - DAD kutiş vaqti:
+Edit DNS servers - DNS-serverlarni tahrirlaş
+Edit DNS search domains - DNS qidiruv domenlarini tahrirlaş
+Address - Manzil
+Prefix - Prefiks
+Gateway - Şlyuz
+Alternative Subject Matches - Muqobil subʼekt mosliklari
+<qt>This entry must be one of:<ul><li>DNS: &lt;name or ip address&gt;</li><li>EMAIL: &lt;email&gt;</li><li>URI: &lt;uri, e.g. https://www.kde.org&gt;</li></ul></qt> - <qt>Uşbu yozuv quyidagilardan biri bölişi kerak:<ul><li>DNS: &lt;nom yoki IP manzil&gt;</li><li>EMAIL: &lt;e-poçta&gt;</li><li>URI: &lt;manzil, masalan https://www.kde.org&gt;</li></ul></qt>
+Connect to these servers only - Faqat uşbu serverlarga ulaniş
+Select file to import - Import qiliş uçun faylni tanlang
+Authentication: - Autentifikatsiya:
+MD5 - MD5
+TLS - TLS
+LEAP - LEAP
+PWD - PWD
+FAST - FAST
+Tunneled TLS (TTLS) - Tunnellangan TLS (TTLS)
+Protected EAP (PEAP) - Himoyalangan EAP (PEAP)
+Username: - Foydalanuvçi nomi:
+Password: - Parol:
+Identity: - Şaxsni tasdiqlaş:
+Domain: - Domen:
+User certificate: - Foydalanuvçi sertifikati:
+CA certificate: - CA sertifikati:
+Subject match: - Subʼekt mosligi:
+Alternative subject matches: - Muqobil subʼekt mosliklari:
+… - …
+Connect to these servers: - Uşbu serverlarga ulaniş:
+Private key: - Maxfiy kalit:
+Private key password: - Maxfiy kalit paroli:
+Anonymous identity: - Anonim identifikator:
+Automatic PAC provisioning - Avtomatik PAC taʼminoti
+Anonymous - Anonim
+Authenticated - Tasdiqlangan
+Both - Ikkalasi ham
+PAC file: - PAC fayli:
+Inner authentication: - Içki autentifikatsiya:
+GTC - GTC
+MSÇapv2 - MSCHAPv2
+PAP - PAP
+MSÇap - MSCHAP
+CHAP - CHAP
+PEAP version: - PEAP versiyasi:
+Automatic - Avtomatik
+Version 0 - Versiya 0
+Version 1 - Versiya 1
+Interface name: - Interfeys nomi:
+Bonded connections: - Birlaştirilgan ulanişlar:
+Add… - Qöşiş…
+Edit… - Tahrirlaş…
+Delete - Öçiriş
+Mode: - Rejim:
+Link monitoring: - Aloqa nazorati:
+Monitoring frequency: - Tekşiriş çastotasi:
+ ms -  ms
+Link up delay: - Ulaniş keçiğişi:
+Link down delay: - Uziliş keçiğişi:
+ARP targets: - ARP manzillari:
+An IP address or comma-separated list of addresses. - IP-manzil yoki vergul bilan ajratilgan manzillar röyxati.
+Bridged connections: - Köprik ulanişlari:
+Aging time: - Eskiriş vaqti:
+ s -  s
+Enable STP (Spanning Tree Protocol) - STP (Spanning Tree Protocol) ni yoqiş
+Priority: - Ustuvorlik:
+Forward delay: - Yönaltiriş keçiğişi:
+Hello time: - Salomlaşiş vaqti (Hello time):
+Max age: - Maks. muddat:
+Address of the device: - Qurilma manzili:
+Connection type: - Ulaniş turi:
+Number: - Raqam:
+Connect automatically with priority - Ustuvorlik bilan avtomatik ulaniş:
+If the connection is set to autoconnect, connections with higher priority will be preferred. Defaults to 0. The higher number means higher priority. A negative number can be used to indicate priority lower than the default. - Agar avtomatik ulaniş yoqilgan bölsa, ustuvorligi yuqori bölgan ulanişlar afzal köriladi. Standart qiymat — 0. Son qança katta bölsa, ustuvorlik şunça yuqori böladi. Standartdan pastroq ustuvorlikni körsatiş uçun manfiy sondan foydalaniş mumkin.
+All users may connect to this network - Barça foydalanuvçilar uşbu tarmoqqa ulanişi mumkin
+Edit advanced permissions for this connection - Uşbu ulaniş uçun kengaytirilgan ruxsatlarni tahrirlaş
+Fine-grained permissions editor for this connection. It lets you choose which users can activate/modify/delete this connection. - Uşbu ulaniş uçun ruxsatlar muharriri. Qaysi foydalanuvçilar uşbu ulanişni faollaştirişi, özgartirişi yoki öçirişi mumkinligini tanlaş imkonini beradi.
+Advanced… - Kengaytirilgan…
+Automatically connect to VPN - VPN-ga avtomatik ulaniş
+Choose which VPN connection to automatically activate when this connection is established - Uşbu ulaniş örnatilganda qaysi VPN ulanişi avtomatik faollaştirilişini tanlang
+Firewall zone: - Brandmauer hududi:
+Assign this connection to a firewall zone to control network access and security rules - Tarmoqqa kiriş va xavfsizlik qoidalarini boşqariş uçun uşbu ulanişni brandmauer hududiga biriktiring
+Metered: - Ölçovli (trafik çeklangan):
+Indicates to applications whether the connection is metered and therefore data usage should be restricted. - Ilovalarga ulaniş trafiki çeklanganligini va maʼlumotlar sarfini çeklaş kerakligini bildiradi.
+Automatic - Avtomatik
+Basic - Asosiy
+Advanced - Qöşimça
+Allow roaming if home network is not available - Uy tarmoği mavjud bölmasa, roumingga ruxsat beriş
+APN: - APN (Kiriş nuqtasi):
+Network ID: - Tarmoq identifikatori:
+PIN: - PIN:
+Transport mode: - Uzatiş rejimi:
+Restrict to device: - Qurilma bilan çeklaş:
+MTU: - MTU:
+Automatic - Avtomatik
+ bytes -  bayt
+Advanced IP settings - Qöşimça IP sozlamalari
+Routes… - Marşrutlar…
+Use this field to specify the DHCP client ID which is a string sent to the DHCP server to identify the local machine that the DHCP server may use to customize the DHCP lease and options. - Uşbu maydondan DHCP mijoz identifikatorini körsatiş uçun foydalaning; bu qator mahalliy kompyuterni aniqlaş va DHCP ijarasi hamda parametrlarini moslaştiriş uçun DHCP serveriga yuboriladi.
+Use this field to specify one or more DNS domains to search. Use ',' to separate entries. - Qidiriş uçun bir yoki bir neçta DNS domenlarini körsatiş uçun uşbu maydondan foydalaning. Yozuvlarni ajratiş uçun ',' belgisini işlating.
+Edit the list of DNS domains being searched - Qidiriladigan DNS domenlar röyxatini tahrirlaş
+DNS Servers: - DNS-serverlar:
+Method: - Usul:
+Search Domains: - Qidiruv domenlari:
+A score that helps choose the best path for data packets to reach their destination, based on factors like distance, delay, and reliability.  Default value -1 means that NetworkManager gets to choose and manage the actual metric of the route. - Masofa, keçiğiş va işonçlilik kabi omillar asosida maʼlumotlar paketlari manzilga yetib borişi uçun eng yaxşi yölni tanlaşga yordam beradigan körsatkiç. Standart -1 qiymati NetworkManager marşrutning haqiqiy metrikasini özi tanlaşi va boşqarişini anglatadi.
+DHCP Client ID: - DHCP mijoz identifikatori:
+Route Metric: - Marşrut metrikasi:
+How to configure the IPv4 address: • Automatic: obtain address and DNS automatically via DHCP • Automatic (Only addresses): obtain address via DHCP but configure DNS manually • Link-Local: use automatic link-local addressing (169.254.x.x) • Manual: enter a static IP address • Shared: turn this computer into a router to share internet with other devices • Disabled: turn off IPv4 - IPv4 manzilini sozlaş usuli: • Avtomatik: manzil va DNS-ni DHCP orqali avtomatik oliş • Avtomatik (faqat manzillar): manzilni DHCP orqali oliş, lekin DNS-ni qölda sozlaş • Mahalliy kanal (Link-Local): kanal doirasida avtomatik manzillaşdan foydalaniş (169.254.x.x) • Qölda: statik IP manzilni kiritiş • Umumiy: internetni boşqa qurilmalar bilan ulaşiş uçun uşbu kompyuterni marşrutizatorga aylantiriş • Öçirilgan: IPv4-ni öçiriş
+Automatic - Avtomatik
+Automatic (Only addresses) - Avtomatik (faqat manzillar)
+Link-Local - Mahalliy kanal (Link-Local)
+Manual - Qölda
+Shared to other computers - Boşqa kompyuterlar bilan ulaşilgan
+Disabled - Öçirilgan
+Use this field to specify the IP address(es) of one or more DNS servers. Use ',' to separate entries. - Bir yoki bir neçta DNS-serverlarning IP manzillarini körsatiş uçun uşbu maydondan foydalaning. Yozuvlarni ajratiş uçun ',' belgisini işlating.
+Edit the list of DNS servers - DNS-serverlar röyxatini tahrirlaş
+Allows the connection to complete if IPv4 configuration fails but IPv6 configuration succeeds - IPv4 sozlamasi xato berib, IPv6 sozlamasi muvaffaqiyatli bölganda ulanişni yakunlaşga ruxsat beradi
+IPv4 is required for this connection - Uşbu ulaniş uçun IPv4 talab qilinadi
+Add - Qöşiş
+Remove - Olib taşlaş
+IP addresses identify your computer on the network. Click the "Add" button to add an IP address - IP manzillar kompyuteringizni tarmoqda aniqlaydi. IP manzil qöşiş uçun "Qöşiş" tugmasini bosing
+When connecting to IPv4-capable networks, allows the connection to complete if IPv6 configuration fails but IPv4 configuration succeeds - IPv4-ni qöllab-quvvatlaydigan tarmoqlarga ulanganda, IPv6 sozlamasi xato berib, IPv4 sozlamasi muvaffaqiyatli bölsa, ulanişni yakunlaşga ruxsat beradi
+IPv6 is required for this connection - Uşbu ulaniş uçun IPv6 talab qilinadi
+Configure IPv6 Privacy Extensions for SLAAC, described in RFC4941. If enabled, it makes the kernel generate a temporary IPv6 address in addition to the public one generated from MAC address via modified EUI-64. - RFC4941 da tavsiflangan SLAAC uçun IPv6 maxfiylik kengaytmalarini sozlang. Agar yoqilsa, yadro özgartirilgan EUI-64 orqali MAC manzildan yaratilgan oçiq manzilga qöşimça ravişda vaqtinçalik IPv6 manzilini yaratadi.
+Disabled - Öçirilgan
+Enabled (prefer public address) - Yoqilgan (oçiq manzilni afzal köriş)
+Enabled (prefer temporary addresses) - Yoqilgan (vaqtinçalik manzillarni afzal köriş)
+How to configure the IPv6 address: • Automatic: obtain address and DNS automatically (via SLAAC and/or DHCPv6) • Automatic (Only addresses): obtain address automatically but configure DNS manually • Automatic (Only DHCP): obtain address and DNS via DHCPv6 only (ignore SLAAC) • Link-Local: use automatic link-local addressing (fe80::/10) • Manual: enter a static IP address • Ignored: skip IPv6 configuration but allow connection • Disabled: turn off IPv6 completely - IPv6 manzilini sozlaş usuli: • Avtomatik: manzil va DNS-ni avtomatik oliş (SLAAC va/yoki DHCPv6 orqali) • Avtomatik (faqat manzillar): manzilni avtomatik oliş, lekin DNS-ni qölda sozlaş • Avtomatik (faqat DHCP): manzil va DNS-ni faqat DHCPv6 orqali oliş (SLAAC-ni eʼtiborsiz qoldiriş) • Mahalliy kanal (Link-Local): kanal doirasida avtomatik manzillaşdan foydalaniş (fe80::/10) • Qölda: statik IP manzilni kiritiş • Eʼtiborsiz: IPv6 sozlamasini ötkazib yuboriş, lekin ulanişga ruxsat beriş • Öçirilgan: IPv6-ni butunlay öçiriş
+Automatic (Only DHCP) - Avtomatik (faqat DHCP)
+Ignored - Eʼtiborsiz qoldirilgan
+Privacy: - Maxfiylik:
+Authentication - Autentifikatsiya
+EAP - EAP
+Compression - Siqiş
+Use point-to-point encryption (MPPE) - Nuqtadan-nuqtaga şifrlaşdan (MPPE) foydalaniş
+Use BSD data compression - BSD maʼlumotlarni siqişdan foydalaniş
+Use Deflate data compression - Deflate maʼlumotlarni siqişdan foydalaniş
+Use TCP header compression - TCP sarlavhalarini siqişdan foydalaniş
+Require 128-bit encryption - 128-bitli şifrlaşni talab qiliş
+Use stateful MPPE - Holatni saqlovçi MPPE-dan foydalaniş
+Echo - Exo
+Send PPP echo packets - PPP exo-paketlarini yuboriş
+Service: - Xizmat:
+If specified, instruct PPPoE to only initiate sessions with access concentrators that provide the specified service. For most providers, this should be left blank. It is only required if there are multiple access concentrators or a specific service is known to be required. - Agar körsatilsa, PPPoE faqat körsatilgan xizmatni taqdim etuvçi kiriş konsentratorlari bilan seanslarni boşlaydi. Aksariyat provayderlar uçun bu maydon böş qoldirilişi kerak. U faqat bir neçta kiriş konsentratorlari mavjud bölganda yoki maʼlum bir xizmat talab qilingandagina kerak böladi.
+Teamed connections: - Guruhlangan ulanişlar:
+JSON config: - JSON konfiguratsiyasi:
+Import configuration from file… - Konfiguratsiyani fayldan import qiliş…
+Parent interface: - Asosiy interfeys:
+VLAN id: - VLAN identifikatori:
+VLAN interface name: - VLAN interfeysi nomi:
+Output packet headers reordering - Çiquvçi paket sarlavhalarini qayta tartiblaş
+GARP VLAN Registration Protocol - GARP VLAN röyxatga oliş protokoli
+GVRP - GVRP
+Loose binding - Erkin boğlaniş
+Connection - Ulaniş
+SSID: - SSID:
+The name of the Wi-Fi network to connect to - Ulaniş uçun Wi-Fi tarmoği nomi
+Wi-Fi network mode: • Infrastructure: connect to a Wi-Fi router (normal mode) • Ad-hoc: create a direct peer-to-peer network • Access Point: turn this computer into a Wi-Fi hotspot - Wi-Fi tarmoq rejimi: • Infratuzilma: Wi-Fi marşrutizatoriga ulaniş (oddiy rejim) • Ad-hoc: töğridan-töğri teng huquqli tarmoq yaratiş • Kiriş nuqtasi: uşbu kompyuterni Wi-Fi tarqatuvçi nuqtaga (hotspot) aylantiriş
+Infrastructure - Infratuzilma
+Ad-hoc - Ad-hoc (Teng huquqli)
+Access Point - Kiriş nuqtasi
+Restrict to BSSID: - BSSID böyiça çeklaş:
+Lock this connection to a specific access point. Enter the BSSID (MAC address) of the access point. - Uşbu ulanişni maʼlum bir kiriş nuqtasiga biriktiriş. Kiriş nuqtasining BSSID (MAC-manzil) qiymatini kiriting.
+Band: - Diapazon:
+This option locks the connection to the Wi-Fi network associated to the specified band. This setting depends  on specific driver capability and may not work with all drivers - Uşbu parametr ulanişni körsatilgan diapazondagi Wi-Fi tarmoğiga biriktiradi. Bu sozlama drayver imkoniyatiga boğliq bölib, barça drayverlarda ham işlamasligi mumkin
+Automatic - Avtomatik
+A (5 GHz) - A (5 GHz)
+B/G (2.4 GHz) - B/G (2,4 GHz)
+Channel: - Kanal:
+Wireless channel to use for the Wi-Fi connection. The device will only join (or create for Ad-Hoc networks) a Wi-Fi network on the specified channel - Wi-Fi ulanişi uçun foydalaniladigan simsiz kanal. Qurilma faqat körsatilgan kanaldagi Wi-Fi tarmoğiga ulanadi (yoki Ad-Hoc tarmoqlarini yaratadi)
+Restrict to network adapter: - Tarmoq adapteri böyiça çeklaş:
+Lock this connection to a particular network adapter by specifying its MAC address. - Uşbu ulanişni maʼlum bir tarmoq adapteriga uning MAC-manzilini körsatgan holda biriktiring.
+Cloned MAC address: - Klonlangan MAC-manzil:
+Use a different MAC address instead of your network adapter's real address. - Tarmoq adapteringizning haqiqiy manzili örniga boşqa MAC-manzildan foydalaning.
+Random… - Tasodifiy…
+Maximum Transmission Unit: the largest packet size that can be sent without fragmentation. Larger packets will be broken into smaller frames. - Maksimal uzatiş birligi (MTU): bölaklarga ajratmasdan yuboriş mumkin bölgan eng katta paket ölçami. Kattaroq paketlar kiçikroq kadrlarga bölinadi.
+Create a connection for a hidden network - Yaşirin tarmoq uçun ulaniş yaratiş
+Visibility: - Körinişi:
+Hidden network - Yaşirin tarmoq
+Security - Xavfsizlik
+Wifi Security - Wi-Fi xavfsizligi
+Security: - Xavfsizlik:
+None - Yöq
+WEP key 40/128 bits (Hex or ASCII) - WEP kaliti 40/128 bit (Hex yoki ASCII)
+WEP key 128 bits - WEP kaliti 128 bit
+Dynamic WEP (802.1x) - Dinamik WEP (802.1x)
+WPA2/WPA3 Personal - WPA2/WPA3 Personal
+WPA2/WPA3 Enterprise - WPA2/WPA3 Enterprise
+WPA3 Personal - WPA3 Personal
+WPA3 Enterprise 192-bit - WPA3 Enterprise 192-bit
+Enhanced Open (OWE) - Enhanced Open (OWE)
+Key: - Kalit:
+WEP index: - WEP indeksi:
+1 (default) - 1 (standart)
+2 - 2
+3 - 3
+4 - 4
+Open System - Oçiq tizim
+Shared Key - Umumiy kalit
+This option locks this connection to the network device specified by its permanent MAC address entered here. Example: 00:11:22:33:44:55 - Uşbu parametr bu ulanişni şu yerda kiritilgan doimiy MAC-manzilli tarmoq qurilmasiga biriktiradi. Misol: 00:11:22:33:44:55
+The MAC address entered here will be used as hardware address for the network device this connection is activated on. This feature is known as MAC cloning or spoofing. Example 11:22:33:44:55 - Bu yerda kiritilgan MAC-manzil uşbu ulaniş faollaştirilgan tarmoq qurilmasi uçun apparat manzili sifatida işlatiladi. Bu xususiyat MAC klonlaş yoki almaştiriş deb ataladi. Misol: 11:22:33:44:55
+Random - Tasodifiy
+Only transmit packets of the specified size or smaller, breaking larger packets up into multiple Ethernet frames - Faqat körsatilgan yoki undan kiçik ölçamdagi paketlarni uzatiş, kattaroq paketlarni bir neçta Ethernet kadrlariga böliş
+Speed limit: - Tezlik çeklovi:
+Duplex: - Dupleks:
+Request that the device use the specified duplex mode. Either "half" or "full" - Qurilmadan körsatilgan dupleks rejimidan ("yarim" yoki "töliq") foydalanişni talab qiliş
+Half - Yarim dupleks
+Full - Töliq
+Link negotiation: - Aloqani kelişiş:
+Device link negotiation. If “Manual” is chosen, “Speed” and “Duplex” values will be forced without checking the device compatibility. If unsure, leave here “Ignore” or pick “Automatic”. - Qurilma aloqasini kelişiş usuli. Agar “Qölda” tanlansa, qurilma mosligini tekşirmasdan “Tezlik” va “Dupleks” qiymatlari majburiy qöllaniladi. Işonçingiz komil bölmasa, “Eʼtibor berilmasin” qoldiring yoki “Avtomatik”ni tanlang.
+Ignore - Eʼtibor berilmasin
+Automatic - Avtomatik
+Manual - Qölda
+Request that the device use only the specified speed. - Qurilmadan faqat körsatilgan tezlikda işlaşni talab qiliş.
+10 Mb/s - 10 Mbit/s
+100 Mb/s - 100 Mbit/s
+1 Gb/s - 1 Gbit/s
+2.5 Gb/s - 2,5 Gbit/s
+5 Gb/s - 5 Gbit/s
+10 Gb/s - 10 Gbit/s
+40 Gb/s - 40 Gbit/s
+100 Gb/s - 100 Gbit/s
+Use 802.1x security for this connection - Uşbu ulaniş uçun 802.1x xavfsizligidan foydalaniş
+WireGuard Settings - WireGuard sozlamalari
+Interface - Interfeys
+Required. Network interface name. - Majburiy. Tarmoq interfeysi nomi.
+Required. A base64 private key generated by wg genkey. - Majburiy. wg genkey yordamida yaratilgan base64 formatidagi maxfiy kalit.
+Listen port: - Tinglaş porti:
+Optional. Listen port number. Chosen randomly if left as 'Automatic'. - Ixtiyoriy. Tinglaş porti raqami. 'Avtomatik' qoldirilsa, tasodifiy tanlanadi.
+fwmark: - fwmark:
+Optional. An fwmark for outgoing packets. If set to 0 or 'off', this option is disabled. May be specified in hexadecimal by prepending '0x'. - Ixtiyoriy. Çiquvçi paketlar uçun fwmark belgisi. Agar 0 yoki 'off' örnatilsa, bu parametr öçiriladi. Oldiga '0x' qöşib ön oltilik sanoq tizimida körsatilişi mumkin.
+Optional. If not specified, the MTU is automatically determined from the endpoint addresses or the system default route, which is usually a sane choice. However, to manually specify an MTU and to override this automatic discovery, this value may be specified explicitly. - Ixtiyoriy. Agar körsatilmasa, MTU tugun manzillari yoki tizimning standart marşrutidan avtomatik ravişda aniqlanadi va bu odatda maqbul tanlovdir. Biroq, MTU-ni qölda körsatiş va avtomatik aniqlaşni bekor qiliş uçun bu qiymatni aniq kiritiş mumkin.
+Autoroute peers: - Tugunlarni avtomatik marşrutlaş:
+Whether to automatically add routes for the AllowedIPs ranges of the peers. - Tugunlarning AllowedIPs diapazonlari uçun marşrutlarni avtomatik qöşiş.
+Peers… - Tugunlar (Peers)…
+Public key: - Oçiq kalit:
+Required.             A base64 public key calculated by wg pubkey              from a private key, and usually transmitted              out of band to the author of the configuration file. - Majburiy. wg pubkey tomonidan maxfiy kalit asosida hisoblangan va odatda konfiguratsiya fayli muallifiga taşqi kanal orqali uzatiladigan base64 formatidagi oçiq kalit.
+Allowed IPs: - Ruxsat berilgan IP manzillar:
+Required.             A comma-separated list of IP (v4 or v6) addresses              with CIDR masks from which incoming traffic for              this peer is allowed and to which outgoing traffic              for this peer is directed. The catch-all 0.0.0.0/0              may be specified for matching all IPv4 addresses,              and ::/0 may be specified for matching all IPv6 addresses. - Majburiy. Uşbu tugundan kiruvçi trafikka ruxsat beriladigan va çiquvçi trafik yönaltiriladigan CIDR niqobli IP (v4 yoki v6) manzillarning vergul bilan ajratilgan röyxati. Barça IPv4 manzillar uçun 0.0.0.0/0 va barça IPv6 manzillar uçun ::/0 körsatilişi mumkin.
+Endpoint address: - Oxirgi nuqta (Endpoint) manzili:
+Optional.             An endpoint for the connection. Can be an             IPv4 address, IPv6 address, or FQDN (fully             qualified domain name such as abc.com). If             present, Endpoint port must also be set. - Ixtiyoriy. Ulanişning oxirgi nuqtasi manzili. IPv4 manzili, IPv6 manzili yoki FQDN (masalan, abc.com kabi töliq domen nomi) bölişi mumkin. Agar körsatilsa, oxirgi nuqta porti ham kiritilişi şart.
+Endpoint port: - Oxirgi nuqta porti:
+Optional.             The port number of an endpoint. If present Endpoint             Address must also be set. - Ixtiyoriy. Oxirgi nuqtaning port raqami. Agar körsatilsa, oxirgi nuqta manzili ham kiritilişi şart.
+Preshared key: - Oldindan ulaşilgan kalit (PSK):
+Optional.             A base64 preshared key generated by wg genpsk.             This option adds an additional layer of symmetric-key             cryptography to be mixed into the already existing             public-key cryptography, for post-quantum resistance. - Ixtiyoriy. wg genpsk yordamida yaratilgan base64 formatidagi oldindan ulaşilgan kalit. Uşbu parametr post-kvant bardoşliligi uçun mavjud oçiq kalitli kriptografiyaga qöşimça simmetrik kalitli kriptografiya qatlamini qöşadi.
+Persistent keepalive: - Doimiy aloqani uşlab turiş (keepalive):
+Optional.             A seconds interval, between 1 and 65535 inclusive, of             how often to send an authenticated empty packet to             the peer for the purpose of keeping a stateful firewall             or NAT mapping valid persistently. For example, if the             interface very rarely sends traffic, but it might at             anytime receive traffic from a peer, and it is behind             NAT, the interface might benefit from having a             persistent keepalive interval of 25 seconds. If set to             0 or "off", this option is disabled. By default or             when unspecified, this option is off. Most users will not             need this. - Ixtiyoriy. Brandmauer yoki NAT boğlanişini doimiy faol holatda saqlaş maqsadida tugunga tasdiqlangan böş paketni yuboriş oraliği (1 dan 65535 gaça soniyada). Masalan, agar interfeys trafikni juda kam yuborsa, lekin istalgan vaqtda tugundan trafik qabul qilişi mumkin bölsa va NAT ortida joylaşgan bölsa, 25 soniyalik keepalive oraliği foydali böladi. Agar 0 yoki "off" örnatilsa, bu parametr öçiriladi. Standart holatda yoki körsatilmaganda bu parametr öçirilgan böladi. Aksariyat foydalanuvçilarga bu kerak bölmaydi.
+Peer 1 - Tugun 1
+Add new Peer - Yangi tugun qöşiş
+Remove this Peer - Uşbu tugunni öçiriş
+Automatic - Avtomatik
+%1 (%2 MHz) - %1 (%2 MHz)
+WireGuard peers properties - WireGuard tugunlari xossalari
+Wi-Fi - Wi-Fi
+Bluetooth - Bluetooth
+Infiniband - Infiniband
+ADSL - ADSL
+Virtual (bond) - Virtual (birlaştirma)
+Virtual (bridge) - Virtual (köprik)
+Virtual (vlan) - Virtual (VLAN)
+Virtual (team) - Virtual (guruh)
+Serial Modem - Ketma-ket portli modem
+Mobile Broadband - Mobil internet
+Loopback - Loopback (Içki halqa)
+Wired Ethernet - Simli Ethernet
+ADSL - ADSL
+Mobile broadband - Mobil internet
+Olpc mesh - OLPC katakli tarmoği
+Wired Ethernet - Simli Ethernet
+WireGuard VPN - WireGuard VPN
+Loopback - Loopback (Içki halqa)
+Unknown connection type - Nomaʼlum ulaniş turi
+Wireless Interface (%1) - Simsiz interfeys (%1)
+Wired Interface (%1) - Simli interfeys (%1)
+Bluetooth (%1) - Bluetooth (%1)
+Modem (%1) - Modem (%1)
+ADSL (%1) - ADSL (%1)
+VLan (%1) - VLAN (%1)
+Bridge (%1) - Köprik (%1)
+Loopback Interface (%1) - Loopback interfeysi (%1)
+Unknown - Nomaʼlum
+Unmanaged - Boşqarilmaydi
+Unavailable - Mavjud emas
+Not connected - Ulanmagan
+Preparing to connect - Ulanişga tayyorlanmoqda
+Configuring interface - Interfeys sozlanmoqda
+Waiting for authorization - Avtorizatsiya kutilmoqda
+Setting network address - Tarmoq manzili olinmoqda
+Checking further connectivity - Tarmoqqa ulaniş tekşirilmoqda
+Waiting for a secondary connection - Qöşimça ulaniş kutilmoqda
+Connected - Ulangan
+Connected to %1 - %1 ga ulandi
+Deactivating connection - Ulaniş uzilmoqda
+Connection Failed - Ulaniş amalga oşmadi
+Error: Invalid state - Xatolik: notöğri holat
+Unknown - Nomaʼlum
+Preparing to connect - Ulanişga tayyorlanmoqda
+Needs authorization - Avtorizatsiya talab qilinadi
+Connecting - Ulanmoqda
+Setting network address - Tarmoq manzili olinmoqda
+Activated - Faollaştirilgan
+Failed - Xatolik yuz berdi
+Failed - Xatolik yuz berdi
+Unknown - Nomaʼlum
+Adhoc - Ad-hoc (Teng huquqli)
+Infrastructure - Infratuzilma
+Access point - Kiriş nuqtasi
+Pairwise WEP40 - Juftlik WEP40
+Pairwise WEP104 - Juftlik WEP104
+Pairwise TKIP - Juftlik TKIP
+Pairwise CCMP - Juftlik CCMP
+Group WEP40 - Guruhli WEP40
+Group WEP104 - Guruhli WEP104
+Group TKIP - Guruhli TKIP
+Group CCMP - Guruhli CCMP
+PSK - PSK
+802.1x - 802.1x
+%1 Bit/s - %1 bit/s
+%1 MBit/s - %1 Mbit/s
+%1 GBit/s - %1 Gbit/s
+%1 GHz - %1 GHz
+LTE - LTE
+UMTS/HSxPA - UMTS/HSxPA
+GPRS/EDGE - GPRS/EDGE
+GSM - GSM
+Any - Har qanday
+5G NR - 5G NR
+LTE - LTE
+CDMA2000 EVDO revision B - CDMA2000 EVDO, reviziya B
+CDMA2000 EVDO revision A - CDMA2000 EVDO, reviziya A
+CDMA2000 EVDO revision 0 - CDMA2000 EVDO, reviziya 0
+CDMA2000 1xRTT - CDMA2000 1xRTT
+HSPA+ - HSPA+
+HSPA - HSPA
+HSUPA - HSUPA
+HSDPA - HSDPA
+UMTS - UMTS
+EDGE - EDGE
+GPRS - GPRS
+Compact GSM - Compact GSM
+GSM - GSM
+Analog - Analog modem
+Unknown - Nomaʼlum
+Any - Har qanday
+Modem is unlocked. - Modem qulfdan çiqarilgan.
+SIM requires the PIN code. - SIM-karta PIN-kodni talab qiladi.
+SIM requires the PIN2 code. - SIM-karta PIN2-kodni talab qiladi.
+SIM requires the PUK code. - SIM-karta PUK-kodni talab qiladi.
+SIM requires the PUK2 code. - SIM-karta PUK2-kodni talab qiladi.
+Modem requires the service provider PIN code. - Modem operatorning PIN-kodini talab qiladi.
+Modem requires the service provider PUK code. - Modem operatorning PUK-kodini talab qiladi.
+Modem requires the network PIN code. - Modem tarmoq PIN-kodini talab qiladi.
+Modem requires the network PUK code. - Modem tarmoq PUK-kodini talab qiladi.
+Modem requires the PIN code. - Modem PIN-kodni talab qiladi.
+Modem requires the corporate PIN code. - Modem korporativ PIN-kodni talab qiladi.
+Modem requires the corporate PUK code. - Modem korporativ PUK-kodni talab qiladi.
+Modem requires the PH-FSIM PIN code. - Modem PH-FSIM PIN-kodini talab qiladi.
+Modem requires the PH-FSIM PUK code. - Modem PH-FSIM PUK-kodini talab qiladi.
+Modem requires the network subset PIN code. - Modem qism-tarmoq PIN-kodini talab qiladi.
+Modem requires the network subset PUK code. - Modem qism-tarmoq PUK-kodini talab qiladi.
+Lock reason unknown. - Qulflaniş sababi nomaʼlum.
+Insecure - Himoyalanmagan
+WEP - WEP
+LEAP - LEAP
+Dynamic WEP - Dinamik WEP
+WPA-PSK - WPA-PSK
+WPA-EAP - WPA-EAP
+WPA2-PSK - WPA2-PSK
+WPA2-EAP - WPA2-EAP
+WPA3-SAE - WPA3-SAE
+WPA3-EAP-SUITE-B-192 - WPA3-EAP-SUITE-B-192
+Enhanced Open (OWE) - Enhanced Open (OWE)
+Unknown security type - Nomaʼlum xavfsizlik turi
+Last used one minute ago - Oxirgi marta bir daqiqa oldin foydalanilgan
+Last used one hour ago - Oxirgi marta bir soat oldin foydalanilgan
+Last used yesterday - Oxirgi marta keça foydalanilgan
+Last used on %1 - Oxirgi foydalaniş: %1
+Never used - Heç qaçon foydalanilmagan
+No VPN plugin found for type %1 - %1 turi uçun VPN plagini topilmadi
+Importing this type of VPN is not implemented - Uşbu turdagi VPN-ni import qiliş amalga oşirilmagan
+Not implemented - Amalga oşirilmagan
+N/A - N/A
+Not Available - Mavjud emas
+First select the SSID - Avval SSID-ni tanlang
+%1 (%2%) Frequency: %3 Mhz Channel: %4 - %1 (%2%) Çastota: %3 MHz Kanal: %4
+Metric - Metrika
+Netmask - Tarmoq niqobi
+Metric - Metrika
+New Mobile Broadband Connection - Yangi mobil internet ulanişi
+My plan is not listed… - Mening tarif rejam röyxatda yöq…
+Unknown Provider - Nomaʼlum provayder
+Default - Standart
+APN: %1 - APN: %1
+Set up a Mobile Broadband Connection - Mobil internet ulanişini sozlaş
+This assistant helps you easily set up a mobile broadband connection to a cellular (3G) network. - Uşbu yordamçi uyali aloqa (3G) tarmoğiga mobil keng polosali ulanişni oson sozlaşga yordam beradi.
+You will need the following information: - Sizga quyidagi maʼlumotlar kerak böladi:
+Your broadband provider's name - Mobil aloqa operatoringiz nomi
+Your broadband billing plan name - Tarif rejangiz nomi
+(in some cases) Your broadband billing plan APN (Access Point Name) - (baʼzi hollarda) Tarif rejangizning APN (Kiriş nuqtasi) nomi
+Create a connection for &this mobile broadband device: - &Uşbu mobil aloqa qurilmasi uçun ulaniş yaratiş:
+Any GSM device - Har qanday GSM qurilmasi
+Any CDMA device - Har qanday CDMA qurilmasi
+Installed GSM device - Örnatilgan GSM qurilmasi
+Installed CDMA device - Örnatilgan CDMA qurilmasi
+Choose your Provider's Country - Operatoringiz mamlakatini tanlang
+Country List: - Mamlakatlar röyxati:
+My country is not listed - Mening mamlakatim röyxatda yöq
+Choose your Provider - Aloqa operatoringizni tanlang
+Select your provider from a &list: - Röyxatdan operatoringizni &tanlang:
+I cannot find my provider and I wish to enter it &manually: - Operatorimni topa olmadim va uni &qölda kiritmoqçiman:
+Choose your Billing Plan - Tarif rejangizni tanlang
+&Select your plan: - Tarif rejangizni &tanlang:
+Selected plan &APN (Access Point Name): - Tanlangan reja &APN (Kiriş nuqtasi) nomi:
+Warning: Selecting an incorrect plan may result in billing issues for your broadband account or may prevent connectivity.  If you are unsure of your plan please ask your provider for your plan's APN. - Diqqat: Notöğri tarif rejasini tanlaş hisob-kitob muammolariga olib kelişi yoki tarmoqqa ulanişga tösqinlik qilişi mumkin.  Agar tarif rejangizga işonçingiz komil bölmasa, operatoringizdan APN nomini sörang.
+Confirm Mobile Broadband Settings - Mobil internet sozlamalarini tasdiqlaş
+Your mobile broadband connection is configured with the following settings: - Mobil internet ulanişingiz quyidagi parametrlar bilan sozlandi:
+Your Provider: - Operatoringiz:
+Your Plan: - Tarif rejangiz:
+Change the visibility of the password - Parol körinişini özgartiriş
+Store password for this user only (encrypted) - Parolni faqat uşbu foydalanuvçi uçun saqlaş (şifrlangan)
+Store password for all users (not encrypted) - Parolni barça foydalanuvçilar uçun saqlaş (şifrlanmagan)
+Ask for this password every time - Har safar uşbu parolni söraş
+This password is not required - Uşbu parol talab qilinmaydi
+%1 (%2%) Security: %3 Frequency: %4 Mhz - %1 (%2%) Xavfsizlik: %3 Çastota: %4 MHz
+%1 (%2%) Security: Insecure Frequency: %3 Mhz - %1 (%2%) Xavfsizlik: yöq Çastota: %3 MHz
+Available Users - Mavjud foydalanuvçilar
+Real Name - Haqiqiy ismi
+Username - Foydalanuvçi nomi
+Users allowed to activate the connection - Ulanişni faollaştirişga ruxsat berilgan foydalanuvçilar
+Edit IPv4 Routes - IPv4 marşrutlarini tahrirlaş
+If enabled, this connection will never be used as the default network connection - Agar yoqilsa, uşbu ulaniş heç qaçon standart tarmoq ulanişi sifatida işlatilmaydi
+Use only for resources on this connection - Faqat uşbu ulanişdagi resurslar uçun foydalaniş
+Remove - Olib taşlaş
+Add - Qöşiş
+If enabled, automatically configured routes are ignored and only routes specified above are used - Agar yoqilsa, avtomatik sozlangan marşrutlar eʼtiborsiz qoldiriladi va faqat yuqorida körsatilgan marşrutlardan foydalaniladi
+Ignore automatically obtained routes - Avtomatik olingan marşrutlarni eʼtiborsiz qoldiriş
+Edit IPv6 Routes - IPv6 marşrutlarini tahrirlaş
+R&emove - O&lib taşlaş
+Choose a Connection Type - Ulaniş turini tanlang
+Status - Holati
+Wi-Fi Security - Wi-Fi xavfsizligi
+Configuration - Moslaş
+Ask for PIN on modem detection - Modem aniqlanganda PIN-kodni söraş
+Show virtual connections - Virtual ulanişlarni körsatiş
+Create new connections as system connections - Yangi ulanişlarni tizim ulanişlari sifatida yaratiş
+New Connection - Yangi ulaniş
+Connection name: - Ulaniş nomi:
+General - Umumiy
+VPN - VPN
+IPv4 - IPv4
+IPv6 - IPv6
+Wired - Simli
+802.1x Security - 802.1x xavfsizligi
+WireGuard - WireGuard
+Wi-Fi - Wi-Fi
+Wi-Fi Security - Wi-Fi xavfsizligi
+Allowed Users - Ruxsat berilgan foydalanuvçilar
+Automatic - Avtomatik
+Advanced IPv4 Settings - Qöşimça IPv4 sozlamalari
+DHCP: - DHCP:
+Send hostname to DHCP server - Xost nomini DHCP-serverga yuboriş
+Default - Standart
+Disabled - Öçirilgan
+%1 ms - %1 ms
+Timeout in milliseconds used to check for the presence of duplicate IP addresses on the network.  0 disables the check, -1 lets NetworkManager decide. - Tarmoqda takroriy IP manzillar mavjudligini tekşiriş uçun millisoniyalardagi kutiş vaqti.  0 tekşiruvni öçiradi, -1 qarorni NetworkManager-ga qoldiradi.
+10.0.0.0 - 10.0.0.0
+255.255.255.0 - 255.255.255.0
+Optional - Ixtiyoriy
+Add - Qöşiş
+Remove - Olib taşlaş
+Automatic - Avtomatik
+Automatic (Only addresses) - Avtomatik (faqat manzillar)
+Link-Local - Mahalliy kanal (Link-Local)
+Manual - Qölda
+Shared to other computers - Boşqa kompyuterlar bilan ulaşilgan
+Disabled - Öçirilgan
+Search Domains: - Qidiruv domenlari:
+Use this field to specify the DHCP client ID which is a string sent to the DHCP server to identify the local machine that the DHCP server may use to customize the DHCP lease and options. - Uşbu maydondan DHCP mijoz identifikatorini körsatiş uçun foydalaning; bu qator mahalliy kompyuterni aniqlaş va DHCP ijarasi hamda parametrlarini moslaştiriş uçun DHCP serveriga yuboriladi.
+A score that helps choose the best path for data packets to reach their destination, based on factors like distance, delay, and reliability.  Default value -1 means that NetworkManager gets to choose and manage the actual metric of the route. - Masofa, keçiğiş va işonçlilik kabi omillar asosida maʼlumotlar paketlari manzilga yetib borişi uçun eng yaxşi yölni tanlaşga yordam beradigan körsatkiç. Standart -1 qiymati NetworkManager marşrutning haqiqiy metrikasini özi tanlaşi va boşqarişini anglatadi.
+Addresses - Manzillar
+Allows the connection to complete if IPv4 configuration fails but IPv6 configuration succeeds - IPv4 sozlamasi xato berib, IPv6 sozlamasi muvaffaqiyatli bölganda ulanişni yakunlaşga ruxsat beradi
+Advanced… - Kengaytirilgan…
+Routes… - Marşrutlar…
+Search Domains - Qidiruv domenlari
+Move Up - Yuqoriga köçiriş
+Move Down - Pastga köçiriş
+2001:db8:: - 2001:db8::
+64 - 64
+Automatic - Avtomatik
+Automatic (Only addresses) - Avtomatik (faqat manzillar)
+Automatic (Only DHCP) - Avtomatik (faqat DHCP)
+Link-Local - Mahalliy kanal (Link-Local)
+Ignored - Eʼtiborsiz qoldirilgan
+Default - Standart
+Disabled - Öçirilgan
+Enabled (prefer public address) - Yoqilgan (oçiq manzilni afzal köriş)
+Enabled (prefer temporary addresses) - Yoqilgan (vaqtinçalik manzillarni afzal köriş)
+Configure IPv6 Privacy Extensions for SLAAC, described in RFC4941. If enabled, it makes the kernel generate a temporary IPv6 address in addition to the public one generated from MAC address via modified EUI-64. - RFC4941 da tavsiflangan SLAAC uçun IPv6 maxfiylik kengaytmalarini sozlang. Agar yoqilsa, yadro özgartirilgan EUI-64 orqali MAC manzildan yaratilgan oçiq manzilga qöşimça ravişda vaqtinçalik IPv6 manzilini yaratadi.
+2001:db8::1 - 2001:db8::1
+When connecting to IPv4-capable networks, allows the connection to complete if IPv6 configuration fails but IPv4 configuration succeeds - IPv4-ni qöllab-quvvatlaydigan tarmoqlarga ulanganda, IPv6 sozlamasi xato berib, IPv4 sozlamasi muvaffaqiyatli bölsa, ulanişni yakunlaşga ruxsat beradi
+Always asked - Har doim söralsin
+Not required - Talab qilinmaydi
+Connect - Ulaniş
+Cancel - Bekor qiliş
+Enter Password - Parolni kiriting
+Network: %1 - Tarmoq: %1
+Password must be a valid WEP key - Parol yaroqli WEP kaliti bölişi kerak
+Password must be between 8 and 64 characters - Parol 8 dan 64 taça belgidan iborat bölişi kerak
+Gateway: - Şlyuz:
+SSLVPN server IP or name. - SSLVPN serverining IP manzili yoki nomi.
+User name: - Foydalanuvçi nomi:
+Set the name used for authenticating the local system to the peer to <name>. - Mahalliy tizimni autentifikatsiya qiliş uçun foydalaniladigan nomni <name> ga örnating.
+CA Certificate: - CA sertifikati:
+User Certificate: - Foydalanuvçi sertifikati:
+User Key: - Foydalanuvçi kaliti:
+Use a One-Time Password - Bir martalik paroldan (OTP) foydalaniş
+Ask for a one-time password every time this connection is activated. - Uşbu ulaniş har safar faollaştirilganda bir martalik parolni söraş.
+2FA - 2FA (Ikki bosqiçli autentifikatsiya)
+Use two-factor authentication. This supersedes the one-time password. - Ikki bosqiçli autentifikatsiyadan foydalaniş. Bu bir martalik parol örnini bosadi.
+Realm: - Soha (Realm):
+Trusted certificate: - Işonçli sertifikat:
+FortiSSLVPN Authentication - FortiSSLVPN autentifikatsiyasi
+One Time Password - Bir martalik parol
+Token: - Token:
+Toplevel Domain: - Yuqori darajali domen (TLD):
+The domain the iodine server is authoritative for. - Iodine serveri vakolatli bölgan domen.
+Nameserver: - Nomlar serveri (DNS):
+Nameserver to use for the tunnel. Leave empty to use the system default. - Tunnel uçun foydalaniladigan DNS serveri. Tizim standartidan foydalaniş uçun böş qoldiring.
+Fragment Size: - Fragment ölçami:
+Maximum size of the upstream DNS fragments, in bytes. Automatic lets iodine probe for it. - Yuqori oqim DNS fragmentlarining baytlardagi maksimal ölçami. Avtomatik rejim iodine-ga uni aniqlaş imkonini beradi.
+Automatic - Avtomatik
+%1 byte - %1 bayt
+Iodine VPN - Iodine VPN
+L2TP server IP or name. - L2TP serverining IP manzili yoki nomi.
+Authentication type: - Autentifikatsiya turi:
+Select an authentication mode. - Autentifikatsiya rejimini tanlang.
+Password - Parol
+Certificates (TLS) - Sertifikatlar (TLS)
+NT Domain: - NT domeni:
+Append the domain name <domain> to the local host name for authentication purposes. - Autentifikatsiya maqsadida mahalliy xost nomiga <domain> domen nomini qöşiş.
+Certificate authority (CA) file in .pem, .der, .crt, .cer or .p12 formats. - .pem, .der, .crt, .cer yoki .p12 formatidagi sertifikatlaş markazi (CA) fayli.
+Certificate in .pem, .der, .crt, .cer or .p12 formats. - .pem, .der, .crt, .cer yoki .p12 formatidagi sertifikat.
+Private Key: - Maxfiy kalit:
+Private key in .pem, .der, .key, .pk8 or .p12 formats. - .pem, .der, .key, .pk8 yoki .p12 formatidagi maxfiy kalit.
+Private Key Password: - Maxfiy kalit paroli:
+Use L2TP ephemeral source port - L2TP vaqtinçalik manba portidan foydalaniş
+IPsec Settings… - IPsec sozlamalari…
+No IPsec daemon (libreswan or strongSwan) was found. - Heç qanday IPsec xizmati (libreswan yoki strongSwan) topilmadi.
+PPP Settings… - PPP sozlamalari…
+L2TP VPN - L2TP VPN
+User Password: - Foydalanuvçi paroli:
+User Certificate Password: - Foydalanuvçi sertifikati paroli:
+Machine Certificate Password: - Kompyuter sertifikati paroli:
+Pre-shared Key: - Oldindan ulaşilgan kalit (PSK):
+Enable IPsec tunnel to L2TP host - L2TP xostiga IPsec tunnelini yoqiş
+Machine Authentication - Kompyuter autentifikatsiyasi
+Type: - Turi:
+Pre-shared Key (PSK) - Oldindan ulaşilgan kalit (PSK)
+Machine Certificate: - Kompyuter sertifikati:
+Certificate in .pem, .der or .p12 formats. - .pem, .der yoki .p12 formatidagi sertifikat.
+Password for private key or PKCS#12 certificate. - Maxfiy kalit yoki PKCS#12 sertifikati uçun parol.
+Remote ID: - Masofaviy identifikator (Remote ID):
+Optional. How the IPsec server should be identified for authentication. Sometimes referred to as Peer ID or Gateway ID, also referred to as rightid by strongSwan, Libreswan, Openswan and FreeS/WAN. See strongSwan or Libreswan documentation for leftid/rightid syntax and identity parsing. - Ixtiyoriy. IPsec serveri autentifikatsiya uçun qanday aniqlanişi kerakligi. Baʼzan Peer ID yoki Gateway ID deb ataladi, strongSwan, Libreswan, Openswan va FreeS/WAN da rightid deb ham yuritiladi. leftid/rightid sintaksisi uçun strongSwan yoki Libreswan hujjatlariga qarang.
+Phase1 Algorithms: - 1-bosqiç algoritmlari:
+Optional. A list of proposals for IKE - Main Mode. The format is “enc-integ-group,enc-integ-group, …”. - Ixtiyoriy. IKE - Asosiy rejim uçun takliflar röyxati. Format: “enc-integ-group,enc-integ-group, …”.
+Phase2 Algorithms: - 2-bosqiç algoritmlari:
+Optional. A list of proposals for ESP - Quick Mode. The format is “enc-integ,enc-integ, …”. - Ixtiyoriy. ESP - Tezkor rejim uçun takliflar röyxati. Format: “enc-integ,enc-integ, …”.
+Phase1 Lifetime: - 1-bosqiç amal qiliş muddati:
+How long the keying channel of a connection should last before being renegotiated. - Ulanişning kalit almaşinuv kanali qayta muzokara qilingunga qadar qança davom etişi kerakligi.
+Phase2 Lifetime: - 2-bosqiç amal qiliş muddati:
+How long a particular instance of a connection (a set of encryption/authentication keys for user packets) should last, from successful negotiation to expiry. - Ulanişning muayyan nusxasi (foydalanuvçi paketlari uçun şifrlaş/autentifikatsiya kalitlari töplami) muvaffaqiyatli kelişuvdan muddati tugagunga qadar qança vaqt amal qilişi.
+Enforce UDP encapsulation - UDP inkapsulyatsiyasini majburlaş
+Some firewalls block ESP traffic. Enforcing UDP encapsulation even if no NAT situation is detected might help in such cases. - Baʼzi brandmauerlar ESP trafikini bloklaydi. NAT holati aniqlanmasa ham UDP inkapsulyatsiyasini majburlaş bunday holatlarda yordam berişi mumkin.
+Use IP compression - IP siqilişidan foydalaniş
+IPComp compresses raw IP packets before they get encrypted. This saves some bandwidth, but uses more processing power. - IPComp xom IP paketlarni şifrlanişidan oldin siqadi. Bu tarmoq ötkazuvçanligini tejaydi, ammo köproq protsessor quvvatini sarflaydi.
+Use IKEv2 key exchange - IKEv2 kalit almaşinuvidan foydalaniş
+Disable PFS - PFS-ni öçiriş
+Disable perfect forward secrecy. Do this only if the server doesn’t support PFS. - Perfect Forward Secrecy (PFS) ni öçiriş. Buni faqat server PFS-ni qöllab-quvvatlamagan taqdirdagina bajaring.
+: - :
+: - :
+Allow following authentication methods: - Quyidagi autentifikatsiya usullariga ruxsat beriş:
+Encryption - Şifrlaş
+Use MPPE Encryption - MPPE şifrlaşidan foydalaniş
+Crypto: - Şifrlaş:
+Require the use of MPPE, with 40/128-bit encryption or all. - 40/128-bitli yoki barça şifrlaş bilan MPPE işlatilişini talab qiliş.
+Any - Har qanday
+128 bit - 128 bit
+40 bit - 40 bit
+Use stateful encryption - Holatli şifrlaşdan foydalaniş
+Allow MPPE to use stateful mode. Stateless mode is still attempted first. - MPPE-ga holatli rejimdan foydalanişga ruxsat beriş. Avval baribir holatsiz rejim sinab köriladi.
+Allow BSD compression - BSD siqilişiga ruxsat beriş
+Allow/disable BSD-Compress compression. - BSD-Compress siqilişini yoqiş/öçiriş.
+Allow Deflate compression - Deflate siqilişiga ruxsat beriş
+Allow/disable Deflate compression. - Deflate siqilişini yoqiş/öçiriş.
+Allow TCP header compression - TCP sarlavhalarini siqişga ruxsat beriş
+Use protocol field compression negotiation - Protokol maydonini siqiş kelişuvidan foydalaniş
+Use Address/Control compression - Manzil/Boşqaruv siqilişidan foydalaniş
+Use Address/Control compression in both directions (send and receive). - Ikkala yönalişda (yuboriş va qabul qiliş) Manzil/Boşqaruv siqilişidan foydalaniş.
+Send LCP echo-requests to find out whether peer is alive. - Tugun aloqada ekanligini aniqlaş uçun LCP echo-sörovlarini yuboriş.
+Other Settings - Boşqa sozlamalar
+Multilink PPP MRRU: - Multilink PPP MRRU:
+Try to negotiate a PPP Multilink on a single connection. - Bitta ulanişda PPP Multilink kelişişiga uriniş.
+MRU: - MRU:
+IP or hostname of the IPsec gateway. - IPsec şlyuzining IP manzili yoki xost nomi.
+Group name: - Guruh nomi:
+Group name, or local identifier, this connection belongs to. - Uşbu ulaniş tegişli bölgan guruh nomi yoki mahalliy identifikator.
+User password: - Foydalanuvçi paroli:
+Group password: - Guruh paroli:
+User name for XAUTH authentication. - XAUTH autentifikatsiyasi uçun foydalanuvçi nomi.
+Phase1 algorithms: - 1-bosqiç algoritmlari:
+IKE algorithms to propose. Leave empty for the defaults. - Taklif qilinadigan IKE algoritmlari. Standart qiymatlar uçun böş qoldiring.
+Phase2 algorithms: - 2-bosqiç algoritmlari:
+ESP algorithms to propose. Leave empty for the defaults. - Taklif qilinadigan ESP algoritmlari. Standart qiymatlar uçun böş qoldiring.
+(NT-)Domain name for authentication. - Autentifikatsiya uçun (NT-)domen nomi.
+Libreswan VPN - Libreswan VPN
+Address of the VPN gateway, optionally including the port. - VPN şlyuzi manzili (ixtiyoriy ravişda port bilan birga).
+VPN Protocol: - VPN protokoli:
+Which VPN the gateway speaks. All of these are handled by openconnect. - Şlyuz qaysi VPN protokoli orqali işlaşi. Bularning barçasi openconnect tomonidan boşqariladi.
+Cisco AnyConnect - Cisco AnyConnect
+Juniper Network Connect - Juniper Network Connect
+PAN Global Protect - PAN Global Protect
+Pulse Connect Secure - Pulse Connect Secure
+F5 BIG-IP SSL VPN - F5 BIG-IP SSL VPN
+Fortinet SSL VPN - Fortinet SSL VPN
+Array SSL VPN - Array SSL VPN
+Proxy: - Proksi:
+Proxy to reach the gateway through, as a URL. - Şlyuzga ulaniş uçun proksi-server manzili (URL formatida).
+User Agent: - Foydalanuvçi agenti (User Agent):
+CSD Wrapper Script: - CSD qobiq skripti:
+Allow Cisco Secure Desktop trojan - Cisco Secure Desktop dasturiga ruxsat beriş
+Run the host-check program the gateway asks for. The wrapper script above replaces it. - Şlyuz talab qiladigan xost-tekşiruv dasturini işga tuşiriş. Yuqoridagi qobiq skripti uning örnini bosadi.
+Reported OS: - Uzatiladigan OT:
+Operating system to report to the gateway. Leave at the default to report the real one. - Şlyuzga maʼlum qilinadigan operatsion tizim. Haqiqiysini yuboriş uçun standart holatda qoldiring.
+Default - Standart
+GNU/Linux - GNU/Linux
+GNU/Linux 64-bit - GNU/Linux 64-bit
+Windows - Windows
+Mac OS X - Mac OS X
+Android - Android
+Apple iOS - Apple iOS
+Reported Version: - Uzatiladigan versiya:
+Certificate Authentication - Sertifikat autentifikatsiyasi
+Machine Private Key: - Kompyuter maxfiy kaliti:
+User Private Key: - Foydalanuvçi maxfiy kaliti:
+Use FSID for key passphrase - Kalit paroli uçun FSID-dan foydalaniş
+Prevent user from manually accepting invalid certificates - Foydalanuvçiga yaroqsiz sertifikatlarni qölda qabul qilişni taqiqlaş
+Token Authentication… - Token autentifikatsiyasi…
+OpenConnect OTP Tokens - OpenConnect OTP tokenlari
+Software Token Authentication - Dasturiy token autentifikatsiyasi
+Token Mode: - Token rejimi:
+Disabled - Öçirilgan
+RSA SecurID — read from ~/.stokenrc - RSA SecurID — ~/.stokenrc faylidan öqiş
+RSA SecurID — manually entered - RSA SecurID — qölda kiritilgan
+TOTP — manually entered - TOTP — qölda kiritilgan
+HOTP — manually entered - HOTP — qölda kiritilgan
+Yubikey - Yubikey
+Token Secret: - Token siri:
+Security Key - Xavfsizlik kaliti
+Retry - Qayta uriniş
+Confirm PIN: - PIN-kodni tasdiqlang:
+Remote gateways, with optional port and protocol (e.g. ovpn.corp.com:1194:udp). - Masofaviy şlyuzlar, ixtiyoriy port va protokol bilan (masalan, ovpn.corp.com:1194:udp).
+Static Key - Statik kalit
+Password with Certificates (TLS) - Sertifikatlar bilan parol (TLS)
+Certificate authority (CA) file in .pem format. - .pem formatidagi sertifikatlaş markazi (CA) fayli.
+Local peer's signed certificate in .pem format (signed by CA of CA Certificate). - .pem formatidagi mahalliy tugunning imzolangan sertifikati (CA sertifikati tomonidan imzolangan).
+Local peer's private key in .pem format. - .pem formatidagi mahalliy tugunning maxfiy kaliti.
+Static Key: - Statik kalit:
+Pre-shared file for Static Key encryption mode (non-TLS). - Statik kalitli şifrlaş rejimi (non-TLS) uçun oldindan ulaşilgan fayl.
+Key Direction: - Kalit yönalişi:
+If key direction is used, it must be the opposite of that used on the VPN peer. For example, if the peer uses '1', this connection must use '0'. If you are unsure what value to use, contact your system administrator. - Agar kalit yönalişi işlatilsa, u VPN tugunida işlatiladigan qiymatning teskarisi bölişi kerak. Masalan, agar tugun '1' işlatsa, bu ulaniş '0' işlatişi kerak. Qaysi qiymatni işlatişga işonçingiz komil bölmasa, tizim administratoriga murojaat qiling.
+None - Yöq
+0 - 0
+1 - 1
+Local IP Address: - Mahalliy IP manzili:
+IP address of the local VPN endpoint. - Mahalliy VPN oxirgi nuqtasining IP manzili.
+Remote IP Address: - Masofaviy IP manzili:
+IP address of the remote VPN endpoint. - Masofaviy VPN oxirgi nuqtasining IP manzili.
+Username passed to OpenVPN when prompted for it. - Söralganda OpenVPN-ga uzatiladigan foydalanuvçi nomi.
+Advanced - Qöşimça
+TLS Settings - TLS sozlamalari
+Proxies - Proksilar
+Use custom gateway port: - Maxsus şlyuz portidan foydalaniş:
+Use custom renegotiation interval: - Maxsus qayta muzokara oraliğidan foydalaniş:
+Use compression - Siqişdan foydalaniş
+Compression: - Siqiş:
+LZO - LZO
+LZ4 - LZ4
+LZ4 v2 - LZ4 v2
+Adaptive - Moslaşuvçan
+Use asymetric compression - Asimmetrik siqişdan foydalaniş
+Use a TCP connection - TCP ulanişidan foydalaniş
+Set virtual device type: - Virtual qurilma turini belgilang:
+TUN - TUN
+TAP - TAP
+Set virtual device name: - Virtual qurilma nomini belgilang:
+Use custom tunnel Maximum Transmission Unit (MTU): - Maxsus tunnel MTU-dan foydalaniş:
+Use custom UDP fragment size: - Maxsus UDP fragment ölçamidan foydalaniş:
+Restrict TCP maximum segment size (MSS) - TCP maksimal segment ölçamini (MSS) çeklaş
+Specify Path MTU discovery: - Path MTU aniqlaşni körsatiş:
+Maybe - Ehtimol
+Randomize remote hosts - Masofaviy xostlarni tasodifiy tanlaş
+Prefix remote DNS name with random string - Masofaviy DNS nomiga tasodifiy satr prefiksini qöşiş
+Connect timeout: - Ulanişni kutiş vaqti:
+%1 s - %1 s
+Allow pull of peer DNS names (FQDN) - Tugun DNS nomlarini (FQDN) olişga ruxsat beriş
+push peer info - tugun maʼlumotlarini uzatiş (push peer info)
+IPv6 tun link - IPv6 tun aloqasi
+Specify ping interval: - Ping oraliğini körsatiş:
+Specify exit or restart ping: - Ping çiqiş yoki qayta işga tuşiriş vaqtini körsatiş:
+ping-exit - ping-exit
+ping-restart - ping-restart
+Accept authenticated packets from any address (Float) - Har qanday manzildan tasdiqlangan paketlarni qabul qiliş (Float)
+Specify max routes: - Maksimal marşrutlar sonini körsatiş:
+Cipher: - Şifr:
+Data Ciphers: - Maʼlumotlar şifrlari:
+Data Ciphers Fallback: - Zaxira maʼlumotlar şifri:
+Disable cipher negotiation - Şifr kelişuvini öçiriş
+Use custom size of cipher key: - Şifr kalitining maxsus ölçamidan foydalaniş:
+HMAC Authentication: - HMAC autentifikatsiyasi:
+MD-4 - MD-4
+MD-5 - MD-5
+SHA-1 - SHA-1
+SHA-224 - SHA-224
+SHA-256 - SHA-256
+SHA-384 - SHA-384
+SHA-512 - SHA-512
+RIPEMD-160 - RIPEMD-160
+Server Certificate Check: - Server sertifikatini tekşiriş:
+Don't verify certificate identification - Sertifikat identifikatorini tekşirmaslik
+Verify whole subject exactly - Butun subʼektni aniq tekşiriş
+Verify name exactly - Nomni aniq tekşiriş
+Verify name by prefix - Nomni prefiks böyiça tekşiriş
+Verify subject partially (legacy mode, strongly discouraged) - Subʼektni qisman tekşiriş (eskirgan rejim, tavsiya etilmaydi)
+Subject Match: - Subʼekt mosligi:
+Connect only to servers whose certificate matches the given subject. - Faqat sertifikati berilgan subʼektga mos keladigan serverlarga ulaniş.
+Verify peer (server) certificate usage signature - Tugun (server) sertifikatidan foydalaniş imzosini tekşiriş
+Remote peer certificate TLS type: - Masofaviy tugun sertifikati TLS turi:
+Server - Server
+Client - Mijoz
+Verify peer (server) certificate nsCertType designation - Tugun (server) sertifikati nsCertType belgisini tekşiriş
+Remote peer certificate nsCert designation: - Masofaviy tugun sertifikati nsCert belgisi:
+TLS-Auth - TLS-Auth
+TLS-Crypt - TLS-Crypt
+TLS-Crypt v2 - TLS-Crypt v2
+Key File: - Kalit fayli:
+Server (0) - Server (0)
+Client (1) - Mijoz (1)
+Extra certificates file: - Qöşimça sertifikatlar fayli:
+TLS version minimum: - Minimal TLS versiyasi:
+or highest - yoki eng yuqorisi
+TLS version maximum: - Maksimal TLS versiyasi:
+CRL verify file: - CRL tekşiruv fayli:
+CRL verify directory: - CRL tekşiruv katalogi:
+Proxy Type: - Proksi turi:
+Not Required - Talab qilinmaydi
+HTTP - HTTP
+SOCKS - SOCKS
+Select this option if your organization requires the use of a proxy server to access the Internet. - Agar taşkilotingiz Internetga kiriş uçun proksi-serverdan foydalanişni talab qilsa, uşbu parametrni tanlang.
+Server Address: - Server manzili:
+Port: - Port:
+Retry indefinitely when errors occur - Xatolar yuz berganda çeksiz qayta urinib köriş
+Proxy Username: - Proksi foydalanuvçi nomi:
+Proxy Password: - Proksi paroli:
+OpenVPN VPN - OpenVPN VPN
+Key Password: - Kalit paroli:
+Default - Standart
+No ciphers were reported by OpenVPN. - OpenVPN tomonidan heç qanday şifr xabar qilinmadi.
+Cipher to use for the data channel. - Maʼlumotlar kanali uçun foydalaniladigan şifr.
+PPTP server IP or name. - PPTP serverining IP manzili yoki nomi.
+Login: - Login:
+PPTP VPN - PPTP VPN
+Password passed to PPTP when prompted for it. - Söralganda PPTP-ga uzatiladigan parol.
+Network Settings - Tarmoq sozlamalari
+Netmask: - Tarmoq niqobi:
+IPv6 Network Settings - IPv6 tarmoq sozlamalari
+Use IPv6 - IPv6 dan foydalaniş
+Prefix: - Prefiks:
+SSH Agent - SSH agenti
+Key authentication - Kalit orqali autentifikatsiya
+SSH Key File: - SSH kalit fayli:
+Extra SSH options: - Qöşimça SSH parametrlari:
+Remote device number: - Masofaviy qurilma raqami:
+Use a TAP device - TAP qurilmasidan foydalaniş
+Remote username - Masofaviy foydalanuvçi nomi
+Do not replace default route - Standart marşrutni almaştirmaslik
+SSH VPN - SSH VPN
+Optional - Ixtiyoriy
+Ignore certificate warnings - Sertifikat ogohlantirişlarini eʼtiborsiz qoldiriş
+Point-to-Point - Nuqtadan-nuqtaga (Point-to-Point)
+Proxy - Proksi
+Use Microsoft Point-to-Point Encryption - Microsoft Point-to-Point Encryption (MPPE) dan foydalaniş
+Misc - Har xil
+Use custom unit number: - Maxsus birlik raqamidan foydalaniş:
+Address: - Manzil:
+Credentials - Hisob maʼlumotlari
+SSTP VPN - SSTP VPN
+Gateway - Şlyuz
+Certificate: - Sertifikat:
+Certificate/private key - Sertifikat/maxfiy kalit
+Certificate/ssh-agent - Sertifikat/ssh-agent
+Smartcard - Smart-karta
+EAP-TTLS - EAP-TTLS
+The PIN is asked for when the connection is activated. - PIN-kod ulaniş faollaştirilganda söraladi.
+Options - Parametrlar
+Request an inner IP address - Içki IP manzilni söraş
+Enable Custom Cipher Proposals - Maxsus şifr takliflarini yoqiş
+IKE: - IKE:
+A list of proposals for IKE separated by ";" - ";" bilan ajratilgan IKE takliflari röyxati
+ESP: - ESP:
+A list of proposals for ESP separated by ";" - ";" bilan ajratilgan ESP takliflari röyxati
+strongSwan VPN - strongSwan VPN
+Private Key Password: - Maxfiy kalit paroli:
+PIN: - PIN:
+Password: - Parol:
+IP/hostname of IPsec gateway. - IPsec şlyuzining IP/xost nomi.
+User name for the connection. - Ulaniş uçun foydalanuvçi nomi.
+Group name - Guruh nomi
+Use hybrid authentication - Gibrid autentifikatsiyadan foydalaniş
+Enable hybrid authentication, i.e. use certificate in addition to password. - Gibrid autentifikatsiyani yoqiş (parolga qöşimça sertifikatdan foydalaniş).
+CA file: - CA fayli:
+CA certificate in PEM format. - PEM formatidagi CA sertifikati.
+Identification - Identifikatsiya
+Vendor: - Işlab çiqaruvçi:
+Vendor of your IPsec gateway. - IPsec şlyuzingiz işlab çiqaruvçisi.
+Cisco - Cisco
+Netscreen - Netscreen
+Fortigate - Fortigate
+Transport and Security - Transport va xavfsizlik
+Encryption method: - Şifrlaş usuli:
+Encryption method. - Şifrlaş usuli.
+Secure (default) - Xavfsiz (standart)
+Weak (DES encryption, use with caution) - Kuçsiz (DES şifrlaş, ehtiyotkorlik bilan foydalaning)
+None (completely insecure) - Yöq (butunlay xavfsiz emas)
+NAT traversal: - NAT orqali ötiş (NAT traversal):
+NAT traversal method to use. - Foydalaniladigan NAT traversal usuli.
+NAT-T when available (default) - Mavjud bölganda NAT-T (standart)
+NAT-T always - Har doim NAT-T
+Cisco UDP - Cisco UDP
+Disabled - Öçirilgan
+IKE DH Group: - IKE DH guruhi:
+Name of the IKE DH group. - IKE DH guruhi nomi.
+DH Group 1 - DH guruhi 1
+DH Group 2 (default) - DH guruhi 2 (standart)
+DH Group 5 - DH guruhi 5
+Perfect Forward Secrecy: - Perfect Forward Secrecy (PFS):
+Diffie-Hellman group to use for PFS. - PFS uçun işlatiladigan Diffie-Hellman guruhi.
+Server (default) - Server (standart)
+None - Yöq
+DH Group 1 - DH guruhi 1
+DH Group 2 - DH guruhi 2
+DH Group 5 - DH guruhi 5
+Local Port: - Mahalliy port:
+Local port to use (0-65535). 0 (default value) means random port. 500 is vpnc's default. - Foydalaniladigan mahalliy port (0-65535). 0 (standart qiymat) tasodifiy portni bildiradi. 500 — vpnc standarti.
+Disable dead peer detection - Işlamayotgan tugunni aniqlaşni öçiriş (DPD)
+Disable sending DPD packets (set timeout to 0). - DPD paketlarini yuborişni öçiriş (kutiş vaqtini 0 ga örnating).
+VPNC Authentication - VPNC autentifikatsiyasi
+Group Password: - Guruh paroli:
+Store secret for this user only (encrypted) - Maxfiy kalitni faqat uşbu foydalanuvçi uçun saqlaş (şifrlangan)
+Store secret for all users (not encrypted) - Maxfiy kalitni barça foydalanuvçilar uçun saqlaş (şifrlanmagan)
+This secret is not required - Uşbu maxfiy kalit talab qilinmaydi
+Name: - Nomi:
+Name of the network interface this connection creates. - Uşbu ulaniş yaratadigan tarmoq interfeysi nomi.
+The private key of this interface, as a base64 string. - Uşbu interfeysning maxfiy kaliti (base64 satri sifatida).
+Listen Port: - Tinglaş porti:
+Port to listen on. Automatic lets WireGuard choose one. - Tinglaş uçun port. Avtomatik rejim tanlovni WireGuard-ga qoldiradi.
+Firewall mark to apply to outgoing packets. Zero disables it. - Çiquvçi paketlarga qöllaniladigan brandmauer belgisi. Nol uni öçiradi.
+Add routes for the peers' allowed IPs - Tugunlarning ruxsat berilgan IP manzillari uçun marşrutlarni qöşiş
+Turn this off to route the tunnel yourself. - Tunnelni özingiz marşrutlaş uçun buni öçiring.
+Peers… - Tugunlar (Peers)…
+Peer %1 - Tugun %1
+This interface has no peers, so it cannot connect to anything yet. - Uşbu interfeysda tugunlar yöq, şuning uçun u hali heç narsaga ulana olmaydi.
+Add new Peer - Yangi tugun qöşiş
+Remove this Peer - Uşbu tugunni öçiriş
+%1 (%2%) - %1 (%2%)
+Frequency: %1 MHz - Çastota: %1 MHz
+Channel: %1 - Kanal: %1
+Automatic - Avtomatik
+Automatic - Avtomatik
+%1 bytes - %1 bayt
+Alternative subject matches - Muqobil subʼekt mosliklari
+Anonymous identity: - Anonim identifikator:
+Anonymous - Anonim
+Authenticated - Tasdiqlangan
+Both - Ikkalasi ham
+PAC file: - PAC fayli:
+PAC files (*.pac) - PAC fayllari (*.pac)
+*.der *.pem *.crt *.cer - *.der *.pem *.crt *.cer
+Certificates (*.der *.pem *.crt *.cer) - Sertifikatlar (*.der *.pem *.crt *.cer)
+*.der *.pem *.p12 *.key - *.der *.pem *.p12 *.key
+Keys (*.der *.pem *.p12 *.key) - Kalitlar (*.der *.pem *.p12 *.key)
+Enhanced Open (OWE) provides encryption without authentication. No password required. - Enhanced Open (OWE) autentifikatsiyasiz şifrlaşni taʼminlaydi. Parol talab qilinmaydi.
+Key index: - Kalit indeksi:
+DNS Servers - DNS-serverlar
+WEP 40/128-bit key (Hex) - WEP 40/128-bitli kalit (Hex)
+WEP 128-bit Passphrase - WEP 128-bitli parol iborasi
+WPA/WPA2 Personal - WPA/WPA2 Personal
+WPA/WPA2 Enterprise - WPA/WPA2 Enterprise
+This option locks this connection to the network device specified by its permanent MAC address entered here. Example: 00:11:22:33:44:55 - Uşbu parametr bu ulanişni şu yerda kiritilgan doimiy MAC-manzilli tarmoq qurilmasiga biriktiradi. Misol: 00:11:22:33:44:55
+The MAC address entered here will be used as hardware address for the network device this connection is activated on. This feature is known as MAC cloning or spoofing. Example: 11:22:33:44:55:66 - Bu yerda kiritilgan MAC-manzil uşbu ulaniş faollaştirilgan tarmoq qurilmasi uçun apparat manzili sifatida işlatiladi. Bu xususiyat MAC klonlaş yoki almaştiriş deb ataladi. Misol: 11:22:33:44:55:66
+Only transmit packets of the specified size or smaller, breaking larger packets up into multiple Ethernet frames - Faqat körsatilgan yoki undan kiçik ölçamdagi paketlarni uzatiş, kattaroq paketlarni bir neçta Ethernet kadrlariga böliş
+Ignore - Eʼtibor berilmasin
+Automatic - Avtomatik
+Manual - Qölda
+Device link negotiation. If “Manual” is chosen, “Speed” and “Duplex” values will be forced without checking the device compatibility. If unsure, leave here “Ignore” or pick “Automatic”. - Qurilma aloqasini kelişiş usuli. Agar “Qölda” tanlansa, qurilma mosligini tekşirmasdan “Tezlik” va “Dupleks” qiymatlari majburiy qöllaniladi. Işonçingiz komil bölmasa, “Eʼtibor berilmasin” qoldiring yoki “Avtomatik”ni tanlang.
+Speed: - Tezlik:
+Half - Yarim dupleks
+Full - Töliq
+Request that the device use the specified duplex mode. Either “Half” or “Full” - Qurilmadan körsatilgan dupleks rejimidan (“Yarim” yoki “Töliq”) foydalanişni talab qiliş
+N/A - N/A
+Address - Manzil
+Netmask - Tarmoq niqobi
+Gateway - Şlyuz
+Metric - Metrika
+Prefix - Prefiks
+Choose a Passkey - Kiriş kalitini (Passkey) tanlang
+Use your security key with %1 - Xavfsizlik kalitingizdan %1 bilan foydalaning
+PIN Required - PIN-kod talab qilinadi
+New PIN Required - Yangi PIN-kod talab qilinadi
+Change PIN Required - PIN-kodni özgartiriş talab qilinadi
+Something went wrong - Nimadir xato ketdi
+Which passkey do you want to use for %1? - %1 uçun qaysi kiriş kalitidan (passkey) foydalanmoqçisiz?
+Touch your security key again to complete the request. - Sörovni yakunlaş uçun xavfsizlik kalitingizga yana teging.
+Enter the PIN for your security key - Xavfsizlik kalitingiz uçun PIN-kodni kiriting
+Set new PIN for your security key - Xavfsizlik kalitingiz uçun yangi PIN-kod örnating
+Change PIN for your security key - Xavfsizlik kalitingiz uçun PIN-kodni özgartiring
+Request Timeout - Sörov vaqti tugadi
+Key not registered - Kalit röyxatdan ötmagan
+You already registered this device. Try again with device - Siz uşbu qurilmani allaqaçon röyxatdan ötkazgansiz. Qurilma bilan qayta urinib köring
+The security key is locked because the wrong PIN was entered too many times. To unlock it, remove and reinsert it. - Notöğri PIN-kod juda köp marta kiritilgani sababli xavfsizlik kaliti qulflandi. Qulfdan çiqariş uçun uni çiqarib, qayta ulang.
+The security key is locked because the wrong PIN was entered too many times. You'll need to reset the security key. - Notöğri PIN-kod juda köp marta kiritilgani sababli xavfsizlik kaliti qulflandi. Xavfsizlik kalitini dastlabki holatga qaytarişingiz kerak böladi.
+Authenticator removed during verification. Please reinsert and try again - Tekşiriş vaqtida autentifikator çiqarib olindi. Iltimos, qayta ulang va urinib köring
+Authenticator doesn't have resident key support - Autentifikator doimiy (rezident) kalitlarni qöllab-quvvatlamaydi
+Authenticator missing user verification - Autentifikatorda foydalanuvçini tasdiqlaş imkoniyati yöq
+Authenticator missing Large Blob support - Autentifikatorda Large Blob qöllab-quvvatlovi yöq
+The security token does not support the server’s required authentication method. - Xavfsizlik tokeni server talab qilgan autentifikatsiya usulini qöllab-quvvatlamaydi.
+Storage Full - Xotira töla
+User consent denied - Foydalanuvçi roziligi rad etildi
+User Cancelled Request - Foydalanuvçi sörovni bekor qildi
+Internal User Verification Locked - Foydalanuvçini içki tekşiriş qulflangan
+Wrong PIN. %1 attempt remaining. - Notöğri PIN-kod. %1 ta uriniş qoldi.
+Too Short. %1 attempt remaining. - Juda qisqa. %1 ta uriniş qoldi.
+Invalid Characters. %1 attempt remaining. - Yaroqsiz belgilar. %1 ta uriniş qoldi.
+Same as current PIN. %1 attempt remaining. - Joriy PIN-kod bilan bir xil. %1 ta uriniş qoldi.
+Next - Keyingi
+OK - OK
+Close - Yopiş
+Cancel - Bekor qiliş
+OTP - OTP
+authenticator - autentifikator
+code - kod
+token - token
+one-time password - bir martalik parol
+Automatic - Avtomatik
+Plasma is missing support for '%1' VPN connections. - Plasma-da '%1' VPN ulanişlari uçun qöllab-quvvatlov örnatilmagan.
+Report Bug - Xato haqida xabar beriş
+NetworkManager is missing support for '%1' VPN connections. - NetworkManager-da '%1' VPN ulanişlari uçun qöllab-quvvatlov örnatilmagan.
+Install - Örnatiş
+Failed to activate %1 - %1 ni faollaştiriş amalga oşmadi
+Failed to add connection %1 - %1 ulanişini qöşiş amalga oşmadi
+Connection %1 has been added - %1 ulanişi qöşildi
+Failed to add %1 - %1 ni qöşiş amalga oşmadi
+Failed to deactivate %1 - %1 ni öçiriş amalga oşmadi
+Failed to forget %1 - %1 ni unutiş amalga oşmadi
+Connection %1 has been forgotten - %1 ulanişi unutildi
+Failed to update connection %1 - %1 ulanişini yangilaş amalga oşmadi
+Connection %1 has been updated - %1 ulanişi yangilandi
+Failed to create hotspot %1 - %1 kiriş nuqtasini (hotspot) yaratiş amalga oşmadi
+Hardware based connections - Apparat ulanişlari
+Some DSL description - Yangi DSL ulanişi
+Some infiniband description - Yangi InfiniBand ulanişi
+Some mobile broadband description - Yangi mobil internet ulanişi
+Some wired ethernet description - Yangi simli Ethernet ulanişi
+Wired Ethernet (shared) - Simli Ethernet (umumiy)
+Some wi-fi description - Yangi Wi-Fi ulanişi
+Wi-Fi (shared) - Wi-Fi (umumiy)
+Virtual connections - Virtual ulanişlar
+Some bond description - Yangi birlaştirilgan (bond) ulaniş
+Some team description - Yangi guruh (team) ulanişi
+Some vlan description - Yangi VLAN ulanişi
+VPN connections - VPN ulanişlari
+Import VPN connection… - VPN ulanişini import qiliş…
+Other - Boşqa
+Import a saved configuration file - Saqlangan konfiguratsiya faylini import qiliş
+Available - Mavjud
+Connected - Ulangan
+Previously Used, Unavailable - Avval foydalanilgan, hozir mavjud emas
+Connected - Ulangan
+Connected - Ulangan
+Connected - Ulangan
+Inactive - Nofaol
+Disconnected - Uzilgan
+Disconnecting - Uzilmoqda
+Connecting - Ulanmoqda
+Connecting to %1 - %1 ga ulanmoqda
+Connected to %1 (no connectivity) - %1 ga ulangan (internetga kiriş yöq)
+Connected to %1 (limited connectivity) - %1 ga ulangan (çeklangan ulaniş)
+Connected to %1 (log in required) - %1 ga ulangan (tizimga kiriş talab qilinadi)
+Connected to %1 - %1 ga ulandi
+NetworkManager service is not running - NetworkManager xizmati işga tuşirilmagan
+NetworkManager 0.9.8 required, found %1. - NetworkManager 0.9.8 talab qilinadi, %1 topildi.
+Unknown - Nomaʼlum
+Disconnect - Uziş
+Configure - Sozlaş
+Forget - Unutiş
+Connect to %1 - %1 ga ulaniş
+Forget Connection - Ulanişni unutiş
+Forget the connection “%1”? - “%1” ulanişi unutilsinmi?
+/s - /s
+Upload - Uzatiş
+Download - Yuklab oliş

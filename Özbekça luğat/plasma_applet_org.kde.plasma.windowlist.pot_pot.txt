@@ -1,0 +1,15 @@
+Source text - Tarjima text
+General - Umumiy
+For active application, show: - Faol ilova uçun quyidagini körsatiş:
+Icon and name - Belgi va nom
+Icon - Belgi
+Name - Nom
+Show only windows: - Faqat quyidagi oynalarni körsatiş:
+From the current desktop - Joriy iş stolidan
+From the current activity - Joriy faoliyatdan
+From the current screen - Joriy ekrandan
+That are minimized - Faqat yiğilganlar
+Sort: - Saralaş:
+By time opened - Oçilgan vaqti böyiça
+Alphabetically - Alifbo böyiça
+No open windows - Oçiq oynalar yöq

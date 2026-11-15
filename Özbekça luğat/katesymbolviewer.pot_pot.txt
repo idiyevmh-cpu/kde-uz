@@ -1,0 +1,46 @@
+Show Functions - Funksiyalarni körsatiş
+Functions - Funksiyalar
+Show Macros - Makroslarni körsatiş
+Show Structures - Tuzilmalarni körsatiş
+Macros - Makroslar
+Structures - Tuzilmalar
+Show Subroutines - Qism-dasturlarni körsatiş
+Show Modules - Modullarni körsatiş
+Subroutines - Qism-dasturlar
+Modules - Modullar
+Show Uses - Foydalanişlarni (Uses) körsatiş
+Show Pragmas - Pragmalarni körsatiş
+Uses - Foydalanadi
+Pragmas - Pragmalar
+Namespaces - Nomlar fazolari (Namespaces)
+Defines - Taʼriflar
+Classes - Sinflar
+SymbolViewer - BelgilarKöruvçi
+Tree Mode - Daraxt rejimi
+Expand Tree - Daraxtni yoyiş
+Show Sorted - Saralangan holda körsatiş
+Show Parameters - Parametrlarni körsatiş
+Symbol List - Belgilar röyxati
+Filter… - Filtrlaş…
+Symbols - Belgilar
+Position - &Joylaşişi
+Sorry, not supported yet! - Keçirasiz, hali qöllab-quvvatlanmaydi!
+File type: %1 - Fayl turi: %1
+Display functions parameters - Funksiyalar parametrlarini körsatiş
+Automatically expand nodes in tree mode - Daraxt rejimida tugunlarni avtomatik yoyiş
+Always display symbols in tree mode - Belgilarni har doim daraxt rejimida körsatiş
+Always sort symbols - Belgilarni har doim saralaş
+Parser Options - Tahlilçi variantlari
+Symbol Viewer - Belgilarni köruvçi
+Symbol Viewer Configuration Page - Belgilarni köruvçi sozlamalari sahifasi
+Show Methods - Metodlarni körsatiş
+Show Classes - Sinflarni körsatiş
+Globals - Global özgaruvçilar
+&Settings - Mos&lamalar
+Show Tags - Teglarni körsatiş
+Show Params - Parametrlarni körsatiş
+Show Variables - Özgaruvçilarni körsatiş
+Show Templates - Andozalarni körsatiş
+Params - Parametrlar
+Variables - Ö&zgaruvçilar:
+Templates - Namunalar

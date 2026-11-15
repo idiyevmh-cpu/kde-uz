@@ -1,0 +1,11 @@
+Disk Quota - Disk kvotasi
+Please install 'quota' - 'quota' vositasini örnating
+Running quota failed - Kvota tekşiruvi muvaffaqiyatsiz tugadi
+%1: %2% used - %1: %2% işlatildi
+%1 of %2 - %3 - %2'dan %1%
+%1 free - %1 böş
+Quota: %1% used - Kvota: %1% işlatildi
+No quota restrictions found. - Heç qanday kvota çeklovlari topilmadi.
+No quota restrictions found - Heç qanday kvota çeklovlari topilmadi
+Quota tool not found - Kvota vositasi topilmadi
+Please install 'quota' - 'quota' vositasini örnating

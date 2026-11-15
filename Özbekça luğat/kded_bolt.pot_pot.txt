@@ -1,0 +1,7 @@
+New Thunderbolt Device Detected - Yangi Thunderbolt qurilmasi aniqlandi
+Unauthorized Thunderbolt device <b>%1</b> was detected. Do you want to authorize it? - Ruxsat berilmagan <b>%1</b> Thunderbolt qurilmasi aniqlandi. Unga ruxsat berişni xohlaysizmi?
+%1 unauthorized Thunderbolt device was detected. Do you want to authorize it? - %1 ta ruxsat berilmagan Thunderbolt qurilmasi aniqlandi. Unga ruxsat berişni xohlaysizmi?
+Authorize Now - Hozir ruxsat beriş
+Authorize Permanently - Doimiy ruxsat beriş
+Thunderbolt Device Authorization Error - Thunderbolt qurilmasiga ruxsat beriş xatosi
+Failed to authorize Thunderbolt device <b>%1</b>: %2 - <b>%1</b> Thunderbolt qurilmasiga ruxsat berib bölmadi: %2

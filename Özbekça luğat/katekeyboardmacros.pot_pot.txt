@@ -1,0 +1,45 @@
+Could not open file ‘%1’. - ‘%1’ faylini oçib bölmadi.
+Malformed JSON file ‘%1’: %2 - Notöğri JSON fayli ‘%1’: %2
+Could not load ‘%1’: malformed macro; wiping it. - ‘%1’ yuklab bölmadi: buzuq makros; öçirilmoqda.
+Keyboard Macros - Klaviatura makroslari
+<b>Keyboard Macros:</b> %1 - <b>Klaviatura makroslari:</b> %1
+Can’t save macro during recording. Please end recording first - Yozib oliş vaqtida makrosni saqlab bölmaydi. Avval yozişni tugating
+Recording… - Yozib olinmoqda…
+Recording ended - Yozib oliş tugadi
+Recording canceled - Yozib oliş bekor qilindi
+Saved ‘%1’ - ‘%1’ saqlandi
+Loaded ‘%1’ - ‘%1’ yuklandi
+Wiped ‘%1’ - ‘%1’ tozalandi
+Usage: %1 <name>. - Foydalaniş: %1 <nomi>.
+No keyboard macro named '%1' found. - '%1' nomli klaviatura makrosi topilmadi.
+Cannot save empty keyboard macro. - Böş klaviatura makrosini saqlab bölmaydi.
+<qt><p>Usage: <code>kmsave &lt;name&gt;</code></p><p>Save current keyboard macro as <code>&lt;name&gt;</code>.</p>%1</qt> - <qt><p>Foydalaniş: <code>kmsave &lt;nomi&gt;</code></p><p>Joriy klaviatura makrosini <code>&lt;nomi&gt;</code> sifatida saqlaydi.</p>%1</qt>
+<qt><p>Usage: <code>kmload &lt;name&gt;</code></p><p>Load saved keyboard macro <code>&lt;name&gt;</code> as current macro.</p>%1</qt> - <qt><p>Foydalaniş: <code>kmload &lt;nomi&gt;</code></p><p>Saqlangan <code>&lt;nomi&gt;</code> klaviatura makrosini joriy makros sifatida yuklaydi.</p>%1</qt>
+<qt><p>Usage: <code>kmplay &lt;name&gt;</code></p><p>Play saved keyboard macro <code>&lt;name&gt;</code> without loading it.</p>%1</qt> - <qt><p>Foydalaniş: <code>kmplay &lt;nomi&gt;</code></p><p>Saqlangan <code>&lt;nomi&gt;</code> klaviatura makrosini yuklamasdan ijro etadi.</p>%1</qt>
+<qt><p>Usage: <code>kmwipe &lt;name&gt;</code></p><p>Wipe saved keyboard macro <code>&lt;name&gt;</code>.</p>%1</qt> - <qt><p>Foydalaniş: <code>kmwipe &lt;nomi&gt;</code></p><p>Saqlangan <code>&lt;nomi&gt;</code> klaviatura makrosini öçiradi.</p>%1</qt>
+&Keyboard Macros - &Klaviatura makroslari
+Record and play keyboard macros. - Klaviatura makroslarini yozib oliş va ijro etiş.
+&Record Macro… - &Makros yoziş…
+Start/stop recording a macro (i.e., keyboard action sequence). - Makros yozişni boşlaş/töxtatiş.
+&Cancel Macro Recording - &Makros yozişni bekor qiliş
+Cancel ongoing recording (and keep the previous macro as the current one). - Davom etayotgan yozişni bekor qiliş (va oldingi makrosni joriy sifatida saqlaş).
+&Play Macro - &Makrosni ijro etiş
+Play current macro (i.e., execute the last recorded keyboard action sequence). - Joriy makrosni ijro etiş (oxirgi yozilgan harakatlar ketma-ketligi).
+&Save Current Macro - &Joriy makrosni saqlaş
+Give a name to the current macro and persistently save it. - Joriy makrosga nom bering va uni saqlang.
+&Load Named Macro… - &Nomlangan makrosni yuklaş…
+Load a named macro as the current one. - Nomlangan makrosni joriy sifatida yuklaş.
+&Play Named Macro… - &Nomlangan makrosni ijro etiş…
+Play a named macro without loading it. - Nomlangan makrosni yuklamasdan ijro etiş.
+&Wipe Named Macro… - &Nomlangan makrosni tozalaş…
+Wipe a named macro. - Nomlangan makrosni tozalaş.
+End Macro &Recording - Makros &yozişni tugatiş
+Load %1 - %1 ni yuklaş
+Load the ‘%1’ macro as the current one. - ‘%1’ makrosini joriy sifatida yuklaş.
+Play %1 - %1 ni ijro etiş
+Play the ‘%1’ macro without loading it. - ‘%1’ makrosini yuklamasdan ijro etiş.
+Wipe %1 - %1 ni tozalaş
+Wipe the ‘%1’ macro. - ‘%1’ makrosini tozalaş.
+Save current macro as? - Joriy makros qanday nom bilan saqlansin?
+Wipe the ‘%1’ macro? - ‘%1’ makrosini tozalaşni xohlaysizmi?
+&Tools - &Vositalar

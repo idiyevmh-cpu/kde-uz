@@ -1,0 +1,7 @@
+RBQL - RBQL
+Enter RBQL query - RBQL sörovini kiriting
+Add new tab - Yangi varaq qöşiş
+Execute query - Sörovni bajariş
+File has header - Faylda sarlavha bor
+Failed to get separator for current document. Not a CSV/TSV doc? - Joriy hujjat uçun ajratuvçini olib bölmadi. CSV/TSV hujjati emasmi?
+Document is empty - Hujjat böş

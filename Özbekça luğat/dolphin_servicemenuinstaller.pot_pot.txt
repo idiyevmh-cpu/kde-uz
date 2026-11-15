@@ -1,0 +1,25 @@
+Dolphin service menu installation failed - Dolphin xizmat menyusi örnatilişi muvaffaqiyatsiz tugadi
+Failed to install "%1", exited with status "%2" - "%1" örnatilmadi, çiqiş holati: "%2"
+Failed to uninstall "%1", exited with status "%2" - "%1" öçirilmadi, çiqiş holati: "%2"
+The file does not exist! - Fayl mavjud emas!
+Unknown error when installing package - Paketni örnatişda nomaʼlum xatolik yuz berdi
+Unsupported archive type %1: %2 - Qöllab-quvvatlanmaydigan arxiv turi %1: %2
+Failed to run uncompressor command for %1 - %1 uçun arxivdan çiqariş buyruğini işga tuşirib bölmadi
+Process did not finish in reasonable time: %1 %2 - Jarayon maqbul vaqtda tugamadi: %1 %2
+Failed to uncompress %1 - %1 arxivdan çiqarilmadi
+Failed to run installer script %1 - %1 örnatiş skriptini işga tuşirib bölmadi
+Failed to set permissions on %1: %2 - %1 uçun ruxsatlarni örnatib bölmadi: %2
+Installer script %1 failed, tried arguments "%2". - %1 örnatiş skripti muvaffaqiyatsiz tugadi, sinab körilgan argumentlar: "%2".
+", " - ", "
+Failed to create path %1 - %1 yölini yaratib bölmadi
+Failed to copy .desktop file %1 to %2: %3 - .desktop fayli %1 dan %2 ga nusxalanmadi: %3
+Failed to remove directory %1 - %1 jildini öçirib bölmadi
+Failed to create directory %1 - %1 jildini yaratib bölmadi
+Failed to find an installation script in %1 - %1 da örnatiş skripti topilmadi
+Failed to remove .desktop file %1: %2 - %1 .desktop faylini öçirib bölmadi: %2
+Failed to find an uninstallation script in %1 - %1 da öçiriş skripti topilmadi
+Command to execute: install or uninstall. - Bajariladigan buyruq: örnatiş yoki öçiriş.
+Path to archive. - Arxivga yöl.
+Command is required. - Buyruq kiritilişi şart.
+Path to archive is required. - Arxivga yöl körsatilişi şart.
+Unsupported command %1 - Qöllab-quvvatlanmaydigan buyruq %1

@@ -1,0 +1,6 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Error while opening the Mobipocket document. - Mobipocket hujjatini oçişda xatolik yuz berdi.
+This book is protected by DRM and can be displayed only on designated device - Uşbu kitob DRM bilan himoyalangan va faqat belgilangan qurilmada körsatilişi mumkin
+Mobipocket - Mobipocket
+Mobipocket Backend Configuration - Mobipocket bekendi sozlamalari

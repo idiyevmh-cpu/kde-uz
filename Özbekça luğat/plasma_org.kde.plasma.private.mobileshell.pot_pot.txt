@@ -1,0 +1,67 @@
+Open with %1 - Bilan oçiş
+Open with… - Bilan oçiş…
+Open Containing Folder - Öz içiga olgan jildni oçiş
+&Copy - &Nusxa oliş
+Copy Location - Manzildan nusxa oliş
+Properties - Xossalari
+Clear All Notifications - Barça bildirişnomalarni tozalaş
+On - Yoqilgan
+Off - Öçirilgan
+SIM Locked - SIM qulflangan
+Output Devices - Çiqiş qurilmalari
+Input Devices - Uskunalar
+Playback Streams - Ijro oqimlari
+Recording Streams - Yozib oliş oqimlari
+%1 (%2) - %1 ( %2 )
+Device name not found - Qurilma nomi topilmadi
+Show additional options for %1 - %1 uçun qöşimça parametrlarni körsatiş
+%1% - %1%
+100% - 100%
+Notification Sounds - Bildirişnoma tovuşlari
+%1: %2 - %1 %2
+Stream name not found - Oqim nomi topilmadi
+Unmute - Ovozni yoqiş
+Mute - Tovuşsiz
+configure audio streams - audio oqimlarini sozlaş
+Open audio settings - Audio sozlamalarini oçiş
+%1% - %1%
+Search… - Qidiriş…
+No media playing - Media ijro etilmayapti
+Previous track - Oldingi trek
+Play or Pause media - Mediani ijro etiş yoki pauza qiliş
+Next track - Keyingi trek
+Copy Link Address - Boğ manzilidan nusxa oliş
+Copy - Nusxa oliş
+Select All - Yangi jild
+Reply - &Javob beriş
+%1: - %1%
+%2 of %1 - %1 dan %2
+%2 of %1 file - %1 ta fayldan %2 tasi
+%2 of %1 folder - %1 ta jilddan %2 tasi
+%2 of %1 item - %1 ta elementdan %2 tasi
+%1 file - %1 ta fayl
+%1 folder - %1 ta jild
+%1 item - %1 ta element
+%1/s - (%1/s)
+%1% - %1%
+Details - Tafsilotlar
+Pause - Vaqtinça töxtatiş
+Cancel - &Bekor qiliş
+More Options… - Köproq parametrlar…
+Open - Oçiş
+Type a reply… - Javob yozing…
+Send - &Jönatiş
+%1 (Paused) - %1 (Pauza qilingan)
+%1 (Failed) - %1 (Boğ)
+Job Failed - Vazifa bajarilmadi
+%1 (Finished) - %1 (Yakunlandi)
+Job Finished - Vazifa yakunlandi
+now - darhol
+%1m ago - %1 daqiqa oldin
+%1 s remaining - %1 s qoldi
+%1m remaining - %1 daqiqa qoldi
+%1h remaining - %1 soat qoldi
+Notification service not available - Bildirişnoma xizmati mavjud emas
+Notifications are currently provided by '%1 %2' - Bildirişnomalar hozirda '%1 %2' tomonidan taqdim etilmoqda
+Show Fewer - Kamroq körsatiş
+Show %1 More - Yana %1 tasini körsatiş

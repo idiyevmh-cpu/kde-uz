@@ -1,0 +1,3 @@
+Number of columns: - Ustunlar soni:
+Automatic - Avtomatik
+Display style: - Körsatiş uslubi:

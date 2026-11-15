@@ -1,0 +1,7 @@
+Source text - Tarjima text
+KDE Wallet - KDE Qopçiq (KWallet)
+Needs Password - Parol kiritiş zarur
+The KDE Wallet Daemon requests a password - KDE Qopçiq xizmati parolni söramoqda
+Sync Failed - Sinxronlaş muvaffaqiyatsiz böldi
+KDE Wallet System failed to sync a wallet file to disk - KDE Qopçiq tizimi qopçiq faylini diskka sinxronlay olmadi
+KDE Wallet Service - KDE Qopçiq xizmati

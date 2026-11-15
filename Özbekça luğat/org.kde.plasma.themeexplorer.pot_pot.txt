@@ -1,0 +1,64 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Plasma Theme Explorer - Plasma mavzular tadqiqotçisi
+Explore and edit your Plasma themes - Plasma mavzularini körib çiqiş va tahrirlaş
+The theme to open - Oçiladigan mavzu
+Edit Colors - Ranglarni tahrirlaş
+Select Color - Rangni tanlaş
+Normal text - Oddiy matn
+Link - Havola
+Visited Link - Kirilgan havola
+Complementary colors area: - Qöşimça ranglar maydoni:
+Label - Yorliq
+Text color: - Matn rangi:
+Background color: - Orqa fon rangi:
+Highlight color: - Ajratib körsatiş rangi:
+Link color: - Havola rangi:
+Visited link color: - Kirilgan havola rangi:
+Button text color: - Tugma matn rangi:
+Button background color: - Tugma fon rangi:
+Button mouse over color: - Tugma ustiga borgandagi rang:
+Button focus color: - Tugma fokus rangi:
+Text view text color: - Matn maydoni matn rangi:
+Text view background color: - Matn maydoni orqa fon rangi:
+Text view mouse over color: - Matn maydoni ustiga siçqonça borgandagi rang:
+Text view focus color: - Matn maydoni fokus rangi:
+Complementary text color: - Qöşimça matn rangi:
+Complementary background color: - Qöşimça fon rangi:
+Complementary mouse over color: - Qöşimça siçqonça ustiga borgandagi rang:
+Complementary focus color: - Qöşimça fokus rangi:
+Ok - OK
+Cancel - &Bekor qiliş
+Option - Parametr
+ToolButton - Asbob tugmasi (ToolButton)
+Button - Tugma
+Tab1 - Varaq1
+Tab2 - Varaq2
+Tab3 - Varaq3
+Text - Matn
+Checkbox - Belgilaş katagi
+Text input… - Matn kiritiş…
+Plasma Theme Explorer - Plasma mavzular tadqiqotçisi
+New Theme… - Yangi mavzu…
+Theme: - Mavzu:
+Open Folder - Jildni oçiş
+Edit Metadata… - Meta-maʼlumotlarni tahrirlaş…
+Edit Colors… - Ranglarni tahrirlaş…
+Help - Yordam
+Search… - Qidiriş…
+Image path: %1 - Rasm yöli: %1
+Description: %1 - Taʼrifi: %1
+Missing from this theme - Uşbu mavzuda mavjud emas
+Present in this theme - Uşbu mavzuda mavjud
+Show Margins - Hoşiyalarni körsatiş
+Create with Editor… - Muharrir bilan yaratiş…
+Open In Editor… - Muharrirda oçiş…
+New Theme - Yangi mavzu
+Edit Theme - Mavzuni tahrirlaş
+Warning: don't change author or license for themes you don't own - Ogohlantiriş: özingizga tegişli bölmagan mavzular uçun muallif yoki litsenziyani özgartirmang
+Theme Name: - Mavzu nomi:
+This theme name already exists - Uşbu mavzu nomi allaqaçon mavjud
+Author: - Muallif:
+Email: - Elektron poçta:
+License: - Litsenziya:
+Website: - Veb-sayt:

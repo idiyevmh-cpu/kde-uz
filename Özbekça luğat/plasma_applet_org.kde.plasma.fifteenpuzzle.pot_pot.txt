@@ -1,0 +1,18 @@
+Appearance - Taşqi köriniş
+Grid size: - Tör ölçami:
+Background: - orqa fon
+Color: - Rang
+Image: - Rasm:
+Path to custom image… - Maxsus rasm yöli…
+Choose image… - Rasmni tanlaş…
+Choose an Image - Rasmni tanlang
+Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz) - Rasm fayllari (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)
+Tile labels: - Koşin yorliqlari:
+Color: - Rang
+Hide on image backgrounds - Fon rasmlarida yaşiriş
+Time: %1 - Vaqt: %1
+Shuffle - Aralaştiriş
+Moves: %1 - Yurişlar: %1
+Solved! Try again. - Yeçildi! Yana urinib köring.
+Fifteen Puzzle - 15 öyini (Pyatnaşki)
+Solve by arranging in order - Tartib bilan terib yeçing

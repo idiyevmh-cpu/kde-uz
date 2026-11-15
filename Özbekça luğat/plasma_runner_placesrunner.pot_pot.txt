@@ -1,0 +1,3 @@
+places - joylar
+Lists all file manager locations - Barça fayl boşqaruvçisi manzillarini röyxatlaydi
+Finds file manager locations that match :q: - :q: söziga mos keladigan fayl boşqaruvçisi joylaşuvlarini topadi

@@ -1,0 +1,27 @@
+Source text - Tarjima text
+System Monitor - Tizim monitori
+Monitor app and system resource usage - Ilovalar va tizim resurslaridan foydalanişni kuzatib boriş
+task;manager;process;cpu;memory; - vazifalar;menejer;jarayon;protsessor;xotira;ram;cpu;
+Open Overview Page - Umumiy köriniş sahifasini oçiş
+Open History Page - Tarix sahifasini oçiş
+Open Processes Page - Jarayonlar sahifasini oçiş
+Open Applications Page - Ilovalar sahifasini oçiş
+Applications - Ilovalar
+History - Tarix
+CPU - Protsessor (CPU)
+GPU - Video karta (GPU)
+Memory - Xotira (RAM)
+Network - Tarmoq
+History (Old Version) - Tarix (eski versiya)
+false - notöğri (false)
+Networks - Tarmoqlar
+Disk - Disk
+System - Tizim
+Network Rates - Tarmoq tezliklari
+Overview (Old Version) - Umumiy köriniş (eski versiya)
+Network & System - Tarmoq va tizim
+Disks - Disklar
+Swap - Swap (Virtual xotira)
+Overview - Umumiy köriniş
+Processes - Jarayonlar
+Pages - Sahifalar

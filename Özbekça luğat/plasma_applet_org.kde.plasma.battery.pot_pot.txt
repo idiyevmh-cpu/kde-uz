@@ -1,0 +1,78 @@
+Charging - Quvvatlanmoqda
+Discharging - Quvvat sarflanmoqda
+Fully Charged - Töliq quvvatlangan
+Not Charging - Quvvatlanmayapti
+Not present - Mavjud emas
+%1% - %1%
+Unknown - Nomaʼlum
+This battery's health is at only %1% and it should be replaced. Contact the manufacturer. - Uşbu batareya salomatligi atigi %1% va uni almaştiriş kerak. Işlab çiqaruvçi bilan boğlaning.
+Time To Full: - Töliş vaqti:
+Remaining Time: - Qolgan vaqt:
+Estimating… - Baholanmoqda…
+Battery Health: - Batareya salomatligi:
+Battery is configured to charge up to approximately %1%. - Batareya taxminan %1% gaça quvvatlaniş uçun sozlangan.
+Sleep and Screen Locking after Inactivity - Harakatsizlikdan keyin kutiş rejimi va ekranni qulflaş
+Power Management - Quvvat boşqaruvi
+Automatic sleep and screen locking are currently blocked. - Avtomatik kutiş rejimi va ekranni qulflaş ayni paytda bloklangan.
+Screen locking is currently blocked. Sleep is automatic after inactivity. - Ekranni qulflaş ayni paytda bloklangan. Harakatsizlikdan keyin kutiş rejimiga ötiş avtomatik.
+Sleep is currently blocked. Screen locking is automatic after inactivity. - Kutiş rejimi ayni paytda bloklangan. Harakatsizlikdan keyin ekranni qulflaş avtomatik.
+Sleep and screen locking are automatic after inactivity. - Harakatsizlikdan keyin kutiş rejimi va ekranni qulflaş avtomatik.
+Manually Block Sleep and Screen Locking - Kutiş rejimi va ekranni qulflaşni qölda bloklaş
+Failed to unblock automatic sleep and screen locking - Avtomatik kutiş rejimi va ekranni qulflaşni blokdan çiqarib bölmadi
+Failed to block automatic sleep and screen locking - Avtomatik kutiş rejimi va ekranni qulflaşni bloklab bölmadi
+This will result in higher energy consumption. - Bu yuqoriroq energiya sarfiga olib keladi.
+You have manually blocked automatic sleep and screen locking. This will result in higher energy consumption. - Siz avtomatik kutiş rejimi va ekranni qulflaşni qölda blokladingiz. Bu yuqoriroq energiya sarfiga olib keladi.
+Your laptop is configured not to sleep when closing the lid while an external monitor is connected. - Noutbukingiz taşqi monitor ulangan holda qopqoq yopilganda kutiş rejimiga ötmaslik uçun sozlangan.
+Unknown reason. - Nomaʼlum sabab.
+%1 wants to block sleep and screen locking. (%2) - %1 kutiş rejimi va ekranni qulflaşni bloklamoqçi. (%2)
+%1 wants to block screen locking. (%2) - %1 ekranni qulflaşni bloklamoqçi. (%2)
+%1 wants to block sleep. (%2) - %1 kutiş rejimini bloklamoqçi. (%2)
+%1 is also blocking sleep and screen locking. (%2) - %1 ham kutiş rejimi va ekranni qulflaşni bloklamoqda. (%2)
+%1 is also blocking screen locking. (%2) - %1 ham ekranni qulflaşni bloklamoqda. (%2)
+%1 is also blocking sleep. (%2) - %1 ham kutiş rejimini bloklamoqda. (%2)
+%1 is blocking sleep and screen locking. (%2) - %1 kutiş rejimi va ekranni qulflaşni bloklamoqda. (%2)
+%1 is blocking screen locking. (%2) - %1 ekranni qulflaşni bloklamoqda. (%2)
+%1 is blocking sleep. (%2) - %1 kutiş rejimini bloklamoqda. (%2)
+Unblock - Blokdan çiqariş
+Allow - Ruxsat beriş
+The battery applet has enabled suppressing sleep and screen locking - Batareya apleti kutiş rejimi va ekranni qulflaşni töxtatib turişni yoqdi
+Power & Battery - Quvvat va batareya
+Battery is not present in the bay - Batareya bölmada mavjud emas
+Battery level unknown - Batareya darajasi nomaʼlum
+Battery at %1%, not Charging - Batareya %1%, quvvatlanmayapti
+Battery at %1%, plugged in but still discharging - Batareya %1%, ulangan, lekin baribir quvvat sarflanmoqda
+Battery at %1%, Charging - Batareya %1%, quvvatlanmoqda
+Battery at %1% - Batareya: %1%
+The power supply is not powerful enough to charge the battery - Quvvat manbai batareyani quvvatlaş uçun yetarliça kuçli emas
+No batteries available - Mavjud batareyalar yöq
+%1 until fully charged - Töliq quvvatlangunça %1
+%1 remaining - %1 qoldi
+Not charging - Quvvatlanmayapti
+Automatic sleep and screen locking are disabled; middle-click to re-enable - Avtomatik kutiş rejimi va ekranni qulflaş öçirilgan; qayta yoqiş uçun siçqonçaning örta tugmasini bosing
+Middle-click to disable automatic sleep and screen locking - Avtomatik kutiş rejimi va ekranni qulflaşni öçiriş uçun siçqonçaning örta tugmasini bosing
+An application has requested activating Performance mode - Ilova yuqori unumdorlik rejimini faollaştirişni söradi
+System is in Performance mode; scroll to change - Tizim yuqori unumdorlik rejimida; özgartiriş uçun aylantiring
+An application has requested activating Power Save mode - Ilova quvvatni tejaş rejimini faollaştirişni söradi
+System is in Power Save mode; scroll to change - Tizim quvvatni tejaş rejimida; özgartiriş uçun aylantiring
+System is in Balanced Power mode; scroll to change - Tizim muvozanatli quvvat rejimida; özgartiriş uçun aylantiring
+&Show Energy Information… - Energiya maʼlumotlarini &körsatiş…
+Show Battery Percentage on Icon When Not Fully Charged - Töliq quvvatlanmagan holda belgida batareya foizini körsatiş
+&Configure Power Management… - Quvvat boşqaruvini &sozlaş…
+Power Save - Quvvatni tejaş
+Balanced - Muvozanatli
+Performance - Yuqori unumdorlik
+Power Profile - Quvvat profili
+Automatic - Avtomatik
+Not available - Mavjud emas
+Failed to activate %1 mode - %1 rejimini faollaştirib bölmadi
+Performance mode has been disabled to reduce heat generation because the computer has detected that it may be sitting on your lap. - Issiqlik hosil bölişini kamaytiriş uçun yuqori unumdorlik rejimi öçirildi, çunki kompyuter tizzangizda turgan bölişi mumkinligini aniqladi.
+Performance mode is unavailable because the computer is running too hot. - Kompyuter juda qizib ketganligi sababli yuqori unumdorlik rejimi mavjud emas.
+Performance mode is unavailable. - Yuqori unumdorlik rejimi mavjud emas.
+Performance may be lowered to reduce heat generation because the computer has detected that it may be sitting on your lap. - Issiqlik hosil bölişini kamaytiriş uçun unumdorlik pasaytirilişi mumkin, çunki kompyuter tizzangizda turgan bölişi mumkinligini aniqladi.
+Performance may be reduced because the computer is running too hot. - Kompyuter juda qizib ketganligi sababli unumdorlik pasaytirilişi mumkin.
+Performance may be reduced. - Unumdorlik pasaytirilişi mumkin.
+One application has requested activating %2: - Bitta ilova %2 ni faollaştirişni söradi:
+%1: %2 - %1: %2
+The TLP service automatically controls power profiles - TLP xizmati quvvat profillarini avtomatik boşqaradi
+Power profiles are not supported on your device. - Qurilmangizda quvvat profillari qöllab-quvvatlanmaydi.
+Power profiles may be supported on your device.<nl/>Try installing the <command>power-profiles-daemon</command> package using your distribution's package manager and restarting the system. - Qurilmangizda quvvat profillari qöllab-quvvatlanişi mumkin.<nl/>Distributivingiz paket boşqaruvçisidan foydalanib <command>power-profiles-daemon</command> paketini örnatib köring va tizimni qayta işga tuşiring.

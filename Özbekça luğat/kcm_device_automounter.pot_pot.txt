@@ -1,0 +1,16 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+Forget Device - Qurilmani unutiş
+Automatically mount removable media that have never been mounted before - Ilgari heç qaçon ulanmagan olinadigan disklarni ham avtomatik ulaş
+Automount Device - Qurilmani avtomatik ulaş
+On Login - Tizimga kirilganda
+On Attach - Qurilma ulanganda
+All Devices - Barça qurilmalar
+All Known Devices - Barça maʼlum qurilmalar
+Attached Devices - Ulangan qurilmalar
+Disconnected Devices - Uzilgan qurilmalar
+This device will be automatically mounted at login. - Uşbu qurilma tizimga kirilganda avtomatik ravişda ulanadi.
+This device will not be automatically mounted at login. - Uşbu qurilma tizimga kirilganda avtomatik ravişda ulanmaydi.
+This device will be automatically mounted when attached. - Uşbu qurilma ulanganda avtomatik ulanadi.
+This device will not be automatically mounted when attached. - Uşbu qurilma ulanganda avtomatik ulanmaydi.

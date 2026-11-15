@@ -1,0 +1,44 @@
+[Group] Total Usage - [Guruh] Jami foydalaniş
+[Group] User Usage - [Guruh] Foydalanuvçi sarfi
+[Group] System Usage - [Guruh] Tizim foydalanişi
+[Group] Wait Usage - [Guruh] Kutiş sarfi
+[Group] Clock Frequency - [Guruh] Takt çastotasi
+[Group] Temperature - [Guruh] Harorat
+[Group] Name - [Guruh] Nomi
+[Group] Total Usage - [Guruh] Jami foydalaniş
+[Group] Video Memory Used - [Guruh] Işlatilgan video xotira
+[Group] Total Video Memory - [Guruh] Jami video xotira
+[Group] Name - [Guruh] Nomi
+[Group] Used - [Guruh] Işlatilgan
+[Group] Available - [Guruh] Mavjud
+[Group] Percentage Used - [Guruh] Işlatilgan foiz
+[Group] Total Size - [Guruh] Jami ölçami
+[Group] Network Name - [Guruh] Tarmoq nomi
+[Group] IPv4 Address - [Guruh] IPv4 manzili
+[Group] IPv6 Address - [Guruh] IPv6 manzili
+[Group] Signal Strength - [Guruh] Signal kuçi
+[Group] Download Rate - [Guruh] Yuklab oliş tezligi
+[Group] Total Downloaded - [Guruh] Jami yuklab olingan
+[Group] Upload Rate - [Guruh] Yuklaş tezligi
+[Group] Total Uploaded - [Guruh] Jami yuklangan
+[Group] Name - [Guruh] Nomi
+[Group] Total Space - [Guruh] Jami joy
+[Group] Used Space - [Guruh] Işlatilgan joy
+[Group] Free Space - [Guruh] Böş joy
+[Group] Read Rate - [Guruh] Öqiş tezligi
+[Group] Write Rate - [Guruh] Yoziş tezligi
+[Group] Percentage Free - [Guruh] Böş joy foizi
+[Group] Name - [Guruh] Nomi
+[Group] Charge - [Guruh] Quvvat
+[Group] Charge Percentage - [Guruh] Quvvat foizi
+[Group] Charging Rate - [Guruh] Quvvatlaniş tezligi
+[Group] Current Capacity - [Guruh] Joriy siğim
+[Group] Design Capacity - [Guruh] Loyiha siğimi
+[Group] Health - [Guruh] Holati (salomatligi)
+[Group] CPU - [Guruh] Protsessor
+[Group] GPU - [Guruh] GPU
+[Group] Network Device - [Guruh] Tarmoq qurilmasi
+[Group] Disk - [Guruh] Disk
+[Group] Power - [Guruh] Quvvat
+Sensor Browser - Datçiklar brauzeri
+%1 (%2) - %1 ( %2 )

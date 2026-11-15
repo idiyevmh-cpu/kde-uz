@@ -1,0 +1,3 @@
+wallet,form fill,passwords,form data,secret service,kwallet,kdewallet,kde wallet,keepassxc,keyring,encryption,decryption,blowfish,pgp,access control,confidential,wallet manager - hamyon,forma töldiriş,parollar,forma maʼlumotlari,maxfiy xizmat,khamyon,kdehamyon,kde hamyon,keepassxc,kalit zanjiri,şifrlaş,dekriptatsiya,blowfish,pgp,kirişni nazorat qiliş,maxfiy,hamyon menejeri
+KDE Wallet - KDE hamyon
+KDE Wallet Configuration - KDE hamyon sozlamalari

@@ -1,0 +1,17 @@
+Folder - Jild
+General - Umumiy
+Remove from favourites - Sevimlilardan olib taşlaş
+App info - Ilova haqida
+Add applications to your favourites so they show up here. - Ilovalar şu yerda körinişi uçun ularni sevimlilarga qöşing.
+Move out of folder - Jilddan taşqariga çiqariş
+Add to favourites - Sevimlilarga qöşiş
+Applications - Dasturlar
+Homescreen Settings - Boş ekran sozlamalari
+Homescreen - Boş ekran
+Wallpaper blur effect - Fon rasmini xiralaştiriş effekti
+None - Yöq
+Simple - Oddiy
+Full - Töliq
+Double tap to lock device - Qurilmani qulflaş uçun ikki marta bosing
+Wallpapers - Fon rasmlari
+Settings - Moslamalar

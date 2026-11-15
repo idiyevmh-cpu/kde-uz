@@ -1,0 +1,33 @@
+Source text - Tarjima text
+Game Controller - Öyin kontrolleri (Geympad)
+Wheel - Rul (Öyin ruli)
+Arcade Stick - Arkada joystiki
+Flight Stick - Aviatsiya joystiki
+XBox 360 - XBox 360
+XBox One - XBox One
+Sony Dualshock 4 - Sony Dualshock 4
+Sony Dualsense - Sony Dualsense
+A button - A tugmasi
+B button - B tugmasi
+X button - X tugmasi
+Y button - Y tugmasi
+Back button - Orqaga tugmasi
+Start button - Start tugmasi
+Left analog stick - Çap analog stik
+Right analog stick - Öng analog stik
+Left shoulder button - Çap yelkama (L1) tugmasi
+Right shoulder button - Öng yelkama (R1) tugmasi
+D-pad up button - D-pad yuqori tugmasi
+D-pad down button - D-pad pastki tugmasi
+D-pad left button - D-pad çap tugmasi
+D-pad right button - D-pad öng tugmasi
+USB - USB
+Bluetooth - Bluetooth
+Allow using as pointer and keyboard - Kursor va klaviatura sifatida işlatişga ruxsat beriş
+No game controllers found - Öyin kontrollerlari topilmadi
+Connect a wired or wireless controller - Simli yoki simsiz kontrollerni ulang
+Device: - Qurilma:
+Device type: - Qurilma turi:
+Connection type: - Ulaniş turi:
+Buttons: - Tugmalar:
+Axes: - Öqlar (Axes):

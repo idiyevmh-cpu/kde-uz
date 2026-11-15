@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Ark - Ark
+Archiving Tool - Arxivlaş vositasi
+Ark is a graphical file compression/decompression utility with support for multiple formats, including tar, gzip, bzip2, rar and zip, as well as CD-ROM images. Ark can be used to browse, extract, create, and modify archives. - Ark — tar, gzip, bzip2, rar, zip va CD-ROM obrazlari kabi köplab formatlarni qöllab-quvvatlaydigan grafik fayllarni siqiş/arxivdan çiqariş vositasi. Ark yordamida arxivlarni köriş, ajratiş, yaratiş va tahrirlaş mumkin.
+Features: - Xususiyatlari:
+Several formats supported: gzip, bzip2, zip, rar, 7z and more - Bir neçta formatlar qöllab-quvvatlanadi: gzip, bzip2, zip, rar, 7z va boşqalar
+Preview file contents without extracting files - Fayllarni ajratmasdan turib ularning tarkibini oldindan köriş
+Managing archives with Ark - Ark yordamida arxivlarni boşqariş

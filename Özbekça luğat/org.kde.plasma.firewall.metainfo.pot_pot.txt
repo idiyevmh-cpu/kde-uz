@@ -1,0 +1,6 @@
+Source text - Tarjima text
+Plasma Firewall - Plasma Brandmauer (Firewall)
+Firewall Interface for Plasma - Plasma uçun brandmauer interfeysi
+Plasma Firewall is a multi-firewall frontend for ease of network configurations. - Plasma Firewall — tarmoq xavfsizligini oson sozlaş uçun möljallangan köp tarmoqli brandmauer grafik interfeysi.
+The plasma firewall showing a default configuration page - Standart sozlaş sahifasi aks etgan Plasma brandmaueri
+Tomaz Canabrava &lt;tcanabrava@kde.org&gt; - Tomaz Canabrava &lt;tcanabrava@kde.org&gt;

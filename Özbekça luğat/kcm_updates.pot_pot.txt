@@ -1,0 +1,15 @@
+Source text - Tarjima text
+Update software: - Dasturlarni yangilaş:
+Manually - Qölbola (Qöl bilan)
+Automatically - Avtomatik
+Software updates will be downloaded automatically when they become available. Updates for applications will be installed immediately, while updates for the system will be installed the next time it’s restarted. - Dasturiy taʼminot yangilanişlari paydo bölişi bilan avtomatik ravişda yuklab olinadi. Ilovalar uçun yangilanişlar darhol örnatiladi, tizim yangilanişlari esa tizim keyingi safar qayta işga tuşirilganda örnatiladi.
+Update frequency: - Yangilaniş davriyligi:
+Notification frequency: - Bildirişnomalar davriyligi:
+Daily - Har kuni
+Weekly - Har hafta
+Monthly - Har oy
+Never - Heç qaçon
+Apply system updates: - Tizim yangilanişlarini qöllaş:
+After rebooting - Qayta tuşirilgandan söng
+Recommended to maximize system stability - Tizim barqarorligini taʼminlaş uçun tavsiya etiladi
+Immediately - Darhol

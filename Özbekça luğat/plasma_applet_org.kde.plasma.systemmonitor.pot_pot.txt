@@ -1,0 +1,6 @@
+Appearance - Taşqi köriniş
+%1 Details - %1 tafsilotlari
+Sensors Details - Datçiklar tafsilotlari
+System Monitor - Tizim monitori
+%1: %2 - %1: %2
+Open System Monitor… - Tizim monitorini oçiş…

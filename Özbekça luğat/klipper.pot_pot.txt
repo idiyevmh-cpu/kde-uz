@@ -1,0 +1,28 @@
+Source text - Tarjima text
+Clipboard history: - Almaşiş buferi tarixi:
+Selection and Clipboard: - Tanlov va almaşiş buferi:
+Clear History - Tarixni tozalaş
+Configure Clipboard… - Almaşiş buferini sozlaş…
+All History - Barça tarix
+Starred Only - Faqat yulduzçali (sevimli)lar
+Clear Secret Data - Maxfiy maʼlumotlarni tozalaş
+Clipboard is empty - Almaşiş buferi böş
+Invoke action - Amalni çaqiriş
+Şow QR code - QR kodni körsatiş
+Edit contents - Tarkibni tahrirlaş
+Remove from history - Tarixdan olib taşlaş
+Remove Star - Yulduzçani olib taşlaş
+Star - Yulduzça qöyiş (Sevimlilarga qöşiş)
+Save - Saqlaş
+Cancel - Bekor qiliş
+Copy - Nusxalaş
+QR Code - QR kod
+Do you really want to clear and delete the entire clipboard history? - Haqiqatan ham butun bufer tarixini tozalab, öçirib taşlamoqçimisiz?
+Clear Clipboard History - Bufer tarixini tozalaş
+Do not ask again - Boşqa söralmasin
+Clipboard - Almaşiş buferi
+Save history across desktop sessions - Tarixni iş stoli seanslari oraliğida saqlaş
+Save images - Rasmlarni saqlaş
+Store images in the clipboard history. - Rasmlarni almaşiş buferi tarixida saqlaş.
+History size: - Tarix hajmi:
+Trim whitespace - Böşliqlarni olib taşlaş

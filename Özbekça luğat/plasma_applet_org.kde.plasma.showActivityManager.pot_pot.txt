@@ -1,0 +1,10 @@
+Appearance - Taşqi köriniş
+Icon: - Belgi:
+Show the current activity icon - Joriy faoliyat belgisini körsatiş
+Show the generic activity icon - Umumiy faoliyat belgisini körsatiş
+Title: - Sarlavha:
+Show the current activity name - Joriy faoliyat nomini körsatiş
+Current activity is %1 - Joriy faoliyat: %1
+Show Activity Manager - Faoliyatlar boşqaruvçisini körsatiş
+Click to show the activity manager - Faoliyatlar boşqaruvçisini körsatiş uçun bosing
+&Configure Activities… - Faoliyatlarni &sozlaş…

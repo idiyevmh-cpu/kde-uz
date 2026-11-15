@@ -1,0 +1,73 @@
+Open... - Oçiş...
+Open File - Faylni oçiş
+Reloa&d - &Qaytadan yuklaş
+Reload selected document(s) from disk. - Tanlangan hujjat(lar)ni diskdan qayta yuklaş.
+Close - Yopiş
+Close the current document. - Joriy oynani yoki hujjatni yopiş
+Expand Recursively - Rekursiv yoyiş
+Expand the file list sub tree recursively. - Fayllar röyxati daraxtini rekursiv yoyiş.
+Collapse Recursively - Rekursiv yiğiş
+Collapse the file list sub tree recursively. - Fayllar röyxati daraxtini rekursiv yiğiş.
+Close Other - Boşqasini yopiş
+Close other documents in this folder. - Uşbu jilddagi boşqa hujjatlarni yopiş.
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Open the folder this file is located in. - Uşbu fayl joylaşgan jildni oçiş.
+Copy Location - Manzildan nusxa oliş
+Copy path and filename to the clipboard. - Yöl va fayl nomini vaqtinçalik xotiraga nusxalaş.
+Rename... - Nomini özgartiriş...
+Rename the selected file. - Tanlangan fayl nomini özgartiriş.
+Print selected document. - Tanlangan hujjatni çop etiş.
+Show print preview of current document - Joriy hujjatni bosib çiqariş.
+Delete - Öçiriş
+Close and delete selected file from storage. - Tanlangan faylni yopiş va xotiradan öçiriş.
+Tree Mode - Daraxt rejimi
+Set view style to Tree Mode - Köriniş uslubini Daraxt rejimiga örnatiş
+List Mode - Röyxat rejimi
+Set view style to List Mode - Köriniş uslubini Röyxat rejimiga örnatiş
+Document Name - Hujjatning nomi
+Sort by Document Name - Hujjatning nomi
+Document Path - Hujjatlar röyxati
+Sort by Document Path - Hujjat yöli böyiça saralaş
+Opening Order - Oçiş tartibi
+Sort by Opening Order - Oçiş tartibi
+Custom Sorting - Maxsus saralaş
+Clear History - Tarixni tozalaş
+Clear edit/view history. - Tahrirlaş/köriş tarixini tozalaş.
+Open With - ...bilan &oçiş
+Show Git History - Git tarixini körsatiş
+Unpin Document - Hujjatlarni oçiş
+Pin Document - Hujjatlar
+View Mode - Köriş usuli
+Sort By - Saralaş
+Background Shading - Fonni soyalaş
+&Viewed documents' shade: - &Körilgan hujjatlar soyasi:
+&Modified documents' shade: - &Özgartirilgan hujjatlar soyasi:
+&Sort by: - &Saralaş:
+Opening Order - Oçiş tartibi
+Document Name - Hujjatning nomi
+Url - Url
+&View Mode: - &Köriş rejimi:
+Tree View - Daraxtsimon köriniş
+List View - Oy körinişi
+&Show Full Path - &Töliq yölni körsatiş
+Show &Toolbar - &Asboblar panelini körsatiş
+Show Close Button On Hovering - Kursor keltirilganda yopiş tugmasini körsatiş
+Middle Click To Close Documents - Hujjatlarni yopiş uçun siçqonçaning örta tugmasini bosing
+When background shading is enabled, documents that have been viewed or edited within the current session will have a shaded background. The most recent documents have the strongest shade. - Fonni soyalaş yoqilganda, joriy seansda körilgan yoki tahrirlangan hujjatlar soyali fonga ega böladi.
+Set the color for shading viewed documents. - Körilgan hujjatlarni soyalaş rangini belgilaş.
+Set the color for modified documents. This color is blended into the color for viewed files. The most recently edited documents get most of this color. - Özgartirilgan hujjatlar uçun rangni belgilaş.
+When enabled, in tree mode, top level folders will show up with their full path rather than just the last folder name. - Yoqilganda, daraxt rejimida yuqori darajadagi jildlar töliq yöli bilan körsatiladi.
+When enabled, a toolbar with actions like “Save” are displayed above the list of documents. - Yoqilganda, hujjatlar röyxati ustida “Saqlaş” kabi amallarga ega asboblar paneli körsatiladi.
+Documents - Tovuşni kötariş
+Configure Documents - Joriy hujjat
+Open Widgets - Vidjetlarni oçiş
+<p><b>%1</b></p><p>The document has been modified by another application.</p> - <p><b>%1</b></p><p>Hujjat boşqa ilova tomonidan özgartirilgan.</p>
+Filter… - Jild
+Previous Document - Oldingi hujjat
+Next Document - Keyingi hujjat
+&Show Active Document - &Faol hujjatni körsatiş
+Save - Saqlaş
+Save the current document - Joriy hujjatni saqlaş
+Save As - Saqlaş
+Save the current document under a new name - Joriy hujjatni yangi nom bilan saqlaş
+&Go - Ö&tiş

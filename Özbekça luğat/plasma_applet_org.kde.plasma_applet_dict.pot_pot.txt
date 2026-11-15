@@ -1,0 +1,9 @@
+Add More Dictionaries - Köproq luğatlar qöşiş
+Dictionaries - Luğatlar
+Add More… - Yana qöşiş…
+Unable to load dictionary list - Luğatlar röyxatini yuklab bölmadi
+Error code: %1 (%2) - Xato kodi: %1 (%2)
+No dictionaries - Luğatlar yöq
+Delete - Öçiriş
+Enter word to define here… - Bu yerga taʼriflanadigan sözni kiriting…
+Unable to load definition - Taʼrifni yuklab bölmadi

@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Phonebook - Kontaktlar daftari (Telefon kitobi)
+Edit and view Contacts - Kontaktlarni köriş va tahrirlaş
+friends;address book;contact list; - döstlar;manzillar kitobi;kontaktlar röyxati;raqamlar;

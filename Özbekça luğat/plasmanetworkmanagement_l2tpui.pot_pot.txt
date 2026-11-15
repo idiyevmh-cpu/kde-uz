@@ -1,0 +1,101 @@
+Gateway: - Şlyuz:
+L2TP server IP or name. - L2TP server IP manzili yoki nomi.
+Authentication type: - Autentifikatsiya turi:
+Select an authentication mode. - Autentifikatsiya rejimini tanlang.
+Password - Parol
+Certificates (TLS) - Sertifikatlar (TLS)
+Username: - Foydalanuvçi nomi:
+<html><head/><body><p>Set the name used for authenticating the local system to the peer to &lt;name&gt;.</p></body></html> - <html><head/><body><p>Mahalliy tizimni uzelda autentifikatsiya qiliş uçun foydalaniladigan nomni &lt;name&gt; ga örnating.</p></body></html>
+Password: - Parol:
+<html><head/><body><p>Password passed to PPPD when prompted for it.</p></body></html> - <html><head/><body><p>Söralganda PPPD-ga uzatiladigan parol.</p></body></html>
+NT Domain: - NT domeni:
+<html><head/><body><p>Append the domain name &lt;domain&gt; to the local host name for</p><p>authentication purposes.</p></body></html> - <html><head/><body><p>Autentifikatsiya maqsadlarida mahalliy xost nomiga &lt;domain&gt;</p><p>domen nomini qöşiş.</p></body></html>
+CA Certificate: - CA sertifikati:
+<html><head/><body><p>Certificate authority (CA) file in .pem, .der, .crt, .cer or .p12 formats.</p></body></html> - <html><head/><body><p>.pem, .der, .crt, .cer yoki .p12 formatlaridagi sertifikatlar markazi (CA) fayli.</p></body></html>
+User Certificate: - Foydalanuvçi sertifikati:
+<html><head/><body><p>Certificate in .pem, .der, .crt, .cer or .p12 formats.</p></body></html> - <html><head/><body><p>.pem, .der, .crt, .cer yoki .p12 formatlaridagi sertifikat.</p></body></html>
+Private Key: - Maxfiy kalit:
+<html><head/><body><p>Private key in .pem, .der, .key, .pk8 or .p12 formats.</p></body></html> - <html><head/><body><p>.pem, .der, .key, .pk8 yoki .p12 formatlaridagi maxfiy kalit.</p></body></html>
+Private Key Password: - Maxfiy kalit paroli:
+<html><head/><body><p>Password for private key or PKCS#12 certificate.</p></body></html> - <html><head/><body><p>Maxfiy kalit yoki PKCS#12 sertifikati uçun parol.</p></body></html>
+Do not use UDP port 1701 for L2TP source port even if it is free.
+An ephemeral (random) high port number will be used instead.
+
+May be required to allow multiple L2TP clients behind the same NAT. - Böş bölsa ham L2TP manba porti uçun 1701 UDP portidan foydalanmaslik. Buning örniga vaqtinçalik (tasodifiy) yuqori port raqami işlatiladi. Bir xil NAT ortidagi bir neçta L2TP mijozlariga ruxsat beriş uçun talab qilinişi mumkin.
+Use L2TP ephemeral source port - L2TP vaqtinçalik manba portidan foydalaniş
+IPsec Settings… - IPsec sozlamalari…
+PPP Settings… - PPP sozlamalari…
+User Password: - Foydalanuvçi paroli:
+User Certificate Password: - Foydalanuvçi sertifikati paroli:
+Machine Certificate Password: - Kompyuter sertifikati paroli:
+Pre-shared Key: - Oldindan ulaşilgan kalit (PSK):
+Enable IPsec tunnel to L2TP host - L2TP xostiga IPsec tunnelini yoqiş
+Machine Authentication - Kompyuter autentifikatsiyasi
+Type: - Turi:
+Pre-shared Key (PSK) - Oldindan ulaşilgan kalit (PSK)
+<html><head/><body><p>Pre-shared key (PSK) secret.</p></body></html> - <html><head/><body><p>Oldindan ulaşilgan kalit (PSK) siri.</p></body></html>
+Machine Certificate: - Kompyuter sertifikati:
+<html><head/><body><p>Certificate in .pem, .der or .p12 formats.</p></body></html> - <html><head/><body><p>.pem, .der yoki .p12 formatlaridagi sertifikat.</p></body></html>
+Advanced - Qöşimça
+Phase1 Algorithms: - 1-bosqiç algoritmlari:
+Phase2 Algorithms: - 2-bosqiç algoritmlari:
+<html><head/><body><p>Optional. A list of proposals for ESP - Quick Mode. The format is “enc-integ,enc-integ, …”.</p></body></html> - <html><head/><body><p>Ixtiyoriy. ESP - Tezkor rejim uçun takliflar röyxati. Format: “enc-integ,enc-integ, …”.</p></body></html>
+<html><head/><body><p>How long the keying channel of a connection should last before being renegotiated.</p></body></html> - <html><head/><body><p>Ulanişning kalitlaş kanali qayta muzokara qilinişidan oldin qança davom etişi kerakligi.</p></body></html>
+hh:mm:ss - soat:daq:son
+Phase1 Lifetime: - 1-bosqiç amal qiliş muddati:
+<html><head/><body><p>Optional. A list of proposals for IKE - Main Mode. The format is “enc-integ-group,enc-integ-group, …”.</p></body></html> - <html><head/><body><p>Ixtiyoriy. IKE - Asosiy rejim uçun takliflar röyxati. Format: “enc-integ-group,enc-integ-group, …”.</p></body></html>
+Phase2 Lifetime: - 2-bosqiç amal qiliş muddati:
+<html><head/><body><p>How long a particular instance of a connection (a set of encryption/authentication keys for user packets) should last, from successful negotiation to expiry.</p></body></html> - <html><head/><body><p>Ulanişning muayyan nusxasi (foydalanuvçi paketlari uçun şifrlaş/autentifikatsiya kalitlari töplami) muvaffaqiyatli muzokaradan to muddati tugagunga qadar qança davom etişi kerakligi.</p></body></html>
+<html><head/><body><p>Optional. How the IPsec server should be identified for authentication. Sometimes referred to as Peer ID or Gateway ID, also referred to as rightid by strongSwan, Libreswan, Openswan and FreeS/WAN. See strongSwan or Libreswan documentation for leftid/rightid syntax and identity parsing.</p></body></html> - <html><head/><body><p>Ixtiyoriy. Autentifikatsiya uçun IPsec serveri qanday aniqlanişi kerakligi. Baʼzan Peer ID yoki Gateway ID deb ataladi, şuningdek strongSwan, Libreswan, Openswan va FreeS/WAN tomonidan rightid deb ham yuritiladi. leftid/rightid sintaksisi va identifikatorni tahlil qiliş uçun strongSwan yoki Libreswan hujjatlariga qarang.</p></body></html>
+<html><head/><body><p>IPComp compresses raw IP packets before they get encrypted. This saves some bandwidth, but uses more processing power.</p></body></html> - <html><head/><body><p>IPComp xom IP paketlarini şifrlanişidan oldin siqadi. Bu ötkaziş qobiliyatini tejaydi, ammo köproq protsessor quvvatini sarflaydi.</p></body></html>
+Use IP compression - IP siqilişidan foydalaniş
+Use IKEv2 key exchange - IKEv2 kalit almaşinuvidan foydalaniş
+<html><head/><body><p>Disable perfect forward secrecy. Do this only if the server doesn’t support PFS.</p></body></html> - <html><head/><body><p>Perfect Forward Secrecy (PFS) rejimini öçiriş. Buni faqat server PFS-ni qöllab-quvvatlamagan taqdirdagina bajaring.</p></body></html>
+Disable PFS - PFS-ni öçiriş
+<html><head/><body><p>Some firewalls block ESP traffic. Enforcing UDP encapsulation even if no NAT situation is detected might help in such cases.</p></body></html> - <html><head/><body><p>Baʼzi brandmauerlar ESP trafikini bloklaydi. NAT holati aniqlanmagan bölsa ham UDP inkapsulyatsiyasini majburlaş bunday holatlarda yordam berişi mumkin.</p></body></html>
+Enforce UDP encapsulation - UDP inkapsulyatsiyasini majburlaş
+Remote ID: - Masofaviy ID:
+L2TP IPsec Options - L2TP IPsec parametrlari
+Authentication - Autentifikatsiya
+Allow following authentication methods: - Quyidagi autentifikatsiya usullariga ruxsat beriş:
+Allow/disable authentication methods - Autentifikatsiya usullarini yoqiş/öçiriş
+PAP - PAP
+CHAP - CHAP
+MSÇap - MSCHAP
+MSÇapv2 - MSCHAPv2
+EAP - EAP
+Compression - Siqiş
+Allow/disable BSD-Compress compression. - BSD-Compress siqilişini yoqiş/öçiriş.
+Allow BSD compression - BSD siqilişiga ruxsat beriş
+Allow/disable Deflate compression. - Deflate siqilişini yoqiş/öçiriş.
+Allow Deflate compression - Deflate siqilişiga ruxsat beriş
+Allow/disable Van Jacobson style TCP/IP header compression in both the transmit
+and the receive directions. - Uzatiş va qabul qiliş yönalişlarida Van Jacobson uslubidagi TCP/IP sarlavhalarini siqişni yoqiş/öçiriş.
+Allow TCP header compression - TCP sarlavhalarini siqişga ruxsat beriş
+Allow protocol field compression negotiation in both the receive and the
+ transmit directions. - Qabul qiliş va uzatiş yönalişlarida protokol maydonini siqiş kelişuviga ruxsat beriş.
+Use protocol field compression negotiation - Protokol maydonini siqiş kelişuvidan foydalaniş
+Use Address/Control compression in both directions (send and receive). - Ikkala yönalişda (yuboriş va qabul qiliş) Manzil/Boşqaruv siqilişidan foydalaniş.
+Use Address/Control compression - Manzil/Boşqaruv siqilişidan foydalaniş
+Echo - Exo
+Send LCP echo-requests to find out whether peer is alive. - Uzel aloqada ekanligini aniqlaş uçun LCP exo-sörovlarini yuboriş.
+Send PPP echo packets - PPP exo paketlarini yuboriş
+Other Settings - Boşqa sozlamalar
+Try to negotiate a PPP Multilink on a single connection. - Bitta ulanişda PPP Multilink kelişişiga uriniş.
+Multilink PPP MRRU:  - Multilink PPP MRRU: 
+MRU:  - MRU: 
+MTU:  - MTU: 
+Note: MPPE encryption is only available with MSÇap authentication methods. To
+enable this checkbox, select one or more of the MSÇap authentication
+methods: MSÇap or MSÇapv2. - Eslatma: MPPE şifrlaşi faqat MSCHAP autentifikatsiya usullari bilan mavjud. Uşbu
+katakçani yoqiş uçun MSCHAP autentifikatsiya usullaridan birini yoki bir neçtasini
+tanlang: MSCHAP yoki MSCHAPv2.
+Use MPPE Encryption - MPPE şifrlaşidan foydalaniş
+Crypto: - Kripto:
+Require the use of MPPE, with 40/128-bit encryption or all. - 40/128-bitli yoki barça şifrlaş bilan MPPE işlatilişini talab qiliş.
+Any - Har qanday
+128 bit - 128 bit
+40 bit - 40 bit
+Allow MPPE to use stateful mode. Stateless mode is still attempted first. - MPPE holatli rejimidan foydalanişiga ruxsat beriş. Avval holatsiz rejim sinab köriladi.
+Use stateful encryption - Holatli şifrlaşdan foydalaniş
+L2TP PPP Options - L2TP PPP parametrlari

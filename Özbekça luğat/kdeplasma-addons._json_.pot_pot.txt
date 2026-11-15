@@ -1,0 +1,83 @@
+Source text - Tarjima text
+Binary Clock - Ikkilik soati
+Calculator - Kalkulyator
+Color Picker - Rang tanlagiç (pipetka)
+Comic Strip - Komikslar
+Dictionary - Luğat
+Disk Quota - Disk kvotasi
+Fifteen Puzzle - 15 qismli boşqotirma (Pyatnaşki)
+Fuzzy Clock - Taxminiy soat
+Grouping Plasmoid - Guruhlovçi plazmoid
+Kate Sessions - Kate seanslari
+Lock Keys Status - Qulflaş tugmalari holati
+Application Dashboard - Ilovalar paneli
+Konsole Profiles - Konsole profillari
+Media Frame - Media ramkasi
+Sticky Note - Qayd qoğozi (Stiker)
+Quicklaunch - Tezkor işga tuşirgiç
+Timer - Taymer
+User Switcher - Foydalanuvçilarni almaştirgiç
+Weather Report - Ob-havo maʼlumoti
+Web Browser - Veb-brauzer
+Kameleon - Kameleon
+Cube - Kub (3D effekt)
+Virtual Desktops Only on Primary - Virtual iş stollari faqat asosiy ekranda
+Large Icons - Katta belgilar
+Compact - Qisqa (Ixçam)
+Cover Switch - Muqovalar almaştirgiçi (Cover Switch)
+Flip Switch - Varaqlab almaştirgiç (Flip Switch)
+Sidebar - Yon panel
+Alternate Calendar - Muqobil taqvim
+Astronomical Events - Astronomik hodisalar
+Special Characters - Maxsus belgilar
+Colors - Ranglar
+Unit Converter - Birliklar konverteri
+Date and Time - Sana va vaqt
+Spell Checker - Imlo tekşiruvçisi
+Haenau - Haenau
+Hunyango - Hunyango
+Picture of the Day - Kun rasmi
+Astronomy (NASA) - Astronomiya (NASA)
+Bing - Bing
+David Revoy Wallpapers - David Revoy fon rasmlari
+Flickr - Flickr
+Simon Stålenhag Wallpapers - Simon Stålenhag fon rasmlari
+Wikimedia Commons - Wikimedia Commons
+Tiled - Mozaika (Koşin)
+Time displayed in binary format - Vaqt ikkilik sanoq tizimida körsatiladi
+Calculate simple sums - Oddiy hisob-kitoblarni bajariş
+Pick a color from the desktop - Iş stolidan ixtiyoriy rangni tanlab oliş
+View comic strips from the Internet - Internetdan komikslarni köriş
+Look up the meaning of words and their translation into different languages - Sözlar maʼnosini va turli tillarga tarjimasini topiş
+Shows details about disk quota - Disk kvotasi haqida maʼlumotlarni körsatadi
+Put the pieces in order - Bölaklarni tartib bilan joylaştiring
+Time displayed in a less precise format - Vaqt matnli noaniq (taxminiy) şaklda körsatiladi
+Group Plasma widgets together - Plasma vidjetlarini bitta guruhga birlaştiriş
+Kate session launcher - Kate seanslarini işga tuşirgiç
+Shows whether Caps Lock or Num Lock are active - Caps Lock yoki Num Lock faolligini körsatadi
+A fullscreen application launcher - Butun ekranni egallovçi ilovalarni işga tuşirgiç
+List and launch Konsole profiles - Konsole profillari röyxatini köriş va işga tuşiriş
+(Picture) frame - Rasm ramkasi
+Desktop sticky note - Iş stolidagi qaydlar stikeri
+Launch your favourite applications - Sevimli ilovalaringizni işga tuşiring
+Countdown over a specified time period - Belgilangan vaqt oraliğida ortga hisoblaş
+Quickly switch between different users - Turli foydalanuvçilar örtasida tezkor almaşiş
+Forecast and current conditions - Ob-havo maʼlumoti va joriy holat
+Add a webpage on your desktop. - Iş stolingizga veb-sahifa qöşing.
+Synchronizes device LEDs with the Plasma accent color - Qurilmaning LED yoritkiçlarini Plasma urğu rangi bilan sinxronlaydi
+Arrange desktops in a virtual cube; activated with a keyboard shortcut - Iş stollarini virtual kub körinişida joylaştiriş
+Switching virtual desktops only affects the primary screen - Virtual iş stollarini almaştiriş faqat asosiy ekranga taʼsir qiladi
+A window switcher layout using large icons to represent the window - Oynani ifodalovçi katta belgilar bilan oynalarni almaştirgiç
+A compact window switcher layout - Ixçam oynalarni almaştirgiç maketi
+Show dates in an alternate calendar system, such as Chinese Lunar or Islamic - Sanalarni Xitoy qamariy yoki Islom hijriy taqvimida körsatiş
+Show lunar phases, solstices, and equinoxes - Oy fazalari, kun töxtaşi va tengkunliklarni körsatiş
+Creates special characters from their hexadecimal codes - Ön oltilik kodlari asosida maxsus belgilarni kiritiş
+Display hex colors, rgb color triplets, and SVG color names - Ön oltilik, RGB va SVG rang nomlarini körsatiş
+Convert values to different units - Qiymatlarni turli ölçov birliklariga ötkaziş
+The current date and time, locally or in any timezone - Mahalliy yoki istalgan vaqt mintaqasidagi joriy sana va vaqt
+Define words - Sözlar maʼnosini aniqlaş
+Matches Kate Sessions - Kate seanslariga mos keladi
+Matches Konsole Profiles - Konsole profillariga mos keladi
+Check the spelling of a word - Sözning töğri yozilişini tekşiriş
+A new picture from the Internet each day - Har kuni internetdan yangi ajoyib rasm
+Wallpaper view for tiled images - Mozaika (tiled) rasmlar uçun fon körinişi

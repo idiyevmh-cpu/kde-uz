@@ -1,0 +1,31 @@
+Private Key Password: - Maxfiy kalit paroli:
+PIN: - PIN:
+Password: - Parol:
+Configuration uses ssh-agent for authentication, but no ssh-agent found running. - Sozlama autentifikatsiya uçun ssh-agent-dan foydalanadi, ammo işlayotgan ssh-agent topilmadi.
+Strong Swan VPN - Strong Swan VPN
+Password:  - Parol: 
+Gateway - Şlyuz
+Gateway: - Şlyuz:
+Certificate: - Sertifikat:
+Identity: - Şa&xsiyat:
+Authentication - Tasdiqlaş
+Certificate/private key - Sertifikat/maxfiy kalit
+Certificate/ssh-agent - Sertifikat/ssh-agent
+Smartcard - Smart-karta
+EAP - EAP
+EAP-TTLS - EAP-TTLS
+Private key: - Maxfiy kalit:
+Private Key Password: - Maxfiy kalit paroli:
+PIN: - PIN:
+Username: - Foydalanuvçi:
+User Password: - Foydalanuvçi paroli:
+Uses the same Username/Password fields as EAP above. - Yuqoridagi EAP bilan bir xil Foydalanuvçi nomi/Parol maydonlaridan foydalanadi.
+Options - Parametrlar
+Request an inner IP address - Içki IP manzilni söraş
+Enforce UDP encapsulation - UDP inkapsulyatsiyasini majburlaş
+Use IP compression - IP siqilişidan foydalaniş
+Enable Custom Cipher Proposals - Maxsus şifr takliflarini yoqiş
+IKE: - IKE:
+A list of proposals for IKE separated by ";" - IKE uçun takliflar röyxati (";" bilan ajratilgan)
+ESP: - ESP:
+A list of proposals for ESP separated by ";" - ESP uçun takliflar röyxati (";" bilan ajratilgan)

@@ -1,0 +1,46 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Photo - Rasm (Foto)
+Video - Video
+Microphone is enabled - Mikrofon yoqilgan
+Microphone is disabled - Mikrofon öçirilgan
+Exposure - Ekspozitsiya
+Camera - Kamera
+An error occurred: \"%1\". Please consider restarting the application if it stopped working. - Xatolik yuz berdi: \"%1\". Agar ilova işlaşdan töxtagan bölsa, uni qayta işga tuşirişni körib çiqing.
+The video encoder is struggling to keep up. Try lowering your recording settings to improve performance. - Video enkoder ulgurişga qiynalmoqda. Unumdorlikni oşiriş uçun yozib oliş sozlamalarini pasaytirib köring.
+Switch mode - Rejimni almaştiriş
+Switch Camera - Kamerani almaştiriş
+Cancel self-timer - Avtotaymerni bekor qiliş
+Capture photo - Rasmga oliş
+Stop recording video - Video yozişni töxtatiş
+Start recording video - Video yozişni boşlaş
+Failed to take a photo - Rasmga olib bölmadi
+Failed to start recording - Yozib olişni boşlab bölmadi
+Exposure Value - Ekspozitsiya qiymati
+Camera not available - Kamera mavjud emas
+Settings - Sozlamalar
+Select camera - Kamerani tanlang
+Video recording resolution - Video yoziş aniqligi
+Video recording quality - Video yoziş sifati
+Video recording frame rate - Video yoziş kadr çastotasi
+Video recording codec - Video yoziş kodeki
+Filename pattern - Fayl nomi andozasi
+Output path - Çiqiş yöli
+About - Haqida
+Video Recording Resolution - Video yoziş aniqligi
+Auto - Avto
+Video Recording Quality - Video yoziş sifati
+Very low quality - Juda past sifat
+Low quality - Past sifat
+Normal quality - Oddiy sifat
+High quality - Yuqori sifat
+Very high quality - Juda yuqori sifat
+Video Recording Framerate - Video yoziş kadr çastotasi
+Video Recording Codec - Video yoziş kodeki
+Select Camera - Kamerani tanlaş
+Output filename pattern - Çiqiş fayli nomi andozasi
+© Plasma Mobile Developers - © Plasma Mobile dasturçilari
+Marco Martin - Marco Martin
+Jonah Brüchert - Jonah Brüchert
+Andrew Wang - Andrew Wang
+Devin Lin - Devin Lin

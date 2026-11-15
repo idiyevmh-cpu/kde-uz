@@ -1,0 +1,5 @@
+Source text - Tarjima text
+Invalid PipeWire installation. See https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/3296 for more details. - Notöğri PipeWire örnatilişi. Batafsil maʼlumot uçun https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/3296 sahifasiga qarang.
+Failed to create PipeWire context - PipeWire kontekstini yaratib bölmadi
+Failed to connect to PipeWire - PipeWire tizimiga ulanib bölmadi
+Failed to start main PipeWire loop - PipeWire asosiy siklini işga tuşirib bölmadi

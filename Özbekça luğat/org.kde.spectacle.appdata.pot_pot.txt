@@ -1,0 +1,11 @@
+Source text - Tarjima text
+Spectacle - Spectacle
+Take screenshots and recordings - Ekran rasmlari va video yozuvlarini oliş
+Spectacle is a simple application for capturing desktop screenshots. It can capture images of the entire desktop, a single monitor, the currently active window, the window currently under the mouse, or a rectangular region of the screen. The images can then be printed, sent to other applications for manipulation, or quickly be saved as-is. - Spectacle — iş stoli skrinşotlarini oliş uçun qulay dastur. U butun iş stoli, alohida monitor, faol oyna, kursor ostidagi oyna yoki ekranning törtburçak sohasini rasmga olişi mumkin. Rasmlarni çop etiş, boşqa ilovalarga yuboriş yoki darhol saqlaş mumkin.
+Features: - Xususiyatlari:
+Capture Entire Desktop - Butun iş stolini rasmga oliş
+Capture Current Monitor - Joriy monitorni rasmga oliş
+Capture Active Window - Faol oynani rasmga oliş
+Capture Rectangular Region - Törtburçak sohani rasmga oliş
+Keyboard shortcuts for taking screenshots - Skrinşotlar oliş uçun tezkor klaviatura tugmalari
+Spectacle after taking a screenshot - Skrinşot olingandan keyingi Spectacle körinişi

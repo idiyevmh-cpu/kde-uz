@@ -1,0 +1,6 @@
+%1: TTY login - %1: TTY orqali kiriş
+Unused - Foydalanilmagan
+X login on remote host - Masofaviy xostda X orqali kiriş
+X login on %1 - %1 da X orqali kiriş
+%1: %2 - %1: %2
+%1 (%2) - %1 (%2)

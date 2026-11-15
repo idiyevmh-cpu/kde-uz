@@ -1,0 +1,10 @@
+Result is %1 - Natija: %1
+undef - aniqlanmagan
+Result - Natija
+C - K1
+÷ - ÷
+× - ×
+AC - AC (tarmoq quvvati)
+- - -
++ - +
+= - =

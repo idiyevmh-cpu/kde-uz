@@ -1,0 +1,6 @@
+No Caller ID - Raqam aniqlanmadi
+Missed call - Ötkazib yuborilgan qönğiroq
+Missed call from %1 - %1 dan ötkazib yuborilgan qönğiroq
+Incoming call - Kiruvçi qönğiroq
+Accept - Qabul qiliş
+Reject - Rad etiş

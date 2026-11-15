@@ -1,0 +1,2 @@
+Comic Books - Komikslar
+Adds support for reading comic books - Komikslarni öqişni qöllab-quvvatlaydi

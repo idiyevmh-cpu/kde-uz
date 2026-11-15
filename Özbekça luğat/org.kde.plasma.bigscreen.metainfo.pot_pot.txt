@@ -1,0 +1,4 @@
+Source text - Tarjima text
+KDE Plasma Bigscreen - KDE Plasma Bigscreen
+Plasma Shell for TVs - Televizorlar uçun Plasma qobiği
+Plasma Bigscreen is an open-source user interface for TVs. Running on top of a Linux distribution, Plasma Bigscreen turns your TV or set-top box into a fully hackable device. A big launcher giving you easy access to any installed apps and skills. Controllable via voice or TV remote. - Plasma Bigscreen — televizorlar uçun möljallangan oçiq kodli foydalanuvçi interfeysi. Linux tizimida işlaydigan Plasma Bigscreen televizoringiz yoki pristavkani (TV box) tölaqonli aqlli qurilmaga aylantiradi. Katta qulay menyu orqali barça ilovalarga oson kiriş mumkin. Ovoz yoki televizor pulti orqali boşqariladi.

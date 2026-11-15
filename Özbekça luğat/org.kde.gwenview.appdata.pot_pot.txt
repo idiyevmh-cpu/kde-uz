@@ -1,0 +1,10 @@
+Source text - Tarjima text
+Gwenview - Gwenview
+Image Viewer - Rasmlarni köruvçi
+Gwenview is a fast and easy to use image viewer by KDE, ideal for browsing and displaying a collection of images. - Gwenview — bu KDE tomonidan yaratilgan tezkor va qulay rasm köruvçi dastur bölib, rasmlar töplamini varaqlaş va köriş uçun juda qulay.
+Features: - Xususiyatlari:
+Simple image editing: rotate, crop, resize, mirror, flip, reduce red eye, and adjust brightness, contrast, or gamma - Rasmlarni oddiy tahrirlaş: aylantiriş, qirqiş, ölçamini özgartiriş, akslantiriş, töntariş, qizil köz effektini yöqotiş hamda yorqinlik, kontrast va gammani sozlaş
+Annotate and mark up images with arrows, shapes, text boxes, image stamps, and more - Strelkalar, şakllar, matnli bloklar, muhrlar va boşqalar yordamida rasmlarga izoh qöşiş
+Basic file management actions such as copy, move, delete, and others - Nusxalaş, köçiriş, öçiriş kabi asosiy fayl boşqaruvi amallari
+Main application window displaying an image and controls on the left - Asosiy ilova oynasida rasm va çap tomonda boşqaruv vositalari aks etgan
+Use Gwenview to manage your image collection - Rasmlar töplamingizni boşqariş uçun Gwenview dasturidan foydalaning

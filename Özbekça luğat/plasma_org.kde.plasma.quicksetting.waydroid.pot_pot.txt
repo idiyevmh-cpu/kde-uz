@@ -1,0 +1,4 @@
+Waydroid - Waydroid
+Not initialized - Işga tuşirilmagan
+Running - Işlayapti
+Stopped - Töxtatilgan

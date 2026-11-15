@@ -1,0 +1,13 @@
+Media Controller - Media kontrolleri
+Play/Pause media playback - Mediani ijro etiş/pauza qiliş
+Media playback next - Keyingi mediani ijro etiş
+Media playback previous - Oldingi mediani ijro etiş
+Media playback seek forward 5s - Mediani 5 soniya oldinga ötkaziş
+Media playback seek backward 5s - Mediani 5 soniya orqaga qaytariş
+Media playback seek forward 30s - Mediani 30 soniya oldinga ötkaziş
+Media playback seek backward 30s - Mediani 30 soniya orqaga qaytariş
+Stop media playback - Media ijrosini töxtatiş
+Pause media playback - Media ijrosini pauza qiliş
+Play media playback - Media ijrosini boşlaş
+Media volume up - Media ovozini balandroq qiliş
+Media volume down - Media ovozini pasaytiriş

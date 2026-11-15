@@ -1,0 +1,169 @@
+Copy of %1 - %1 nusxasi
+Application settings for %1 - %1 uçun dastur moslamalari
+Window settings for %1 - %1 uçun oyna moslamalari
+Unimportant - Muhim emas
+Exact match - Aniq moslik
+Substring match - Qism-satr mosligi
+Regular expression - Doimiy ifoda
+Match - Mos keliş
+Apply initially - Dastlab qöllaş
+The window property will be only set to the given value after the window is created.
+No further changes will be affected. - Oyna xususiyati faqat oyna yaratilgandan keyin berilgan qiymatga örnatiladi.
+Keyingi özgarişlar taʼsir qilmaydi.
+Apply now - Darhol qöllaş
+The window property will be set to the given value immediately and will not be affected later
+(this action will be deleted afterwards). - Oyna xususiyati darhol berilgan qiymatga örnatiladi va keyinroq taʼsir qilmaydi
+(bu amal keyin öçirib taşlanadi).
+Remember - Eslab qoliş
+The value of the window property will be remembered and, every time the window is created, the last remembered value will be applied. - Oyna xususiyatining qiymati eslab qolinadi va har safar oyna yaratilganda, oxirgi eslab qolingan qiymat qöllaniladi.
+Do not affect - Taʼsir qilmaslik
+The window property will not be affected and therefore the default handling for it will be used.
+Specifying this will block more generic window settings from taking effect. - Oyna xususiyatiga taʼsir qilinmaydi va şuning uçun standart işlov beriş qöllaniladi.
+Buni körsatiş yanada umumiyroq oyna sozlamalarining kuçga kirişini bloklaydi.
+Force - Majburlaş
+The window property will be always forced to the given value. - Oyna xususiyati har doim berilgan qiymatga majburlanadi.
+Force temporarily - Vaqtinça majburlaş
+The window property will be forced to the given value until it is hidden
+(this action will be deleted after the window is hidden). - Oyna xususiyati u yaşirilgunga qadar berilgan qiymatga majburlanadi
+(bu amal oyna yaşirilgandan keyin öçirib taşlanadi).
+Settings for %1 - %1 uçun moslamalar
+New window settings - Yangi oyna moslamalari
+You have specified the window class as unimportant.
+This means the settings will possibly apply to windows from all applications. If you really want to create a generic setting, it is recommended you at least limit the window types to avoid special window types. - Siz oyna sinfini muhim emas deb körsatdingiz.
+Bu sozlamalar ehtimol barça ilovalarning oynalariga qöllanilişini anglatadi. Agar siz haqiqatan ham umumiy sozlama yaratmoqçi bölsangiz, maxsus oyna turlaridan qoçiş uçun kamida oyna turlarini çeklaş tavsiya etiladi.
+Some applications set their own geometry after starting, overriding your initial settings for size and position. To enforce these settings, also force the property "%1" to "Yes". - Baʼzi ilovalar işga tuşgandan söng öz ölçam va joylaşuv sozlamalarini örnatib, dastlabki sozlamalaringizni bekor qiladi. Uşbu sozlamalarni majburiy qiliş uçun "%1" xususiyatini ham "Ha" ga majburlang.
+Readability may be impaired with extremely low opacity values. At 0%, the window becomes invisible. - Juda past şaffoflik qiymatlarida öqiliş yomonlaşişi mumkin. 0% da oyna butunlay körinmas bölib qoladi.
+Description - &Taʼrif:
+Window matching - Oyna mosligi
+Window class (application) - Oynaning &sinfi (dasturning turi):
+Match whole window class - Butun oyna sinfiga mos keliş
+Whole window class - Butun oyna sinfi
+Window types - Oynaning &turlari:
+Window role - Oyna roli
+Window title - Oynaning s&arlavhasi:
+Machine (hostname) - &Kompyuterning nomi:
+Window tag - Oyna tegi
+Has parent window - Ota-ona oynasiga ega
+Position - &Joylaşişi
+Size & Position - Ölçam va joylaşuv
+Size - Ö&lçam
+Maximized horizontally - &Eniga yoyilgan
+Maximized vertically - &Böyiga yoyilgan
+Virtual desktop - Virtual iş stoli
+Virtual desktops - Virtual iş stollari
+Activities - Faoliyatlar
+Screen - Ekran
+Fullscreen - &Butun ekranga
+Minimized - Yiği&lgan
+Initial placement - Joyl&aştiriş
+Ignore requested geometry - Söralgan geometriyani eʼtiborsiz qoldiriş
+Some applications can set their own geometry, overriding the window manager preferences. Setting this property overrides their placement requests.<nl/><nl/>This affects <interface>Size</interface> and <interface>Position</interface> but not <interface>Maximized</interface> or <interface>Fullscreen</interface> states.<nl/><nl/>Note that the position can also be used to map to a different <interface>Screen</interface> - Baʼzi ilovalar oyna boşqaruvçisi parametrlarini bekor qilib, öz geometriyasini örnatişi mumkin. Bu xususiyatni örnatiş ularning joylaşuv sörovlarini bekor qiladi.<nl/><nl/>Bu <interface>Ölçam</interface> va <interface>Joylaşuv</interface> ga taʼsir qiladi, lekin <interface>Kattalaştirilgan</interface> yoki <interface>Töliq ekran</interface> holatlariga taʼsir qilmaydi.<nl/><nl/>Eʼtibor bering, joylaşuv boşqa <interface>Ekran</interface>ga aks ettiriş uçun ham işlatilişi mumkin
+Minimum Size - Eng &kiçik ölçam
+Maximum Size - Eng ka&tta ölçam
+Keep above other windows - Boşqa oynalardan yuqorida tutiş
+Arrangement & Access - Joylaşuv va kiriş
+Keep below other windows - Boşqa oynalardan quyida tutiş
+Skip taskbar - Vazifalar panelini ötkazib yuboriş
+Controls whether or not the window appears in the Task Manager. - Oyna Vazifalar boşqaruvçisida köriniş-körinmasligini boşqaradi.
+Skip pager - Peyjerni (iş stollari almaştirgiçini) ötkazib yuboriş
+Controls whether or not the window appears in the Virtual Desktop manager. - Oyna Virtual iş stoli boşqaruvçisida köriniş-körinmasligini boşqaradi.
+Skip switcher - Oynalar almaştirgiçini ötkazib yuboriş
+Controls whether or not the window appears in the <shortcut>Alt+Tab</shortcut> window list. - Oyna <shortcut>Alt+Tab</shortcut> oynalar röyxatida köriniş-körinmasligini boşqaradi.
+Shortcut - Tugmalar birikmasi
+Window manager draws titlebar, frame, and shadows - Oyna boşqaruvçisi sarlavha paneli, freym va soyalarni çizadi
+Appearance & Fixes - Köriniş va tuzatişlar
+Titlebar color scheme - Sarlavha paneli rang sxemasi
+Active opacity - Faol paytdagi xiralik (şaffoflik)
+Inactive opacity - Nofaol paytdagi xiralik (şaffoflik)
+Focus stealing prevention - Fokusni öğirlaşni oldini oliş
+KWin tries to prevent windows that were opened without direct user action from raising themselves and taking focus while you're currently interacting with another window. This property can be used to change the level of focus stealing prevention applied to individual windows and apps.<nl/><nl/>Here's what will happen to a window opened without your direct action at each level of focus stealing prevention:<nl/><list><item><emphasis strong='true'>None:</emphasis> The window will be raised and focused.</item><item><emphasis strong='true'>Low:</emphasis> Focus stealing prevention will be applied, but in the case of a situation KWin considers ambiguous, the window will be raised and focused.</item><item><emphasis strong='true'>Normal:</emphasis> Focus stealing prevention will be applied, but  in the case of a situation KWin considers ambiguous, the window will <emphasis>not</emphasis> be raised and focused.</item><item><emphasis strong='true'>High:</emphasis> The window will only be raised and focused if it belongs to the same app as the currently-focused window.</item><item><emphasis strong='true'>Extreme:</emphasis> The window will never be raised and focused.</item></list> - KWin siz hozirda boşqa oyna bilan işlayotganingizda, foydalanuvçining töğridan-töğri harakatisiz oçilgan oynalarning öz-özidan kötarilişi va fokusni egallaşiga yöl qöymaslikka harakat qiladi. Bu xususiyat alohida oynalar va ilovalarga qöllaniladigan fokus öğirlanişining oldini oliş darajasini özgartiriş uçun işlatilişi mumkin.<nl/><nl/>Fokus öğirlanişining oldini olişning har bir darajasida sizning töğridan-töğri harakatingizsiz oçilgan oyna bilan nima sodir böladi:<nl/><list><item><emphasis strong='true'>Heç biri:</emphasis> Oyna kötariladi va fokusga ega böladi.</item><item><emphasis strong='true'>Past:</emphasis> Fokus öğirlanişining oldini oliş qöllaniladi, ammo KWin noaniq deb hisoblagan vaziyatda oyna kötariladi va fokusga ega böladi.</item><item><emphasis strong='true'>Oddiy:</emphasis> Fokus öğirlanişining oldini oliş qöllaniladi, ammo KWin noaniq deb hisoblagan vaziyatda oyna kötarilmaydi va fokusga ega <emphasis>bölmaydi</emphasis>.</item><item><emphasis strong='true'>Yuqori:</emphasis> Oyna faqat hozirda fokusda bölgan oyna bilan bir xil ilovaga tegişli bölsagina kötariladi va fokusga ega böladi.</item><item><emphasis strong='true'>Maksimal:</emphasis> Oyna heç qaçon kötarilmaydi va fokusga ega bölmaydi.</item></list>
+Focus protection - Fokus himoyasi
+This property controls the focus protection level of the currently active window. It is used to override the focus stealing prevention applied to new windows that are opened without your direct action.<nl/><nl/>Here's what happens to new windows that are opened without your direct action at each level of focus protection while the window with this property applied to it has focus:<nl/><list><item><emphasis strong='true'>None</emphasis>: Newly-opened windows always raise themselves and take focus.</item><item><emphasis strong='true'>Low:</emphasis> Focus stealing prevention will be applied to the newly-opened window, but in the case of a situation KWin considers ambiguous, the window will be raised and focused.</item><item><emphasis strong='true'>Normal:</emphasis> Focus stealing prevention will be applied to the newly-opened window, but in the case of a situation KWin considers ambiguous, the window will <emphasis>not</emphasis> be raised and focused.</item><item><emphasis strong='true'>High:</emphasis> Newly-opened windows will only raise themselves and take focus if they belongs to the same app as the currently-focused window.</item><item><emphasis strong='true'>Extreme:</emphasis> Newly-opened windows never raise themselves and take focus.</item></list> - Uşbu xususiyat joriy faol oynaning fokus himoyasi darajasini boşqaradi. U sizning töğridan-töğri harakatingizsiz oçiladigan yangi oynalarga qöllaniladigan fokusni öğirlaşning oldini oliş qoidasini bekor qiliş uçun işlatiladi.<nl/><nl/>Uşbu xususiyat qöllanilgan oyna fokusda bölganda, fokus himoyasining har bir darajasida sizning töğridan-töğri harakatingizsiz oçilgan yangi oynalar bilan nima sodir böladi:<nl/><list><item><emphasis strong='true'>Heç biri</emphasis>: Yangi oçilgan oynalar doimo kötariladi va fokusni oladi.</item><item><emphasis strong='true'>Past:</emphasis> Yangi oçilgan oynaga fokusni öğirlaşning oldini oliş qöllaniladi, ammo KWin noaniq deb hisoblagan vaziyatda oyna kötariladi va fokusga ega böladi.</item><item><emphasis strong='true'>Oddiy:</emphasis> Yangi oçilgan oynaga fokusni öğirlaşning oldini oliş qöllaniladi, ammo KWin noaniq deb hisoblagan vaziyatda oyna kötarilmaydi va fokusga ega <emphasis>bölmaydi</emphasis>.</item><item><emphasis strong='true'>Yuqori:</emphasis> Yangi oçilgan oynalar faqat hozirda fokusda bölgan oyna bilan bir xil ilovaga tegişli bölsagina kötariladi va fokusga ega böladi.</item><item><emphasis strong='true'>Maksimal:</emphasis> Yangi oçilgan oynalar heç qaçon kötarilmaydi va fokusni olmaydi.</item></list>
+Accept focus - Fokusni qabul qiliş
+Controls whether or not the window becomes focused when clicked. - Çertilganda oynaning fokusga ega böliş-bölmasligini boşqaradi.
+Ignore global shortcuts - Umumiy tezkor tugmalarni eʼtiborsiz qoldiriş
+Use this property to prevent global keyboard shortcuts from working while the window is focused. This can be useful for apps like emulators or virtual machines that handle some of the same shortcuts themselves.<nl/><nl/>Note that you won't be able to <shortcut>Alt+Tab</shortcut> out of the window or use any other global shortcuts such as <shortcut>Alt+Space</shortcut> to activate KRunner. - Oyna fokusda bölganda umumiy klaviatura yorliqlarining işlaşiga yöl qöymaslik uçun uşbu xususiyatdan foydalaning. Bu öşa yorliqlarning baʼzilarini özi boşqaradigan emulyatorlar yoki virtual maşinalar kabi ilovalar uçun foydali bölişi mumkin.<nl/><nl/>Eʼtibor bering, siz oynadan çiqiş uçun <shortcut>Alt+Tab</shortcut> dan yoki KRunner-ni faollaştiriş uçun <shortcut>Alt+Space</shortcut> kabi boşqa umumiy yorliqlardan foydalana olmaysiz.
+Closeable - Yopib &böladigan
+Desktop file name - Desktop fayli nomi
+Layer - Qatlam
+Adaptive sync - Moslaşuvçan sinxronizatsiya
+Allow tearing - Ekran yirtilişiga ruxsat beriş
+Hide from screenshots and screen recordings - Skrinşotlar va ekran yozuvlaridan yaşiriş
+Window class not available - Oyna sinfi mavjud emas
+This application is not providing a class for the window, so KWin cannot use it to match and apply any rules. If you still want to apply some rules to it, try to match other properties like the window title instead.<nl/><nl/>Please consider reporting this bug to the application's developers. - Uşbu ilova oyna uçun sinf taqdim etmayapti, şuning uçun KWin undan har qanday qoidalarni moslaştiriş va qöllaş uçun foydalana olmaydi. Agar siz hali ham unga baʼzi qoidalarni qöllamoqçi bölsangiz, oyna sinfi örniga oyna sarlavhasi kabi boşqa xususiyatlarni moslaştirişga harakat qiling.<nl/><nl/>Iltimos, uşbu xatolik haqida ilova işlab çiquvçilariga xabar berişni körib çiqing.
+All window types - Barça oyna turlari
+Normal window - Oddiy oyna
+Dialog window - Muloqat oynasi
+Utility window - Yordamçi oyna
+Dock (panel) - Dok (panel)
+Toolbar - Asboblar paneli
+Torn-off menu - Uzilgan menyu
+Splash screen - Spleş oynasi
+Desktop - Iş stoli
+Standalone menubar - Alohida menyu paneli
+On-screen display - Ekrandagi displey (OSD)
+All desktops - Hamma iş stollari
+Make the window available on all desktops - Oynani barça iş stollarida körinadigan qiliş
+All activities - Barça faoliyatlar
+Make the window available on all activities - Oynani barça faoliyatlarda körinadigan qiliş
+Default - Standart
+No placement - Joylaştirişsiz
+Minimal overlapping - Minimal ustma-ust tuşiş
+Maximized - Yoyilgan
+Centered - Markazda
+Random - Tasodifiy
+In top-left corner - Yuqori-çap burçak
+Under mouse - Siçqonça ostida
+On main window - Asosiy oyna ustida
+None - Yöq
+Low - Past
+Normal - Oddiy
+High - Yuqori
+Extreme - Maksimal (favqulodda)
+Below - Pastda
+Above - Yuqorida
+Notification - Bildirişnoma
+Popup - Qalqib çiquvçi oyna
+Critical notification - Muhim bildirişnoma
+Overlay - Qoplama (overlay)
+Never - Heç qaçon
+If the application asks - Agar ilova sörasa
+Always - Har doim
+Only shadow - Faqat soya
+Unmanaged window - Boşqarilmaydigan oyna
+Could not detect window properties. The window is not managed by KWin. - Oyna xususiyatlarini aniqlab bölmadi. Oyna KWin tomonidan boşqarilmaydi.
+Select File - Faylni tanlang
+KWin Rules (*.kwinrule) - KWin qoidalari (*.kwinrule)
+Add New… - Yangi qöşiş…
+Import… - Import qiliş…
+Cancel Export - Eksportni bekor qiliş
+Export… - Eksport qiliş…
+No rules for specific windows are currently set - Hozirça muayyan oynalar uçun qoidalar belgilanmagan
+Click <interface>Add New…</interface> to add some - Qöşiş uçun <interface>Yangi qöşiş…</interface> tugmasini bosing
+Select the rules to export - Eksport qiliş uçun qoidalarni tanlang
+Unselect All - Barçasidan tanlovni olib taşlaş
+Select All - Barçasini tanlaş
+Save Rules - Qoidalarni saqlaş
+Edit - Tahrirlaş
+Duplicate - Nusxasini yaratiş
+Delete - Öçiriş
+Import Rules - Qoidalarni import qiliş
+Export Rules - Qoidalarni eksport qiliş
+None selected - Heç biri tanlanmadi
+All selected - Barçasi tanlandi
+%1 selected - %1 tanlandi
+No window properties changed - Oyna xususiyatlari özgartirilmadi
+Click the <interface>Add Property...</interface> button below to add some window properties that will be affected by the rule - Qoida taʼsir qiladigan baʼzi oyna xususiyatlarini qöşiş uçun quyidagi <interface>Xususiyat qöşiş...</interface> tugmasini bosing
+Add Property... - Xususiyat qöşiş...
+Detect Window Properties - Oynaning xossalarini aniqlaş
+Instantly - Zudlik bilan
+After %1 second - %1 soniyadan söng
+Add property to the rule - Qoidaga xususiyat qöşiş
+No properties left to add - Qöşiş uçun xususiyatlar qolmadi
+No properties match "%1" - "%1" ga mos xususiyatlar yöq
+Yes - Ha
+No - Yöq
+%1 % - %1 %
+(%1, %2) - (%1, %2)
+(%1, %2) - (%1, %2)
+x - x

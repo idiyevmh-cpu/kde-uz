@@ -1,0 +1,113 @@
+No fingerprint device found. - Barmoq izi skaneri qurilmasi topilmadi.
+Retry scanning your finger. - Barmoğingizni qayta skanerlaşga urinib köring.
+Swipe too short. Try again. - Suriş juda qisqa böldi. Qayta urinib köring.
+Finger not centered on the reader. Try again. - Barmoq skaner markaziga qöyilmagan. Qayta urinib köring.
+Remove your finger from the reader, and try again. - Barmoğingizni skanerdan oling va qayta urinib köring.
+Fingerprint enrollment has failed. - Barmoq izini röyxatdan ötkaziş muvaffaqiyatsiz böldi.
+There is no space left for this device, delete other fingerprints to continue. - Uşbu qurilmada böş joy qolmadi, davom etiş uçun boşqa barmoq izlarini öçirib taşlang.
+The device was disconnected. - Qurilma uzildi.
+An unknown error has occurred. - Nomaʼlum xatolik yuz berdi.
+Change Password - Parolni özgartiriş
+Set Password - Parol örnatiş
+Password - Parol
+Confirm password - Parolni tasdiqlang
+Passwords must match - Parollar mos kelişi kerak
+Change Wallet Password? - Hamyon paroli özgartirilsinmi?
+Now that you have changed your login password, consider changing the password on your default KWallet to match it. - Endi siz tizimga kiriş parolingizni özgartirganingiz uçun, unga moslaştiriş maqsadida birlamçi KWallet parolini ham özgartirişni körib çiqing.
+What is KWallet? - KWallet nima?
+KWallet is a password manager that stores your passwords for wireless networks and other encrypted resources. It is locked with its own password which differs from your login password. If the two passwords match, it can be unlocked at login automatically so you don't have to enter the KWallet password yourself. - KWallet — bu simsiz tarmoqlar va boşqa şifrlangan resurslar uçun parollaringizni saqlaydigan parol boşqaruvçisidir. U tizimga kiriş parolingizdan farq qiluvçi öz paroli bilan qulflangan. Agar ikkala parol mos kelsa, KWallet parolini özingiz kiritişingiz şart bölmasligi uçun u tizimga kirişda avtomatik ravişda qulfdan çiqarilişi mumkin.
+Change Wallet Password - Hamyon parolini özgartiriş
+Leave Unchanged - Özgarişsiz qoldiriş
+Create User - Foydalanuvçi yaratiş
+Name: - Ismi:
+Username: - Foydalanuvçi nomi:
+Only lowercase letters, digits, dashes, and underscores are allowed. Invalid characters were removed. - Faqat kiçik harflar, raqamlar, çiziqçalar va pastki çiziqçalarga ruxsat beriladi. Yaroqsiz belgilar olib taşlandi.
+Usernames must be lowercase. Uppercase characters were converted to lowercase. - Foydalanuvçi nomlari kiçik harflarda bölişi kerak. Katta harflar kiçik harflarga aylantirildi.
+Standard - Oddiy
+Administrator - Administrator
+Account type: - Hisob turi:
+Password: - Parol:
+Confirm password: - Parolni tasdiqlang:
+Create - Yaratiş
+Cancel - Bekor qiliş
+Select Picture Area - Rasm maydonini tanlaş
+Finger enrolled - Barmoq izi kiritildi
+Please repeatedly press your right index finger on the fingerprint sensor. - Iltimos, öng körsatkiç barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your right middle finger on the fingerprint sensor. - Iltimos, öng örta barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your right ring finger on the fingerprint sensor. - Iltimos, öng nomsiz barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your right little finger on the fingerprint sensor. - Iltimos, öng jimjiloq barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your right thumb on the fingerprint sensor. - Iltimos, öng boş barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your left index finger on the fingerprint sensor. - Iltimos, çap körsatkiç barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your left middle finger on the fingerprint sensor. - Iltimos, çap örta barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your left ring finger on the fingerprint sensor. - Iltimos, çap nomsiz barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your left little finger on the fingerprint sensor. - Iltimos, çap jimjiloq barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly press your left thumb on the fingerprint sensor. - Iltimos, çap boş barmoğingizni barmoq izi datçigiga bir neça bor bosing.
+Please repeatedly swipe your right index finger on the fingerprint sensor. - Iltimos, öng körsatkiç barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your right middle finger on the fingerprint sensor. - Iltimos, öng örta barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your right ring finger on the fingerprint sensor. - Iltimos, öng nomsiz barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your right little finger on the fingerprint sensor. - Iltimos, öng jimjiloq barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your right thumb on the fingerprint sensor. - Iltimos, öng boş barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your left index finger on the fingerprint sensor. - Iltimos, çap körsatkiç barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your left middle finger on the fingerprint sensor. - Iltimos, çap örta barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your left ring finger on the fingerprint sensor. - Iltimos, çap nomsiz barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your left little finger on the fingerprint sensor. - Iltimos, çap jimjiloq barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Please repeatedly swipe your left thumb on the fingerprint sensor. - Iltimos, çap boş barmoğingizni barmoq izi datçigidan bir neça bor suring.
+Configure Fingerprints - Barmoq izlarini sozlaş
+Add - Qöşiş
+Done - Tayyor
+Re-enroll finger - Barmoqni qayta röyxatdan ötkaziş
+Delete fingerprint - Barmoq izini öçiriş
+No fingerprints added - Barmoq izlari qöşilmagan
+Users - Foydalanuvçilar
+Add New… - Yangi qöşiş…
+Add New User… - Yangi foydalanuvçi qöşiş…
+Press Space to edit the user profile - Foydalanuvçi profilini tahrirlaş uçun probil tugmasini bosing
+Pick a finger to enroll - Röyxatdan ötkaziş uçun barmoqni tanlang
+Change Avatar - Avatarni özgartiriş
+It's Nothing - Heç narsa emas
+Feisty Flamingo - Ğayratli Flamingo
+Dragon's Fruit - Ajdaho mevasi (Pitaxayya)
+Sweet Potato - Şirin kartoşka (Batat)
+Ambient Amber - Atrof qahrabosi
+Sparkle Sunbeam - Yaltiroq quyoş nuri
+Lemon-Lime - Limon-Laym
+Verdant Charm - Yaşil maftunkorlik
+Mellow Meadow - Mayin ötloq
+Tepid Teal - Iliq moviy-yaşil
+Plasma Blue - Plasma moviy
+Pon Purple - Pon binafşa
+Bajo Purple - Baxo binafşa
+Burnt Charcoal - Kuygan yoğoç kömiri
+Paper Perfection - Qoğoz mukammalligi
+Cafétera Brown - Kofeteriya jigarangi
+Rich Hardwood - Boy qattiq yoğoç
+Go Back - Orqaga qaytiş
+Initials - Boş harflar (Initsiallar)
+Choose File… - Faylni tanlaş…
+Choose a picture - Rasmni tanlang
+Image files (All major file types) (*.avif *.bmp *.gif *.jp2 *.jpeg *.jpg *.pbm *.pgm *.png *.ppm *.tiff *.wbmp *.webp *.xbm *.xpm) - Rasm fayllari (Barça asosiy fayl turlari) (*.avif *.bmp *.gif *.jp2 *.jpeg *.jpg *.pbm *.pgm *.png *.ppm *.tiff *.wbmp *.webp *.xbm *.xpm)
+Placeholder Icon - Örin egallovçi belgi
+User avatar placeholder icon - Foydalanuvçi avatari örin egallovçi belgisi
+Delete Logged-In User Without Deleting Files? - Tizimga kirgan foydalanuvçini fayllarini öçirmasdan öçirib taşlaysizmi?
+Delete Logged-In User? - Tizimga kirgan foydalanuvçi öçirilsinmi?
+%1 is currently logged in, so their files cannot be deleted. Delete just the account instead?<nl/><nl/>This will make %1 unable to log in again, and they may experience strange behaviors until they log out. - %1 ayni paytda tizimga kirgan, şuning uçun uning fayllarini öçirib bölmaydi. Buning örniga faqat hisob öçirilsinmi?<nl/><nl/>Bu %1 ga qayta kiriş imkonini bermaydi va ular tizimdan çiqmagunça ğalati holatlarga duç kelişlari mumkin.
+%1 is currently logged in. Deleting the account will make them unable to log in again, and they may experience strange behaviors until they log out. - %1 ayni paytda tizimga kirgan. Hisobni öçiriş ularga qayta kiriş imkonini bermaydi va ular tizimdan çiqmagunça ğalati holatlarga duç kelişlari mumkin.
+Delete %1 - %1 ni öçiriş
+Change avatar - Avatarni özgartiriş
+Cannot change your own username while logged in; log out and then log in as another user to change this account’s username. - Tizimga kirgan holda özingizning foydalanuvçi nomingizni özgartira olmaysiz; uşbu hisob nomini özgartiriş uçun tizimdan çiqing va boşqa foydalanuvçi sifatida kiring.
+Cannot change the username of a logged-in user; wait until this user logs out first. - Tizimga kirgan foydalanuvçining nomini özgartirib bölmaydi; avval uşbu foydalanuvçi tizimdan çiqişini kuting.
+Cannot change the account type to Standard unless there is at least one other Administrator account on the system. Without one, authentication would become impossible or require the insecure use of the root password. - Tizimda kamida bitta boşqa Administrator hisobi bölmasa, hisob turini Oddiyga özgartirib bölmaydi. Usiz autentifikatsiya imkonsiz bölib qoladi yoki root parolidan xavfli foydalanişni talab qiladi.
+Email address: - E-poçta manzili:
+Delete files - Fayllarni öçiriş
+Keep files - Fayllarni saqlab qoliş
+Delete User… - Foydalanuvçini öçiriş…
+Cannot delete yourself! Log out and then log in as another user to delete this user account. - Özingizni öçira olmaysiz! Uşbu foydalanuvçi hisobini öçiriş uçun tizimdan çiqing va boşqa foydalanuvçi sifatida kiring.
+Configure Fingerprint Authentication… - Barmoq izi orqali autentifikatsiyani sozlaş…
+Fingerprints can be used in place of a password when unlocking the screen and providing administrator permissions to applications and command-line programs that request them.<nl/><nl/>Logging into the system with your fingerprint is not yet supported. - Ekranni qulfdan çiqarişda va ularni söragan ilovalar hamda buyruqlar satri dasturlariga administrator ruxsatlarini berişda parol örniga barmoq izlaridan foydalaniş mumkin.<nl/><nl/>Tizimga barmoq izi orqali kiriş hozirça qöllab-quvvatlanmaydi.
+Failed to crop image: %1 - Rasmni qirqiş muvaffaqiyatsiz böldi: %1
+Could not get permission to save user %1 - %1 foydalanuvçisini saqlaş uçun ruxsat olib bölmadi
+There was an error while saving changes - Özgarişlarni saqlaşda xatolik yuz berdi
+Failed to resize image: opening temp file failed - Rasm hajmini özgartirib bölmadi: vaqtinçalik faylni oçiş muvaffaqiyatsiz böldi
+Failed to resize image: writing to temp file failed - Rasm hajmini özgartirib bölmadi: vaqtinçalik faylga yoziş muvaffaqiyatsiz böldi
+Your Account - Sizning hisobingiz
+Other Accounts - Boşqa hisoblar

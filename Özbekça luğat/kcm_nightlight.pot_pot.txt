@@ -1,0 +1,16 @@
+Source text - Tarjima text
+The blue light filter makes the colors on the screen warmer. - Moviy rang filtri ekrandagi ranglarni iliqroq qiladi.
+Night Light is temporarily activated until %1. - Tungi rejim vaqtinça %1 gaça yoqildi.
+Night Light is temporarily activated until it is manually turned off. - Tungi rejim qolda oçirilgunça vaqtinça faollaştirildi.
+Night Light is temporarily suspended until %1. - Tungi rejim vaqtinça %1 gaça toxtatib turildi.
+Turn Off - Oçiriş
+Resume - Davom ettiriş
+Switching times: - Otiş vaqtlari:
+Always off - Har doim oçik
+Always on - Har doim yokik
+Sunrise and sunset - Quyoş çikişi va botişi
+Configure - Sozlaş
+Day light temperature: - Kunduzgi yoruglik harorati:
+Cool (no filter) - Sovuk (filtrlarsiz)
+Warm - Ilik
+Night light temperature: - Tungi yoruglik harorati:

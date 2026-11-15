@@ -1,0 +1,16 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Close files confirmation - Fayllarni yopişni tasdiqlaş
+You are about to close the following documents: - Siz quyidagi hujjatlarni yopmoqçisiz:
+Document - Qöllanmalar
+Location - Joylaşuv
+Do not ask again - Boşqa söralmasin
+Show Confirmation - Tasdiqlaşni körsatiş
+Close Except - Şundan boşqasini yopiş
+Close Like - Öxşaşlarini yopiş
+Close Except/Like Plugin - Şundan boşqasini/öxşaşini yopiş plagini
+Error - Xato
+No files to close ... - Yopiş uçun fayllar yöq ...
+Done - Tayyor
+%1 file closed - %1 ta fayl yopildi
+<title>%1</title><nl/>%2 - <title>%1</title><nl/>%2

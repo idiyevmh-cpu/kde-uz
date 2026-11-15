@@ -1,0 +1,4 @@
+Session name - Seans nomi
+Create new session and start Kate - Yangi seans yaratiş va Kate-ni işga tuşiriş
+Cancel session creation - Seans yaratişni bekor qiliş
+Kate Sessions - Kate seanslari

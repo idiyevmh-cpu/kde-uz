@@ -1,0 +1,161 @@
+File - Fayl
+Add New Page… - Yangi sahifa qöşiş…
+Import Page… - Sahifani import qiliş…
+Export Current Page… - Joriy sahifani eksport qiliş…
+Get New Pages… - Yangi sahifalarni oliş…
+Quit - Çiqiş
+View - Köriniş
+Expand Sidebar - Yon panelni kengaytiriş
+Collapse Sidebar - Yon panelni yiğiş
+Settings - Sozlamalar
+Edit or Remove Pages… - Sahifalarni tahrirlaş yoki öçiriş…
+Help - Yordam
+Report Bug… - Xato haqida xabar beriş…
+About System Monitor - Tizim monitoringi haqida
+System Monitor - Tizim monitoringi
+An application for monitoring system resources - Tizim resurslarini kuzatiş uçun dastur
+© 2025 Plasma Development Team - © 2025 Plasma işlab çiquvçilar jamoasi
+Arjen Hiemstra - Arjen Hiemstra
+Development - Dasturlaş
+Uri Herrera - Uri Herrera
+Design - Dizayn
+Nate Graham - Nate Graham
+Design and Quality Assurance - Dizayn va sifat nazorati
+David Redondo - David Redondo
+Noah Davis - Noah Davis
+Marco Martin - Marco Martin
+David Edmundson - David Edmundson
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Tools - Asboblar
+Add New Page… - Yangi sahifa qöşiş…
+Edit or Remove Pages… - Sahifalarni tahrirlaş yoki öçiriş…
+Export Current Page… - Joriy sahifani eksport qiliş…
+Import Page… - Sahifani import qiliş…
+Get New Pages… - Yangi sahifalarni oliş…
+Expand Sidebar - Yon panelni kengaytiriş
+Collapse Sidebar - Yon panelni yiğiş
+Report Bug… - Xato haqida xabar beriş…
+About System Monitor - Tizim monitoringi haqida
+About KDE - KDE haqida
+Add New Page - Yangi sahifa qöşiş
+Edit Pages - Sahifalarni tahrirlaş
+Export %1 - %1 ni eksport qiliş
+System Monitor page (*.page) - Tizim monitoringi sahifasi (*.page)
+Import Page - Sahifani import qiliş
+System Monitor has fallen back to software rendering because hardware acceleration is not available, and visual glitches may appear. Please check your graphics drivers. - Uskunaviy tezlaştriş mavjud bölmaganligi sababli Tizim monitoringi dasturiy renderlaş rejimiga ötdi va vizual xatoliklar paydo bölişi mumkin. Iltimos, grafik drayverlaringizni tekşiring.
+Add Section - Bölim qöşiş
+Add Separator - Ajratgiç qöşiş
+Show Background - Fonni körsatiş
+Remove Background Margins - Fon hoşiyalarini olib taşlaş
+Edit Page - Sahifani tahrirlaş
+Save Changes - Özgarişlarni saqlaş
+Discard Changes - Özgarişlarni bekor qiliş
+Configure Page… - Sahifani sozlaş…
+Add Row - Qator qöşiş
+Add Title - Sarlavha qöşiş
+Configure Page "%1" - "%1" sahifasini sozlaş
+Save - Saqlaş
+Add - Qöşiş
+Remove - Olib taşlaş
+Configure %1 - %1 ni sozlaş
+Close - Yopiş
+Load Preset… - Oldindan sozlamani yuklaş…
+Get New Presets… - Yangi oldindan sozlamalarni oliş…
+Save Settings as Preset - Sozlamalarni oldindan sozlama sifatida saqlaş
+Saved settings as preset %1. - Sozlamalar %1 oldindan sozlamasi sifatida saqlandi.
+Add Chart as Desktop Widget - Diagrammani iş stoli vidjeti sifatida qöşiş
+Get New Display Styles… - Yangi körsatiş uslublarini oliş…
+Loaded preset %1. - %1 oldindan sozlamasi yuklandi.
+Title - Sarlavha
+Show Title - Sarlavhani körsatiş
+Display Style - Körsatiş uslubi
+Minimum time between updates: - Yangilanişlar orasidagi minimal vaqt:
+No Limit - Çeklovsiz
+1 second - 1 soniya
+%1 seconds - %1 soniya
+No Chart - Diagramma yöq
+Load Preset - Oldindan sozlamani yuklaş
+Load - Yuklaş
+Replace Missing Sensors - Yetişmayotgan datçiklarni almaştiriş
+Move - Köçiriş
+This page is missing some sensors and will not display correctly. - Uşbu sahifada baʼzi datçiklar yetişmaydi va u töğri körinmaydi.
+Fix… - Tuzatiş…
+A new version of this page was installed, but you made changes to this page. The changes have been copied to %1 (Old Version). - Uşbu sahifaning yangi versiyasi örnatildi, ammo siz unga özgarişlar kiritgansiz. Özgarişlar %1 (Eski versiya) ga nusxalandi.
+A new version of this page was installed, but you made changes to this page. Would you like to keep your changes or discard your changes and use the new version of the page? - Uşbu sahifaning yangi versiyasi örnatildi, ammo siz unga özgarişlar kiritgansiz. Özgarişlaringizni saqlab qolmoqçimisiz yoki ularni bekor qilib sahifaning yangi versiyasidan foydalanasizmi?
+Keep Changes - Özgarişlarni saqlab qoliş
+Discard Changes - Özgarişlarni bekor qiliş
+Add - Qöşiş
+New Page - Yangi sahifa
+Name: - Nomi:
+Name cannot be empty. - Nom böş bölişi mumkin emas.
+Icon: - Belgi:
+Page Margins: - Sahifa hoşiyalari:
+None - Yöq
+Small - Kiçik
+Large - Katta
+Use Actions From: - Amallarni quyidagidan foydalaniş:
+Load this page: - Bu sahifani yuklaş:
+When needed - Kerak bölganda
+During application startup - Ilova işga tuşiş vaqtida
+New Title - Yangi sarlavha
+Show Page - Sahifani körsatiş
+Hide Page - Sahifani yaşiriş
+Do not reset the page - Sahifani dastlabki holatga qaytarmaslik
+The page will be reset to its default state - Sahifa özining standart holatiga qaytariladi
+Reset the page to its default state - Sahifani standart holatiga qaytariş
+Do not remove this page - Bu sahifani öçirmaslik
+The page will be removed - Sahifa olib taşlanadi
+Remove this page - Bu sahifani olib taşlaş
+Start with: - Bilan boşlaş:
+Last Visited Page - Oxirgi körilgan sahifa
+Add Column - Ustun qöşiş
+Height - Balandlik
+Balanced - Muvozanatli
+Try and use the same height across different rows. - Turli qatorlarda bir xil balandlikdan foydalanişga harakat qiling.
+Minimum - Minimal
+Use the minimum amount of height needed to display contents correctly. - Tarkibni töğri körsatiş uçun zarur bölgan minimal balandlikdan foydalaning.
+Maximum - Maksimal
+Try to use as much height as possible. - Iloji boriça köproq balandlikdan foydalanişga harakat qiling.
+Half Page Height - Yarim sahifa balandligi
+Use half the height of the page. - Sahifa balandligining yarmidan foydalaning.
+Set Affinity - Muvofiqlikni (affinity) örnatiş
+CPU %1 - CPU %1
+Select All - Hammasini tanlaş
+Clear All - Hammasini tozalaş
+Invert - Teskari aylantiriş
+Configure Columns - Ustunlarni sozlaş
+Enabled Columns - Yoqilgan ustunlar
+Disabled Columns - Öçirilgan ustunlar
+Hidden - Yaşirin
+Text Only - Faqat matn
+Line Chart - Çiziqli diagramma
+Text Only (Scaled to 100%) - Faqat matn (100% ga masştablangan)
+Line Chart (Scaled to 100%) - Çiziqli diagramma (100% ga masştablangan)
+No columns matched the search - Qidiruvga mos keladigan ustunlar topilmadi
+Do not ask again - Boşqa söralmasin
+Set Priority - Prioritetni belgilaş
+CPU Scheduler - CPU rejalaştiruvçisi
+Normal - Oddiy
+The standard time-sharing scheduler for processes without special requirements. - Maxsus talablarsiz jarayonlar uçun standart vaqt taqsimoti rejalaştiruvçisi.
+Batch - Paketli (Batch)
+Process is mildly disfavored in scheduling decisions, for CPU-intensive non-interactive processes. - CPU-ni köp talab qiladigan nointeraktiv jarayonlar uçun rejalaştirişda jarayonga biroz kamroq ustunlik beriladi.
+Round robin - Round-robin (navbatma-navbat)
+Process will run whenever runnable, with timeslicing. - Jarayon vaqt bölaklari bilan işga tayyor bölgan istalgan paytda bajariladi.
+FIFO - FIFO (birinçi kelgan - birinçi ketadi)
+Process will run whenever runnable, with no timeslicing. - Jarayon vaqt bölaklarisiz işga tayyor bölgan istalgan paytda bajariladi.
+I/O Scheduler - I/O rejalaştiruvçisi
+Normal - Oddiy
+Process' priority is based on the CPU priority. - Jarayon prioriteti CPU prioritetiga asoslanadi.
+Idle - Böş turgan (Idle)
+Process can only use the hard disk when no other process has used it very recently. - Jarayon qattiq diskdan faqatgina boşqa heç bir jarayon undan yaqinda foydalanmagan bölsa foydalana oladi.
+Best Effort - Eng yaxşi imkoniyat (Best Effort)
+Process is given higher priority to access the hard disk than normal. - Jarayonga qattiq diskka kiriş uçun odatdagidan yuqoriroq prioritet beriladi.
+Real Time - Haqiqiy vaqt (Real Time)
+Process gets immediate access to the hard disk whenever needed, regardless of what else is going on. - Jarayon nima bölayotganidan qatʼi nazar, kerak bölganda qattiq diskka darhol kiriş imkoniga ega böladi.
+Low priority - Past prioritet
+High priority - Yuqori prioritet
+Low priority - Past prioritet
+High priority - Yuqori prioritet
+Kill a Window… - Oynani majburiy yopiş…
+Launch %1 - %1 ni işga tuşiriş

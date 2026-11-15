@@ -1,0 +1,10 @@
+XML Check - XML tekşiruvi
+Validate XML - XML-ni tekşiriş (validatsiya)
+Validate process crashed - Tekşiriş jarayoni halokatga uçradi
+XMLCheck - XMLTekşiruv
+No DOCTYPE found, will only check well-formedness. - DOCTYPE topilmadi, faqat töğri tuzilganligi tekşiriladi.
+'%1' not found, will only check well-formedness. - '%1' topilmadi, faqat töğri tuzilganligi tekşiriladi.
+<b>Error:</b> Could not create temporary file '%1'. - <b>Xato:</b> '%1' vaqtinçalik faylini yaratib bölmadi.
+<b>Error:</b> Failed to find xmllint. Please make sure that xmllint is installed. It is part of libxml2. - <b>Xato:</b> xmllint topilmadi. xmllint örnatilganligiga işonç hosil qiling. U libxml2 tarkibiga kiradi.
+<b>Error:</b> Failed to execute xmllint. Please make sure that xmllint is installed. It is part of libxml2. - <b>Xato:</b> xmllint-ni bajarib bölmadi. xmllint örnatilganligiga işonç hosil qiling. U libxml2 tarkibiga kiradi.
+&XML - &XML

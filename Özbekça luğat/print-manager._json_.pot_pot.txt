@@ -1,0 +1,7 @@
+printers,print,paper,cups,ink,printing,impression,remote printer,internet printer,network printer,ipps,hp jetdirect,ldp,ldr,cups-brf,cups brf,virtual braille brf printer,share printer,add printer - printerlar,çop etiş,qoğoz,cups,siyoh,bosib çiqariş,masofaviy printer,tarmoq printeri,printer ulaşiş,printer qöşiş
+Printers - Printerlar
+Print Manager - Printer boşqaruvçisi
+Configure your printers - Printerlaringizni sozlang
+Notify when a new printer is detected, or ink/toner levels are low for a printer - Yangi printer aniqlanganda yoki siyoh/toner darajasi past bölganda xabar beriş
+List print jobs and manage them - Çop etiş vazifalari röyxati va ularni boşqariş
+Daniel Nicoletti - Daniel Nicoletti

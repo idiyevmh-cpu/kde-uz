@@ -1,0 +1,5 @@
+Source text - Tarjima text
+Terminal Emulator - Terminal emulyatori
+Quick Commands - Tezkor buyruqlar
+SSH Manager - SSH menejeri
+Command line access - Buyruq satriga kiriş

@@ -1,0 +1,9 @@
+Show KRunner - KRunner ni körsatiş
+Open Terminal - Terminalni oçiş
+Lock Screen - Ekranni qulflaş
+Show Logout Screen - Çiqiş ekranini körsatiş
+Display Configuration - Displeyni sozlaş
+Configure Contextual Menu Plugin - Kontekst menyusi plaginini sozlaş
+[Other Actions] - [Boşqa amallar]
+Wallpaper Actions - Fon rasmi amallari
+[Separator] - [Ajratuvçi]

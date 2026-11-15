@@ -1,0 +1,37 @@
+Details - Tafsilotlar
+CPU - Protsessor
+Memory - Xotira
+Network - Tarmoq
+Disk - Disk
+Select an application to see its details - Tafsilotlarini köriş uçun ilovani tanlang
+Applications view is unsupported on your system - Ilovalar körinişi tizimingizda qöllab-quvvatlanmaydi
+Background Services - Kerak bölganda işga tuşadigan xizmatlar
+Show toolbar - Asboblar panelini körsatiş
+Show details panel - Tafsilotlar panelini körsatiş
+Confirm when quitting applications - Ilovalardan çiqişda tasdiqlaş
+Search - Qidiriş
+Quit Application - Ilovadan çiqiş
+Show Details Sidebar - Tafsilotlar yon panelini körsatiş
+Configure Columns… - Ustunlarni sozlaş…
+Set priority… - Ustuvorlikni örnatiş…
+Set affinity… - Moslikni (affinity) örnatiş…
+Send Signal - &Signal jönatiş
+Suspend (STOP) - Töxtatib turiş (STOP)
+Continue (CONT) - Davom ettiriş (CONT)
+Hangup (HUP) - Aloqani uziş (HUP)
+Interrupt (INT) - Töxtatiş (INT)
+Terminate (TERM) - Tugatiş (TERM)
+Kill (KILL) - Tugatiş (KILL)
+User 1 (USR1) - Foydalanuvçi 1 (USR1)
+User 2 (USR2) - Foydalanuvçi 2 (USR2)
+Quit Application - Ilovadan çiqiş
+Hide - &Bekitiş
+Force Quit Application - Ilovani majburan yopiş
+Quit Application - Ilovadan çiqiş
+Force Quit Application - Ilovani majburan yopiş
+Quit Application - Ilovadan çiqiş
+Force quit (SIGKILL) the application? Unsaved work may be lost. - Ilova majburan yopilsinmi (SIGKILL)? Saqlanmagan maʼlumotlar yöqolişi mumkin.
+Quit this application? Unsaved work may be lost. - Uşbu ilovadan çiqilsinmi? Saqlanmagan maʼlumotlar yöqolişi mumkin.
+%1 Process - %1 jarayoni
+Allow “%1” to run on: - “%1” ga quyidagilarda işlaşga ruxsat beriş:
+Allow %1 application to run on: - %1 ilovasiga quyidagilarda işlaşga ruxsat beriş:

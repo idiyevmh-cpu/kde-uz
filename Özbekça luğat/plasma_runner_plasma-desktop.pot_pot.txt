@@ -1,0 +1,8 @@
+desktop console - iş stoli konsoli
+wm console - oyna boşqaruvçisi konsoli
+Opens the Plasma desktop interactive console with a file path to a script on disk. - Diskdagi skript fayl yöli bilan Plasma iş stoli interaktiv konsolini oçadi.
+desktop console :q: - iş stoli konsoli :q:
+Opens the KWin interactive console with a file path to a script on disk. - Diskdagi skript fayl yöli bilan KWin interaktiv konsolini oçadi.
+wm console :q: - wm konsol :q:
+Open Plasma desktop interactive console - Plasma iş stoli interaktiv konsolini oçiş
+Open KWin interactive console - KWin interaktiv konsolini oçiş

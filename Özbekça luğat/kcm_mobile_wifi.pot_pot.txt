@@ -1,0 +1,46 @@
+Invalid input. - Notöğri kiriş.
+Connection Info for "%1" - "%1" uçun ulaniş maʼlumoti
+Transfer Rates - Uzatiş tezligi
+Connected, ↓ %1/s, ↑ %2/s - Ulangan, ↓ %1/s, ↑ %2/s
+Share - Bölişiş
+Share Wi-Fi via QR Code - Wi-Fi tarmoğini QR kod orqali ulaşiş
+Wi-Fi QR Code - Wi-Fi QR kodi
+Connection Details - Ulaniş tafsilotlari
+Edit - Tahrirlaş
+Wi-Fi - Wi-Fi
+Settings - Moslamalar
+Saved Networks - Saqlangan tarmoqlar
+Available Networks - Mavjud tarmoqlar
+Add Custom Connection - Maxsus ulaniş qöşiş
+Wi-Fi Settings - Wi-Fi sozlamalari
+Notifications for connection changes - Ulaniş özgarişlari haqida bildirişnomalar
+Add New Connection - Yangi ulaniş qöşiş
+Save - Saqlaş
+General - Umumiy
+SSID - SSID
+Hidden Network - Yaşirin tarmoq
+Security - Xavfsizlik
+Security type - Xavfsizlik turi
+None - Yöq
+WEP Key - WEP kaliti
+Dynamic WEP - Dinamik WEP
+WPA/WPA2 Personal - WPA/WPA2 Personal
+WPA/WPA2 Enterprise - WPA/WPA2 Enterprise
+WPA3 Personal - WPA3 Personal
+WPA3 Enterprise - WPA3 Enterprise
+Password - Parol
+Authentication: - Autentifikatsiya:
+TLS - TLS
+LEAP - LEAP
+FAST - FAST
+Tunneled TLS - Tunnellangan TLS
+Protected EAP - Himoyalangan EAP (PEAP)
+IP Settings - IP sozlamalari
+Method -  Usuli 
+Automatic - Avtomatik
+Manual - Qölbola
+IP Address - IP manzil
+Gateway - Şlyuz
+Network prefix length - Tarmoq prefiksi uzunligi
+DNS - DNS
+Password… - Parol…

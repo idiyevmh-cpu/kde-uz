@@ -1,0 +1,2 @@
+Open KWin debug console - KWin nosozliklarni tuzatiş konsolini oçiş
+Opens the KWin (Plasma Window Manager) debug console. - KWin (Plasma Oyna Boşqaruvçisi) nosozliklarni tuzatiş konsolini oçadi.

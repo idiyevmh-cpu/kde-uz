@@ -1,0 +1,20 @@
+Source text - Tarjima text
+Pause Indexer - Indekslaşni töxtatib turiş
+Resume Indexer - Indekslaşni davom ettiriş
+Delete Index Data - Indeks maʼlumotlarini öçiriş
+File Search helps you quickly locate your files. You can choose which folders and what types of file data are indexed. - Fayl qidiruvi fayllaringizni tezda topişga yordam beradi. Qaysi jildlar va qanday fayl maʼlumotlari indekslanişini tanlaşingiz mumkin.
+Data to index: - Indekslanadigan maʼlumotlar:
+Nothing (disable indexing entirely) - Heç narsa (indekslaşni butunlay öçiriş)
+File names only - Faqat fayl nomlari
+File names and contents - Fayl nomlari va ularning mazmuni
+Also index hidden files and folders - Yaşirin fayl va jildlarni ham indekslaş
+Locations - Joylaşuvlar
+Start Indexing a Folder… - Jildni indekslaşni boşlaş…
+Stop Indexing a Folder… - Jildni indekslaşni töxtatiş…
+%1, %2% complete - %1, %2% bajarildi
+Currently indexing: <filename>%1</filename> - Hozir indekslanmoqda: <filename>%1</filename>
+Not indexed - Indekslanmagan
+Indexed - Indekslangan
+Remove entry - Yozuvni olib taşlaş
+Select a folder to include - Qöşiş uçun jildni tanlang
+Select a folder to exclude - Istisno qiliş uçun jildni tanlang

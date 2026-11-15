@@ -1,0 +1,11 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Plasma Bigscreen Link Redirector - Plasma Bigscreen havola yönaltirgiçi
+Redirect links to QR codes or KDE Connect devices - Havolalarni QR kodlarga yoki KDE Connect qurilmalariga yönaltiriş
+© 2026 Plasma developers - © 2026 Plasma dasturçilari
+Choose a device to send the URL to: - URL yuboriladigan qurilmani tanlang:
+Failed to send URL to %1: %2 - URL %1 ga yuborilmadi: %2
+No connected devices - Ulangan qurilmalar yöq
+Connect a device or check KDE Connect settings - Qurilmani ulang yoki KDE Connect sozlamalarini tekşiring
+Scan the QR code below with a supported device: - Quyidagi QR kodni qöllab-quvvatlanadigan qurilma bilan skanerlang:
+Open in browser - Brauzerda oçiş

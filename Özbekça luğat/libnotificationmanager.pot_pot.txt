@@ -1,0 +1,15 @@
+%1 from %2 - %2 dan %1
+%2 of %1 file to %3 - %1 fayldan %2 tasi %3 ga
+%1 file to %2 - %1 ta fayl %2 ga
+%2 of %1 file - %1 fayldan %2 tasi
+%1 file - %1 ta fayl
+%2 of %1 item - %1 elementdan %2 tasi
+%1 item - %1 ta element
+%1 to %2 - %1 %2 ga
+%1 file to %2 - %1 ta fayl %2 ga
+to %1 - %1 ga
+%1 from %2 - %2 dan %1
+Application closed unexpectedly. - Ilova kutilmaganda yopildi.
+Unread Notification - Öqilmagan bildirişnoma
+%1 notification was received while Do Not Disturb was active. - Bezovta qilinmasin rejimi faol bölganda %1 ta bildirişnoma qabul qilindi.
+Show Notifications - Bildirişnomalarni körsatiş

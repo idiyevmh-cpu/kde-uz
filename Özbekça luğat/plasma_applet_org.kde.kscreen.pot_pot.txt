@@ -1,0 +1,10 @@
+Presentation mode is enabled - Taqdimot rejimi yoqilgan
+Configure Display Settings… - Displey sozlamalarini sozlaş…
+Enable Presentation Mode - Taqdimot rejimini yoqiş
+User enabled presentation mode - Foydalanuvçi taqdimot rejimini yoqdi
+This will prevent your screen and computer from turning off automatically. - Bu ekranning va kompyuterning avtomatik öçişini oldini oladi.
+%2 and %1 other application are enforcing presentation mode. - %2 va yana %1 ta boşqa ilova taqdimot rejimini majburan yoqmoqda.
+%1 is enforcing presentation mode. - %1 taqdimot rejimini majburan yoqmoqda.
+%1 is enforcing presentation mode: %2 - %1 taqdimot rejimini majburan yoqmoqda: %2
+Screen Layout - Ekran tartibi
+You can only apply a different screen layout when there is more than one display device plugged in. - Boşqa ekran tartibini faqat bittadan ortiq displey qurilmasi ulangan bölsagina qöllaşingiz mumkin.

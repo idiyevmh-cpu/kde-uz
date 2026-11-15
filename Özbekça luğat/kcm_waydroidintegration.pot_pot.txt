@@ -1,0 +1,50 @@
+Waydroid Integration - Waydroid integratsiyasi
+Waydroid is not installed - Waydroid örnatilmagan
+Check installation - Örnatişni tekşiriş
+Downloading Android and vendor images.
+It can take a few minutes. - Android va işlab çiqaruvçi tasvirlari yuklab olinmoqda.
+Bu bir neça daqiqa vaqt olişi mumkin.
+Waydroid is resetting.
+It can take a few seconds. - Waydroid dastlabki holatga qaytarilmoqda.
+Bu bir neça soniya olişi mumkin.
+The Waydroid session is not running. - Waydroid seansi işlamayapti.
+Start the session - Seansni boşlaş
+Waydroid session is starting.
+It can take a few seconds. - Waydroid seansi boşlanmoqda.
+Bu bir neça soniya olişi mumkin.
+Waydroid applications - Waydroid ilovalari
+Install APK - APK örnatiş
+You must select a local file - Mahalliy faylni tanlaşingiz kerak
+Delete the application - Ilovani öçiriş
+General information - Umumiy maʼlumot
+IP address - IP manzil
+Copy - Nusxa oliş
+Waydroid status - Waydroid holati
+Stopping... - Töxtatilmoqda...
+Running - Işlayapti
+Stop session - Seansni töxtatiş
+Certify my device for Google Play Protect - Qurilmamni Google Play Protect uçun sertifikatlaş
+Installed applications - Örnatilgan ilovalar
+Reset Waydroid - Waydroid-ni dastlabki holatga qaytariş
+Confirm Waydroid Reset - Waydroid-ni tozalaşni tasdiqlaş
+Are you sure you want to reset Waydroid? This is a destructive action, and will wipe all user data. - Haqiqatan ham Waydroid-ni dastlabki holatga qaytarmoqçimisiz? Bu barça maʼlumotlarni öçirib yuboradi.
+Waydroid properties - Waydroid xususiyatlari
+May require restarting the Waydroid session to apply - Qöllaş uçun Waydroid seansini qayta işga tuşiriş talab qilinişi mumkin
+Multi Windows - Köp oynali rejim
+Enables/Disables window integration with the desktop - Oynaning iş stoli bilan integratsiyasini yoqadi/öçiradi
+Suspend - Kutiş rejimiga ötkaziş
+Let the Waydroid container sleep (after the display timeout) when no apps are active - Ilovalar faol bölmaganda Waydroid konteyneriga uxlaşga ruxsat beriş
+UEvent - UEvent
+Allow android direct access to hotplugged devices - Android-ga ulangan qurilmalarga töğridan-töğri kirişga ruxsat beriş
+Downloading %1MB/%2MB Speed %3 - Yuklab olinmoqda: %1MB / %2MB Tezlik: %3
+%1MB/s - %1 MB/s
+%1kB/s - %1 kB/s
+Google Play Protect configuration - Google Play Protect sozlamalari
+Fetching your Android ID.
+It can take a few seconds. - Android ID olinmoqda.
+Bu bir neça soniya olişi mumkin.
+When launching Waydroid with GAPPS for the first time, you will be notified that the device is not certified for Google Play Protect. To self certify your device, paste the Android ID in the field on the website. Then, give the Google services some minutes to reflect the change and restart Waydroid. - Waydroid-ni birinçi marta GAPPS bilan işga tuşirganingizda Google Play Protect sertifikati talab qilinişi mumkin.
+Copy Android ID and open the website - Android ID-dan nusxa oliş va veb-saytni oçiş
+Initial configuration - Dastlabki sozlaş
+System type - Tizim turi
+Configure Waydroid - Waydroid-ni sozlaş

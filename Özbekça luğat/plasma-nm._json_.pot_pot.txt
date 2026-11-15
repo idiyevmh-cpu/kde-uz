@@ -1,0 +1,57 @@
+network,internet,ethernet,wireless,wifi,wlan,vpn - tarmoq,internet,ethernet,simsiz,wifi,wlan,vpn
+mobile,data,network - mobil,internet,tarmoq
+networks,wifi,wi-fi,ethernet,mobile,cdma,gsm,lte,wimax,apn,carrier,2g,3g,4g,5g,5ge,broadband,internet,traffic,connections,websites,web,DSL,infiniband,wired,wireless,bssid,ipv4,ipv6,mac address,ip,access point,dns,gateway,wep,leap,wpa,wpa2,wpa3,dhcp,shared network,private network,public network,vpn,openvpn,wireguard,fortinet,juniper,l2tp,pptp,sstp,ssh,iodine,ipsec,anyconnect,openconnect - tarmoqlar,wifi,wi-fi,ethernet,mobil,lte,apn,internet,trafik,ulanmalar,simli,simsiz,ip,dns,şlyuz,vpn,openvpn,wireguard,fortinet,ipsec
+wifi,network - wifi,tarmoq
+wired,network,ethernet,cat5,cat6,IP,address,DHCP,connection,cable,networking - simli,tarmoq,ethernet,cat5,cat6,IP,manzil,DHCP,ulaniş,kabel
+Networks - Tarmoqlar
+Cellular Network - Mobil aloqa tarmoği
+Wi-Fi & Networking - Wi-Fi va Tarmoqlar
+Hotspot - Hotspot (ulaniş nuqtasi)
+Wi-Fi - Wi-Fi
+Wired Network - Simli tarmoq
+Plasma Network Management module - Plasma tarmoq boşqaruvi moduli
+Fortinet SSLVPN (fortisslvpn) - Fortinet SSLVPN (fortisslvpn)
+Iodine DNS tunnel (iodine) - Iodine DNS tunneli (iodine)
+Layer 2 Tunneling Protocol (L2TP) - Layer 2 Tunneling Protocol (L2TP)
+IPsec based VPN (libreswan) - IPsec asosidagi VPN (libreswan)
+Cisco AnyConnect Compatible VPN (openconnect) - Cisco AnyConnect mos VPN (openconnect)
+Array Networks Compatible VPN (openconnect) - Array Networks mos VPN (openconnect)
+F5 BIG-IP Compatible VPN (openconnect) - F5 BIG-IP mos VPN (openconnect)
+Fortinet Compatible VPN (openconnect) - Fortinet mos VPN (openconnect)
+PAN Global Protect (openconnect) - PAN Global Protect (openconnect)
+Juniper SSL VPN (openconnect) - Juniper SSL VPN (openconnect)
+Pulse Connect Secure (openconnect) - Pulse Connect Secure (openconnect)
+OpenVPN - OpenVPN
+Point-to-Point Tunneling Protocol (PPTP) - Point-to-Point Tunneling Protocol (PPTP)
+SSH - SSH
+Secure Socket Tunneling Protocol (SSTP) - Secure Socket Tunneling Protocol (SSTP)
+IPsec based VPN (strongswan) - IPsec asosidagi VPN (strongswan)
+Cisco Compatible VPN (vpnc) - Cisco mos VPN (vpnc)
+Network status and control - Tarmoq holati va boşqaruvi
+Management of cellular networks - Mobil aloqa tarmoqlarini boşqariş
+Edit network connections - Tarmoq ulanişlarini tahrirlaş
+Wi-Fi Hotspot - Wi-Fi ulaniş nuqtasi (Hotspot)
+Wireless network setting - Simsiz tarmoq sozlamasi
+Wired network settings - Simli tarmoq sozlamalari
+Provides secrets to the NetworkManager daemon - NetworkManager xizmatiga maxfiy maʼlumotlarni (parollarni) taqdim etadi
+Fortinet SSLVPN virtual private networks - Fortinet SSLVPN virtual xususiy tarmoqlari
+Tunnel connections via DNS - DNS orqali tunnel ulanişlari
+Compatible with L2TP VPN servers - L2TP VPN serverlari bilan mos keladi
+IPsec, IKEv1, IKEv2 based VPN - IPsec, IKEv1, IKEv2 asosidagi VPN
+Compatible with Cisco AnyConnect SSL VPN - Cisco AnyConnect SSL VPN bilan mos keladi
+Compatible with Array Networks SSL VPN - Array Networks SSL VPN bilan mos keladi
+Compatible with F5 BIG-IP SSL VPN - F5 BIG-IP SSL VPN bilan mos keladi
+Compatible with Fortinet VPN - Fortinet VPN bilan mos keladi
+Compatible with PAN GlobalProtect SSL VPN - PAN GlobalProtect SSL VPN bilan mos keladi
+Compatible with Juniper Network Connect - Juniper Network Connect bilan mos keladi
+Compatible with Pulse Connect Secure SSL VPN - Pulse Connect Secure SSL VPN bilan mos keladi
+Compatible with the OpenVPN server - OpenVPN serveri bilan mos keladi
+Compatible with Microsoft and other PPTP VPN servers - Microsoft va boşqa PPTP VPN serverlari bilan mos keladi
+Compatible with the SSH server - SSH serveri bilan mos keladi
+Compatible with Microsoft and other SSTP VPN servers - Microsoft va boşqa SSTP VPN serverlari bilan mos keladi
+Compatible with various Cisco, Juniper, Netscreen and Sonicwall IPsec-based VPN gateways - Cisco, Juniper, Netscreen va Sonicwall IPsec asosidagi turli VPN şlyuzlari bilan mos keladi
+Jan Grulich,Lukáš Tinkl - Jan Grulich, Lukáš Tinkl
+Tobias Fella - Tobias Fella
+Jan Grulich - Jan Grulich
+Lukáš Tinkl - Lukáš Tinkl
+KDE plasma - KDE plasma

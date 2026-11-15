@@ -1,0 +1,44 @@
+Emoji Selector - Emoji tanlagiç
+(C) 2019 Aleix Pol i Gonzalez - (C) 2019 Aleix Pol i Gonzalez
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Replace an existing instance - Mavjud nusxani almaştiriş
+Search - Qidiriş
+Clear History - Tarixni tozalaş
+Skin tone: %1 - Teri rangi: %1
+🖐️ Neutral - 🖐️ Neytral
+Neutral - Neytral
+🖐🏻 Light - 🖐🏻 Oç
+Light - Oç
+🖐🏼 Medium Light - 🖐🏼 Örtaça oç
+Medium Light - Örtaça oç
+🖐🏽 Medium - 🖐🏽 Örtaça
+Medium - Örtaça
+🖐🏾 Medium Dark - 🖐🏾 Örtaça qoronği
+Medium Dark - Örtaça qoronği
+🖐🏿 Dark - 🖐🏿 Qoronği
+Dark - Qoronği
+Zoom Out - Kiçraytiriş
+Zoom level - Masştab darajasi
+%1% - %1%
+Zoom In - Kattalaştiriş
+Reset Zoom - Masştabni tiklaş
+Select Variant - Variantni tanlaş
+Copy Character - Belgini nusxalaş
+Copy Description - Tavsifni nusxalaş
+No recent emojis - Yaqinda işlatilgan emojilar yöq
+No matching emoji found - Mos keluvçi emoji topilmadi
+Select Variant of "%1" - "%1" variantini tanlaş
+%1 copied to the clipboard - %1 almaşiş buferiga nusxalandi
+Recent - Yaqinda işlatilgan
+All - Hammasi
+Smileys and Emotion - Kulgiçlar va hissiyotlar
+People and Body - Odamlar va tana
+Component - Tarkibiy qismlar
+Animals and Nature - Hayvonlar va tabiat
+Food and Drink - Taomlar va içimliklar
+Travel and Places - Sayohat va joylar
+Activities - Faoliyatlar
+Objects - Buyumlar
+Symbols - Belgilar
+Flags - Bayroqlar

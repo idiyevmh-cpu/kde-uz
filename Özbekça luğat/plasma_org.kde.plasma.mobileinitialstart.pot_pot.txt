@@ -1,0 +1,58 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Opens the initial start wizard without modifying configuration - Sozlamalarni özgartirmasdan dastlabki işga tuşiriş ustasini oçadi
+© 2026 KDE Community - © 2026 KDE Hamjamiyati
+Devin Lin - Devin Lin
+Edit APN - APNni tahrirlaş
+Add APN - APN qöşiş
+Name - Ism
+APN - APN
+Username - Foydalanuvçi nomi
+Password - Parol
+Network type - Tarmoq turi
+4G/3G/2G - 4G/3G/2G
+3G/2G - 3G/2G
+2G - 2G
+Only 4G - Faqat 4G
+Only 3G - Faqat 3G
+Only 2G - Faqat 2G
+Any - Har qanday
+Cellular - Mobil tarmoq
+Your device does not have a modem available. - Sizning qurilmangizda modem mavjud emas.
+Please configure your APN below for mobile data, further information will be available with your carrier. - Iltimos, mobil maʼlumotlar uçun quyida APN sozlamalarini örnating, qöşimça maʼlumotni operatoringizdan olişingiz mumkin.
+You are connected to the mobile network. - Siz mobil tarmoqqa ulangansiz.
+Please insert a SIM card into your device. - Iltimos, qurilmangizga SIM-kartani joylaştiring.
+Mobile Data - Mobil maʼlumotlar
+Edit - Tahrirlaş
+Delete - Öçiriş
+Complete! - Tayyor!
+Your device is now ready. <br /><br />Enjoy <b>%1</b>! - Qurilmangiz endi tayyor. <br /><br /><b>%1</b> dan zavqlaning!
+Before we get started… - Boşlaşimizdan oldin…
+Adjust the screen brightness. - Ekran yorqinligini sozlaş.
+Adjust the size of elements on the screen. - Ekrandagi elementlar ölçamini sozlaş.
+Display Scaling - Displeyni masştablaş
+Dark Theme - Qoronği mavzu
+System Navigation - Tizim navigatsiyasi
+Choose a method to navigate around the system. - Tizimda navigatsiya qiliş usulini tanlang.
+Gesture navigation - Imo-işorali navigatsiya
+Swipe up from the bottom to see running applications. Flick to go to the home screen. - Işlayotgan ilovalarni köriş uçun pastdan yuqoriga suring. Boş ekranga ötiş uçun silkiting.
+Button navigation - Tugmali navigatsiya
+Use buttons on a navigation bar to navigate the system. - Tizimda navigatsiya qiliş uçun navigatsiya panelidagi tugmalardan foydalaning.
+This can later be changed in the settings. - Buni keyinçalik sozlamalarda özgartiriş mumkin.
+Time and Date - Sana va vaqt
+Select your time zone and preferred time format. - Vaqt mintaqangizni va maʼqul vaqt formatini tanlang.
+24-Hour Format - 24 soatlik format
+Invalid input. - Notöğri kiriş.
+Connect - Ulaş
+Disconnect - &Uziş
+Configure - Sozlaş
+Connect to - Ulaning
+Network - Tarmoq
+Connect to a Wi-Fi network for network access. - Tarmoqqa kiriş uçun Wi-Fi tarmoğiga ulaning.
+Password… - Parol…
+Welcome to<br/><b>Plasma Mobile</b> - <b>Plasma Mobile</b> ga<br/>xuş kelibsiz
+Powered by<br/><b>%1</b> - <b>%1</b><br/>asosida işlaydi
+Next - Oldinga
+Initial Start - Dastlabki işga tuşiriş
+Back - Orqaga
+Finish - Tugatiş

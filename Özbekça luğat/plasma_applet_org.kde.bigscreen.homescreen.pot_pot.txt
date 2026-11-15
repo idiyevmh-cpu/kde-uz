@@ -1,0 +1,57 @@
+Edit Home Screen - Boş ekranni tahrirlaş
+Favorites - Sevimlilar
+Launcher Sections - Işga tuşirgiç bölimlari
+Hidden Apps - Yaşirin ilovalar
+Change Favorites Order - Sevimlilar tartibini özgartiriş
+To change the order of the favorites, hold the select button on a favorite on the home screen and choose Move. - Sevimlilar tartibini özgartiriş uçun boş ekranda tanlaş tugmasini bosib turing va Köçirişni tanlang.
+Add Favorites - Sevimlilarga qöşiş
+Remove Favorites - Sevimlilardan olib taşlaş
+Show Recent - Yaqinda oçilganlarni körsatiş
+Recently launched applications appear in a row on the home screen - Yaqinda işga tuşirilgan ilovalar boş ekranda qatorda paydo böladi
+Show Applications - Ilovalarni körsatiş
+Non-game applications appear in a row on the home screen - Öyin bölmagan ilovalar boş ekranda qatorda paydo böladi
+Show Games - Öyinlarni körsatiş
+Applications in the Game category appear in a row on the home screen - Öyin toifasidagi ilovalar boş ekranda qatorda paydo böladi
+Screenshot - Skrinşot
+Audio - Audio
+Wi-Fi - Wi-Fi
+Shutdown - Öçiriş
+Home - Boş ekran
+Search - Qidiriş
+Tasks - Vazifalar
+Controller - Kontroller
+Currently capturing keys… - Hozirda tugmalar uşlab olinmoqda…
+Key capture off - Tugmalarni uşlab oliş öçirilgan
+On-screen Keyboard - Ekrandagi klaviatura
+Settings - Moslamalar
+Hold to close… - Yopiş uçun uşlab turing…
+Open Apps - Oçiq ilovalar
+Close all apps - Barça ilovalarni yopiş
+Battery: %1% - Batareya: %1%
+Show app grid - Ilovalar törini körsatiş
+Hide app grid - Ilovalar törini yaşiriş
+KDE Connect - KDE Connect
+Accept Pairing Request From %1? - %1 dan juftlaş sörovi qabul qilinsinmi?
+Exit Bigscreen - Bigscreen-dan çiqiş
+Power - Quvvat
+Audio Settings - Audio sozlamalari
+Internet Settings - Internet sozlamalari
+Added %1 to Favorites - %1 sevimlilarga qöşildi
+Removed %1 from Favorites - %1 sevimlilardan olib taşlandi
+%1 hidden. Show it again from Edit Home Screen. - %1 yaşirildi. Boş ekranni tahrirlaş orqali uni qayta körsating.
+Move - Köçiriş
+Remove from Favorites - Sevimlilardan olib taşlaş
+Add to Favorites - Sevimlilarga qöşiş
+Hide from Homescreen - Boş ekrandan yaşiriş
+Running - Işlayapti
+Recent - Yaqinda işlatilgan
+Applications - Dasturlar
+Games - Öyinlar
+Controller added: %1 - Kontroller qöşildi: %1
+Controller removed: %1 - Kontroller olib taşlandi: %1
+Remote added: %1 - Pult qöşildi: %1
+Remote removed: %1 - Pult olib taşlandi: %1
+System taking over controller input - Tizim kontroller kiritişini egallab olmoqda
+Application taking over controller input - Ilova kontroller kiritişini egallab olmoqda
+Plasma Bigscreen has enabled system-wide inhibition - Plasma Bigscreen tizim miqyosida uyqu rejimini bloklaşni yoqdi
+Search… - Qidiriş…

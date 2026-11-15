@@ -1,0 +1,2 @@
+PDF - PDF
+Adds support for reading PDF documents - PDF hujjatlarini öqişni qöllab-quvvatlaydi

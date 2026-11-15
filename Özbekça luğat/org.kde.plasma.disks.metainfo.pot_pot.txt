@@ -1,0 +1,5 @@
+Plasma Disks - Plasma Disklar
+Hard disk health monitoring for KDE Plasma - KDE Plasma uçun qattiq disk holatini monitoring qiliş
+Plasma Disks monitors S.M.A.R.T. data of disks and alerts the user when signs of imminent failure appear. - Plasma Disklar disklarning S.M.A.R.T. maʼlumotlarini kuzatib boradi va nosozlik belgilari paydo bölganda foydalanuvçini ogohlantiradi.
+The Plasma Disks Info Center module showing the state of devices. - Qurilmalarning holatini körsatuvçi Plasma Disklar Maʼlumot markazi moduli.
+Harald Sitter &lt;sitter@kde.org&gt; - Harald Sitter &lt;sitter@kde.org&gt;

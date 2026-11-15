@@ -1,0 +1,66 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+No device specified: Use -d <Device ID> or -n <Device Name> to specify a device. 
+Device ID's and names may be found using "kdeconnect-cli -l" 
+View complete help with --help option - Qurilma körsatilmagan: Qurilmani körsatiş uçun -d <Device ID> yoki -n <Device Name> dan foydalaning. 
+Qurilma ID-lari va nomlarini "kdeconnect-cli -l" yordamida topiş mumkin 
+Töliq yordamni --help parametri orqali köring
+KDE Connect CLI tool - KDE Connect CLI vositasi
+© 2015–2025, KDE Connect Team - © 2015–2025, KDE Connect jamoasi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Albert Vaca Cintora - Albert Vaca Cintora
+List all devices - Barça qurilmalar röyxatini körsatiş
+List available (paired and reachable) devices - Mavjud (juftlangan va aloqa mavjud) qurilmalar röyxatini körsatiş
+List all backends and status - Barça bekendlar va ularning holati röyxatini körsatiş
+Enable the specified backend - Körsatilgan bekendni yoqiş
+backend - bekend
+Disable the specified backend - Körsatilgan bekendni öçiriş
+Make --list-devices or --list-available print only the devices id, to ease scripting - Skript yozişni osonlaştiriş uçun --list-devices yoki --list-available faqat qurilmalar ID-sini çiqaradigan qiliş
+Make --list-devices or --list-available print only the devices name, to ease scripting - Skript yozişni osonlaştiriş uçun --list-devices yoki --list-available faqat qurilmalar nomini çiqaradigan qiliş
+Make --list-devices or --list-available print only the devices id and name, to ease scripting - Skript yozişni osonlaştiriş uçun --list-devices yoki --list-available faqat qurilmalar ID-si va nomini çiqaradigan qiliş
+Search for devices in the network and re-establish connections - Tarmoqda qurilmalarni qidiriş va ulanişlarni qayta tiklaş
+Request pairing with device - Qurilma bilan juftlaşni söraş
+Find device by ringing it - Qurilmaga qönğiroq qiliş orqali uni topiş
+Unpair from device - Qurilmadan juftlikni uziş
+Send ping to device - Qurilmaga ping yuboriş
+Same as ping but you can set the message to display - Ping bilan bir xil, lekin körsatiladigan xabarni belgilaşingiz mumkin
+message - xabar
+Send clipboard to device - Vaqtinçalik xotirani qurilmaga yuboriş
+Share file/URL to device - Fayl/URL manzilini qurilmaga ulaşiş
+Share text to device - Matnni qurilmaga ulaşiş
+Display notifications on device - Qurilmada bildirişnomalarni körsatiş
+Lock the specified device - Körsatilgan qurilmani qulflaş
+Unlock the specified device - Körsatilgan qurilmani qulfdan çiqariş
+Sends an SMS. Requires destination - SMS yuboradi. Qabul qiluvçi manzili talab qilinadi
+Phone number to send the message - Xabar yuboriladigan telefon raqami
+phone number - telefon raqami
+File URLs to send attachments with the message (can be passed multiple times) - Xabar bilan biriktirma yuboriş uçun fayl URL manzillari (bir neça marta uzatilişi mumkin)
+file URLs - fayl URL manzillari
+Device ID - Qurilma ID-si
+Device Name - Qurilma nomi
+Get encryption info about device - Qurilma haqida şifrlaş maʼlumotlarini oliş
+List remote commands and their ids - Masofaviy buyruqlar va ularning ID-lari röyxatini körsatiş
+Execute remote command by id - Masofaviy buyruqni ID böyiça bajariş
+Send keys to device - Tugmalarni qurilmaga yuboriş
+Display this device's id and exit - Uşbu qurilmaning ID-sini körsatiş va çiqiş
+Browse the filesystem of a said device - Mazkur qurilmaning fayl tizimini körib çiqiş
+Mount filesystem of a said device - Mazkur qurilmaning fayl tizimini ulaş (mount)
+Print mount point for the filesystem of a said device - Mazkur qurilmaning fayl tizimi uçun ulaniş nuqtasini çiqariş
+(paired and reachable) - (juftlangan va aloqa mavjud)
+(reachable) - (aloqa mavjud)
+(paired) - (juftlangan)
+via %1 - %1 orqali
+1 device found - 1 ta qurilma topildi
+No devices found - Qurilmalar topilmadi
+(unpaired) - (juftlanmagan)
+Shared %1 - %1 ulaşildi
+Shared text: %1 - Ulaşilgan matn: %1
+Requested to lock %1. - %1 qulflanişi söraldi.
+Requested to unlock %1. - %1 qulfdan çiqarilişi söraldi.
+waiting for device… - qurilma kutilmoqda…
+Device not found - Qurilma topilmadi
+Already paired - Allaqaçon juftlangan
+Pair requested - Juftlaş söraldi
+Already not paired - Allaqaçon juftlanmagan
+Successfully unpaired - Juftlik muvaffaqiyatli uzildi
+error: should specify the SMS's recipient by passing --destination <phone number> - xato: SMS qabul qiluvçisini --destination <phone number> orqali körsatiş kerak

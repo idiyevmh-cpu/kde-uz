@@ -1,0 +1,44 @@
+No Action - Amal yöq
+Peek at Desktop - Iş stoliga qaraş
+Lock Screen - Ekranni qulflaş
+Show KRunner - KRunner ni körsatiş
+Activity Manager - Faoliyatlar boşqaruvçisi
+Application Launcher - Ilovalarni işga tuşirgiç
+Present Windows - Oynalarni namoyiş qiliş
+%1 - All Desktops - %1 - Barça iş stollari
+%1 - Current Desktop - %1 - Joriy iş stoli
+%1 - Current Application - %1 - Joriy ilova
+Overview - Umumiy köriniş
+Grid - Katak
+Toggle window switching - Oynani almaştirişni yoqiş/öçiriş
+Toggle alternative window switching - Muqobil oynani almaştirişni yoqiş/öçiriş
+You can trigger an action by pushing the mouse pointer against the corresponding screen edge or corner. - Siçqonça körsatkiçini tegişli ekran çetiga yoki burçagiga suriş orqali amalni işga tuşirişingiz mumkin.
+&Maximize: - &Kattalaştiriş:
+Windows dragged to top edge - Yuqori çetga sudrab olib borilgan oynalar
+&Tile: - &Koşinlaş (Plitka):
+Windows dragged to left or right edge - Çap yoki öng çetga sudrab olib borilgan oynalar
+Behavior: - Xatti-harakat:
+Remain active when windows are fullscreen - Oynalar töliq ekranda bölganda ham faol qoliş
+Trigger &quarter tiling in: - Çorak &koşinlaşni quyidagiça işga tuşiriş:
+% - %
+Outer  - Taşqi 
+of the screen - ekranning
+Change desktop when the mouse pointer is pushed against the edge of the screen - Siçqonça körsatkiçi ekran çetiga surilganda iş stolini özgartiriş
+&Switch desktop on edge: - Çetda iş &stolini almaştiriş:
+Disabled - Öçirilgan
+Only when moving windows - Faqat oynalarni köçirganda
+Always enabled - Har doim yoqilgan
+Amount of time required for the mouse pointer to be pushed against the edge of the screen before the action is triggered - Amal işga tuşirilişidan oldin siçqonça körsatkiçi ekran çetiga surilib turişi kerak bölgan vaqt
+Activation &delay: - Faollaştiriş &keçikişi:
+ ms -  ms
+Amount of time required after triggering an action until the next trigger can occur - Amal işga tuşirilgandan söng keyingi işga tuşirişgaça talab qilinadigan vaqt
+&Reactivation delay: - Qayta &faollaştiriş keçikişi:
+&Corner barrier: - &Burçak tösiği:
+Here you can enable or disable the virtual corner barrier between screens. The barrier prevents the pointer from moving to another screen when it is already touching a screen corner. This makes it easier to trigger user interface elements like maximized windows' close buttons when using multiple screens. - Bu yerda siz ekranlar orasidagi virtual burçak tösiğini yoqişingiz yoki öçirişingiz mumkin. Tösiq körsatkiç ekran burçagiga tegib turganda uning boşqa ekranga ötib ketişini oldini oladi. Bu bir neçta ekranlardan foydalanganda kattalaştirilgan oynalarning yopiş tugmalari kabi interfeys elementlarini işga tuşirişni osonlaştiradi.
+Prevents the pointer from crossing at screen corners. - Körsatkiçning ekran burçaklaridan ötib ketişini oldini oladi.
+&Edge barrier: - &Çet tösiği:
+Here you can set size of the edge barrier between different screens. The barrier adds additional distance you have to move your pointer before it crosses the edge onto the other screen. This makes it easier to access user interface elements like Plasma Panels that are located on an edge between screens. - Bu yerda turli ekranlar orasidagi çet tösiği hajmini belgilaşingiz mumkin. Tösiq körsatkiç boşqa ekranga çetdan ötişidan oldin bosib ötişi kerak bölgan qöşimça masofani qöşadi. Bu ekranlar orasidagi çetda joylaşgan Plasma panellari kabi foydalanuvçi interfeysi elementlariga kirişni osonlaştiradi.
+Additional distance the pointer needs to travel to cross screen edges. - Körsatkiç ekran çetlaridan ötişi uçun bosib ötişi kerak bölgan qöşimça masofa.
+None - Yöq
+ px -  px
+You can trigger an action by swiping from the screen edge towards the center of the screen. - Ekran çetidan ekran markaziga qarab suriş orqali amalni işga tuşirişingiz mumkin.

@@ -1,0 +1,35 @@
+Source text - Tarjima text
+Konsole - Konsole
+Bell in Focused Session - Faol seansda tovuşli signal (qönğiroq)
+Bell emitted within a focused session - Faol seans içida tovuşli signal berildi
+Bell in Non-Focused Session - Nofaol seansda tovuşli signal
+Bell emitted within a non-focused session - Nofaol seans içida tovuşli signal berildi
+Activity in Non-Focused Monitored Session - Nofaol kuzatilayotgan seansdagi faollik
+Activity detected in a non-focused monitored session - Nofaol kuzatuv seansida faollik aniqlandi
+Activity in Monitored Session - Kuzatilayotgan seansdagi faollik
+Activity detected in a monitored session - Kuzatuv seansida faollik aniqlandi
+Silence in Non-Focused Monitored Session - Nofaol kuzatilayotgan seansdagi sukunat
+Silence detected in a non-focused monitored session - Nofaol kuzatuv seansida sukunat (harakatsizlik) aniqlandi
+Silence in Monitored Session - Kuzatilayotgan seansdagi sukunat
+Silence detected in a monitored session - Kuzatuv seansida sukunat aniqlandi
+Process finished in Non-Focused Monitored Session - Nofaol kuzatuv seansida jarayon tugadi
+Process finished in a non-focused monitored session - Nofaol kuzatilayotgan seansda jarayon yakunlandi
+Process finished in Monitored Session - Kuzatuv seansida jarayon tugadi
+Process finished in a monitored session - Kuzatilayotgan seansda jarayon yakunlandi
+Session Finished With Non-Zero Status - Seans nolga teng bölmagan xatolik holati bilan tugadi
+A session has exited with non-zero status - Seans noldan farqli holat kodi bilan yakunlandi
+Process Triggered a Notification in a Focused Session - Jarayon faol seansda bildirişnoma çiqardi
+Notification emitted by a process in a focused session - Faol seansdagi jarayon tomonidan bildirişnoma yuborildi
+Process Triggered a Notification in a Non-Focused Session - Jarayon nofaol seansda bildirişnoma çiqardi
+Notification emitted by a process in a non-focused session - Nofaol seansdagi jarayon tomonidan bildirişnoma yuborildi
+Shell prompt triggered a notification in a non-focused session - Buyruq qobiği taklifi nofaol seansda bildirişnoma çiqardi
+Shell prompt triggered a notification - Buyruq qobiği taklifi bildirişnoma çiqardi
+Terminal Emulator - Terminal emulyatori
+Use the command line - Buyruq satridan foydalaniş
+Run In Konsole - Konsole içida işga tuşiriş
+Run within Konsole - Konsole oynasida bajariş
+terminal;console;script;run;execute;command;command-line;commandline;cli;bash;sh;shell;zsh;cmd;command prompt;xterm;tty;pty;fish;konsole - terminal;konsol;skript;işga tuşiriş;bajariş;buyruq;buyruq satri;cli;bash;sh;shell;zsh;xterm;tty;fish;konsole;
+Terminal - Terminal
+Open New Window - Yangi oyna oçiş
+Open New Tab - Yangi içki varaq oçiş
+Command line access - Buyruq satriga kiriş

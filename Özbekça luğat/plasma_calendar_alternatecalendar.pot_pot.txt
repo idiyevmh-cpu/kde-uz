@@ -1,0 +1,24 @@
+Julian - Yulian taqvimi
+Milankovic - Milankoviç taqvimi
+The Solar Hijri Calendar (Persian) - Quyoş hijriy taqvimi (Forsça)
+Islamic Calendar (Astronomical) - Islomiy taqvim (astronomik)
+The Islamic Civil Calendar (Tabular) - Islom fuqarolik taqvimi (jadvalli)
+Islamic Calendar (Umm al-Qura) - Islomiy taqvim (Umm al-Qura)
+Chinese Lunar Calendar - Xitoy qamariy taqvimi
+Indian National Calendar - Hindiston milliy taqvimi
+Hebrew Calendar - Ibroniy taqvimi
+Vietnamese Lunar Calendar - Vetnam qamariy taqvimi
+Ethiopian Calendar - Efiopiya taqvimi
+Bikram Sambat - Bikram Sambat taqvimi
+Calendar system: - Taqvim tizimi:
+This calendar is based on pure astronomical calculation. It doesn't consider any crescent visibility criteria. - Uşbu taqvim sof astronomik hisob-kitoblarga asoslangan. Unda hilol (yangi oy) körinişi mezonlari hisobga olinmaydi.
+Date offset: - Sana siljişi:
+%1 day - %1 kun
+A positive offset signifies a later date, while a negative offset signifies an earlier date. - Musbat siljiş keyingi sanani, manfiy siljiş esa oldingi sanani bildiradi.
+%1 %2, %3 (%4) - %1 %2, %3 (%4)
+%1 %2, %3 (%4) - %1 %2, %3 (%4)
+%1 %2, %3 - %1 %2, %3
+%1 %2, %3 (%4) - %1 %2, %3 (%4)
+ (approx.) -  (taxminan)
+%1 %2, %3 - %1 %2, %3
+%1 %2, %3 - %1 %2, %3

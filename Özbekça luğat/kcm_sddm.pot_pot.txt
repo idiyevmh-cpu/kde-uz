@@ -1,0 +1,44 @@
+Invalid theme package - Yaroqsiz mavzu paketi
+Could not open file - Faylni oçib bölmadi
+Could not decompress archive - Arxivni oçib bölmadi
+SDDM theme installer - SDDM mavzularini örnatuvçi
+Install a theme. - Mavzuni örnatiş.
+Uninstall a theme. - Mavzuni öçiriş.
+The theme to install, must be an existing archive file. - Örnatiladigan mavzu arxiv fayl bölişi kerak.
+Unable to install theme - Mavzuni örnatib bölmadi
+Cannot proceed, user 'sddm' does not exist. Please check your SDDM install. - Davom etib bölmaydi, 'sddm' foydalanuvçisi mavjud emas. SDDM örnatilişini tekşiring.
+%1 (Wayland) - %1 (Wayland)
+Behavior - Xususiyatlar
+Automatically log in: - Avtomatik kiriş:
+as user: - foydalanuvçi sifatida:
+with session - seans bilan
+Auto-login does not support unlocking your KDE Wallet automatically, so it will ask you to unlock it every time you log in.<nl/><nl/>To avoid this, you can change the wallet to have a blank password. Note that this is insecure and should only be done in a trusted environment. - Avtomatik kiriş KDE hamyonini avtomatik oçişni qöllab-quvvatlamaydi.
+Open KDE Wallet Settings - KDE Hamyon sozlamalarini oçiş
+Log in again immediately after logging off - Çiqilgandan keyin darhol qayta kiriş
+Minimum user UID: - Foydalanuvçining minimal UID-si:
+Maximum user UID: - Foydalanuvçining maksimal UID-si:
+Halt Command: - Töxtatiş buyruği:
+Reboot Command: - Qayta işga tuşiriş buyruği:
+%1 (%2) - %1 ( %2 )
+No preview available - Oldindan köriş mavjud emas
+%1, by %2 (%3) - %1, %2 tomonidan (%3)
+Behavior… - Xulq-atvor…
+Apply Plasma Settings… - Plasma sozlamalarini qöllaş…
+Install From File… - Fayldan örnatiş…
+Get New… - Yangi mavzuni örnatiş
+View details - Tafsilotlarni köriş
+Change background - Fon rasmini özgartiriş
+Remove login screen theme - Kiriş ekrani mavzusini olib taşlaş
+Cannot delete the active login screen theme - Faol kiriş ekrani mavzusini öçirib bölmaydi
+Cannot delete system-installed login screen themes - Tizimga örnatilgan kiriş ekrani mavzularini öçirib bölmaydi
+Apply Plasma Settings - Plasma sozlamalarini qöllaş
+This will make the SDDM login screen reflect your customizations to the following Plasma settings: - Bu SDDM kiriş ekranida quyidagi Plasma sozlamalarini aks ettiradi:
+<para><list><item>Color scheme</item><item>Cursor theme and size</item><item>Font and font rendering</item><item>NumLock preference</item><item>Plasma theme</item><item>Scaling DPI</item><item>Screen configuration (Wayland only)</item></list></para> - <para><list><item>Rang sxemasi</item><item>Kursor mavzusi va ölçami</item><item>Şrift va uning render sozlamalari</item><item>NumLock sozlamasi</item><item>Plasma mavzusi</item><item>Masştablaş DPI</item><item>Ekran sozlamalari (faqat Wayland)</item></list></para>
+Please note that theme files must be installed globally to be reflected on the SDDM login screen. - SDDM kiriş ekranida aks etişi uçun mavzu fayllari global örnatilgan bölişi kerak.
+Apply - Qöllaş
+Reset to Default Settings - Standart sozlamalarga tiklaş
+Change Background - Fon rasmini özgartiriş
+No image selected - Rasm tanlanmagan
+Show clock - Soatni körsatiş
+Load From File… - Fayldan yuklaş…
+Clear Image - Rasmni tozalaş

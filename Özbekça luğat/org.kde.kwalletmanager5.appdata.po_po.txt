@@ -1,0 +1,3 @@
+KWalletManager - KWalletManager
+Store and manage your passwords - Parollaringizni saqlang va boşqaring
+KWalletManager is a tool to manage the passwords on your system. By using the Frameworks wallet subsystem it not only allows you to keep your own secrets but also to access and manage the passwords of every application that integrates with the wallet. - KWalletManager tizimingizdagi parollarni boşqariş uçun möljallangan vosita. Frameworks hamyon kiritma tizimidan foydalangan holda u nafaqat öz sirlaringizni saqlaşga, balki hamyon bilan integratsiyalaşgan har bir ilovaning parollariga kiriş va ularni boşqarişga ham imkon beradi.

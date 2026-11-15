@@ -1,0 +1,4 @@
+Source text - Tarjima text
+updates,offline,automatic - yangilanişlar,oflayn,avtomatik
+Software Update - Dasturiy taʼminotni yangilaş
+Configure software update behavior - Dasturiy taʼminotni yangilaş tartibini sozlaş

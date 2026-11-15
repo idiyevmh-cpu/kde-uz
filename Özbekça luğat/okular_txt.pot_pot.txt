@@ -1,0 +1,4 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Txt - Matn
+Txt Backend Configuration - Matn bekendi sozlamalari

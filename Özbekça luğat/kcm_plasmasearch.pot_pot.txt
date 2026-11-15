@@ -1,0 +1,18 @@
+Source text - Tarjima text
+Favorite Plugins - Sevimli plaginlar
+Available Plugins - Mavjud plaginlar
+Configure KRunner… - KRunner tizimini sozlaş…
+Get New Plugins… - Yangi plaginlarni oliş…
+Remove from favorites - Sevimlilardan olib taşlaş
+Add to favorites - Sevimlilarga qöşiş
+Installation executed successfully, you may now close this window - Örnatiş muvaffaqiyatli bajarildi, endi bu oynani yopişingiz mumkin
+Uninstallation executed successfully, you may now close this window - Öçiriş muvaffaqiyatli bajarildi, endi bu oynani yopişingiz mumkin
+KRunner plugin installation failed - KRunner plaginini örnatiş muvaffaqiyatsiz böldi
+Command to execute: install or uninstall - Bajariladigan buyruq: install yoki uninstall
+Confirm Installation - Örnatişni tasdiqlang
+Accept Risk And Continue - Xavfni qabul qiliş va davom etiş
+View File - Faylni köriş
+Mark entry as uninstalled - Yozuvni öçirilgan deb belgilaş
+Mark entry as installed - Yozuvni örnatilgan deb belgilaş
+View Script - Skriptni köriş
+View Source Directory - Manba jildini köriş

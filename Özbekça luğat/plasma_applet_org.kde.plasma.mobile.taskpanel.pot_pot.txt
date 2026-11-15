@@ -1,0 +1,6 @@
+Task switcher - Vazifalar almaştirgiçi
+Home - Boşga
+Hide keyboard - Klaviaturani yaşiriş
+Close app - Ilovani yopiş
+Rotate screen - Ekranni buriş
+Show keyboard - Klaviaturani körsatiş

@@ -1,0 +1,42 @@
+onscreen,osk,virtualkeyboard,keyboard,popup,characters,diacritics,symbols,alternate,long,press,overlay - ekrandagi,virtualklaviatura,klaviatura,belgilar,diakritik,ramzlar,uzoq,bosiş
+On-Screen Keyboard - Ekrandagi klaviatura
+አማርኛ - Amxarça
+العربية - Arabça
+Български - Bolgarça
+Čeština - Çexça
+Dansk - Datça
+Deutsch - Nemisça
+Ελληνικά - Yunonça
+English - Inglizça
+Esperanto - Esperantoça
+Español (España) - Ispança (Ispaniya)
+Español (México) - Ispança (Meksika)
+Eesti - Estonça
+فارسی - Forsça
+Suomi - Finça
+Français (Canada) - Fransuzça (Kanada)
+Français (France) - Fransuzça (Fransiya)
+עברית - Ibroniyça
+हिन्दी - Hindça
+Hrvatski - Xorvatça
+Magyar - Vengerça
+Bahasa Indonesia - Indonezça
+Italiano - Italyança
+Latviešu - Latişça
+Bahasa Melayu - Malayça
+Norsk - Norvegça
+Nederlands - Gollandça
+Polski - Polyakça
+Português (Brasil) - Portugalça (Braziliya)
+Português (Portugal) - Portugalça (Portugaliya)
+Română - Ruminça
+Русский - Rusça
+Slovenčina - Slovakça
+Slovenščina - Slovença
+Shqip - Albança
+Српски - Serbça
+Svenska - Şvedça
+Türkçe - Turkça
+Українська - Ukrainça
+Configuration for Plasma Keyboard - Plasma klaviaturasi uçun sozlamalar
+Devin Lin - Devin Lin

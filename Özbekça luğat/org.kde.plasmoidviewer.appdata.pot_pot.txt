@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Plasmoid Viewer - Plazmoid köruvçi
+Testing tool for Plasma applets - Plasma appletlarini sinovdan ötkaziş vositasi
+Plasmoid Viewer is a graphical tool allowing developers to test Plasma applets. - Plasmoid Viewer — bu dasturçilarga Plasma appletlarini qulay sinovdan ötkaziş imkonini beruvçi grafik vosita.

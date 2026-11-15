@@ -1,0 +1,27 @@
+Time-based features such as Night Light and dynamic wallpapers can be synchronized with the day-night cycle. Choose your preferred cycle here. - Tungi çiroq va dinamik fon rasmlari kabi vaqtga asoslangan funksiyalar kun-tun davri bilan sinxronlaştirilişi mumkin. Bu yerda afzal körgan davringizni tanlang.
+Determine sunrise and sunset times: - Quyoş çiqişi va botişi vaqtlarini aniqlaş:
+Based on device's location - Qurilmaning joylaşuviga asoslangan
+Using custom times - Moslaştirilgan vaqtlardan foydalaniş
+Sunrise: - Quyoş çiqişi:
+Sunset: - Quyoş botişi:
+Transition duration: - Ötiş davomiyligi:
+%1 minute - %1 daqiqa
+The <application>GeoClue2</application> service will be used to periodically update the device's location using GPS or cell tower triangulation if available, or else by sending its IP address to <link url='https://geoip.com/privacy/'>GeoIP</link>. - Qurilmaning joylaşuvini muntazam yangilab turiş uçun agar mavjud bölsa GPS yoki uyali aloqa minoralari triangulyatsiyasidan, aks holda uning IP manzilini <link url='https://geoip.com/privacy/'>GeoIP</link> ga yuboriş orqali <application>GeoClue2</application> xizmatidan foydalaniladi.
+The <application>%1</application> service will be used to periodically update the device's location. Please open a bug report at <link url='https://bugs.kde.org'>https://bugs.kde.org</link> asking KDE developers to write a detailed description of what this service will do. - Qurilmaning joylaşuvini muntazam yangilab turiş uçun <application>%1</application> xizmatidan foydalaniladi. Iltimos, KDE dasturçilaridan uşbu xizmat nima qilişining batafsil tavsifini yozişni sörab <link url='https://bugs.kde.orğ>https://bugs.kde.org</link> manzilida xato haqida xabar bering.
+Automatically detect location - Joylaşuvni avtomatik aniqlaş
+Use manual location: - Qölda körsatilgan joylaşuvdan foydalaniş:
+Latitude: - Kenglik:
+Longitude: - Uzunlik:
+Sunrise starts at %1 and ends at %2 - Quyoş çiqişi %1 da boşlanadi va %2 da tugaydi
+Sunrise - Quyoş çiqişi
+Sunset starts at %1 and ends at %2 - Quyoş botişi %1 da boşlanadi va %2 da tugaydi
+Sunset - Quyoş botişi
+Sunrise and sunset times cannot be determined at your location due to polar day. Choose custom times instead. - Qutbiy kun tufayli joylaşuvingizda quyoş çiqişi va botişi vaqtlarini aniqlab bölmadi. Buning örniga moslaştirilgan vaqtlarni tanlang.
+Sunrise and sunset times cannot be determined at your location due to polar night. Choose custom times instead. - Qutbiy tun tufayli joylaşuvingizda quyoş çiqişi va botişi vaqtlarini aniqlab bölmadi. Buning örniga moslaştirilgan vaqtlarni tanlang.
+Sunrise and sunset times cannot be reliably determined at your location. Choose custom times instead. - Joylaşuvingizda quyoş çiqişi va botişi vaqtlarini aniq aniqlab bölmadi. Buning örniga moslaştirilgan vaqtlarni tanlang.
+: - :
+Tap to choose your location on the map. - Xaritada joylaşuvingizni tanlaş uçun bosing.
+Click to choose your location on the map. - Xaritada joylaşuvingizni tanlaş uçun bosing.
+Zoom in - Kattalaştiriş
+Zoom out - Kiçraytiriş
+Modified from <link url='https://commons.wikimedia.org/wiki/File:World_location_map_(equirectangular_180).svg'>World location map</link> by TUBS / Wikimedia Commons / <link url='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</link> - TUBS / Wikimedia Commons / <link url='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</link> tomonidan yaratilgan <link url='https://commons.wikimedia.org/wiki/File:World_location_map_(equirectangular_180).svğ>Dunyo joylaşuv xaritasi</link> asosida özgartirilgan

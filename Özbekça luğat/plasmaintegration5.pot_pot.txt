@@ -1,0 +1,13 @@
+Source text - Tarjima text
+Save File - Faylni saqlaş
+Select Folder - Jildni tanlaş
+Open File - Faylni oçiş
+Save All - Barçasini saqlaş
+&Yes - &Ha
+Yes to All - Barçasiga ha
+&No - &Yöq
+No to All - Barçasiga yöq
+Abort - Töxtatiş (Bekor qiliş)
+Retry - Qayta uriniş
+Ignore - Eʼtiborsiz qoldiriş
+Failed to launch for unknown reasons. Please try with a pre-existing application. - Nomaʼlum sabablarga köra işga tuşirib bölmadi. Iltimos, allaqaçon örnatilgan boşqa ilova orqali urinib köring.

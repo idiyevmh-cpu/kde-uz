@@ -1,0 +1,5 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Cannot open document, neither unrar nor unarchiver were found. - Hujjatni oçib bölmadi, unrar ham, unarchiver ham topilmadi.
+The version of unrar on your system is not suitable for opening comicbooks. - Tizimingizdagi unrar versiyasi komikslarni oçiş uçun mos kelmaydi.
+Unknown ComicBook format. - Nomaʼlum ComicBook formati.

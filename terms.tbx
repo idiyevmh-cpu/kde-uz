@@ -1,0 +1,2488 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
+<martif type="TBX" xml:lang="en_US">
+  <text>
+    <body>
+    <termEntry id="1">
+      <langSet xml:lang="en_US"><tig><term>Desktop</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Iş stoli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="2">
+      <langSet xml:lang="en_US"><tig><term>Settings</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sozlamalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="3">
+      <langSet xml:lang="en_US"><tig><term>Apply</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qöllaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="4">
+      <langSet xml:lang="en_US"><tig><term>Cancel</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bekor qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="5">
+      <langSet xml:lang="en_US"><tig><term>Default</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Standart</term></tig></langSet>
+    </termEntry>
+    <termEntry id="6">
+      <langSet xml:lang="en_US"><tig><term>Widget</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vidjet</term></tig></langSet>
+    </termEntry>
+    <termEntry id="7">
+      <langSet xml:lang="en_US"><tig><term>Window</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oyna</term></tig></langSet>
+    </termEntry>
+    <termEntry id="8">
+      <langSet xml:lang="en_US"><tig><term>Folder</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jild</term></tig></langSet>
+    </termEntry>
+    <termEntry id="9">
+      <langSet xml:lang="en_US"><tig><term>General</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Umumiy</term></tig></langSet>
+    </termEntry>
+    <termEntry id="10">
+      <langSet xml:lang="en_US"><tig><term>None</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yöq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="11">
+      <langSet xml:lang="en_US"><tig><term>Name</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nomi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="12">
+      <langSet xml:lang="en_US"><tig><term>Search</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qidiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="13">
+      <langSet xml:lang="en_US"><tig><term>Configure</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sozlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="14">
+      <langSet xml:lang="en_US"><tig><term>Delete</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="15">
+      <langSet xml:lang="en_US"><tig><term>Unknown</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nomaʼlum</term></tig></langSet>
+    </termEntry>
+    <termEntry id="16">
+      <langSet xml:lang="en_US"><tig><term>Edit</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tahrirlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="17">
+      <langSet xml:lang="en_US"><tig><term>Remove</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Olib taşlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="18">
+      <langSet xml:lang="en_US"><tig><term>Close</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yopiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="19">
+      <langSet xml:lang="en_US"><tig><term>Copy</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nusxa oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="20">
+      <langSet xml:lang="en_US"><tig><term>Cut</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kesiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="21">
+      <langSet xml:lang="en_US"><tig><term>Paste</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qöyiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="22">
+      <langSet xml:lang="en_US"><tig><term>Automatic</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Avtomatik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="23">
+      <langSet xml:lang="en_US"><tig><term>Never</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Heç qaçon</term></tig></langSet>
+    </termEntry>
+    <termEntry id="24">
+      <langSet xml:lang="en_US"><tig><term>Always</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Har doim</term></tig></langSet>
+    </termEntry>
+    <termEntry id="25">
+      <langSet xml:lang="en_US"><tig><term>Appearance</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Taşqi köriniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="26">
+      <langSet xml:lang="en_US"><tig><term>Add</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qöşiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="27">
+      <langSet xml:lang="en_US"><tig><term>Save</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Saqlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="28">
+      <langSet xml:lang="en_US"><tig><term>Save As</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Boşqa nom bilan saqlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="29">
+      <langSet xml:lang="en_US"><tig><term>Save All</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Barçasini saqlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="30">
+      <langSet xml:lang="en_US"><tig><term>Filter</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Filtr</term></tig></langSet>
+    </termEntry>
+    <termEntry id="31">
+      <langSet xml:lang="en_US"><tig><term>Rename</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nomini özgartiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="32">
+      <langSet xml:lang="en_US"><tig><term>Description</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tavsif</term></tig></langSet>
+    </termEntry>
+    <termEntry id="33">
+      <langSet xml:lang="en_US"><tig><term>File</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayl</term></tig></langSet>
+    </termEntry>
+    <termEntry id="34">
+      <langSet xml:lang="en_US"><tig><term>Properties</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xossalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="35">
+      <langSet xml:lang="en_US"><tig><term>Enable</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yoqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="36">
+      <langSet xml:lang="en_US"><tig><term>Disable</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="37">
+      <langSet xml:lang="en_US"><tig><term>Enabled</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yoqilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="38">
+      <langSet xml:lang="en_US"><tig><term>Disabled</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öçirilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="39">
+      <langSet xml:lang="en_US"><tig><term>Small</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kiçik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="40">
+      <langSet xml:lang="en_US"><tig><term>Medium</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Örtaça</term></tig></langSet>
+    </termEntry>
+    <termEntry id="41">
+      <langSet xml:lang="en_US"><tig><term>Large</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Katta</term></tig></langSet>
+    </termEntry>
+    <termEntry id="42">
+      <langSet xml:lang="en_US"><tig><term>Very Large</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Juda katta</term></tig></langSet>
+    </termEntry>
+    <termEntry id="43">
+      <langSet xml:lang="en_US"><tig><term>Tiny</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Juda kiçik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="44">
+      <langSet xml:lang="en_US"><tig><term>Huge</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulkan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="45">
+      <langSet xml:lang="en_US"><tig><term>Details</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tafsilotlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="46">
+      <langSet xml:lang="en_US"><tig><term>View</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Köriniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="47">
+      <langSet xml:lang="en_US"><tig><term>Open</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oçiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="48">
+      <langSet xml:lang="en_US"><tig><term>Help</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yordam</term></tig></langSet>
+    </termEntry>
+    <termEntry id="49">
+      <langSet xml:lang="en_US"><tig><term>Type</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Turi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="50">
+      <langSet xml:lang="en_US"><tig><term>Size</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Hajmi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="51">
+      <langSet xml:lang="en_US"><tig><term>Advanced</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qöşimça</term></tig></langSet>
+    </termEntry>
+    <termEntry id="52">
+      <langSet xml:lang="en_US"><tig><term>Get New</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilarini oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="53">
+      <langSet xml:lang="en_US"><tig><term>Title</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sarlavha</term></tig></langSet>
+    </termEntry>
+    <termEntry id="54">
+      <langSet xml:lang="en_US"><tig><term>Options</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Parametrlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="55">
+      <langSet xml:lang="en_US"><tig><term>Next</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Keyingi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="56">
+      <langSet xml:lang="en_US"><tig><term>Previous</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oldingi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="57">
+      <langSet xml:lang="en_US"><tig><term>Back</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Orqaga</term></tig></langSet>
+    </termEntry>
+    <termEntry id="58">
+      <langSet xml:lang="en_US"><tig><term>Forward</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oldinga</term></tig></langSet>
+    </termEntry>
+    <termEntry id="59">
+      <langSet xml:lang="en_US"><tig><term>Yes</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ha</term></tig></langSet>
+    </termEntry>
+    <termEntry id="60">
+      <langSet xml:lang="en_US"><tig><term>No</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yöq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="61">
+      <langSet xml:lang="en_US"><tig><term>OK</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>OK</term></tig></langSet>
+    </termEntry>
+    <termEntry id="62">
+      <langSet xml:lang="en_US"><tig><term>Done</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tayyor</term></tig></langSet>
+    </termEntry>
+    <termEntry id="63">
+      <langSet xml:lang="en_US"><tig><term>Finish</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tugatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="64">
+      <langSet xml:lang="en_US"><tig><term>Finished</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tugadi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="65">
+      <langSet xml:lang="en_US"><tig><term>Normal</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oddiy</term></tig></langSet>
+    </termEntry>
+    <termEntry id="66">
+      <langSet xml:lang="en_US"><tig><term>Tools</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vositalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="67">
+      <langSet xml:lang="en_US"><tig><term>Behavior</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xatti-harakat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="68">
+      <langSet xml:lang="en_US"><tig><term>Error</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xato</term></tig></langSet>
+    </termEntry>
+    <termEntry id="69">
+      <langSet xml:lang="en_US"><tig><term>Warning</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ogohlantiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="70">
+      <langSet xml:lang="en_US"><tig><term>Information</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Maʼlumot</term></tig></langSet>
+    </termEntry>
+    <termEntry id="71">
+      <langSet xml:lang="en_US"><tig><term>Select</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tanlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="72">
+      <langSet xml:lang="en_US"><tig><term>Select All</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Hammasini tanlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="73">
+      <langSet xml:lang="en_US"><tig><term>Deselect All</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tanlaşni bekor qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="74">
+      <langSet xml:lang="en_US"><tig><term>Unselect All</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Barçasidan tanlovni olib taşlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="75">
+      <langSet xml:lang="en_US"><tig><term>Choose</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tanlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="76">
+      <langSet xml:lang="en_US"><tig><term>Ignore</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Eʼtibor berilmasin</term></tig></langSet>
+    </termEntry>
+    <termEntry id="77">
+      <langSet xml:lang="en_US"><tig><term>Ignored</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Eʼtiborsiz qoldirilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="78">
+      <langSet xml:lang="en_US"><tig><term>Stop</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Töxtatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="79">
+      <langSet xml:lang="en_US"><tig><term>Pause</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vaqtinça töxtatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="80">
+      <langSet xml:lang="en_US"><tig><term>Resume</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Davom ettiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="81">
+      <langSet xml:lang="en_US"><tig><term>Retry</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qayta uriniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="82">
+      <langSet xml:lang="en_US"><tig><term>Skip</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ötkazib yuboriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="83">
+      <langSet xml:lang="en_US"><tig><term>Confirm</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tasdiqlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="84">
+      <langSet xml:lang="en_US"><tig><term>Confirmation</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tasdiqlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="85">
+      <langSet xml:lang="en_US"><tig><term>Accept</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qabul qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="86">
+      <langSet xml:lang="en_US"><tig><term>Reject</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rad etiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="87">
+      <langSet xml:lang="en_US"><tig><term>Allow</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ruxsat beriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="88">
+      <langSet xml:lang="en_US"><tig><term>Deny</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rad etiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="89">
+      <langSet xml:lang="en_US"><tig><term>Refresh</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="90">
+      <langSet xml:lang="en_US"><tig><term>Reload</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qayta yuklaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="91">
+      <langSet xml:lang="en_US"><tig><term>Reset</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tiklaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="92">
+      <langSet xml:lang="en_US"><tig><term>Restore</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qayta tiklaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="93">
+      <langSet xml:lang="en_US"><tig><term>Undo</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bekor qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="94">
+      <langSet xml:lang="en_US"><tig><term>Redo</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qayta bajariş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="95">
+      <langSet xml:lang="en_US"><tig><term>Clear</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tozalaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="96">
+      <langSet xml:lang="en_US"><tig><term>Create</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaratiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="97">
+      <langSet xml:lang="en_US"><tig><term>Duplicate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nusxasini yaratiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="98">
+      <langSet xml:lang="en_US"><tig><term>Replace</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Almaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="99">
+      <langSet xml:lang="en_US"><tig><term>Move</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Köçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="100">
+      <langSet xml:lang="en_US"><tig><term>Move Up</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuqoriga köçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="101">
+      <langSet xml:lang="en_US"><tig><term>Move Down</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Pastga köçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="102">
+      <langSet xml:lang="en_US"><tig><term>Show</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Körsatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="103">
+      <langSet xml:lang="en_US"><tig><term>Hide</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaşiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="104">
+      <langSet xml:lang="en_US"><tig><term>Hidden</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaşirin</term></tig></langSet>
+    </termEntry>
+    <termEntry id="105">
+      <langSet xml:lang="en_US"><tig><term>Quit</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çiqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="106">
+      <langSet xml:lang="en_US"><tig><term>Exit</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çiqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="107">
+      <langSet xml:lang="en_US"><tig><term>Restart</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qayta işga tuşiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="108">
+      <langSet xml:lang="en_US"><tig><term>Run</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Işga tuşiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="109">
+      <langSet xml:lang="en_US"><tig><term>Launch</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Işga tuşiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="110">
+      <langSet xml:lang="en_US"><tig><term>Start</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Boşlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="111">
+      <langSet xml:lang="en_US"><tig><term>About</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Haqida</term></tig></langSet>
+    </termEntry>
+    <termEntry id="112">
+      <langSet xml:lang="en_US"><tig><term>Welcome</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xuş kelibsiz</term></tig></langSet>
+    </termEntry>
+    <termEntry id="113">
+      <langSet xml:lang="en_US"><tig><term>Preview</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oldindan köriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="114">
+      <langSet xml:lang="en_US"><tig><term>Print</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çop etiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="115">
+      <langSet xml:lang="en_US"><tig><term>Export</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Eksport qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="116">
+      <langSet xml:lang="en_US"><tig><term>Import</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Import qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="117">
+      <langSet xml:lang="en_US"><tig><term>Update</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="118">
+      <langSet xml:lang="en_US"><tig><term>Updates</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilanişlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="119">
+      <langSet xml:lang="en_US"><tig><term>Upgrade</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="120">
+      <langSet xml:lang="en_US"><tig><term>Install</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Örnatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="121">
+      <langSet xml:lang="en_US"><tig><term>Uninstall</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="122">
+      <langSet xml:lang="en_US"><tig><term>Installed</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Örnatilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="123">
+      <langSet xml:lang="en_US"><tig><term>Installing</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Örnatilmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="124">
+      <langSet xml:lang="en_US"><tig><term>Updating</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilanmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="125">
+      <langSet xml:lang="en_US"><tig><term>Loading</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuklanmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="126">
+      <langSet xml:lang="en_US"><tig><term>Load</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuklaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="127">
+      <langSet xml:lang="en_US"><tig><term>Download</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuklab oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="128">
+      <langSet xml:lang="en_US"><tig><term>Downloading</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuklab olinmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="129">
+      <langSet xml:lang="en_US"><tig><term>Upload</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuklaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="130">
+      <langSet xml:lang="en_US"><tig><term>Send</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jönatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="131">
+      <langSet xml:lang="en_US"><tig><term>Reply</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Javob beriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="132">
+      <langSet xml:lang="en_US"><tig><term>Share</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulaşiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="133">
+      <langSet xml:lang="en_US"><tig><term>Browse</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Körib çiqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="134">
+      <langSet xml:lang="en_US"><tig><term>Find</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Topiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="135">
+      <langSet xml:lang="en_US"><tig><term>Sort</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Saralaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="136">
+      <langSet xml:lang="en_US"><tig><term>Sort By</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Saralaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="137">
+      <langSet xml:lang="en_US"><tig><term>Group</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Guruh</term></tig></langSet>
+    </termEntry>
+    <termEntry id="138">
+      <langSet xml:lang="en_US"><tig><term>Grouping</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Guruhlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="139">
+      <langSet xml:lang="en_US"><tig><term>Expand All</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Barçasini yoyiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="140">
+      <langSet xml:lang="en_US"><tig><term>Collapse All</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Barçasini yiğiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="141">
+      <langSet xml:lang="en_US"><tig><term>Insert</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qöyiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="142">
+      <langSet xml:lang="en_US"><tig><term>Switch</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Almaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="143">
+      <langSet xml:lang="en_US"><tig><term>Reassign</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qayta tayinlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="144">
+      <langSet xml:lang="en_US"><tig><term>Test</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sinaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="145">
+      <langSet xml:lang="en_US"><tig><term>Record</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yozib oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="146">
+      <langSet xml:lang="en_US"><tig><term>Recording</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yozib olinmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="147">
+      <langSet xml:lang="en_US"><tig><term>Play</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ijro etiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="148">
+      <langSet xml:lang="en_US"><tig><term>Mute</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ovozni öçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="149">
+      <langSet xml:lang="en_US"><tig><term>Unmute</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ovozni yoqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="150">
+      <langSet xml:lang="en_US"><tig><term>Application</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ilova</term></tig></langSet>
+    </termEntry>
+    <termEntry id="151">
+      <langSet xml:lang="en_US"><tig><term>Applications</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ilovalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="152">
+      <langSet xml:lang="en_US"><tig><term>Program</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Dastur</term></tig></langSet>
+    </termEntry>
+    <termEntry id="153">
+      <langSet xml:lang="en_US"><tig><term>Software</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Dasturiy taʼminot</term></tig></langSet>
+    </termEntry>
+    <termEntry id="154">
+      <langSet xml:lang="en_US"><tig><term>Software Center</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Dasturiy taʼminot markazi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="155">
+      <langSet xml:lang="en_US"><tig><term>Menu</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Menyu</term></tig></langSet>
+    </termEntry>
+    <termEntry id="156">
+      <langSet xml:lang="en_US"><tig><term>Context Menu</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kontekst menyusi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="157">
+      <langSet xml:lang="en_US"><tig><term>Submenu</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quyi menyu</term></tig></langSet>
+    </termEntry>
+    <termEntry id="158">
+      <langSet xml:lang="en_US"><tig><term>Menu Bar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Menyu paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="159">
+      <langSet xml:lang="en_US"><tig><term>Toolbar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Asboblar paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="160">
+      <langSet xml:lang="en_US"><tig><term>Main Toolbar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Asosiy asboblar paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="161">
+      <langSet xml:lang="en_US"><tig><term>Status Bar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Holat paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="162">
+      <langSet xml:lang="en_US"><tig><term>Sidebar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yon panel</term></tig></langSet>
+    </termEntry>
+    <termEntry id="163">
+      <langSet xml:lang="en_US"><tig><term>Taskbar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vazifalar paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="164">
+      <langSet xml:lang="en_US"><tig><term>Panel</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Panel</term></tig></langSet>
+    </termEntry>
+    <termEntry id="165">
+      <langSet xml:lang="en_US"><tig><term>Location Bar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Manzil paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="166">
+      <langSet xml:lang="en_US"><tig><term>Titlebar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sarlavha paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="167">
+      <langSet xml:lang="en_US"><tig><term>Tab</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tab</term></tig></langSet>
+    </termEntry>
+    <termEntry id="168">
+      <langSet xml:lang="en_US"><tig><term>Tabs</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tablar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="169">
+      <langSet xml:lang="en_US"><tig><term>New Tab</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangi tab</term></tig></langSet>
+    </termEntry>
+    <termEntry id="170">
+      <langSet xml:lang="en_US"><tig><term>Close Tab</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tabni yopiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="171">
+      <langSet xml:lang="en_US"><tig><term>Close Current Tab</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Joriy tabni yopiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="172">
+      <langSet xml:lang="en_US"><tig><term>Close Other Tabs</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Boşqa tablarni yopiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="173">
+      <langSet xml:lang="en_US"><tig><term>Next Tab</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Keyingi tab</term></tig></langSet>
+    </termEntry>
+    <termEntry id="174">
+      <langSet xml:lang="en_US"><tig><term>Previous Tab</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oldingi tab</term></tig></langSet>
+    </termEntry>
+    <termEntry id="175">
+      <langSet xml:lang="en_US"><tig><term>New Window</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangi oyna</term></tig></langSet>
+    </termEntry>
+    <termEntry id="176">
+      <langSet xml:lang="en_US"><tig><term>Close Window</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oynani yopiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="177">
+      <langSet xml:lang="en_US"><tig><term>Window Title</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oyna sarlavhasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="178">
+      <langSet xml:lang="en_US"><tig><term>Window Manager</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oyna boşqaruvçisi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="179">
+      <langSet xml:lang="en_US"><tig><term>Window Management</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oynalarni boşqariş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="180">
+      <langSet xml:lang="en_US"><tig><term>Maximize</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kattalaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="181">
+      <langSet xml:lang="en_US"><tig><term>Maximized</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kattalaştirilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="182">
+      <langSet xml:lang="en_US"><tig><term>Minimize</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yiğiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="183">
+      <langSet xml:lang="en_US"><tig><term>Minimized</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yiğilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="184">
+      <langSet xml:lang="en_US"><tig><term>Fullscreen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Töliq ekran</term></tig></langSet>
+    </termEntry>
+    <termEntry id="185">
+      <langSet xml:lang="en_US"><tig><term>Split View</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bölingan köriniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="186">
+      <langSet xml:lang="en_US"><tig><term>Dialog</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Muloqot oynasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="187">
+      <langSet xml:lang="en_US"><tig><term>Button</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tugma</term></tig></langSet>
+    </termEntry>
+    <termEntry id="188">
+      <langSet xml:lang="en_US"><tig><term>Buttons</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tugmalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="189">
+      <langSet xml:lang="en_US"><tig><term>Checkbox</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Belgilaş katagi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="190">
+      <langSet xml:lang="en_US"><tig><term>Radio Button</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Radio tugma</term></tig></langSet>
+    </termEntry>
+    <termEntry id="191">
+      <langSet xml:lang="en_US"><tig><term>Text Field</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Matn maydoni</term></tig></langSet>
+    </termEntry>
+    <termEntry id="192">
+      <langSet xml:lang="en_US"><tig><term>Tooltip</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Maslahat oynasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="193">
+      <langSet xml:lang="en_US"><tig><term>Notification</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bildirişnoma</term></tig></langSet>
+    </termEntry>
+    <termEntry id="194">
+      <langSet xml:lang="en_US"><tig><term>Notifications</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bildirişnomalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="195">
+      <langSet xml:lang="en_US"><tig><term>Icon</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Belgi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="196">
+      <langSet xml:lang="en_US"><tig><term>Icons</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nişonçalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="197">
+      <langSet xml:lang="en_US"><tig><term>Label</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yorliq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="198">
+      <langSet xml:lang="en_US"><tig><term>Badge</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nişon</term></tig></langSet>
+    </termEntry>
+    <termEntry id="199">
+      <langSet xml:lang="en_US"><tig><term>Cursor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kursor</term></tig></langSet>
+    </termEntry>
+    <termEntry id="200">
+      <langSet xml:lang="en_US"><tig><term>Pointer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Körsatkiç</term></tig></langSet>
+    </termEntry>
+    <termEntry id="201">
+      <langSet xml:lang="en_US"><tig><term>Scrollbar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Aylantiriş paneli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="202">
+      <langSet xml:lang="en_US"><tig><term>Scrolling</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Aylantiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="203">
+      <langSet xml:lang="en_US"><tig><term>Scrollback</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarix</term></tig></langSet>
+    </termEntry>
+    <termEntry id="204">
+      <langSet xml:lang="en_US"><tig><term>Spacer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Böşliq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="205">
+      <langSet xml:lang="en_US"><tig><term>Grid</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tör</term></tig></langSet>
+    </termEntry>
+    <termEntry id="206">
+      <langSet xml:lang="en_US"><tig><term>Frame</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Freym</term></tig></langSet>
+    </termEntry>
+    <termEntry id="207">
+      <langSet xml:lang="en_US"><tig><term>Layout</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Joylaşuv</term></tig></langSet>
+    </termEntry>
+    <termEntry id="208">
+      <langSet xml:lang="en_US"><tig><term>Layouts</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tartiblar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="209">
+      <langSet xml:lang="en_US"><tig><term>Orientation</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yönaliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="210">
+      <langSet xml:lang="en_US"><tig><term>Alignment</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tekislaniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="211">
+      <langSet xml:lang="en_US"><tig><term>Position</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Joylaşuv</term></tig></langSet>
+    </termEntry>
+    <termEntry id="212">
+      <langSet xml:lang="en_US"><tig><term>Location</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Joylaşuv</term></tig></langSet>
+    </termEntry>
+    <termEntry id="213">
+      <langSet xml:lang="en_US"><tig><term>Locations</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Manzillar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="214">
+      <langSet xml:lang="en_US"><tig><term>Overview</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Umumiy köriniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="215">
+      <langSet xml:lang="en_US"><tig><term>Focus</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fokus</term></tig></langSet>
+    </termEntry>
+    <termEntry id="216">
+      <langSet xml:lang="en_US"><tig><term>Workspace</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Iş maydoni</term></tig></langSet>
+    </termEntry>
+    <termEntry id="217">
+      <langSet xml:lang="en_US"><tig><term>Activities</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Faoliyatlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="218">
+      <langSet xml:lang="en_US"><tig><term>Activity Manager</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Faoliyatlar boşqaruvçisi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="219">
+      <langSet xml:lang="en_US"><tig><term>Virtual Desktop</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Virtual iş stoli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="220">
+      <langSet xml:lang="en_US"><tig><term>Application Launcher</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ilovalarni işga tuşirgiç</term></tig></langSet>
+    </termEntry>
+    <termEntry id="221">
+      <langSet xml:lang="en_US"><tig><term>Splash Screen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Salomlaşiş ekrani</term></tig></langSet>
+    </termEntry>
+    <termEntry id="222">
+      <langSet xml:lang="en_US"><tig><term>Lock Screen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ekranni qulflaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="223">
+      <langSet xml:lang="en_US"><tig><term>Welcome Page</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xuş kelibsiz sahifasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="224">
+      <langSet xml:lang="en_US"><tig><term>File Manager</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayl boşqaruvçisi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="225">
+      <langSet xml:lang="en_US"><tig><term>Filename</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayl nomi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="226">
+      <langSet xml:lang="en_US"><tig><term>File Type</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayl turi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="227">
+      <langSet xml:lang="en_US"><tig><term>File Size</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayl hajmi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="228">
+      <langSet xml:lang="en_US"><tig><term>File Path</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayl yöli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="229">
+      <langSet xml:lang="en_US"><tig><term>Path</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yöl</term></tig></langSet>
+    </termEntry>
+    <termEntry id="230">
+      <langSet xml:lang="en_US"><tig><term>Directory</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jild</term></tig></langSet>
+    </termEntry>
+    <termEntry id="231">
+      <langSet xml:lang="en_US"><tig><term>Folders</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jildlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="232">
+      <langSet xml:lang="en_US"><tig><term>Subfolder</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qism jild</term></tig></langSet>
+    </termEntry>
+    <termEntry id="233">
+      <langSet xml:lang="en_US"><tig><term>New File</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangi fayl</term></tig></langSet>
+    </termEntry>
+    <termEntry id="234">
+      <langSet xml:lang="en_US"><tig><term>New Folder</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangi jild</term></tig></langSet>
+    </termEntry>
+    <termEntry id="235">
+      <langSet xml:lang="en_US"><tig><term>Open File</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Faylni oçiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="236">
+      <langSet xml:lang="en_US"><tig><term>Open Folder</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jildni oçiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="237">
+      <langSet xml:lang="en_US"><tig><term>Open With</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bilan oçiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="238">
+      <langSet xml:lang="en_US"><tig><term>Open Containing Folder</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Joylaşgan jildni oçiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="239">
+      <langSet xml:lang="en_US"><tig><term>Save File</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Faylni saqlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="240">
+      <langSet xml:lang="en_US"><tig><term>Recent Files</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaqinda oçilgan fayllar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="241">
+      <langSet xml:lang="en_US"><tig><term>Recent Documents</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaqinda oçilgan hujjatlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="242">
+      <langSet xml:lang="en_US"><tig><term>Hidden Files</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaşirin fayllar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="243">
+      <langSet xml:lang="en_US"><tig><term>Show Hidden Files</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaşirin fayllarni körsatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="244">
+      <langSet xml:lang="en_US"><tig><term>Executable</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bajariluvçi fayl</term></tig></langSet>
+    </termEntry>
+    <termEntry id="245">
+      <langSet xml:lang="en_US"><tig><term>Document</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Hujjat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="246">
+      <langSet xml:lang="en_US"><tig><term>Documents</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Hujjatlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="247">
+      <langSet xml:lang="en_US"><tig><term>Trash</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çiqindilar qutisi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="248">
+      <langSet xml:lang="en_US"><tig><term>Empty Trash</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çiqindilar qutisini böşatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="249">
+      <langSet xml:lang="en_US"><tig><term>Move to Trash</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çiqindilar qutisiga köçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="250">
+      <langSet xml:lang="en_US"><tig><term>Restore to Former Location</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Avvalgi joyiga qaytariş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="251">
+      <langSet xml:lang="en_US"><tig><term>Destination</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Manzil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="252">
+      <langSet xml:lang="en_US"><tig><term>Source</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Manba</term></tig></langSet>
+    </termEntry>
+    <termEntry id="253">
+      <langSet xml:lang="en_US"><tig><term>Archive</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Arxiv</term></tig></langSet>
+    </termEntry>
+    <termEntry id="254">
+      <langSet xml:lang="en_US"><tig><term>Compress</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Siqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="255">
+      <langSet xml:lang="en_US"><tig><term>Compression</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Siqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="256">
+      <langSet xml:lang="en_US"><tig><term>Extract</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ajratib oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="257">
+      <langSet xml:lang="en_US"><tig><term>Extract Here</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şu yerga ajratib oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="258">
+      <langSet xml:lang="en_US"><tig><term>Bookmark</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xatçöp</term></tig></langSet>
+    </termEntry>
+    <termEntry id="259">
+      <langSet xml:lang="en_US"><tig><term>Bookmarks</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xatçöplar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="260">
+      <langSet xml:lang="en_US"><tig><term>Tag</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Teg</term></tig></langSet>
+    </termEntry>
+    <termEntry id="261">
+      <langSet xml:lang="en_US"><tig><term>Tags</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Teglar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="262">
+      <langSet xml:lang="en_US"><tig><term>Metadata</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Metamaʼlumotlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="263">
+      <langSet xml:lang="en_US"><tig><term>Clipboard</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Almaşiş buferi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="264">
+      <langSet xml:lang="en_US"><tig><term>Copy to Clipboard</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Almaşiş buferiga nusxalaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="265">
+      <langSet xml:lang="en_US"><tig><term>Copy Location</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Manzildan nusxa oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="266">
+      <langSet xml:lang="en_US"><tig><term>Copy Link Address</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Havola manzilidan nusxa oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="267">
+      <langSet xml:lang="en_US"><tig><term>Link</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Havola</term></tig></langSet>
+    </termEntry>
+    <termEntry id="268">
+      <langSet xml:lang="en_US"><tig><term>Backup</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Zaxira nusxa</term></tig></langSet>
+    </termEntry>
+    <termEntry id="269">
+      <langSet xml:lang="en_US"><tig><term>Extension</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kengaytma</term></tig></langSet>
+    </termEntry>
+    <termEntry id="270">
+      <langSet xml:lang="en_US"><tig><term>Format</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Formatlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="271">
+      <langSet xml:lang="en_US"><tig><term>Text</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Matn</term></tig></langSet>
+    </termEntry>
+    <termEntry id="272">
+      <langSet xml:lang="en_US"><tig><term>Plain Text</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oddiy matn</term></tig></langSet>
+    </termEntry>
+    <termEntry id="273">
+      <langSet xml:lang="en_US"><tig><term>Text Editor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Matn muharriri</term></tig></langSet>
+    </termEntry>
+    <termEntry id="274">
+      <langSet xml:lang="en_US"><tig><term>Editor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Muharrir</term></tig></langSet>
+    </termEntry>
+    <termEntry id="275">
+      <langSet xml:lang="en_US"><tig><term>Font</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şrift</term></tig></langSet>
+    </termEntry>
+    <termEntry id="276">
+      <langSet xml:lang="en_US"><tig><term>Fonts</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şriftlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="277">
+      <langSet xml:lang="en_US"><tig><term>Bold</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qalin</term></tig></langSet>
+    </termEntry>
+    <termEntry id="278">
+      <langSet xml:lang="en_US"><tig><term>Italic</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kursiv</term></tig></langSet>
+    </termEntry>
+    <termEntry id="279">
+      <langSet xml:lang="en_US"><tig><term>Underline</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tagçiziq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="280">
+      <langSet xml:lang="en_US"><tig><term>Highlight</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ajratib körsatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="281">
+      <langSet xml:lang="en_US"><tig><term>Highlighter</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ajratib körsatuvçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="282">
+      <langSet xml:lang="en_US"><tig><term>Case Sensitive</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Katta-kiçik harfni inobatga oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="283">
+      <langSet xml:lang="en_US"><tig><term>Match Case</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Katta-kiçik harfni inobatga oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="284">
+      <langSet xml:lang="en_US"><tig><term>Regular Expression</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Muntazam ifoda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="285">
+      <langSet xml:lang="en_US"><tig><term>Encoding</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kodlaş usuli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="286">
+      <langSet xml:lang="en_US"><tig><term>Syntax</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sintaksis</term></tig></langSet>
+    </termEntry>
+    <termEntry id="287">
+      <langSet xml:lang="en_US"><tig><term>Comment</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Izoh</term></tig></langSet>
+    </termEntry>
+    <termEntry id="288">
+      <langSet xml:lang="en_US"><tig><term>Prefix</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Prefiks</term></tig></langSet>
+    </termEntry>
+    <termEntry id="289">
+      <langSet xml:lang="en_US"><tig><term>Suffix</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Suffiks</term></tig></langSet>
+    </termEntry>
+    <termEntry id="290">
+      <langSet xml:lang="en_US"><tig><term>Word Wrap</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Satrni köçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="291">
+      <langSet xml:lang="en_US"><tig><term>Line</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Satr</term></tig></langSet>
+    </termEntry>
+    <termEntry id="292">
+      <langSet xml:lang="en_US"><tig><term>Column</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ustun</term></tig></langSet>
+    </termEntry>
+    <termEntry id="293">
+      <langSet xml:lang="en_US"><tig><term>Columns</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ustunlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="294">
+      <langSet xml:lang="en_US"><tig><term>Row</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qator</term></tig></langSet>
+    </termEntry>
+    <termEntry id="295">
+      <langSet xml:lang="en_US"><tig><term>New Row</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangi qator</term></tig></langSet>
+    </termEntry>
+    <termEntry id="296">
+      <langSet xml:lang="en_US"><tig><term>Search Results</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qidiruv natijalari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="297">
+      <langSet xml:lang="en_US"><tig><term>No Matches</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mosliklar yöq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="298">
+      <langSet xml:lang="en_US"><tig><term>Spell Check</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Imlo tekşiruvi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="299">
+      <langSet xml:lang="en_US"><tig><term>Dictionary</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Luğat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="300">
+      <langSet xml:lang="en_US"><tig><term>Snippets</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Snippetlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="301">
+      <langSet xml:lang="en_US"><tig><term>Macro</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Makros</term></tig></langSet>
+    </termEntry>
+    <termEntry id="302">
+      <langSet xml:lang="en_US"><tig><term>Template</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şablon</term></tig></langSet>
+    </termEntry>
+    <termEntry id="303">
+      <langSet xml:lang="en_US"><tig><term>Theme</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mavzu</term></tig></langSet>
+    </termEntry>
+    <termEntry id="304">
+      <langSet xml:lang="en_US"><tig><term>Global Theme</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Global mavzu</term></tig></langSet>
+    </termEntry>
+    <termEntry id="305">
+      <langSet xml:lang="en_US"><tig><term>Dark Mode</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qoronği rejim</term></tig></langSet>
+    </termEntry>
+    <termEntry id="306">
+      <langSet xml:lang="en_US"><tig><term>Dark Theme</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qoronği mavzu</term></tig></langSet>
+    </termEntry>
+    <termEntry id="307">
+      <langSet xml:lang="en_US"><tig><term>Style</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Uslub</term></tig></langSet>
+    </termEntry>
+    <termEntry id="308">
+      <langSet xml:lang="en_US"><tig><term>Color</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rang</term></tig></langSet>
+    </termEntry>
+    <termEntry id="309">
+      <langSet xml:lang="en_US"><tig><term>Colors</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ranglar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="310">
+      <langSet xml:lang="en_US"><tig><term>Color Scheme</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rang sxemasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="311">
+      <langSet xml:lang="en_US"><tig><term>Background</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Orqa fon</term></tig></langSet>
+    </termEntry>
+    <termEntry id="312">
+      <langSet xml:lang="en_US"><tig><term>Background Color</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Orqa fon rangi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="313">
+      <langSet xml:lang="en_US"><tig><term>Foreground</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Matn rangi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="314">
+      <langSet xml:lang="en_US"><tig><term>Wallpaper</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fon rasmi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="315">
+      <langSet xml:lang="en_US"><tig><term>Wallpapers</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fon rasmlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="316">
+      <langSet xml:lang="en_US"><tig><term>Image</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rasm</term></tig></langSet>
+    </termEntry>
+    <termEntry id="317">
+      <langSet xml:lang="en_US"><tig><term>Images</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rasmlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="318">
+      <langSet xml:lang="en_US"><tig><term>Thumbnail</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Miniatyura</term></tig></langSet>
+    </termEntry>
+    <termEntry id="319">
+      <langSet xml:lang="en_US"><tig><term>Thumbnails</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Miniatyuralar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="320">
+      <langSet xml:lang="en_US"><tig><term>Screenshot</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Skrinşot</term></tig></langSet>
+    </termEntry>
+    <termEntry id="321">
+      <langSet xml:lang="en_US"><tig><term>Take Screenshot</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Skrinşot oliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="322">
+      <langSet xml:lang="en_US"><tig><term>Slideshow</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Slayd-şou</term></tig></langSet>
+    </termEntry>
+    <termEntry id="323">
+      <langSet xml:lang="en_US"><tig><term>Crop</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qirqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="324">
+      <langSet xml:lang="en_US"><tig><term>Resize</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ölçamini özgartiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="325">
+      <langSet xml:lang="en_US"><tig><term>Rotate Left</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çapga buriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="326">
+      <langSet xml:lang="en_US"><tig><term>Rotate Right</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öngga buriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="327">
+      <langSet xml:lang="en_US"><tig><term>Rotation</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Buriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="328">
+      <langSet xml:lang="en_US"><tig><term>Zoom</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Masştab</term></tig></langSet>
+    </termEntry>
+    <termEntry id="329">
+      <langSet xml:lang="en_US"><tig><term>Zoom In</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kattalaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="330">
+      <langSet xml:lang="en_US"><tig><term>Zoom Out</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kiçiklaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="331">
+      <langSet xml:lang="en_US"><tig><term>Scale</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Masştab</term></tig></langSet>
+    </termEntry>
+    <termEntry id="332">
+      <langSet xml:lang="en_US"><tig><term>Fit Width</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kenglik böyiça moslaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="333">
+      <langSet xml:lang="en_US"><tig><term>Fit Page</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sahifa böyiça moslaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="334">
+      <langSet xml:lang="en_US"><tig><term>Opacity</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şaffoflik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="335">
+      <langSet xml:lang="en_US"><tig><term>Transparency</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şaffoflik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="336">
+      <langSet xml:lang="en_US"><tig><term>Transparent</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şaffof</term></tig></langSet>
+    </termEntry>
+    <termEntry id="337">
+      <langSet xml:lang="en_US"><tig><term>Opaque</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Noşaffof</term></tig></langSet>
+    </termEntry>
+    <termEntry id="338">
+      <langSet xml:lang="en_US"><tig><term>Translucency</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yarim şaffoflik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="339">
+      <langSet xml:lang="en_US"><tig><term>Blur</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xiralaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="340">
+      <langSet xml:lang="en_US"><tig><term>Contrast</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kontrast</term></tig></langSet>
+    </termEntry>
+    <termEntry id="341">
+      <langSet xml:lang="en_US"><tig><term>Brightness</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yorqinlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="342">
+      <langSet xml:lang="en_US"><tig><term>Invert</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Teskari qiliş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="343">
+      <langSet xml:lang="en_US"><tig><term>Tint</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tus beriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="344">
+      <langSet xml:lang="en_US"><tig><term>Shade</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Soya beriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="345">
+      <langSet xml:lang="en_US"><tig><term>Animation</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Animatsiya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="346">
+      <langSet xml:lang="en_US"><tig><term>Animations</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Animatsiyalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="347">
+      <langSet xml:lang="en_US"><tig><term>Effects</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Effektlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="348">
+      <langSet xml:lang="en_US"><tig><term>Desktop Effects</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Iş stoli effektlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="349">
+      <langSet xml:lang="en_US"><tig><term>Shape</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şakl</term></tig></langSet>
+    </termEntry>
+    <termEntry id="350">
+      <langSet xml:lang="en_US"><tig><term>Rectangle</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Töğri törtburçak</term></tig></langSet>
+    </termEntry>
+    <termEntry id="351">
+      <langSet xml:lang="en_US"><tig><term>Ellipse</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ellips</term></tig></langSet>
+    </termEntry>
+    <termEntry id="352">
+      <langSet xml:lang="en_US"><tig><term>Square</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kvadrat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="353">
+      <langSet xml:lang="en_US"><tig><term>Arrow</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Körsatkiç</term></tig></langSet>
+    </termEntry>
+    <termEntry id="354">
+      <langSet xml:lang="en_US"><tig><term>Pixel</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Piksel</term></tig></langSet>
+    </termEntry>
+    <termEntry id="355">
+      <langSet xml:lang="en_US"><tig><term>Resolution</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ekran ölçami</term></tig></langSet>
+    </termEntry>
+    <termEntry id="356">
+      <langSet xml:lang="en_US"><tig><term>Refresh Rate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yangilaniş çastotasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="357">
+      <langSet xml:lang="en_US"><tig><term>Night Light</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tungi çiroq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="358">
+      <langSet xml:lang="en_US"><tig><term>Color Picker</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rang tanlagiç</term></tig></langSet>
+    </termEntry>
+    <termEntry id="359">
+      <langSet xml:lang="en_US"><tig><term>System</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizim</term></tig></langSet>
+    </termEntry>
+    <termEntry id="360">
+      <langSet xml:lang="en_US"><tig><term>System Settings</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizim sozlamalari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="361">
+      <langSet xml:lang="en_US"><tig><term>System Information</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizim maʼlumotlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="362">
+      <langSet xml:lang="en_US"><tig><term>System Monitor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizim monitori</term></tig></langSet>
+    </termEntry>
+    <termEntry id="363">
+      <langSet xml:lang="en_US"><tig><term>System Services</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizim xizmatlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="364">
+      <langSet xml:lang="en_US"><tig><term>Operating System</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Operatsion tizim</term></tig></langSet>
+    </termEntry>
+    <termEntry id="365">
+      <langSet xml:lang="en_US"><tig><term>Kernel</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yadro</term></tig></langSet>
+    </termEntry>
+    <termEntry id="366">
+      <langSet xml:lang="en_US"><tig><term>Process</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jarayon</term></tig></langSet>
+    </termEntry>
+    <termEntry id="367">
+      <langSet xml:lang="en_US"><tig><term>End Process</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jarayonni tugatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="368">
+      <langSet xml:lang="en_US"><tig><term>Background Services</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fon xizmatlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="369">
+      <langSet xml:lang="en_US"><tig><term>Service</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xizmat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="370">
+      <langSet xml:lang="en_US"><tig><term>Device</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qurilma</term></tig></langSet>
+    </termEntry>
+    <termEntry id="371">
+      <langSet xml:lang="en_US"><tig><term>Devices</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qurilmalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="372">
+      <langSet xml:lang="en_US"><tig><term>Connected Devices</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulangan qurilmalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="373">
+      <langSet xml:lang="en_US"><tig><term>Block Devices</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Blok qurilmalari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="374">
+      <langSet xml:lang="en_US"><tig><term>Input Devices</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kiritiş qurilmalari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="375">
+      <langSet xml:lang="en_US"><tig><term>Hardware</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Apparat taʼminoti</term></tig></langSet>
+    </termEntry>
+    <termEntry id="376">
+      <langSet xml:lang="en_US"><tig><term>Driver</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Drayver</term></tig></langSet>
+    </termEntry>
+    <termEntry id="377">
+      <langSet xml:lang="en_US"><tig><term>Processor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Protsessor</term></tig></langSet>
+    </termEntry>
+    <termEntry id="378">
+      <langSet xml:lang="en_US"><tig><term>Memory</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xotira</term></tig></langSet>
+    </termEntry>
+    <termEntry id="379">
+      <langSet xml:lang="en_US"><tig><term>Memory Usage</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xotiradan foydalaniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="380">
+      <langSet xml:lang="en_US"><tig><term>Cache</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Keş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="381">
+      <langSet xml:lang="en_US"><tig><term>Buffer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bufer</term></tig></langSet>
+    </termEntry>
+    <termEntry id="382">
+      <langSet xml:lang="en_US"><tig><term>Disk</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Disk</term></tig></langSet>
+    </termEntry>
+    <termEntry id="383">
+      <langSet xml:lang="en_US"><tig><term>Partition</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bölim</term></tig></langSet>
+    </termEntry>
+    <termEntry id="384">
+      <langSet xml:lang="en_US"><tig><term>Mount</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="385">
+      <langSet xml:lang="en_US"><tig><term>Unmount</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulanişni uziş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="386">
+      <langSet xml:lang="en_US"><tig><term>Display</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Displey</term></tig></langSet>
+    </termEntry>
+    <termEntry id="387">
+      <langSet xml:lang="en_US"><tig><term>Screen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ekran</term></tig></langSet>
+    </termEntry>
+    <termEntry id="388">
+      <langSet xml:lang="en_US"><tig><term>Current Screen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Joriy ekran</term></tig></langSet>
+    </termEntry>
+    <termEntry id="389">
+      <langSet xml:lang="en_US"><tig><term>Built-in Screen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Örnatilgan ekran</term></tig></langSet>
+    </termEntry>
+    <termEntry id="390">
+      <langSet xml:lang="en_US"><tig><term>Keyboard</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Klaviatura</term></tig></langSet>
+    </termEntry>
+    <termEntry id="391">
+      <langSet xml:lang="en_US"><tig><term>Virtual Keyboard</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Virtual klaviatura</term></tig></langSet>
+    </termEntry>
+    <termEntry id="392">
+      <langSet xml:lang="en_US"><tig><term>On-Screen Keyboard</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ekrandagi klaviatura</term></tig></langSet>
+    </termEntry>
+    <termEntry id="393">
+      <langSet xml:lang="en_US"><tig><term>Keyboard Layout</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Klaviatura tartibi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="394">
+      <langSet xml:lang="en_US"><tig><term>Keyboard Shortcuts</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Klaviatura tezkor tugmalari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="395">
+      <langSet xml:lang="en_US"><tig><term>Shortcut</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tugmalar birikmasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="396">
+      <langSet xml:lang="en_US"><tig><term>Shortcuts</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tezkor tugmalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="397">
+      <langSet xml:lang="en_US"><tig><term>Key Bindings</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tugmalar birikmasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="398">
+      <langSet xml:lang="en_US"><tig><term>Modifiers</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Modifikator tugmalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="399">
+      <langSet xml:lang="en_US"><tig><term>Mouse</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Siçqonça</term></tig></langSet>
+    </termEntry>
+    <termEntry id="400">
+      <langSet xml:lang="en_US"><tig><term>Touchpad</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sensorli panel</term></tig></langSet>
+    </termEntry>
+    <termEntry id="401">
+      <langSet xml:lang="en_US"><tig><term>Touchscreen</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sensorli ekran</term></tig></langSet>
+    </termEntry>
+    <termEntry id="402">
+      <langSet xml:lang="en_US"><tig><term>Printer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Printer</term></tig></langSet>
+    </termEntry>
+    <termEntry id="403">
+      <langSet xml:lang="en_US"><tig><term>Printers</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Printerlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="404">
+      <langSet xml:lang="en_US"><tig><term>Camera</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kamera</term></tig></langSet>
+    </termEntry>
+    <termEntry id="405">
+      <langSet xml:lang="en_US"><tig><term>Battery</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Batareya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="406">
+      <langSet xml:lang="en_US"><tig><term>Power</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quvvat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="407">
+      <langSet xml:lang="en_US"><tig><term>Power Management</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quvvat boşqaruvi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="408">
+      <langSet xml:lang="en_US"><tig><term>Power Save</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quvvatni tejaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="409">
+      <langSet xml:lang="en_US"><tig><term>Balanced</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Muvozanatli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="410">
+      <langSet xml:lang="en_US"><tig><term>Performance</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Unumdorlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="411">
+      <langSet xml:lang="en_US"><tig><term>Charging</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quvvatlanmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="412">
+      <langSet xml:lang="en_US"><tig><term>Discharging</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quvvat sarflanmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="413">
+      <langSet xml:lang="en_US"><tig><term>Not Charging</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Quvvatlanmayapti</term></tig></langSet>
+    </termEntry>
+    <termEntry id="414">
+      <langSet xml:lang="en_US"><tig><term>Sleep</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kutiş rejimi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="415">
+      <langSet xml:lang="en_US"><tig><term>Hibernate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Gibernatsiya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="416">
+      <langSet xml:lang="en_US"><tig><term>Suspend</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Töxtatib turiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="417">
+      <langSet xml:lang="en_US"><tig><term>Shut Down</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizimni öçiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="418">
+      <langSet xml:lang="en_US"><tig><term>Log Out</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tizimdan çiqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="419">
+      <langSet xml:lang="en_US"><tig><term>Autostart</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Avto-işga tuşiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="420">
+      <langSet xml:lang="en_US"><tig><term>Idle</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kutiş rejimida</term></tig></langSet>
+    </termEntry>
+    <termEntry id="421">
+      <langSet xml:lang="en_US"><tig><term>Sensor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Datçik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="422">
+      <langSet xml:lang="en_US"><tig><term>Sensors</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Datçiklar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="423">
+      <langSet xml:lang="en_US"><tig><term>Temperature</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Harorat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="424">
+      <langSet xml:lang="en_US"><tig><term>Energy</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Energiya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="425">
+      <langSet xml:lang="en_US"><tig><term>Network</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarmoq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="426">
+      <langSet xml:lang="en_US"><tig><term>Networks</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarmoqlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="427">
+      <langSet xml:lang="en_US"><tig><term>Networking</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarmoq bilan işlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="428">
+      <langSet xml:lang="en_US"><tig><term>Internet</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Internet</term></tig></langSet>
+    </termEntry>
+    <termEntry id="429">
+      <langSet xml:lang="en_US"><tig><term>Connection</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulaniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="430">
+      <langSet xml:lang="en_US"><tig><term>Connected</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulangan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="431">
+      <langSet xml:lang="en_US"><tig><term>Disconnected</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Uzilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="432">
+      <langSet xml:lang="en_US"><tig><term>Connecting</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulanmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="433">
+      <langSet xml:lang="en_US"><tig><term>Disconnecting</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Uzilmoqda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="434">
+      <langSet xml:lang="en_US"><tig><term>Connect</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulaniş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="435">
+      <langSet xml:lang="en_US"><tig><term>Disconnect</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Uziş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="436">
+      <langSet xml:lang="en_US"><tig><term>Address</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Manzil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="437">
+      <langSet xml:lang="en_US"><tig><term>IP Address</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>IP manzil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="438">
+      <langSet xml:lang="en_US"><tig><term>Local IP Address</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mahalliy IP manzil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="439">
+      <langSet xml:lang="en_US"><tig><term>Remote IP Address</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Masofaviy IP manzil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="440">
+      <langSet xml:lang="en_US"><tig><term>Gateway</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şlyuz</term></tig></langSet>
+    </termEntry>
+    <termEntry id="441">
+      <langSet xml:lang="en_US"><tig><term>Netmask</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarmoq niqobi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="442">
+      <langSet xml:lang="en_US"><tig><term>Port</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Port</term></tig></langSet>
+    </termEntry>
+    <termEntry id="443">
+      <langSet xml:lang="en_US"><tig><term>Host</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xost</term></tig></langSet>
+    </termEntry>
+    <termEntry id="444">
+      <langSet xml:lang="en_US"><tig><term>Hostname</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xost nomi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="445">
+      <langSet xml:lang="en_US"><tig><term>Domain</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Domen</term></tig></langSet>
+    </termEntry>
+    <termEntry id="446">
+      <langSet xml:lang="en_US"><tig><term>DNS Servers</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>DNS-serverlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="447">
+      <langSet xml:lang="en_US"><tig><term>Server</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Server</term></tig></langSet>
+    </termEntry>
+    <termEntry id="448">
+      <langSet xml:lang="en_US"><tig><term>Client</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mijoz</term></tig></langSet>
+    </termEntry>
+    <termEntry id="449">
+      <langSet xml:lang="en_US"><tig><term>Proxy</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Proksi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="450">
+      <langSet xml:lang="en_US"><tig><term>Protocol</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Protokol</term></tig></langSet>
+    </termEntry>
+    <termEntry id="451">
+      <langSet xml:lang="en_US"><tig><term>Firewall</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fayrvoll</term></tig></langSet>
+    </termEntry>
+    <termEntry id="452">
+      <langSet xml:lang="en_US"><tig><term>Hotspot</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ulaniş nuqtasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="453">
+      <langSet xml:lang="en_US"><tig><term>Mobile Data</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mobil maʼlumotlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="454">
+      <langSet xml:lang="en_US"><tig><term>Cellular</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mobil aloqa</term></tig></langSet>
+    </termEntry>
+    <termEntry id="455">
+      <langSet xml:lang="en_US"><tig><term>Browser</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Brauzer</term></tig></langSet>
+    </termEntry>
+    <termEntry id="456">
+      <langSet xml:lang="en_US"><tig><term>Website</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Veb-sayt</term></tig></langSet>
+    </termEntry>
+    <termEntry id="457">
+      <langSet xml:lang="en_US"><tig><term>Email</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Elektron poçta</term></tig></langSet>
+    </termEntry>
+    <termEntry id="458">
+      <langSet xml:lang="en_US"><tig><term>Remote Control</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Masofaviy boşqaruv</term></tig></langSet>
+    </termEntry>
+    <termEntry id="459">
+      <langSet xml:lang="en_US"><tig><term>Bandwidth</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ötkazuvçanlik qobiliyati</term></tig></langSet>
+    </termEntry>
+    <termEntry id="460">
+      <langSet xml:lang="en_US"><tig><term>Security</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xavfsizlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="461">
+      <langSet xml:lang="en_US"><tig><term>Privacy</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Maxfiylik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="462">
+      <langSet xml:lang="en_US"><tig><term>User</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foydalanuvçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="463">
+      <langSet xml:lang="en_US"><tig><term>Users</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foydalanuvçilar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="464">
+      <langSet xml:lang="en_US"><tig><term>Username</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foydalanuvçi nomi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="465">
+      <langSet xml:lang="en_US"><tig><term>Password</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Parol</term></tig></langSet>
+    </termEntry>
+    <termEntry id="466">
+      <langSet xml:lang="en_US"><tig><term>Change Password</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Parolni özgartiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="467">
+      <langSet xml:lang="en_US"><tig><term>Login</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="468">
+      <langSet xml:lang="en_US"><tig><term>Switch User</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foydalanuvçini almaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="469">
+      <langSet xml:lang="en_US"><tig><term>Administrator</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Administrator</term></tig></langSet>
+    </termEntry>
+    <termEntry id="470">
+      <langSet xml:lang="en_US"><tig><term>Owner</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Egasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="471">
+      <langSet xml:lang="en_US"><tig><term>Permissions</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ruxsatlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="472">
+      <langSet xml:lang="en_US"><tig><term>Application Permissions</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ilova ruxsatlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="473">
+      <langSet xml:lang="en_US"><tig><term>Authentication</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Autentifikatsiya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="474">
+      <langSet xml:lang="en_US"><tig><term>Authenticated</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tasdiqlangan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="475">
+      <langSet xml:lang="en_US"><tig><term>Encryption</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şifrlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="476">
+      <langSet xml:lang="en_US"><tig><term>Encrypted</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şifrlangan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="477">
+      <langSet xml:lang="en_US"><tig><term>Encryption Method</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şifrlaş usuli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="478">
+      <langSet xml:lang="en_US"><tig><term>Certificate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sertifikat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="479">
+      <langSet xml:lang="en_US"><tig><term>CA Certificate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>CA sertifikati</term></tig></langSet>
+    </termEntry>
+    <termEntry id="480">
+      <langSet xml:lang="en_US"><tig><term>User Certificate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foydalanuvçi sertifikati</term></tig></langSet>
+    </termEntry>
+    <termEntry id="481">
+      <langSet xml:lang="en_US"><tig><term>Key</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kalit</term></tig></langSet>
+    </termEntry>
+    <termEntry id="482">
+      <langSet xml:lang="en_US"><tig><term>Private Key</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Maxfiy kalit</term></tig></langSet>
+    </termEntry>
+    <termEntry id="483">
+      <langSet xml:lang="en_US"><tig><term>Static Key</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Statik kalit</term></tig></langSet>
+    </termEntry>
+    <termEntry id="484">
+      <langSet xml:lang="en_US"><tig><term>Token</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Token</term></tig></langSet>
+    </termEntry>
+    <termEntry id="485">
+      <langSet xml:lang="en_US"><tig><term>Wallet</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Hamyon</term></tig></langSet>
+    </termEntry>
+    <termEntry id="486">
+      <langSet xml:lang="en_US"><tig><term>Vault</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Seyf</term></tig></langSet>
+    </termEntry>
+    <termEntry id="487">
+      <langSet xml:lang="en_US"><tig><term>Lock</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qulflaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="488">
+      <langSet xml:lang="en_US"><tig><term>Locked</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qulflangan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="489">
+      <langSet xml:lang="en_US"><tig><term>Unlock</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qulfdan çiqariş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="490">
+      <langSet xml:lang="en_US"><tig><term>Trusted</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Işonçli</term></tig></langSet>
+    </termEntry>
+    <termEntry id="491">
+      <langSet xml:lang="en_US"><tig><term>Blocked</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Bloklangan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="492">
+      <langSet xml:lang="en_US"><tig><term>Session</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Seans</term></tig></langSet>
+    </termEntry>
+    <termEntry id="493">
+      <langSet xml:lang="en_US"><tig><term>Manage Sessions</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Seanslarni boşqariş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="494">
+      <langSet xml:lang="en_US"><tig><term>Profile</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Profil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="495">
+      <langSet xml:lang="en_US"><tig><term>Profiles</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Profillar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="496">
+      <langSet xml:lang="en_US"><tig><term>Development</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Dasturlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="497">
+      <langSet xml:lang="en_US"><tig><term>Web Development</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Veb-dasturlaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="498">
+      <langSet xml:lang="en_US"><tig><term>Developer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Dasturçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="499">
+      <langSet xml:lang="en_US"><tig><term>Author</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Muallif</term></tig></langSet>
+    </termEntry>
+    <termEntry id="500">
+      <langSet xml:lang="en_US"><tig><term>Maintainer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Taʼminotçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="501">
+      <langSet xml:lang="en_US"><tig><term>Former Maintainer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oldingi taʼminotçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="502">
+      <langSet xml:lang="en_US"><tig><term>Contributor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Hissa qöşuvçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="503">
+      <langSet xml:lang="en_US"><tig><term>License</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Litsenziya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="504">
+      <langSet xml:lang="en_US"><tig><term>Version</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Versiya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="505">
+      <langSet xml:lang="en_US"><tig><term>Revision</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Reviziya</term></tig></langSet>
+    </termEntry>
+    <termEntry id="506">
+      <langSet xml:lang="en_US"><tig><term>Command</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Buyruq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="507">
+      <langSet xml:lang="en_US"><tig><term>Command Line</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Buyruq satri</term></tig></langSet>
+    </termEntry>
+    <termEntry id="508">
+      <langSet xml:lang="en_US"><tig><term>Terminal</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Terminal</term></tig></langSet>
+    </termEntry>
+    <termEntry id="509">
+      <langSet xml:lang="en_US"><tig><term>Terminal Emulator</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Terminal emulyatori</term></tig></langSet>
+    </termEntry>
+    <termEntry id="510">
+      <langSet xml:lang="en_US"><tig><term>Shell</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qobiq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="511">
+      <langSet xml:lang="en_US"><tig><term>Script</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Skript</term></tig></langSet>
+    </termEntry>
+    <termEntry id="512">
+      <langSet xml:lang="en_US"><tig><term>Environment</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Muhit</term></tig></langSet>
+    </termEntry>
+    <termEntry id="513">
+      <langSet xml:lang="en_US"><tig><term>Debug</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nosozliklarni tuzatiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="514">
+      <langSet xml:lang="en_US"><tig><term>Debugger</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sozlagiç</term></tig></langSet>
+    </termEntry>
+    <termEntry id="515">
+      <langSet xml:lang="en_US"><tig><term>Diagnostics</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Diagnostika</term></tig></langSet>
+    </termEntry>
+    <termEntry id="516">
+      <langSet xml:lang="en_US"><tig><term>Crash Handler</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qulaşlarni qayta işlovçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="517">
+      <langSet xml:lang="en_US"><tig><term>Report Bug</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xato haqida xabar beriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="518">
+      <langSet xml:lang="en_US"><tig><term>Log</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Jurnal</term></tig></langSet>
+    </termEntry>
+    <termEntry id="519">
+      <langSet xml:lang="en_US"><tig><term>Plugin</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Plagin</term></tig></langSet>
+    </termEntry>
+    <termEntry id="520">
+      <langSet xml:lang="en_US"><tig><term>Plugins</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Plaginlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="521">
+      <langSet xml:lang="en_US"><tig><term>Module</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Modul</term></tig></langSet>
+    </termEntry>
+    <termEntry id="522">
+      <langSet xml:lang="en_US"><tig><term>Package</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Paket</term></tig></langSet>
+    </termEntry>
+    <termEntry id="523">
+      <langSet xml:lang="en_US"><tig><term>Repository</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Repozitoriy</term></tig></langSet>
+    </termEntry>
+    <termEntry id="524">
+      <langSet xml:lang="en_US"><tig><term>Branch</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarmoq</term></tig></langSet>
+    </termEntry>
+    <termEntry id="525">
+      <langSet xml:lang="en_US"><tig><term>Commit</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kommit</term></tig></langSet>
+    </termEntry>
+    <termEntry id="526">
+      <langSet xml:lang="en_US"><tig><term>Push</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuboriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="527">
+      <langSet xml:lang="en_US"><tig><term>Revert</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qaytariş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="528">
+      <langSet xml:lang="en_US"><tig><term>Stash</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vaqtinça joylaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="529">
+      <langSet xml:lang="en_US"><tig><term>Database</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Maʼlumotlar bazasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="530">
+      <langSet xml:lang="en_US"><tig><term>Identifier</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Identifikator</term></tig></langSet>
+    </termEntry>
+    <termEntry id="531">
+      <langSet xml:lang="en_US"><tig><term>Preset</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oldindan sozlama</term></tig></langSet>
+    </termEntry>
+    <termEntry id="532">
+      <langSet xml:lang="en_US"><tig><term>Constants</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Doimiylar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="533">
+      <langSet xml:lang="en_US"><tig><term>Functions</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Funksiyalar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="534">
+      <langSet xml:lang="en_US"><tig><term>Audio</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Audio</term></tig></langSet>
+    </termEntry>
+    <termEntry id="535">
+      <langSet xml:lang="en_US"><tig><term>Sound</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tovuş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="536">
+      <langSet xml:lang="en_US"><tig><term>Audio Volume</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ovoz balandligi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="537">
+      <langSet xml:lang="en_US"><tig><term>Video</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Video</term></tig></langSet>
+    </termEntry>
+    <termEntry id="538">
+      <langSet xml:lang="en_US"><tig><term>Videos</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Videolar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="539">
+      <langSet xml:lang="en_US"><tig><term>Media Controls</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Media boşqaruvi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="540">
+      <langSet xml:lang="en_US"><tig><term>Playlist</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ijro röyxati</term></tig></langSet>
+    </termEntry>
+    <termEntry id="541">
+      <langSet xml:lang="en_US"><tig><term>Playlists</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ijro röyxatlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="542">
+      <langSet xml:lang="en_US"><tig><term>Picture-in-Picture</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Rasm içida rasm</term></tig></langSet>
+    </termEntry>
+    <termEntry id="543">
+      <langSet xml:lang="en_US"><tig><term>Date</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sana</term></tig></langSet>
+    </termEntry>
+    <termEntry id="544">
+      <langSet xml:lang="en_US"><tig><term>Time</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vaqt</term></tig></langSet>
+    </termEntry>
+    <termEntry id="545">
+      <langSet xml:lang="en_US"><tig><term>Date and Time</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Sana va vaqt</term></tig></langSet>
+    </termEntry>
+    <termEntry id="546">
+      <langSet xml:lang="en_US"><tig><term>Time Zone</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vaqt mintaqasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="547">
+      <langSet xml:lang="en_US"><tig><term>Calendar</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Taqvim</term></tig></langSet>
+    </termEntry>
+    <termEntry id="548">
+      <langSet xml:lang="en_US"><tig><term>Duration</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Davomiyligi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="549">
+      <langSet xml:lang="en_US"><tig><term>Delay</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Keçikiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="550">
+      <langSet xml:lang="en_US"><tig><term>Timer</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Taymer</term></tig></langSet>
+    </termEntry>
+    <termEntry id="551">
+      <langSet xml:lang="en_US"><tig><term>Timestamp</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vaqt belgisi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="552">
+      <langSet xml:lang="en_US"><tig><term>History</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarix</term></tig></langSet>
+    </termEntry>
+    <termEntry id="553">
+      <langSet xml:lang="en_US"><tig><term>Clear History</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tarixni tozalaş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="554">
+      <langSet xml:lang="en_US"><tig><term>Status</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Holati</term></tig></langSet>
+    </termEntry>
+    <termEntry id="555">
+      <langSet xml:lang="en_US"><tig><term>State</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Holati</term></tig></langSet>
+    </termEntry>
+    <termEntry id="556">
+      <langSet xml:lang="en_US"><tig><term>Active</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Faol</term></tig></langSet>
+    </termEntry>
+    <termEntry id="557">
+      <langSet xml:lang="en_US"><tig><term>Inactive</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Nofaol</term></tig></langSet>
+    </termEntry>
+    <termEntry id="558">
+      <langSet xml:lang="en_US"><tig><term>Running</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Işlayapti</term></tig></langSet>
+    </termEntry>
+    <termEntry id="559">
+      <langSet xml:lang="en_US"><tig><term>Not Running</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Işlamayapti</term></tig></langSet>
+    </termEntry>
+    <termEntry id="560">
+      <langSet xml:lang="en_US"><tig><term>Available</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mavjud</term></tig></langSet>
+    </termEntry>
+    <termEntry id="561">
+      <langSet xml:lang="en_US"><tig><term>Unavailable</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Mavjud emas</term></tig></langSet>
+    </termEntry>
+    <termEntry id="562">
+      <langSet xml:lang="en_US"><tig><term>Failed</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xatolik yuz berdi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="563">
+      <langSet xml:lang="en_US"><tig><term>Modified</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Özgartirilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="564">
+      <langSet xml:lang="en_US"><tig><term>Created</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yaratilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="565">
+      <langSet xml:lang="en_US"><tig><term>Deleted</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öçirilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="566">
+      <langSet xml:lang="en_US"><tig><term>Category</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Turkum</term></tig></langSet>
+    </termEntry>
+    <termEntry id="567">
+      <langSet xml:lang="en_US"><tig><term>Categories</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Turkumlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="568">
+      <langSet xml:lang="en_US"><tig><term>Miscellaneous</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Har xil</term></tig></langSet>
+    </termEntry>
+    <termEntry id="569">
+      <langSet xml:lang="en_US"><tig><term>Custom</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Moslaştirilgan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="570">
+      <langSet xml:lang="en_US"><tig><term>Manual</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qölda</term></tig></langSet>
+    </termEntry>
+    <termEntry id="571">
+      <langSet xml:lang="en_US"><tig><term>Optional</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ixtiyoriy</term></tig></langSet>
+    </termEntry>
+    <termEntry id="572">
+      <langSet xml:lang="en_US"><tig><term>Required</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Majburiy</term></tig></langSet>
+    </termEntry>
+    <termEntry id="573">
+      <langSet xml:lang="en_US"><tig><term>Unlimited</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çeksiz</term></tig></langSet>
+    </termEntry>
+    <termEntry id="574">
+      <langSet xml:lang="en_US"><tig><term>Ascending</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Köpayiş tartibida</term></tig></langSet>
+    </termEntry>
+    <termEntry id="575">
+      <langSet xml:lang="en_US"><tig><term>Descending</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kamayiş tartibida</term></tig></langSet>
+    </termEntry>
+    <termEntry id="576">
+      <langSet xml:lang="en_US"><tig><term>Vertical</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Vertikal</term></tig></langSet>
+    </termEntry>
+    <termEntry id="577">
+      <langSet xml:lang="en_US"><tig><term>Horizontal</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Gorizontal</term></tig></langSet>
+    </termEntry>
+    <termEntry id="578">
+      <langSet xml:lang="en_US"><tig><term>Left</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çap</term></tig></langSet>
+    </termEntry>
+    <termEntry id="579">
+      <langSet xml:lang="en_US"><tig><term>Right</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öng</term></tig></langSet>
+    </termEntry>
+    <termEntry id="580">
+      <langSet xml:lang="en_US"><tig><term>Top</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuqori</term></tig></langSet>
+    </termEntry>
+    <termEntry id="581">
+      <langSet xml:lang="en_US"><tig><term>Bottom</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Past</term></tig></langSet>
+    </termEntry>
+    <termEntry id="582">
+      <langSet xml:lang="en_US"><tig><term>Center</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Markaz</term></tig></langSet>
+    </termEntry>
+    <termEntry id="583">
+      <langSet xml:lang="en_US"><tig><term>Width</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kenglik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="584">
+      <langSet xml:lang="en_US"><tig><term>Height</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Balandlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="585">
+      <langSet xml:lang="en_US"><tig><term>Spacing</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Oraliq masofa</term></tig></langSet>
+    </termEntry>
+    <termEntry id="586">
+      <langSet xml:lang="en_US"><tig><term>Distance</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Masofa</term></tig></langSet>
+    </termEntry>
+    <termEntry id="587">
+      <langSet xml:lang="en_US"><tig><term>Speed</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tezlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="588">
+      <langSet xml:lang="en_US"><tig><term>Rate</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tezlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="589">
+      <langSet xml:lang="en_US"><tig><term>Value</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Qiymat</term></tig></langSet>
+    </termEntry>
+    <termEntry id="590">
+      <langSet xml:lang="en_US"><tig><term>Number</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Raqam</term></tig></langSet>
+    </termEntry>
+    <termEntry id="591">
+      <langSet xml:lang="en_US"><tig><term>Percent</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foiz</term></tig></langSet>
+    </termEntry>
+    <termEntry id="592">
+      <langSet xml:lang="en_US"><tig><term>Priority</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ustuvorlik</term></tig></langSet>
+    </termEntry>
+    <termEntry id="593">
+      <langSet xml:lang="en_US"><tig><term>Low</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Past</term></tig></langSet>
+    </termEntry>
+    <termEntry id="594">
+      <langSet xml:lang="en_US"><tig><term>High</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yuqori</term></tig></langSet>
+    </termEntry>
+    <termEntry id="595">
+      <langSet xml:lang="en_US"><tig><term>Left-click</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çap tugmani bosiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="596">
+      <langSet xml:lang="en_US"><tig><term>Right-click</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Öng tugmani bosiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="597">
+      <langSet xml:lang="en_US"><tig><term>Middle-click</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Örta tugmani bosiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="598">
+      <langSet xml:lang="en_US"><tig><term>Double-click</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Ikki marta bosiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="599">
+      <langSet xml:lang="en_US"><tig><term>Mouse Wheel</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Siçqonça ğildirakçasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="600">
+      <langSet xml:lang="en_US"><tig><term>Accessibility</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Maxsus imkoniyatlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="601">
+      <langSet xml:lang="en_US"><tig><term>Personalization</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Şaxsiylaştiriş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="602">
+      <langSet xml:lang="en_US"><tig><term>Language</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Til</term></tig></langSet>
+    </termEntry>
+    <termEntry id="603">
+      <langSet xml:lang="en_US"><tig><term>Languages</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tillar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="604">
+      <langSet xml:lang="en_US"><tig><term>Favorites</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Saralanganlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="605">
+      <langSet xml:lang="en_US"><tig><term>Feedback</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Fikr-mulohaza</term></tig></langSet>
+    </termEntry>
+    <termEntry id="606">
+      <langSet xml:lang="en_US"><tig><term>User Feedback</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Foydalanuvçi fikr-mulohazasi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="607">
+      <langSet xml:lang="en_US"><tig><term>Adaptive</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Moslaşuvçan</term></tig></langSet>
+    </termEntry>
+    <termEntry id="608">
+      <langSet xml:lang="en_US"><tig><term>Vendor</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Işlab çiqaruvçi</term></tig></langSet>
+    </termEntry>
+    <termEntry id="609">
+      <langSet xml:lang="en_US"><tig><term>Model</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Model</term></tig></langSet>
+    </termEntry>
+    <termEntry id="610">
+      <langSet xml:lang="en_US"><tig><term>Serial Number</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Seriya raqami</term></tig></langSet>
+    </termEntry>
+    <termEntry id="611">
+      <langSet xml:lang="en_US"><tig><term>Rating</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Baho</term></tig></langSet>
+    </termEntry>
+    <termEntry id="612">
+      <langSet xml:lang="en_US"><tig><term>Features</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Xususiyatlari</term></tig></langSet>
+    </termEntry>
+    <termEntry id="613">
+      <langSet xml:lang="en_US"><tig><term>Utilities</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Yordamçi dasturlar</term></tig></langSet>
+    </termEntry>
+    <termEntry id="614">
+      <langSet xml:lang="en_US"><tig><term>Calculator</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kalkulyator</term></tig></langSet>
+    </termEntry>
+    <termEntry id="615">
+      <langSet xml:lang="en_US"><tig><term>Random</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Tasodifiy</term></tig></langSet>
+    </termEntry>
+    <termEntry id="616">
+      <langSet xml:lang="en_US"><tig><term>Input</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Kiritiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="617">
+      <langSet xml:lang="en_US"><tig><term>Output</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Çiqiş</term></tig></langSet>
+    </termEntry>
+    <termEntry id="618">
+      <langSet xml:lang="en_US"><tig><term>Result</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Natija</term></tig></langSet>
+    </termEntry>
+    <termEntry id="619">
+      <langSet xml:lang="en_US"><tig><term>Action</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Amal</term></tig></langSet>
+    </termEntry>
+    <termEntry id="620">
+      <langSet xml:lang="en_US"><tig><term>Operations</term></tig></langSet>
+      <langSet xml:lang="uz"><tig><term>Amallar</term></tig></langSet>
+    </termEntry>
+    </body>
+  </text>
+</martif>

@@ -1,0 +1,84 @@
+Session-global index targets - Seans böyiça umumiy indekslaş nişonlari
+Add - Qöşiş
+Remove - Olib taşlaş
+Update - Yangilaş
+CTags command - CTags buyruği
+define - taʼrif (define)
+label - yorliq
+macro - makros
+function - funksiya
+subroutine - qism-dastur
+fragment definition - fragment taʼrifi
+any pattern - har qanday namuna
+slot - slot
+pattern - namuna
+class - sinf
+enumerator - sanovçi
+enumeration - sanaş (enum)
+member - aʼzo
+namespace - nomlar fazosi
+prototype - prototip
+struct - tuzilma (struct)
+typedef - typedef
+union - birlaşma (union)
+variable - Karib orollari
+external variable - taşqi özgaruvçi
+paragraph - paragraf
+feature - xususiyat
+local entity - mahalliy mohiyat
+block - blok
+common - umumiy
+entry - yozuv
+interface - interfeys
+type component - tur komponenti
+local - mahalliy
+module - modul
+namelist - nomlar röyxati
+program - dastur
+type - Turi
+field - maydon
+method - usul (metod)
+package - paket
+procedure - Davom etiş
+mixin - mixin
+set - töplam
+CTags executable not found. - CTags bajariluvçi fayli topilmadi.
+CTags executable failed to execute. - CTags bajariluvçi faylini işga tuşirib bölmadi.
+CTags was unable to parse this file. - CTags uşbu faylni tahlil qila olmadi.
+Tags file not found. Please generate one manually or using the CTags plugin - Teglar fayli topilmadi. Iltimos, uni qölda yoki CTags plagini orqali yarating
+File for '%1' not found. - '%1' uçun fayl topilmadi.
+Lookup - Qidiriş (Lookup)
+Update Index - Indeksni yangilaş
+Tag - Çiqindilar qutisi
+Type - Turi
+File - Fayl
+Index Targets - Indekslaş nişonlari
+Database - Maʼlumot bazasi
+CTags database file - CTags maʼlumotlar bazasi fayli
+Revert to the default command - Standart buyruqqa qaytariş
+... - Tanlaş
+Add a directory to index. - Indekslaş uçun jild qöşiş.
+Remove a directory. - Jildni olib taşlaş.
+(Re-)generate the common CTags database. - Umumiy CTags maʼlumotlar bazasini (qayta) yaratiş.
+CTags - CTags
+CTags Settings - CTags sozlamalari
+Failed to run. Error: %1, exit code: %2 - Bajarib bölmadi. Xato: %1, çiqiş kodi: %2
+The CTags executable crashed. - CTags bajariluvçi fayli halokatga uçradi.
+The CTags command exited with code %1 - CTags buyruği %1 kodi bilan çiqdi
+Jump back one step - Bir qadam orqaga sakraş
+Go to Declaration - Deklaratsiyaga ötiş
+Go to Definition - Taʼrifga (definition) ötiş
+Lookup Current Text - Joriy matnni qidiriş
+Configure ... - Sozlaş ...
+Configure CTags Plugin - CTags plaginini sozlaş
+Go to Declaration: %1 - Deklaratsiyaga ötiş: %1
+Go to Definition: %1 - Taʼrifga ötiş: %1
+Lookup: %1 - Qidiriş: %1
+(Re-)generate the session specific CTags database. - Seansga xos CTags maʼlumotlar bazasini (qayta) yaratiş.
+Select new or existing database file. - Yangi yoki mavjud maʼlumotlar bazasi faylini tanlang.
+Go To Local Symbol - Mahalliy belgiga ötiş
+Go To Global Symbol - Global belgiga ötiş
+No hits found - Mosliklar topilmadi
+No folders or files to index - Indekslaş uçun jild yoki fayllar yöq
+The CTags executable crashed - CTags bajariluvçi fayli halokatga uçradi
+The CTags program exited with code %2: %1 - CTags dasturi %2 kodi bilan çiqdi: %1

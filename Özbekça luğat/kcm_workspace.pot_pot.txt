@@ -1,0 +1,27 @@
+Source text - Tarjima text
+Plasma - Plasma
+Panel and widget tooltips - Panel va vidjetlar uçun maslahat oynalari
+OSD popups for status changes - Holat özgarişlari uçun ekrandagi OSD bildirişnomalari
+Scrolling - Aylantiriş (Skrolling)
+Clicking in scrollbar track: - Aylantiriş polosasiga bosilganda:
+Scrolls to the clicked location - Bosilgan joyga ötadi
+Scrolls one page up or down - Bir sahifa yuqoriga yoki pastga ötadi
+Prefer smooth scrolling - Ravon (silliq) aylantirişni afzal köriş
+Clicking - Bosiş (Çertiş)
+Clicking files or folders: - Fayl yoki jildlar bosilganda:
+Selects them - Ularni tanlaydi
+Opens them - Ularni oçadi
+Open by double-clicking instead - Ikki marta bosiş orqali oçiş
+Middle-click: - Örta tugmani bosiş:
+Pastes selected text - Tanlangan matnni qöyadi (joylaydi)
+Double-click interval: - Ikki marta bosiş oraliği:
+Drag and Drop - Sudrab olib ötiş (Drag and Drop)
+Always ask what to do - Har doim nima qilişni söraş
+Touch - Sensorli ekran
+Enable Tablet Mode: - Planşet rejimini yoqiş:
+Automatically enable as needed - Zaruratga qarab avtomatik yoqiş
+Never enabled - Heç qaçon yoqmaslik
+Always enabled - Har doim yoqilgan
+Disabled - Öçirilgan
+In Tablet Mode, the virtual keyboard will appear when needed. - Planşet rejimida kerak bölganda virtual klaviatura paydo böladi.
+Smooth scrolling - Ravon aylantiriş

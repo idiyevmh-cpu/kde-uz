@@ -1,0 +1,4 @@
+Screenshot - Skrinşot
+Tap to screenshot - Skrinşot oliş uçun bosing
+New Screenshot - Yangi skrinşot
+New screenshot saved to %1 - Yangi skrinşot %1 ga saqlandi

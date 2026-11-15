@@ -1,0 +1,4 @@
+Printer Configuration - Printerni sozlaş
+Set up and configure printers - Printerlarni örnatiş va sozlaş
+This KDE Config tool lets you set up and configure printers. It detects new printers, finds the available drivers and allows you to configure their settings. You can print test pages and set sharing properties. - Uşbu KDE sozlaş vositasi printerlarni örnatiş va sozlaş imkonini beradi.
+Printer settings. - Printer sozlamalari.

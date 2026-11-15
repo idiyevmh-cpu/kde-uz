@@ -1,0 +1,8 @@
+Plasma Windowed - Oynali Plasma (Plasma Windowed)
+Enable QML Javascript debugger - QML Javascript nosozlik tuzatuvçisini yoqiş
+Makes the plasmoid stay alive in the Notification Area, even when the window is closed. - Oyna yopilganda ham plazmoidni Bildirişnomalar sohasida faol saqlaydi.
+Force loading the given shell plugin - Berilgan qobiq plaginini majburan yuklaş
+The applet to open. - Oçiladigan aplet.
+Arguments to pass to the plasmoid. - Plazmoidga uzatiladigan argumentlar.
+Internal, for testing - Içki, sinaş uçun
+Close %1 - %1 ni yopiş

@@ -1,0 +1,2 @@
+Mobipocket - Mobipocket
+Adds support for reading Mobipocket E-books - Mobipocket elektron kitoblarini öqişni qöllab-quvvatlaydi

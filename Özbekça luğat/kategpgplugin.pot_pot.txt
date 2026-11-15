@@ -1,0 +1,48 @@
+Error! No keys found... - Xato! Kalitlar topilmadi...
+Error finding key:  - Kalitni topişda xatolik: 
+Error in symmetric encryption:  - Simmetrik şifrlaşda xatolik: 
+Encryption Failed:  - Şifrlaş muvaffaqiyatsiz tugadi: 
+GPG Plugin - GPG plagini
+GPG Decrypt current document - Joriy hujjatni GPG bilan şifrsizlaş
+GPG Encrypt current document - Joriy hujjatni GPG bilan şifrlaş
+<b>GPG Plugin Settings</b> - <b>GPG plagini sozlamalari</b>
+Key ID - Kalit ID
+A search string used to filter keys by available email addresses - Mavjud elektron poçta manzillari böyiça kalitlarni filtrlaş uçun qidiruv satri
+Selected GPG Key finerprint for encryption - Şifrlaş uçun tanlangan GPG kalit barmoq izi
+<b>To: Email address used for encryption</b> - <b>Kimga: Şifrlaş uçun foydalanilgan elektron poçta</b>
+Select an email address to which to encrypt.
+Only mail addresses associated with your currently selected
+key fingerprint are available. - Şifrlaş uçun elektron poçta manzilini tanlang.
+This is your currently selected GPG key fingerprint that will be used for encryption. - Bu şifrlaş uçun işlatiladigan joriy tanlangan GPG kalit barmoq izingiz.
+Enable symmetric encryption - Simmetrik şifrlaşni yoqiş
+Show only keys for which a private key is available - Faqat maxfiy kaliti mavjud bölgan kalitlarni körsatiş
+Hide Expired Keys - Muddati ötgan kalitlarni yaşiriş
+  Decrypted   -   Şifrsizlandi  
+  Encrypted   -   Şifrlandi  
+Error Decrypting Text! No fingerprint selected... - Şifrsizlaşda xato! Barmoq izi tanlanmadi...
+Error Decrypting Text!
+No matching fingerprint found!
+Or this is not a GPG encrypted text... - Matnni şifrsizlaşda xatolik!
+Mos keluvçi barmoq izi topilmadi!
+Error Decrypting Text!
+ - Matnni şifrsizlaşda xatolik!
+
+Error Encrypting Text!
+No fingerprint selected... - Şifrlaşda xato!
+Barmoq izi tanlanmadi...
+Error Encrypting Text! No Matching Fingerprint found...
+ - Şifrlaşda xato! Mos barmoq izi topilmadi...
+
+Error Encrypting Text! - Matnni şifrlaşda xatolik!
+Error! No views available... - Xato! Körinişlar mavjud emas...
+Error Decrypting Text! Document is empty... - Şifrsizlaşda xato! Hujjat böş...
+Error Encrypting Text! No document available... - Şifrlaşda xato! Hujjat mavjud emas...
+Error Encrypting Text! Document is empty... - Şifrlaşda xato! Hujjat böş...
+Attempted double encryption detected! Encrypting twice is disabled for now... - Ikki marta şifrlaş aniqlandi! Ikki marta şifrlaş hozirça öçirilgan...
+Save Encrypted File As - Şifrlangan faylni saqlaş...
+GPG Files (*.gpg *.asc) - GPG fayllari (*.gpg *.asc)
+Key Fingerprint - Kalit barmoq izi
+Creation Date - Yaratiş
+Expiry Date - Muddati tugaş sanasi
+Key Length - Kalit uzunligi
+User IDs - Sertifikat tafsilotlari...

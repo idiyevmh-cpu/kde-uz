@@ -1,0 +1,2 @@
+AppStream preview backend - AppStream oldindan köriş bekendi
+Preview AppStream files in Discover - Discover-da AppStream fayllarini oldindan köriş

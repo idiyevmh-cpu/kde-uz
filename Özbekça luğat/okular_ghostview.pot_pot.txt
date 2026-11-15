@@ -1,0 +1,10 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Use Platform Fonts - Platforma şriftlaridan foydalaniş
+Determines whether Ghostscript should be allowed to use platform fonts, if false only usage of fonts embedded in the document will be allowed. - Ghostscript platforma şriftlaridan foydalanişiga ruxsat beriş-bermasligini belgilaydi.
+General Settings - Umumiy moslamalar
+&Use platform fonts - &Platforma şriftlaridan foydalaniş
+Ghostscript - PostScript haqida maʼlumot
+Ghostscript Backend Configuration - Ghostscript bekendi sozlamalari
+Document version - Hujjat versiyasi
+Language Level - Til darajasi

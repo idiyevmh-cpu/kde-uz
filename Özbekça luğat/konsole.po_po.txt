@@ -1,0 +1,976 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+File - Fayl
+Edit - Tahrirlaş
+View - Köriniş
+Split View - Oynani böliş
+Settings - Sozlamalar
+Plugins - Plaginlar
+Help - Yordam
+Main Toolbar - Asosiy asboblar paneli
+S&crollback - &Tarix (Scrollback)
+Session Toolbar - Seans asboblar paneli
+Name of profile to use for new Konsole instance - Yangi Konsole nusxasi uçun foydalaniladigan profil nomi
+json layoutfile to be loaded to use for new Konsole instance - Yangi Konsole nusxasi uçun yuklanadigan json joylaşuv fayli
+Use the built-in profile instead of the default profile - Andoza profil örniga örnatilgan profildan foydalaniş
+Set the initial working directory of the new tab or window to 'dir' - Yangi tab yoki oynaning boşlanğiç işçi katalogini 'dir' qilib belgilaş
+Do not close the initial session automatically when it ends. - Boşlanğiç seans tugaganda uni avtomatik ravişda yopmaslik.
+Create a new tab in an existing window rather than creating a new window ('Run all Konsole windows in a single process' must be enabled) - Yangi oyna yaratiş örniga mavjud oynada yangi tab yaratiş ('Barça Konsole oynalarini bitta jarayonda işga tuşiriş' yoqilgan bölişi kerak)
+Create tabs as specified in given tabs configuration file - Berilgan tablar sozlamasi faylida körsatilganidek tablarni yaratiş
+Start Konsole in the background and bring to the front when Ctrl+Shift+F12 (by default) is pressed - Konsole dasturini orqa fonda işga tuşiriş va Ctrl+Shift+F12 (andoza böyiça) bosilganda oldinga çiqariş
+Run in a separate process - Alohida jarayonda işga tuşiriş
+Show the menubar, overriding the default setting - Andoza sozlamani çetlab ötib, menyu panelini körsatiş
+Hide the menubar, overriding the default setting - Andoza sozlamani çetlab ötib, menyu panelini yaşiriş
+Show all the toolbars, overriding the default setting - Andoza sozlamani çetlab ötib, barça asboblar panellarini körsatiş
+Hide all the toolbars, overriding the default setting - Andoza sozlamani çetlab ötib, barça asboblar panellarini yaşiriş
+Show the tabbar, overriding the default setting - Andoza sozlamani çetlab ötib, tablar panelini körsatiş
+Hide the tabbar, overriding the default setting - Andoza sozlamani çetlab ötib, tablar panelini yaşiriş
+Start Konsole in fullscreen mode - Konsole dasturini töliq ekran rejimida işga tuşiriş
+Disable transparent backgrounds, even if the system supports them. - Tizim qöllab-quvvatlasa ham şaffof orqa fonlarni öçiriş.
+List the available profiles - Mavjud profillar röyxatini körsatiş
+List all the profile properties names and their type (for use with -p) - Barça profil xossalari nomlari va ularning turlari röyxatini körsatiş (-p bilan işlatiş uçun)
+Change the value of a profile property. - Profil xossasi qiymatini özgartiriş.
+Command to execute. This option will catch all following arguments, so use it as the last option. - Bajariladigan buyruq. Uşbu parametr özidan keyingi barça argumentlarni qamrab oladi, şuning uçun uni oxirgi parametr sifatida işlating.
+Force re-using the existing instance even if it breaks functionality, e. g. --new-tab. Mostly for debugging. - Funksionallikni buzsa ham (masalan, --new-tab) mavjud nusxadan qayta foydalanişga majburlaş. Asosan nosozliklarni tuzatiş (debugging) uçun.
+Arguments passed to command - Buyruqqa uzatilgan argumentlar
+Toggle Background Window - Orqa fon oynasini yoqiş/öçiriş
+%1 on %2 - %2 da %1
+%1 - %1
+Foreground - Oldingi plan (Matn)
+Background - Orqa fon
+Color 1 - 1-rang
+Color 2 - 2-rang
+Color 3 - 3-rang
+Color 4 - 4-rang
+Color 5 - 5-rang
+Color 6 - 6-rang
+Color 7 - 7-rang
+Color 8 - 8-rang
+Foreground (Intense) - Oldingi plan (Töyintirilgan)
+Background (Intense) - Orqa fon (Töyintirilgan)
+Color 1 (Intense) - 1-rang (Töyintirilgan)
+Color 2 (Intense) - 2-rang (Töyintirilgan)
+Color 3 (Intense) - 3-rang (Töyintirilgan)
+Color 4 (Intense) - 4-rang (Töyintirilgan)
+Color 5 (Intense) - 5-rang (Töyintirilgan)
+Color 6 (Intense) - 6-rang (Töyintirilgan)
+Color 7 (Intense) - 7-rang (Töyintirilgan)
+Color 8 (Intense) - 8-rang (Töyintirilgan)
+Foreground (Faint) - Oldingi plan (Xira)
+Background (Faint) - Orqa fon (Xira)
+Color 1 (Faint) - 1-rang (Xira)
+Color 2 (Faint) - 2-rang (Xira)
+Color 3 (Faint) - 3-rang (Xira)
+Color 4 (Faint) - 4-rang (Xira)
+Color 5 (Faint) - 5-rang (Xira)
+Color 6 (Faint) - 6-rang (Xira)
+Color 7 (Faint) - 7-rang (Xira)
+Color 8 (Faint) - 8-rang (Xira)
+Un-named Color Scheme - Nomsiz rang sxemasi
+Name - Nomi
+Color - Rang
+Intense color - Töyintirilgan rang
+Faint color - Xira rang
+The background transparency setting will not be used because your desktop does not appear to support transparent windows. - Orqa fon şaffofligi sozlamasi işlatilmaydi, çunki iş stolingiz şaffof oynalarni qöllab-quvvatlamaydiganga öxşaydi.
+Select wallpaper image file - Fon rasmi faylini tanlaş
+Supported Images - Qöllab-quvvatlanadigan rasmlar
+New Color Scheme - Yangi rang sxemasi
+Edit Color Scheme - Rang sxemasini tahrirlaş
+Click to choose color - Rangni tanlaş uçun bosing
+Click to choose intense color - Töyintirilgan rangni tanlaş uçun bosing
+Click to choose Faint color - Xira rangni tanlaş uçun bosing
+Description: - Taʼrifi:
+Hue and saturation values of default foreground and background colors are randomized by default. Some color schemes might use different randomization settings. To see any effect, set colors with saturation value greater than 0. - Andoza oldingi plan va orqa fon ranglarining tus (hue) hamda töyinganlik (saturation) qiymatlari andoza böyiça tasodifiy tanlanadi. Baʼzi rang sxemalari boşqaça tasodifiylaştiriş sozlamalaridan foydalanişi mumkin. Taʼsirini köriş uçun töyinganlik qiymati 0 dan katta bölgan ranglarni örnating.
+Randomly adjust colors for each session - Har bir seans uçun ranglarni tasodifiy moslaştiriş
+Blur background - Orqa fonni xiralaştiriş (blur)
+Background color transparency: - Orqa fon rangi şaffofligi:
+Percent - Foiz
+Wallpaper transparency: - Fon rasmi şaffofligi:
+Background image: - Orqa fon rasmi:
+Edit the path of the background image - Orqa fon rasmi yölini tahrirlaş
+Choose the background image - Orqa fon rasmini tanlaş
+... - ...
+Wallpaper scaling: - Fon rasmini massştablaş:
+Tile - Kafel qilib teriş
+Stretch - Çöziş
+Crop - Qirqiş
+Adapt - Moslaştiriş
+NoScaling - Massştablanmasin
+Wallpaper flip: - Fon rasmini aks ettiriş:
+NoFlip - Aks ettirilmasin
+Horizontal - Gorizontal
+Vertical - Vertikal
+Both - Ikkalasi ham
+Horizontal Anchor: - Gorizontal mahkamlaş:
+Left - Çapda
+Vertical Anchor: - Vertikal mahkamlaş:
+Top - Yuqorida
+AaZz09... - AaZz09...
+Host - Xost
+Container support is not available when Konsole is running inside Flatpak. - Konsole Flatpak içida işlayotganida konteynerlarni qöllab-quvvatlaş mavjud emas.
+Distrobox - Distrobox
+Kapsule - Kapsule
+Kapsule Container - Kapsule konteyneri
+ [default] -  [andoza]
+Toolbox - Toolbox
+Copy Input - Kiritilgan matnni nusxalaş
+Filter: - Filtr:
+Select All - Hammasini tanlaş
+Deselect All - Tanlaşni bekor qiliş
+Copy Color - Rangni nusxalaş
+Color Preview - Rangni oldindan köriş
+Open Link - Havolani oçiş
+Copy Link Address - Havola manzilidan nusxa oliş
+Could not open file with the text editor specified in the profile settings; it will be opened with the system default editor. - Faylni profil sozlamalarida körsatilgan matn muharriri bilan oçib bölmadi; u tizimning andoza muharriri bilan oçiladi.
+Copy Location - Manzilni nusxalaş
+Generating Thumbnail - Miniatyura yaratilmoqda
+Send Email To... - E-poçta jönatiş...
+Copy Email Address - E-poçta manzilidan nusxa oliş
+Select font - Şriftni tanlaş
+Show all fonts - Barça şriftlarni körsatiş
+By its very nature, a terminal program requires font characters that are equal width (monospace). Any non monospaced font may cause display issues. This should not be necessary except in rare cases. - Öz tabiatiga köra terminal dasturi bir xil kenglikdagi şrift belgilarini (monoenli şrift) talab qiladi. Har qanday monoenli bölmagan şrift tasvir muammolariga olib kelişi mumkin. Kamdan-kam holatlardan taşqari bunga ehtiyoj bölmasligi kerak.
+Adjust Scrollback - Tarixni (Scrollback) moslaştiriş
+Any adjustments are only temporary to this session. - Har qanday moslaştirişlar faqat uşbu seans uçun vaqtinçalikdir.
+Enter descriptive label - Tavsiflovçi yorliqni kiriting
+Key Combination - Tugmalar birikmasi
+Output - Çiqiş
+New Key Binding List - Yangi tugmalar birikmasi röyxati
+Edit Key Binding List - Tugmalar birikmasi röyxatini tahrirlaş
+A key bindings scheme cannot be saved with an empty description. - Tugmalar birikmasi sxemasini böş taʼrif bilan saqlab bölmaydi.
+Add - Qöşiş
+Remove - Olib taşlaş
+Test Area - Sinov maydoni
+Input: - Kiriş:
+Output: - Çiqiş:
+Konsole - Konsole
+Terminal emulator - Terminal emulyatori
+© 1997–%1, The Konsole Developers - © 1997–%1, Konsole dasturçilari
+Kurt Hindenburg - Kurt Hindenburg
+General maintainer, bug fixes and general improvements - Asosiy taʼminotçi, xatolarni tuzatiş va umumiy yaxşilaşlar
+Robert Knight - Robert Knight
+Previous maintainer, ported to KDE4 - Oldingi taʼminotçi, KDE4 ga ötkaziş
+Lars Doelle - Lars Doelle
+Original author - Asl muallif
+Ahmad Samir - Ahmad Samir
+Major refactoring, bug fixes and major improvements - Katta refaktoring, xatolarni tuzatiş va katta yaxşilaşlar
+Carlos Alves - Carlos Alves
+Tomaz Canabrava - Tomaz Canabrava
+Gustavo Carneiro - Gustavo Carneiro
+Edwin Pujols - Edwin Pujols
+Bug fixes and general improvements - Xatolarni tuzatiş va umumiy yaxşilaşlar
+Martin T. H. Sandsmark - Martin T. H. Sandsmark
+Nate Graham - Nate Graham
+Mariusz Glebocki - Mariusz Glebocki
+Bug fixes and major improvements - Xatolarni tuzatiş va katta yaxşilaşlar
+Thomas Surrel - Thomas Surrel
+Jekyll Wu - Jekyll Wu
+Waldo Bastian - Waldo Bastian
+Stephan Binner - Stephan Binner
+Thomas Dreibholz - Thomas Dreibholz
+General improvements - Umumiy yaxşilaşlar
+Chris Machemer - Chris Machemer
+Bug fixes - Xatolarni tuzatiş
+Francesco Cecconi - Francesco Cecconi
+Stephan Kulow - Stephan Kulow
+Solaris support and history - Solaris qöllab-quvvatlaşi va tarix
+Alexander Neundorf - Alexander Neundorf
+Bug fixes and improved startup performance - Xatolarni tuzatiş va işga tuşiş samaradorligini yaxşilaş
+Peter Silva - Peter Silva
+Marking improvements - Belgilaşni yaxşilaş
+Lotzi Boloni - Lotzi Boloni
+Embedded Konsole Toolbar and session names - Örnatilgan Konsole asboblar paneli va seans nomlari
+David Faure - David Faure
+Embedded Konsole General improvements - Örnatilgan Konsole umumiy yaxşilaşlar
+Antonio Larrosa - Antonio Larrosa
+Visual effects - Vizual effektlar
+Matthias Ettrich - Matthias Ettrich
+Code from the kvt project General improvements - kvt loyihasidan kod va umumiy yaxşilaşlar
+Warwick Allison - Warwick Allison
+Schema and text selection improvements - Sxema va matn tanlaşni yaxşilaş
+Dan Pilone - Dan Pilone
+SGI port - SGI ga ötkaziş
+Kevin Street - Kevin Street
+FreeBSD port - FreeBSD ga ötkaziş
+Sven Fischer - Sven Fischer
+Dale M. Flaven - Dale M. Flaven
+Martin Jones - Martin Jones
+Lars Knoll - Lars Knoll
+Thanks to many others.  - Va boşqa köplab iştirokçilarga taşakkur. 
+&New Tab - &Yangi tab
+&Clone Tab - Tabdan &nusxa yaratiş
+New &Window - &Yangi oyna
+Close Window - Oynani yopiş
+&Bookmarks - &Xatçöplar
+&Window Color Scheme - &Oyna rang sxemasi
+Manage Profiles... - Profillarni boşqariş...
+Activate Menu - Menyuni faollaştiriş
+Save Tab Layout... - Tab joylaşuvini saqlaş...
+Load Tab Layout... - Tab joylaşuvini yuklaş...
+There is a process running in this window. Do you still want to quit? - Uşbu oynada jarayon işlamoqda. Baribir çiqmoqçimisiz?
+Confirm Close - Yopişni tasdiqlaş
+Close &Window - &Oynani yopiş
+Close Current &Tab - Joriy &tabni yopiş
+There are %1 open terminals in this window. Do you still want to quit? - Uşbu oynada %1 ta oçiq terminal mavjud. Baribir çiqmoqçimisiz?
+Profiles - Profillar
+General - Umumiy
+Memory - Xotira
+Tab Bar / Splitters - Tablar paneli / Bölguvçilar
+Temporary Files - Vaqtinçalik fayllar
+Thumbnails - Miniatyuralar
+Part Info - Qism haqida maʼlumot
+Form - Şakl
+Shortcut: - Tugmalar birikmasi:
+Filter... - Filtr...
+Invert - Teskari aylantiriş
+Title - Sarlavha
+Tooltip - Maslahat oynasi
+Group - Guruh
+Default - Andoza
+Command - Buyruq
+Warnings - Ogohlantirişlar
+Run - Işga tuşiriş
+Save - Saqlaş
+Update - Yangilaş
+Cancel - Bekor qiliş
+Quick Commands - Tezkor buyruqlar
+Show Quick Access - Tezkor kirişni körsatiş
+No quick commands found. You can add one on Plugins -> Quick Commands - Tezkor buyruqlar topilmadi. Ularni Plaginlar -> Tezkor buyruqlar bölimida qöşişingiz mumkin
+Plugins - Quick Commands - Plaginlar - Tezkor buyruqlar
+Show Quick Commands - Tezkor buyruqlarni körsatiş
+A duplicate item exists - Takroriy element mavjud
+Please fix all the warnings before trying to run this script - Uşbu skriptni işga tuşirişga urinişdan oldin barça ogohlantirişlarni bartaraf eting
+There are some errors on the script, do you really want to run it? - Skriptda baʼzi xatolar mavjud, haqiqatan ham uni işga tuşirmoqçimisiz?
+Shell Errors - Qobiq (Shell) xatolari
+Run - Işga tuşiriş
+You are about to delete the group %1,  with multiple configurations, are you sure? - Siz bir neçta sozlamalarga ega %1 guruhini öçiriş arafasidasiz, işonçingiz komilmi?
+You are about to delete %1, are you sure? - Siz %1 ni öçiriş arafasidasiz, işonçingiz komilmi?
+Delete Quick Commands Configurations - Tezkor buyruqlar sozlamalarini öçiriş
+Title can not be empty or blank - Sarlavha böş bölişi mumkin emas
+Command can not be empty - Buyruq böş bölişi mumkin emas
+Rename - Nomini özgartiriş
+Delete - Öçiriş
+Warnings (*) - Ogohlantirişlar (*)
+SSH Config - SSH sozlamasi
+Default - Andoza
+%1 is a folder for SSH entries - %1 — SSH yozuvlari uçun jild
+SSH Config - SSH sozlamasi
+Host: %1 - Xost: %1
+SSH Manager - SSH boşqaruvçisi
+Show SSH Manager - SSH boşqaruvçisini körsatiş
+Show Quick Access for SSH Actions - SSH amallari uçun tezkor kirişni körsatiş
+No saved SSH config found. You can add one on Plugins -> SSH Manager - Saqlangan SSH sozlamasi topilmadi. Uni Plaginlar -> SSH boşqaruvçisi bölimida qöşişingiz mumkin
+Plugins - SSH Manager - Plaginlar - SSH boşqaruvçisi
+SSH Entries - SSH yozuvlari
+Could not get the process name, assume that we can't request a connection - Jarayon nomini olib bölmadi, ulanişni sörab bölmaydi deb faraz qilinadi
+Error issuing SSH Command - SSH buyruğini berişda xato
+Can't issue SSH command outside the shell application (eg, bash, zsh, sh) - Qobiq dasturidan (masalan, bash, zsh, sh) taşqarida SSH buyruğini berib bölmaydi
+SSH Key - SSH kaliti
+Delete - Öçiriş
+Don't Change - Özgartirilmasin
+You are about to delete the folder %1,  with multiple SSH Configurations, are you sure? - Siz bir neçta SSH sozlamalariga ega %1 jildini öçiriş arafasidasiz, işonçingiz komilmi?
+Delete SSH Configurations - SSH sozlamalarini öçiriş
+Imported SSH Profile <br/> Some settings are read only. - Import qilingan SSH profili <br/> Baʼzi sozlamalar faqat öqiş uçun.
+Missing Hostname - Xost nomi körsatilmagan
+Missing Name - Nomi körsatilmagan
+If Use Ssh Config is set, do not specify sshkey or username. - Agar SSH sozlamasidan foydalaniş belgilangan bölsa, ssh kaliti yoki foydalanuvçi nomini körsatmang.
+At least Username or SSHKey must be set - Kamida Foydalanuvçi nomi yoki SSH kaliti belgilanişi kerak
+Missing Folder - Jild körsatilmagan
+An SSH session must have a profile - SSH seansi profilga ega bölişi kerak
+Cannot delete this folder - Uşbu jildni öçirib bölmaydi
+Delete folder and all of its contents - Jildni va uning barça tarkibini öçiriş
+Double click to change the folder name. - Jild nomini özgartiriş uçun ikki marta bosing.
+You can't delete an automatically added entry. - Avtomatik qöşilgan yozuvni öçira olmaysiz.
+Delete selected entry - Tanlangan yozuvni öçiriş
+Shortcut - Tugmalar birikmasi
+Show entries that don't match the filter - Filtrga mos kelmaydigan yozuvlarni körsatiş
+Change profile on connect/disconnect - Ulanganda/uzilganda profilni özgartiriş
+Manage profile - Profilni boşqariş
+Identifier - Identifikator
+A name for this ssh entry - Uşbu ssh yozuvi uçun nom
+The name of this entry on the list - Röyxatdagi uşbu yozuvning nomi
+SSH Hostname - SSH xost nomi
+The hostname of the server - Serverning xost nomi
+Port - Port
+The port of the server, 22 is the default for ssh connections - Server porti, ssh ulanişlari uçun andoza qiymat — 22
+22 - 22
+The private key to be used for this connection - Uşbu ulaniş uçun foydalaniladigan maxfiy kalit
+The private key - Maxfiy kalit
+If this is set, we don't rely on the SSH key set above, but on the configuration on ~/.ssh/config - Agar bu belgilansa, yuqorida örnatilgan SSH kalitiga emas, balki ~/.ssh/config faylidagi sozlamaga tayaniladi
+Use ~/.ssh/config for key - Kalit uçun ~/.ssh/config dan foydalaniş
+Username - Foydalanuvçi nomi
+The username for the connection - Ulaniş uçun foydalanuvçi nomi
+Your username - Foydalanuvçi nomingiz
+Folder - Jild
+For organizational purposes, this entry will be inside of this folder. - Tartibga soliş maqsadida uşbu yozuv şu jild içida joylaşadi.
+Profile - Profil
+The profile to be active when the ssh session starts - SSH seansi boşlanganda faol böladigan profil
+Add a new SSH Entry - Yangi SSH yozuvini qöşiş
+Delete selected SSH entry - Tanlangan SSH yozuvini öçiriş
+Edit selected entry - Tanlangan yozuvni tahrirlaş
+Add new SSH Configuration - Yangi SSH sozlamasini qöşiş
+Cancel Add or Edit - Qöşiş yoki tahrirlaşni bekor qiliş
+No plugins available - Mavjud plaginlar yöq
+Output Options - Çiqariş parametrlari
+Printer &friendly mode (black text, no background) - &Printer uçun qulay rejim (qora matn, orqa fonsiz)
+&Scale output - Çiqişni &massştablaş
+Built-in - Örnatilgan
+Default profile - Andoza profil
+Profile %1 - Profil %1
+Konsole does not have permission to save this profile to %1 - Konsole uşbu profilni %1 ga saqlaş huquqiga ega emas
+Name - Nomi
+Shortcut - Tugmalar birikmasi
+ [Read-only] -  [Faqat öqiş uçun]
+ [Default] -  [Andoza]
+ [Light] -  [Yoruğ]
+ [Dark] -  [Qoronği]
+Built-in profile is always available - Örnatilgan profil har doim mavjud
+Double click to change shortcut - Tugmalar birikmasini özgartiriş uçun ikki marta bosing
+Tab Properties - Tab xossalari
+Save Output From %1 - %1 çiqişini saqlaş
+%1 is an invalid URL, the output could not be saved. - %1 notöğri URL manzil, çiqişni saqlab bölmadi.
+Failed to create autosave file at %1. - %1 manzilida avtosaqlaş faylini yaratib bölmadi.
+Stopping autosave due to switching of screens. - Ekranlar almaşganligi sababli avtosaqlaş töxtatilmoqda.
+Autosave file has been modified externally, preventing further autosaves. - Avtosaqlaş fayli taşqaridan özgartirilgan, bu keyingi avtosaqlaşlarning oldini oladi.
+Failed to update autosave state on output changes. - Çiqiş özgarişlarida avtosaqlaş holatini yangilab bölmadi.
+A problem occurred when saving the output. %1 - Çiqişni saqlaşda muammo yuz berdi. %1
+Black on Light Yellow - Oç sariqda qora
+Black on Random Light - Tasodifiy yoruğ fonda qora
+Black on White - Oqda qora
+Blue on Black - Qorada kök
+Breeze - Breeze
+Campbell - Campbell
+Dark Pastels - Töq pastel
+Green on Black - Qorada yaşil
+Linux Colors - Linux ranglari
+Red on Black - Qorada qizil
+Solarized - Solarized
+Solarized Light - Solarized (Yoruğ)
+White on Black - Qorada oq
+Default (XFree 4) - Andoza (XFree 4)
+Linux console - Linux konsoli
+macOS - macOS
+Solaris console - Solaris konsoli
+Search... - Qidiriş...
+Enter a tab name to search for here - Qidiriş uçun tab nomini şu yerga kiriting
+Bell in '%1' (Session '%2') - '%1' da signal ('%2' seansi)
+Could not find binary:  - Binar fayl topilmadi: 
+Warning:  - Ogohlantiriş: 
+Could not find an interactive shell to start. - Işga tuşiriş uçun interaktiv qobiq (shell) topilmadi.
+Could not find '%1', starting '%2' instead.  Please check your profile settings. - '%1' topilmadi, uning örniga '%2' işga tuşirilmoqda. Iltimos, profil sozlamalaringizni tekşiring.
+Could not start program '%1' with arguments '%2'. - '%1' dasturini '%2' argumentlari bilan işga tuşirib bölmadi.
+Silence in '%1' (Session '%2') - '%1' da sukunat ('%2' seansi)
+Show session - Seansni körsatiş
+Finished - Tugadi
+Program '%1' crashed. - '%1' dasturi avariyali yakunlandi.
+Program '%1' exited with status %2. - '%1' dasturi %2 holati bilan çiqdi.
+ZModem Progress - ZModem jarayoni
+Activity in '%1' (Session '%2') - '%1' da faollik ('%2' seansi)
+Security sensitive DBus API is disabled in the settings. - Xavfsizlikka taʼsirçan DBus API sozlamalarda öçirilgan.
+Konsole - Konsole
+The process '%1' has finished running in session '%2' - '%2' seansida '%1' jarayoni işini tugatdi
+Konsole does not know how to open the bookmark:  - Konsole xatçöpni qanday oçişni bilmaydi: 
+Search for '%1' with - '%1' ni quyidagi yordamida qidiriş:
+Configure Web Shortcuts... - Veb-qisqartmalarni sozlaş...
+&Close Session - Seansni &yopiş
+Open File Manager - Fayl boşqaruvçisini oçiş
+Copy - Nusxa oliş
+Split View Left-Right - Körinişni çap-öngga böliş
+Split View Top-Bottom - Körinişni yuqori-pastga böliş
+Copy except prompts - Buyruq satri taklifidan (prompt) taşqari nusxa oliş
+Copy user input - Foydalanuvçi kiritgan matnni nusxalaş
+Copy command output - Buyruq çiqişini nusxalaş
+Paste Selection - Tanlanganni qöyiş
+Web Search - Internetdan qidiriş
+&Select All - &Hammasini tanlaş
+Select &Mode - Tanlaş &rejimi
+Select &Line - &Satrni tanlaş
+Save Output &As... - Çiqişni &boşqaça saqlaş...
+Auto Save Output As... - Çiqişni avtomatik saqlaş...
+Stop Auto Save - Avtosaqlaşni töxtatiş
+&Print Screen... - &Ekranni bosib çiqariş...
+Adjust Scrollback... - Tarixni (Scrollback) moslaştiriş...
+Clear Scrollback - Tarixni tozalaş
+Clear Scrollback and Reset - Tarixni tozalaş va tiklaş
+Next Profile - Keyingi profil
+Previous Profile - Oldingi profil
+Switch Profile - Profilni almaştiriş
+Set &Encoding - &Kodlaş usulini belgilaş
+Allow Mouse Tracking - Siçqonçani kuzatişga ruxsat beriş
+Read-Only - Faqat öqiş uçun
+&Configure or Rename Tab... - Tabni &sozlaş yoki nomini özgartiriş...
+&All Tabs in Current Window - Joriy oynadagi &barça tablarga
+&Select Tabs... - Tablarni &tanlaş...
+&None - &Heç biriga
+Copy Input To - Kiritilgan matnni uzatiş:
+&ZModem Upload... - &ZModem orqali yuklaş...
+One-Shot Monitors - Bir martalik kuzatuvçilar
+Monitor for &Prompt - &Taklif satrini (Prompt) kuzatiş
+Monitor for &Activity - &Faollikni kuzatiş
+Monitor for &Silence - &Sukunatni kuzatiş
+Monitor for Process Finishing - Jarayon tugaşini kuzatiş
+Enlarge Font - Şriftni kattalaştiriş
+Shrink Font - Şriftni kiçiklaştiriş
+Reset Font Size - Şrift ölçamini tiklaş
+Send Signal - Signal jönatiş
+&Suspend Task - Vazifani &vaqtinça töxtatiş (STOP)
+&Continue Task - Vazifani &davom ettiriş (CONT)
+&Hangup - &Aloqani uziş (HUP)
+&Interrupt Task - Vazifani &töxtatiş (INT)
+&Terminate Task - Vazifani &yakunlaş (TERM)
+&Kill Task - Vazifani &majburiy tugatiş (KILL)
+User Signal &1 - Foydalanuvçi signali &1
+User Signal &2 - Foydalanuvçi signali &2
+Create New Profile... - Yangi profil yaratiş...
+Edit Current Profile... - Joriy profilni tahrirlaş...
+A program is currently running in this session.  Are you sure you want to close it? - Uşbu seansda hozirda dastur işlamoqda. Haqiqatan ham uni yopmoqçimisiz?
+The program '%1' is currently running in this session.  Are you sure you want to close it? - Uşbu seansda hozirda '%1' dasturi işlamoqda. Haqiqatan ham uni yopmoqçimisiz?
+Confirm Close - Yopişni tasdiqlaş
+Close Program - Dasturni yopiş
+A program in this session would not die.  Are you sure you want to kill it by force? - Uşbu seansdagi dastur töxtamadi. Haqiqatan ham uni majburan tugatmoqçimisiz?
+The program '%1' in this session would not die.  Are you sure you want to kill it by force? - Uşbu seansdagi '%1' dasturi töxtamadi. Haqiqatan ham uni majburan tugatmoqçimisiz?
+Kill Program - Dasturni majburan tugatiş
+The shell prompt is displayed in session '%1' - '%1' seansida qobiq taklif satri (prompt) körsatildi
+Open Current Folder With - Joriy jildni quyidagi bilan oçiş:
+Save ZModem Download to... - ZModem yuklamasini saqlaş...
+<p>A ZModem file transfer attempt has been detected, but no suitable ZModem software was found on this system.</p><p>You may wish to install the 'rzsz' or 'lrzsz' package.</p> - <p>ZModem fayl uzatişga uriniş aniqlandi, biroq uşbu tizimda mos ZModem dasturiy taʼminoti topilmadi.</p><p>'rzsz' yoki 'lrzsz' paketini örnatişingiz mumkin.</p>
+<p>The current session already has a ZModem file transfer in progress.</p> - <p>Joriy seansda allaqaçon ZModem fayl uzatiş amalga oşirilmoqda.</p>
+<p>No suitable ZModem software was found on this system.</p><p>You may wish to install the 'rzsz' or 'lrzsz' package.</p> - <p>Uşbu tizimda mos ZModem dasturiy taʼminoti topilmadi.</p><p>'rzsz' yoki 'lrzsz' paketini örnatişingiz mumkin.</p>
+Select Files for ZModem Upload - ZModem orqali yuklaş uçun fayllarni tanlang
+Number - Raqam
+Title - Sarlavha
+Configure - Sozlaş
+When launching Konsole re-use existing process if possible - Konsole işga tuşirilganda imkoni bölsa mavjud jarayondan qayta foydalaniş
+Run all Konsole windows in a single process - Barça Konsole oynalarini bitta jarayonda işga tuşiriş
+If enabled, profile settings will be ignored - Agar yoqilsa, profil sozlamalari eʼtiborga olinmaydi
+Remember window size - Oyna ölçamini eslab qoliş
+Force new tabs - Yangi tablarni majburiy oçiş
+Listen for ZModem terminal codes - ZModem terminal kodlarini tinglaş
+Show progress in taskbar - Vazifalar panelida bajariş jarayonini körsatiş
+Automatically switch profile based on system theme - Tizim mavzusiga asoslanib profilni avtomatik almaştiriş
+Notifications: - Bildirişnomalar:
+Sets whether search should start from the bottom - Qidiruv pastdan boşlanişi kerakligini belgilaydi
+Search backwards - Orqaga qidiriş
+Sets whether the search is case sensitive - Qidiruv katta-kiçik harflarga sezgirligini belgilaydi
+Case sensitive - Katta-kiçik harfni inobatga oliş
+Process and window: - Jarayon va oyna:
+Highlight all matches - Barça mosliklarni ajratib körsatiş
+Search: - Qidiruv:
+Sets whether search should stop instead of wrapping - Qidiruv boşiga qaytmasdan töxtaşi kerakligini belgilaydi
+No wrap - Boşiga qaytmaslik
+Enable menu accelerators - Menyu tezlatkiçlarini yoqiş
+Focus terminals when the mouse pointer is moved over them - Siçqonça körsatkiçi terminallar ustiga olib borilganda ularga fokus beriş
+All dialogs will be shown again - Barça muloqot oynalari yana körsatiladi
+Enable all "Don't Ask Again" messages - Barça "Boşqa söralmasin" xabarlarini qayta yoqiş
+Show window title on the titlebar - Sarlavha panelida oyna sarlavhasini körsatiş
+Enable the security sensitive parts of the DBus API - DBus API-ning xavfsizlikka taʼsirçan qismlarini yoqiş
+Remove window titlebar and frame - Oyna sarlavha paneli va ramkasini olib taşlaş
+Match using regular expressions - Muntazam ifodalar (RegExp) yordamida qidiriş
+Show window title set by escape sequence on the titlebar - Maxsus ketma-ketlik (escape sequence) tomonidan örnatilgan oyna sarlavhasini sarlavha panelida körsatiş
+Allow users to access top menu through Alt+Key combination - Foydalanuvçilarga Alt+Tugma birikmasi orqali yuqori menyuga kirişga ruxsat beriş
+Use current window size on next startup - Keyingi işga tuşirişda joriy oyna ölçamidan foydalaniş
+The window size will be saved upon exiting Konsole - Konsole dasturidan çiqilganda oyna ölçami saqlanadi
+When launching Konsole create a new tab instead of creating new windows if possible - Konsole işga tuşirilganda imkoni bölsa yangi oyna yaratiş örniga yangi tab yaratiş
+Show progress in task bar - Vazifalar panelida bajariş jarayonini körsatiş
+When a script reports its progress, it will be shown in the task bar - Skript öz bajariş jarayoni haqida xabar berganda, u vazifalar panelida körsatiladi
+DBus API like runCommand will be enabled - runCommand kabi DBus API yoqiladi
+Listen for ZModem Terminal codes - ZModem terminal kodlarini tinglaş
+Automatic send/receive files over serial connections - Ketma-ket (serial) ulanişlar orqali fayllarni avtomatik jönatiş/qabul qiliş
+Thumbnail Width - Miniatyura kengligi
+Sets the width of the thumbnail - Miniatyura kengligini belgilaydi
+Use Shift to display a thumbnail - Miniatyurani körsatiş uçun Shift tugmasidan foydalaniş
+Use Alt to display a thumbnail - Miniatyurani körsatiş uçun Alt tugmasidan foydalaniş
+Use Ctrl to display a thumbnail - Miniatyurani körsatiş uçun Ctrl tugmasidan foydalaniş
+Search is case sensitive - Qidiruv katta-kiçik harfga sezgir
+Highlight all search matches - Barça qidiruv mosliklarini ajratib körsatiş
+Sets whether matching text should be highlighted - Mos kelgan matn ajratib körsatilişi kerakligini belgilaydi
+Search stops instead of wrapping - Qidiruv boşiga qaytmasdan töxtaydi
+Control whether child cgroups are created for individual tabs - Alohida tablar uçun bola cgroups yaratilişini boşqariş
+Determines the memory consumption level above which throttling will start - Çeklaş (throttling) boşlanadigan xotira sarfi darajasini belgilaydi
+Control the visibility of the whole tab bar - Butun tablar panelining körinişini boşqariş
+Control the size of the handle between panels - Panellar orasidagi tutqiç ölçamini boşqariş
+Control the position of the tab bar - Tablar paneli joylaşuvini boşqariş
+Control the visual style of the tab bar - Tablar panelining vizual uslubini boşqariş
+Use a user-defined .css file for the tab bar - Tablar paneli uçun foydalanuvçi tomonidan belgilangan .css faylidan foydalaniş
+The .css file to use for the tab bar style - Tablar paneli uslubi uçun foydalaniladigan .css fayli
+Allow middle-clicking on open tabs to close them - Oçiq tablar ustiga siçqonçaning örta tugmasini bosiş orqali ularni yopişga ruxsat beriş
+Control the visibility of 'New Tab' button on the tab bar - Tablar panelidagi 'Yangi tab' tugmasining körinişini boşqariş
+Control the visibility of 'Search Tabs' button on the tab bar - Tablar panelidagi 'Tablarni qidiriş' tugmasining körinişini boşqariş
+Control where the "Close tab" button will be displayed - "Tabni yopiş" tugmasi qayerda körsatilişini boşqariş
+Control where to put the new tab - Yangi tab qayerga joylaştirilişini boşqariş
+Expand the tab widths - Tab kengliklarini yoyiş
+Color-code tab when running inside a container - Konteyner içida işlayotganda tabni rang bilan ajratiş
+When running inside a container (e.g. Distrobox or Toolbox), color-code the tab with a container-specific color - Konteyner (masalan, Distrobox yoki Toolbox) içida işlayotganda tabni konteynerga xos rang bilan belgilaydi
+Show container label in terminal footer - Terminal pastki qismida konteyner yorliğini körsatiş
+When running inside a container (e.g. Distrobox or Toolbox), show a label with the container name at the bottom of the terminal - Konteyner (masalan, Distrobox yoki Toolbox) içida işlayotganda terminalning pastki qismida konteyner nomi yozilgan yorliqni körsatiş
+For scrollback files, use system-wide folder location - Tarix (scrollback) fayllari uçun umumtizim jild manzilidan foydalaniş
+For scrollback files, use user's specific folder location - Tarix (scrollback) fayllari uçun foydalanuvçining maxsus jild manzilidan foydalaniş
+For scrollback files, use specified folder location - Tarix (scrollback) fayllari uçun körsatilgan jild manzilidan foydalaniş
+For scrollback files, use this folder - Tarix (scrollback) fayllari uçun uşbu jilddan foydalaniş
+Sync profile with system theme - Profilni tizim mavzusi bilan sinxronlaştiriş
+Profile to use for light system theme - Yoruğ tizim mavzusi uçun foydalaniladigan profil
+Profile to use for dark system theme - Qoronği tizim mavzusi uçun foydalaniladigan profil
+Enable memory monitoring: - Xotira kuzatuvini yoqiş:
+Changes will take effect upon restart. If enabled, sustained memory consumption by Konsole exceeding the specified value will cause systemd-oomd to eliminate the tab(s) containing the memory-intensive process(es). Note: enabling might cause greater slowdowns during high memory consumption and specifying excessively low values might still cause Konsole to be killed. - Özgartirişlar qayta işga tuşirilgandan söng kuçga kiradi. Agar yoqilsa, Konsole tomonidan xotiraning uzoq vaqt davomida körsatilgan qiymatdan oşiqça sarflanişi systemd-oomd tomonidan köp xotira talab qiluvçi jarayon(lar)ga ega tab(lar)ning tugatilişiga olib keladi. Eslatma: buni yoqiş yuqori xotira sarfi vaqtida köproq sekinlaşuvga olib kelişi va haddan taşqari past qiymatlarni körsatiş baribir Konsole dasturining majburiy töxtatilişiga sabab bölişi mumkin.
+Memory limit: - Xotira çeklovi:
+ MB -  MB
+<html><head/><body><p>Applications that use KonsolePart share profiles.</p><p>They do not share with Konsole or other applications:<ul><li>default profile</li><li>show in menu</li><li>shortcuts</li></ul></p><p>Feel free to open a Konsole <a href="https://bugs.kde.org/enter_bug.cgi?format=guided&product=konsole&component=kpart">bug report</a> if you desire a change to how these are handled.</body></html> - <html><head/><body><p>KonsolePart-dan foydalanuvçi dasturlar profillarni özaro baham köradi.</p><p>Ular Konsole yoki boşqa dasturlar bilan quyidagilarni baham körmaydi:<ul><li>andoza profil</li><li>menyuda körsatiş</li><li>tugmalar birikmalari</li></ul></p><p>Agar bularning işlaş tarzini özgartirişni xohlasangiz, bemalol Konsole <a href="https://bugs.kde.org/enter_bug.cgi?format=guided&product=konsole&component=kpart">xato haqida hisobot</a> oçişingiz mumkin.</body></html>
+Create a new profile based on the selected profile - Tanlangan profil asosida yangi profil yaratiş
+&New... - &Yangi...
+Edit the selected profile (this button is disabled for read-only profiles) - Tanlangan profilni tahrirlaş (uşbu tugma faqat öqiş uçun bölgan profillarda öçirilgan)
+&Edit... - &Tahrirlaş...
+Delete the selected profile - Tanlangan profilni öçiriş
+&Remove - &Olib taşlaş
+Set the selected profile as the default for new terminal sessions - Tanlangan profilni yangi terminal seanslari uçun andoza sifatida belgilaş
+&Set as Default - &Andoza deb belgilaş
+Set the selected profile as the light theme profile - Tanlangan profilni yoruğ mavzu profili sifatida belgilaş
+&Set as Light - &Yoruğ deb belgilaş
+Set the selected profile as the dark theme profile - Tanlangan profilni qoronği mavzu profili sifatida belgilaş
+&Set as Dark - &Qoronği deb belgilaş
+Appearance - Taşqi köriniş
+Show: - Körsatiş:
+When needed - Kerak bölganda
+Alwa&ys - &Har doim
+&Never - &Heç qaçon
+Position: - Joylaşuvi:
+Above terminal area - Terminal maydonidan yuqorida
+Be&low terminal area - Terminal maydonidan &pastda
+To the left of terminal area - Terminal maydonidan çapda
+To the &right of terminal area - Terminal maydonidan &öngda
+Show Close Tab button: - Tabni yopiş tugmasini körsatiş:
+On ea&ch tab - &Har bir tabda
+On &the tab bar - &Tablar panelida
+None - Yöq
+Show Search Tabs button: - Tablarni qidiriş tugmasini körsatiş:
+Always - Har doim
+Never - Heç qaçon
+Miscellaneous: - Har xil:
+Show 'New Tab' button - 'Yangi tab' tugmasini körsatiş
+Expand individual tab widths to full window - Alohida tablar kengligini töliq oynaga yoyiş
+Color-code tab when inside a container - Konteyner içida bölganda tabni rang bilan ajratiş
+Use user-defined stylesheet: - Foydalanuvçi belgilagan uslublar jadvalidan (stylesheet) foydalaniş:
+(none) - (yöq)
+Behavior - Xatti-harakat
+Put new tabs: - Yangi tablarni joylaştiriş:
+At &the end - &Oxiriga
+After current &tab - Joriy &tabdan keyin
+Close tab on middle-click - Siçqonçaning örta tugmasi bosilganda tabni yopiş
+Splits - Bölişlar
+Show Header: - Sarlavhani körsatiş:
+When needed - Kerak bölganda
+Never - Heç qaçon
+Drag Handle Size: - Sudraş tutqiçi ölçami:
+Small - Kiçik
+Medium - Örtaça
+Large - Katta
+Always - Har doim
+System temporary directory (%1) - Tizimning vaqtinçalik katalogi (%1)
+User cache directory (%1) - Foydalanuvçi keşi katalogi (%1)
+Scrollback file location: - Tarix (scrollback) fayli joylaşuvi:
+Custom: - Maxsus:
+Size: - Ölçami:
+px - px
+<html><head/><body><p>To use this feature, enable <span style=" font-weight:600;">Mouse-&gt;Miscellaneous-&gt;Underline files</span> in your profile settings.</p></body></html> - <html><head/><body><p>Uşbu xususiyatdan foydalaniş uçun profil sozlamalaringizda <span style=" font-weight:600;">Siçqonça-&gt;Har xil-&gt;Fayllar tagiga çiziş</span> parametrini yoqing.</p></body></html>
+Activation: - Faollaştiriş:
+Mouse hover plus - Siçqonçani ustiga olib boriş hamda:
+Shift - Shift
+Alt - Alt
+Ctrl - Ctrl
+Enable thumbnails generation - Miniatyuralar yaratişni yoqiş
+Size: %1 x %2 - Ölçami: %1 x %2
+Are you sure you want to paste %1 character? - Haqiqatan ham %1 ta belgini qöymoqçimisiz?
+Confirm Paste - Qöyişni tasdiqlaş
+End Of Text/Interrupt: may exit the current process - Matn yakuni/Töxtatiş (^C): joriy jarayondan çiqişga olib kelişi mumkin
+End Of Transmission: may exit the current process - Uzatiş yakuni (^D): joriy jarayondan çiqişga olib kelişi mumkin
+Bell: will try to emit an audible warning - Qönğiroq (^G): ovozli ogohlantiriş çiqarişga harakat qiladi
+Backspace - Backspace
+Device Control Three/XOFF: suspends output - Qurilma boşqaruvi 3/XOFF (^S): çiqarişni vaqtinça töxtatadi
+Substitute/Suspend: may suspend current process - Örinbosiş/Vaqtinça töxtatiş (^Z): joriy jarayonni vaqtinça töxtatişi mumkin
+Escape: used for manipulating terminal state - Escape (^[): terminal holatini boşqariş uçun foydalaniladi
+File Separator/Quit: may abort the current process - Fayl ajratgiç/Çiqiş (^\): joriy jarayonni bekor qilişi mumkin
+The text you're trying to paste contains hidden control characters, do you want to filter them out? - Siz qöyişga urinayotgan matnda yaşirin boşqaruv belgilari mavjud, ularni filtrlab olib taşlaşni xohlaysizmi?
+Confirm Paste - Qöyişni tasdiqlaş
+Paste &without control characters - Boşqaruv belgilarisiz &qöyiş
+&Paste everything - &Hammasini qöyiş
+&Cancel - &Bekor qiliş
+<qt>Output has been <a href="https://en.wikipedia.org/wiki/Software_flow_control">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</b> to resume.</qt> - <qt>Çiqariş Ctrl+S bosilişi orqali <a href="https://en.wikipedia.org/wiki/Software_flow_control">vaqtinça töxtatildi</a>. Davom ettiriş uçun <b>Ctrl+Q</b> tugmalarini bosing.</qt>
+This terminal is read-only. - Uşbu terminal faqat öqiş uçun.
+Change &Directory To - &Katalogni özgartiriş:
+&Paste Location - Manzilni &qöyiş
+Split View - Oynani böliş
+Split View Left/Right - Körinişni çap/öngga böliş
+Split View Top/Bottom - Körinişni yuqori/pastga böliş
+Split View Automatically - Körinişni avtomatik böliş
+Split View Left/Right from next tab - Keyingi tabdan körinişni çap/öngga böliş
+Split View Top/Bottom from next tab - Keyingi tabdan körinişni yuqori/pastga böliş
+Split View Automatically from next tab - Keyingi tabdan körinişni avtomatik böliş
+Load a new tab with layout 2x2 terminals - 2x2 terminalli joylaşuvga ega yangi tabni yuklaş
+Load a new tab with layout 2x1 terminals - 2x1 terminalli joylaşuvga ega yangi tabni yuklaş
+Load a new tab with layout 1x2 terminals - 1x2 terminalli joylaşuvga ega yangi tabni yuklaş
+Expand View - Körinişni kengaytiriş
+Shrink View - Körinişni toraytiriş
+Detach Current &View - Joriy &körinişni ajratiş
+Detach Current &Tab - Joriy &tabni ajratiş
+Next Tab - Keyingi tab
+Previous Tab - Oldingi tab
+Focus Above Terminal - Yuqoridagi terminalga fokus beriş
+Focus Below Terminal - Pastdagi terminalga fokus beriş
+Focus Left Terminal - Çapdagi terminalga fokus beriş
+Focus Right Terminal - Öngdagi terminalga fokus beriş
+Focus Next Terminal - Keyingi terminalga fokus beriş
+Focus Previous Terminal - Oldingi terminalga fokus beriş
+Switch to Last Tab - Oxirgi tabga ötiş
+Last Used Tabs - Oxirgi foydalanilgan tablar
+Toggle Between Two Tabs - Ikkita tab orasida almaşiş
+Last Used Tabs (Reverse) - Oxirgi foydalanilgan tablar (Teskari tartibda)
+Toggle maximize current view - Joriy körinişni yoyiş/tiklaş
+Toggle maximize current view - Joriy körinişni yoyiş/tiklaş
+Toggle zoom-maximize current view - Joriy köriniş massştabini yoyiş/tiklaş
+Toggle zoom-maximize current view - Joriy köriniş massştabini yoyiş/tiklaş
+Move tab to the right - Tabni öngga suriş
+Move tab to the left - Tabni çapga suriş
+Setup semantic integration (bash) - Semantik integratsiyani sozlaş (bash)
+Toggle semantic hints display - Semantik maslahatlarni körsatişni yoqiş/öçiriş
+Toggle line numbers display - Satr raqamlarini körsatişni yoqiş/öçiriş
+Equal size to all views - Barça körinişlarga bir xil ölçam beriş
+Switch to Tab %1 - %1-tabga ötiş
+Semantic hints  - Semantik maslahatlar 
+Line numbers  - Satr raqamlari 
+Save Tab Layout - Tab joylaşuvini saqlaş
+Konsole View Layout (*.json) - Konsole körinişi joylaşuvi (*.json)
+A problem occurred when saving the Layout. %1 - Joylaşuvni saqlaşda muammo yuz berdi. %1
+A problem occurred when loading the Layout. %1 - Joylaşuvni yuklaşda muammo yuz berdi. %1
+Load Tab Layout - Tab joylaşuvini yuklaş
+No keyboard translator available.  The information needed to convert key presses into characters to send to the terminal is missing. - Klaviatura tarjimoni mavjud emas. Tugma bosilişlarini terminalga jönatiladigan belgilarga aylantiriş uçun zarur bölgan maʼlumot yöq.
+Key combination to show URL hints: - URL maslahatlarini körsatiş uçun tugmalar birikmasi:
+Shift - Shift
+Ctrl - Ctrl
+Alt - Alt
+Meta - Meta
+Miscellaneous: - Har xil:
+Number URL hints in reverse, starting from the bottom - URL maslahatlarini pastdan boşlab teskari tartibda raqamlaş
+Reverse URL hint numbering - Teskari URL maslahatlarini raqamlaş
+Allow terminal programs to create blinking sections of text - Terminal dasturlariga miltillovçi matn qismlarini yaratişga ruxsat beriş
+Allow blinking text - Miltillovçi matnga ruxsat beriş
+Allow the output to be suspended by pressing Ctrl+S - Ctrl+S bosilişi orqali çiqarişni vaqtinça töxtatişga ruxsat beriş
+Flow control - Oqim boşqaruvi (Flow control)
+Allow terminal programs to use the Kitty keyboard protocol for enhanced keyboard input - Kengaytirilgan klaviatura kiritişi uçun terminal dasturlariga Kitty klaviatura protokolidan foydalanişga ruxsat beriş
+Kitty keyboard protocol - Kitty klaviatura protokoli
+&Default character encoding: - &Andoza belgilar kodlaş usuli:
+Shortcut for peeking the primary screen: - Asosiy ekranga köz taşlaş uçun tugmalar birikmasi:
+Set interval between autosaves: - Avtosaqlaşlar orasidagi intervalni belgilaş:
+ ms -  ms
+Line Numbers: - Satr raqamlari:
+&Never - &Heç qaçon
+When &URL hints show - &URL maslahatlari körsatilganda
+A&lways - &Har doim
+Color scheme && font - Rang sxemasi && şrift
+Create a new color scheme based upon the selected scheme - Tanlangan sxema asosida yangi rang sxemasini yaratiş
+New... - Yangi...
+Edit the selected color scheme - Tanlangan rang sxemasini tahrirlaş
+Edit... - Tahrirlaş...
+Delete the selected color scheme - Tanlangan rang sxemasini öçiriş
+Reset the selected color scheme settings to the default values - Tanlangan rang sxemasi sozlamalarini andoza qiymatlarga tiklaş
+Defaults - Andozalar
+Font: - Şrift:
+Choose... - Tanlaş...
+Smooth fonts - Şriftlarni tekislaş
+Draw intense colors in bold font - Töyintirilgan ranglarni qalin şriftda çiziş
+Use the selected font for line characters instead of the builtin code - Çiziq belgilari uçun örnatilgan kod örniga tanlangan şriftdan foydalaniş
+Use line characters contained in font - Şrift tarkibidagi çiziq belgilaridan foydalaniş
+Use the selected font for unicode Braille characters instead of the builtin code - Unicode Brayl belgilari uçun örnatilgan kod örniga tanlangan şriftdan foydalaniş
+Use unicode Braille characters contained in font - Şrift tarkibidagi Unicode Brayl belgilaridan foydalaniş
+Cursor - Kursor
+Shape: - Şakli:
+Block - Blok
+I-Beam - Vertikal çiziq (I-Beam)
+Underline - Tagçiziq
+Color: - Rang:
+Set the cursor to match the color of the character underneath it. - Kursorni uning ostidagi belgi rangiga mos keladigan qilib belgilaş.
+Match current character - Joriy belgiga moslaştiriş
+Use a custom, fixed color for the cursor - Kursor uçun maxsus, qatʼiy rangdan foydalaniş
+Custom cursor color - Maxsus kursor rangi
+Cursor: - Kursor:
+Select the color used to draw the cursor - Kursorni çiziş uçun foydalaniladigan rangni tanlang
+Text: - Matn:
+Select the color used to draw the character underneath the cursor - Kursor ostidagi belgini çiziş uçun foydalaniladigan rangni tanlang
+Blinking: - Miltillaş:
+Make the cursor blink regularly - Kursorning muntazam miltillaşini taʼminlaş
+Enabled - Yoqilgan
+Animation: - Animatsiya:
+Make the cursor animate smoothly - Kursorning ravon animatsiyasini taʼminlaş
+Miscellaneous - Har xil
+Window: - Oyna:
+Show terminal size in columns and lines in the center of window after resizing - Ölçami özgartirilgandan söng oyna markazida terminal ölçamini ustunlar va satrlarda körsatiş
+Show hint for terminal size after resizing - Ölçami özgartirilgandan söng terminal ölçami maslahatini körsatiş
+Always invert the colors of selected text - Tanlangan matn ranglarini har doim teskari qiliş
+Darkening strength: - Qoraytiriş kuçi:
+Color: - Rang:
+Select the color used to draw the border - Ramkani çiziş uçun foydalaniladigan rangni tanlang
+Inactive Terminals: - Faol bölmagan terminallar:
+Active Terminals: - Faol terminallar:
+Terminal contents - Terminal tarkibi
+Line spacing: - Satrlar oraliği:
+The number of pixels between two lines - Ikkita satr orasidagi piksellar soni
+ px -  px
+Margins: - Hoşiyalar:
+Align to center: - Markazga tekislaş:
+Indicate whether the window is active by dimming the colors - Ranglarni xiralaştiriş orqali oyna faolligini bildiriş
+Darken - Qoraytiriş
+Indicate whether the window is active by drawing a border - Ramka çiziş orqali oyna faolligini bildiriş
+Border - Ramka
+Display Vertical line at column: - Ustunda vertikal çiziqni körsatiş:
+<html><head/><body><p>Complex Text Layout</p></body></html> - <html><head/><body><p>Murakkab matn joylaşuvi</p></body></html>
+Complex Text Layout - Murakkab matn joylaşuvi
+Enable word mode text rendering - Matnni söz rejimida tasvirlaşni yoqiş
+Word mode - Söz rejimi
+Ignore attribute changes mid-word (otherwise, attribute changes break word when rendering) - Söz örtasidagi atribut özgarişlarini eʼtiborsiz qoldiriş (aks holda atribut özgarişlari tasvirlaşda sözni uzib qöyadi)
+Use the same attributes for whole word - Butun söz uçun bir xil atributlardan foydalaniş
+Render words of ASCII characters together - ASCII belgilaridan iborat sözlarni birga tasvirlaş
+ASCII characters  - ASCII belgilari 
+Render words made of characters that usually appear in coding ligatures together. - Odatda dasturlaş ligaturalarida uçraydigan belgilardan iborat sözlarni birga tasvirlaş.
+Coding ligatures characters - Dasturlaş ligaturalari belgilari
+Render words of Brahmic scripts characters together - Brahma yozuvi belgilaridan iborat sözlarni birga tasvirlaş
+Brahmic scripts characters - Brahma yozuvi belgilari
+Apply hinting to glyphs when rendering, which may improve the legibility of certain fonts with some displays - Tasvirlaşda gliflarga xinting qöllaş, bu baʼzi ekranlarda ayrim şriftlarning öqilişini yaxşilaşi mumkin
+Font hinting - Şrift xintingi
+Emoji Font: - Emoji şrifti:
+Enable Bi-Directional display on terminals (valid for Arabic, Farsi or Hebrew only) - Terminallarda ikki yönalişli (Bi-Directional) körsatişni yoqiş (faqat arab, fors yoki ivrit tillari uçun amal qiladi)
+Bi-Directional text rendering - Ikki yönalişli matnni tasvirlaş
+Lines are always LTR, rather than determined by first strong character - Satrlar birinçi kuçli belgi bilan aniqlanişi örniga har doim çapdan öngga (LTR) yönalgan böladi
+force LTR line direction - satr yönalişini majburiy çapdan öngga (LTR) qiliş
+Treat table drawing characters as strong LTR. - Jadval çiziş belgilarini kuçli çapdan öngga (LTR) belgilar deb hisoblaş.
+Table characters BiDi mode override - Jadval belgilari BiDi rejimini bekor qiladi
+Ignore wcwidth of problematic characters - Muammoli belgilarning wcwidth xossasini eʼtiborsiz qoldiriş
+Override wcwidth - wcwidth xossasini qayta belgilaş
+<html><head/><body><p>Badge overlay options</p></body></html> - <html><head/><body><p>Nişon (Badge) qoplamasi parametrlari</p></body></html>
+Badge Overlay - Nişon qoplamasi
+Badge Overlay Options - Nişon qoplamasi parametrlari
+Enable badge overlay rendering - Nişon qoplamasini tasvirlaşni yoqiş
+Default text of badge. - Nişonning andoza matni.
+Badge text: - Nişon matni:
+<html><head/><body><p><small><b>Available variables:</b> \(session.title), \(session.name), \(session.id), \(session.directory), \(session.hostname), \(session.process), \(env.VARIABLE_NAME)</small></p></body></html> - <html><head/><body><p><small><b>Mavjud özgaruvçilar:</b> \(session.title), \(session.name), \(session.id), \(session.directory), \(session.hostname), \(session.process), \(env.VARIABLE_NAME)</small></p></body></html>
+<html><head/><body><p><small><b>Badge configuration:</b><br/>Use profile settings on this page to configure badge text, color, font, text-only mode and transparency.</small></p></body></html> - <html><head/><body><p><small><b>Nişonni sozlaş:</b><br/>Nişon matni, rangi, şrifti, faqat matn rejimi va şaffofligini sozlaş uçun uşbu sahifadagi profil sozlamalaridan foydalaning.</small></p></body></html>
+Badge font family. - Nişon şrifti oilasi.
+Badge font family: - Nişon şrifti oilasi:
+Badge font size: - Nişon şrifti ölçami:
+Badge color: - Nişon rangi:
+Select the color used to draw the badge - Nişonni çiziş uçun foydalaniladigan rangni tanlang
+Display badge as text only without background rectangle - Nişonni orqa fon törtburçagisiz faqat matn sifatida körsatiş
+Text only (no background) - Faqat matn (orqa fonsiz)
+Transparency: - Şaffoflik:
+Set badge transparency (0 = fully transparent, 255 = opaque) - Nişon şaffofligini belgilaş (0 = töliq şaffof, 255 = noşaffof)
+180 - 180
+Edit Profile - Profilni tahrirlaş
+General - Umumiy
+Tabs - Tablar
+Appearance - Körinişi
+Scrolling - Aylantiriş (Varaqlaş)
+Keyboard - Klaviatura
+Key bindings - Tugmalar birikmasi
+Mouse - Siçqonça
+Advanced - Qöşimça
+Insufficient permissions to save settings to: <filename>%1</filename>.<nl/>Either change the permissions of that file or set a different name to save the settings to a new profile. - Sozlamalarni <filename>%1</filename> fayliga saqlaş uçun ruxsatlar yetarli emas.<nl/>Öşa fayl ruxsatlarini özgartiring yoki sozlamalarni yangi profilga saqlaş uçun boşqa nom bering.
+Profile Name was empty; please set a name to be able to save settings. - Profil nomi böş edi; sozlamalarni saqlaş uçun nom bering.
+A profile with the name "%1" already exists. - "%1" nomli profil allaqaçon mavjud.
+Profile name exceeded maximum allowed length (%1). - Profil nomi ruxsat etilgan eng katta uzunlikdan (%1) oşib ketdi.
+The highlighted characters are invalid in profile names: %1. - Ajratib körsatilgan belgilar profil nomlarida ruxsat etilmaydi: %1.
+Editing profile: %2 - Profil tahrirlanmoqda: %2
+Create New Profile - Yangi profil yaratiş
+Edit Profile "%1" - "%1" profilini tahrirlaş
+None - Yöq
+%v column - %v ustun
+%v row - %v satr
+System Bell - Tizim qönğiroği
+System Notifications - Tizim bildirişnomalari
+Visual Bell - Vizual qönğiroq
+Ignore Bell Events - Qönğiroq hodisalarini eʼtiborsiz qoldiriş
+Default profile for new terminal sessions in %1 - %1 dagi yangi terminal seanslari uçun andoza profil
+Edit Environment - Muhitni tahrirlaş
+One environment variable per line - Har bir satrda bittadan muhit özgaruvçisi
+%v second - %v soniya
+Select Initial Directory - Boşlanğiç katalogni tanlaş
+Get New... - Yangilarini oliş...
+Scheme <resource>%1</resource> failed to load. - <resource>%1</resource> sxemasini yuklab bölmadi.
+This color scheme uses a transparent background which does not appear to be supported on your desktop - Uşbu rang sxemasi şaffof orqa fondan foydalanadi, ammo iş stolingiz buni qöllab-quvvatlamaydiganga öxşaydi
+Konsole was started before desktop effects were enabled. You need to restart Konsole to see transparent background. - Konsole iş stoli effektlari yoqilişidan oldin işga tuşirilgan. Şaffof orqa fonni köriş uçun Konsole dasturini qayta işga tuşirişingiz kerak.
+Default for file type - Fayl turi uçun andoza
+The format is e.g. 'editorExec PATH:LINE:COLUMN'  PATH    will be replaced by the path to the text file LINE    will be replaced by the line number COLUMN  (optional) will be replaced by the column number Note: you will need to replace 'PATH:LINE:COLUMN' by the actual syntax the editor you want to use supports; e.g.: gedit +LINE:COLUMN PATH  If PATH or LINE aren't present in the command, this setting will be ignored and the file will be opened by the default text editor. - Format masalan: 'editorExec PATH:LINE:COLUMN'  PATH    matn fayliga eltuvçi yöl bilan almaştiriladi LINE    satr raqami bilan almaştiriladi COLUMN  (ixtiyoriy) ustun raqami bilan almaştiriladi Eslatma: 'PATH:LINE:COLUMN' ifodasini siz foydalanmoqçi bölgan muharrir qöllab-quvvatlaydigan haqiqiy sintaksis bilan almaştirişingiz kerak böladi; masalan: gedit +LINE:COLUMN PATH  Agar buyruqda PATH yoki LINE mavjud bölmasa, uşbu sozlama eʼtiborsiz qoldiriladi va fayl andoza matn muharriri tomonidan oçiladi.
+Text Editor Custom Command - Matn muharriri maxsus buyruği
+General Settings - Umumiy sozlamalar
+Select the icon displayed on tabs using this profile - Uşbu profildan foydalanuvçi tablarda körsatiladigan nişonçani tanlang
+A descriptive name for the profile - Profil uçun tavsiflovçi nom
+Profile name - Profil nomi
+Default Profile - Andoza profil
+Command: - Buyruq:
+The command to execute when new terminal sessions are created using this profile - Uşbu profil yordamida yangi terminal seanslari yaratilganda bajariladigan buyruq
+/bin/sh - /bin/sh
+I&nitial directory: - &Boşlanğiç katalog:
+The initial working directory for new terminal sessions using this profile - Uşbu profildan foydalanuvçi yangi terminal seanslari uçun boşlanğiç işçi katalog
+/home/username - /home/foydalanuvçi
+Choose the initial directory - Boşlanğiç katalogni tanlang
+Start in same directory as current session - Joriy seans bilan bir xil katalogda boşlaş
+When opening a new tab or split, automatically enter the same container (Toolbox, Distrobox) as the current session - Yangi tab oçilganda yoki oyna bölinganda, joriy seans bilan bir xil konteynerga (Toolbox, Distrobox) avtomatik kiriş
+Enter same container as current session - Joriy seans bilan bir xil konteynerga kiriş
+Always start in container: - Har doim konteynerda boşlaş:
+Always start new sessions using this profile inside the selected container - Uşbu profildan foydalanuvçi yangi seanslarni har doim tanlangan konteyner içida boşlaş
+Environment: - Muhit:
+Edit the list of environment variables and associated values - Muhit özgaruvçilari va ularga tegişli qiymatlar röyxatini tahrirlaş
+Initial terminal si&ze: - Boşlanğiç terminal &ölçami:
+<html><head/><body><p><span style=" font-style:italic;">Settings → Configure Konsole → General → Remember window size</span> must be disabled for these entries to work.</p></body></html> - <html><head/><body><p>Uşbu yozuvlar işlaşi uçun <span style=" font-style:italic;">Sozlamalar → Konsole dasturini sozlaş → Umumiy → Oyna ölçamini eslab qoliş</span> parametri öçirilgan bölişi kerak.</p></body></html>
+&Terminal bell mode: - &Terminal qönğiroği rejimi:
+Semantic Integration - Semantik integratsiya
+Up/Down Arrows emulation - Yuqoriga/Pastga yönaliş tugmalari emulyatsiyasi
+Mouse click in input line moves cursor - Kiritiş satrida siçqonça bosilişi kursorni siljitadi
+Semantic hints: - Semantik maslahatlar:
+Never - Heç qaçon
+When URL hints show - URL maslahatlari körsatilganda
+Always - Har doim
+Red error bars: - Qizil xato çiziqlari:
+Red error background: - Qizil xato orqa foni:
+Alternating bars: - Almaşinuvçi çiziqlar:
+Alternating background: - Almaşinuvçi orqa fon:
+Key bindings control how combinations of keystrokes in the terminal window are converted into the stream of characters that is then sent to the current terminal program. For more information on how to customize the key bindings check the Konsole Handbook. - Tugmalar birikmalari terminal oynasidagi tugma bosilişlari kombinatsiyalari joriy terminal dasturiga jönatiladigan belgilar oqimiga qanday aylantirilişini boşqaradi. Tugmalar birikmalarini moslaştiriş haqida köproq maʼlumot oliş uçun Konsole qöllanmasini tekşiring.
+Create a new key bindings scheme based upon the selected bindings - Tanlangan birikmalar asosida yangi tugmalar birikmasi sxemasini yaratiş
+New... - Yangi...
+Edit the selected key bindings scheme - Tanlangan tugmalar birikmasi sxemasini tahrirlaş
+Delete the selected key bindings scheme - Tanlangan tugmalar birikmasi sxemasini öçiriş
+Reset the selected key bindings scheme to its default values - Tanlangan tugmalar birikmasi sxemasini andoza qiymatlariga tiklaş
+Text interaction - Matn bilan özaro taʼsir
+Characters which are considered part of a word when double-clicking to select whole words in the terminal. - Terminalda butun sözlarni tanlaş uçun ikki marta bosilganda sözning bir qismi deb hisoblanadigan belgilar.
+Word characters: - Söz belgilari:
+Triple-click selects: - Uç marta bosiş tanlaydi:
+&The whole line - &Butun satrni
+From mouse position to the end of &line - Siçqonça holatidan &satr oxirigaça
+Middle-click pastes: - Örta tugmani bosiş qöyadi:
+From clipboard - Vaqtinçalik xotiradan
+From selection - Tanlangan matndan
+Right-click: - Öng tugmani bosiş:
+Opens context menu - Kontekst menyusini oçadi
+Right-click shows context menu - Öng tugmani bosiş kontekst menyusini körsatadi
+Pastes from clipboard - Vaqtinçalik xotiradan qöyadi
+Control+right-click shows context menu - Ctrl+öng tugmani bosiş kontekst menyusini körsatadi
+Pastes from selection - Tanlangan matndan qöyadi
+Copy options: - Nusxa oliş parametrlari:
+Automatically copy selected text into clipboard - Tanlangan matnni avtomatik ravişda vaqtinçalik xotiraga nusxalaş
+Copy on select - Tanlanganda nusxalaş
+Copy text as HTML (including formatting, font faces, colors... etc) - Matnni HTML sifatida nusxalaş (formatlaş, şrift körinişlari, ranglar va hokazolarni öz içiga olgan holda)
+Copy text as HTML - Matnni HTML sifatida nusxalaş
+Trim leading spaces in selected text, useful in some instances - Tanlangan matnda satr boşidagi böş joylarni qirqiş, baʼzi holatlarda foydali
+Trim leading spaces - Satr boşidagi böş joylarni qirqiş
+Trim trailing spaces in selected text, useful in some instances - Tanlangan matnda satr oxiridagi böş joylarni qirqiş, baʼzi holatlarda foydali
+Trim trailing spaces - Satr oxiridagi böş joylarni qirqiş
+Clear selection after copying - Nusxa olingandan söng tanlovni tozalaş
+Clear selection - Tanlovni tozalaş
+Text recognized as a link or an email address will be underlined when hovered by the mouse pointer. - Havola yoki elektron poçta manzili sifatida tanilgan matn ustiga siçqonça körsatkiçi olib borilganda tagiga çiziladi.
+Underline links - Havolalar tagiga çiziş
+Text recognized as a file will be underlined when hovered by the mouse pointer. - Fayl sifatida tanilgan matn ustiga siçqonça körsatkiçi olib borilganda tagiga çiziladi.
+Underline files - Fayllar tagiga çiziş
+Text editor to use when opening text file URLs at a given line/column. - Matn fayli URL manzillarini berilgan satr/ustunda oçişda foydalaniladigan matn muharriri.
+Text Editor Command:  - Matn muharriri buyruği: 
+Text recognized as a file, link or an email address can be opened by direct mouse click. - Fayl, havola yoki elektron poçta manzili sifatida tanilgan matnni bevosita siçqonçani bosiş orqali oçiş mumkin.
+Open underlined files/links by direct click - Tagiga çizilgan fayl/havolalarni bevosita bosiş orqali oçiş
+Allow escape sequences for links - Havolalar uçun maxsus ketma-ketliklarga (escape sequences) ruxsat beriş
+<b>WARNING</b>: This has security implications as it allows malicious URLs to be shown as another URL or hidden.<br>Make sure you understand the implications before turning this on. - <b>OGOHLANTIRIŞ</b>: Bu xavfsizlikka taʼsir qiladi, çunki u zararli URL manzillarni boşqa URL sifatida körsatişga yoki yaşirişga imkon beradi.<br>Buni yoqişdan oldin oqibatlarini tuşunganingizga işonç hosil qiling.
+Allowed link formats:  - Ruxsat etilgan havola formatlari: 
+The formats of possible links, like http://, https:// and file:// - Mumkin bölgan havolalar formatlari, masalan http://, https:// va file://
+Selected text will require control key plus click to drag. - Tanlangan matnni sudraş uçun Ctrl tugmasini bosib turib siçqonça tugmasini bosiş talab qilinadi.
+Require Ctrl key for drag && drop - Sudrab taşlaş uçun Ctrl tugmasini talab qiliş
+Mouse scroll wheel will emulate up/down key presses in programs that use the Alternate Screen buffer (e.g. less) - Muqobil ekran buferidan foydalanadigan dasturlarda (masalan, less) siçqonça ğildiragini aylantiriş yuqoriga/pastga tugmalari bosilişini emulyatsiya qiladi
+Enable Alternate Screen buffer scrolling - Muqobil ekran buferini aylantirişni yoqiş
+Always paste dropped files and URLs as text without offering move, copy and link actions. - Sudrab taşlangan fayllar va URL manzillarni köçiriş, nusxalaş va havola yaratiş amallarini taklif qilmasdan har doim matn sifatida qöyiş.
+Disable drag && drop menu for files && URLs - Fayllar && URL manzillar uçun sudrab taşlaş menyusini öçiriş
+Pressing Ctrl+scrollwheel will increase/decrease the text size. - Ctrl+siçqonça ğildiragini aylantiriş matn ölçamini kattalaştiradi/kiçiklaştiradi.
+Allow Ctrl+scrollwheel to zoom text size - Ctrl+siçqonça ğildiragi yordamida matn ölçamini özgartirişga ruxsat beriş
+When positioning the mouse over a hexadecimal color it will be displayed in a frame next to the mouse pointer - Siçqonça öltilik (hexadecimal) rang kodi ustiga olib borilganda, u siçqonça körsatkiçi yonidagi ramkada körsatiladi
+Preview Colors on hover - Kursor olib borilganda ranglarni oldindan köriş
+Some terminal applications have mouse support, this allows them to get it by default. It can be toggled on/off while running as well. - Baʼzi terminal dasturlarida siçqonça qöllab-quvvatlaşi mavjud, bu ularga andoza böyiça bunga ega böliş imkonini beradi. Uni iş vaqtida ham yoqiş/öçiriş mumkin.
+Allow terminal applications to handle clicks and drags - Terminal dasturlariga siçqonça bosilişlari va sudraşlarni qayta işlaşga ruxsat beriş
+Scrollback: - Tarix (Scrollback):
+Scroll Page Up/Down: - Page Up/Down yordamida varaqlaş:
+Highlight the lines coming into view - Körinişga kirib kelayotgan satrlarni ajratib körsatiş
+ % -  %
+Hidden - Yaşirin
+Size of each marker (as a percentage of scrollbar length): - Har bir belgi ölçami (aylantiriş paneli uzunligining foizi sifatida):
+Highlighting: - Ajratib körsatiş:
+Scroll the page the half height of window - Sahifani oyna balandligining yarmiga aylantiriş
+Half screen heigh&t - Ekran balandligining &yarmi
+Color of scrollbar markers: - Aylantiriş paneli belgilari rangi:
+Color of scrollbar search highlighting lines: - Aylantiriş panelida qidiruvni ajratib körsatiş çiziqlari rangi:
+Reflow Lines: - Satrlarni qayta joylaştiriş:
+Scroll the page the full height of window - Sahifani oynaning töliq balandligiga aylantiriş
+F&ull screen height - &Töliq ekran balandligi
+Show the scroll bar on the right side of the terminal window - Aylantiriş panelini terminal oynasining öng tomonida körsatiş
+Ri&ght side - &Öng tomonda
+Show the scroll bar on the left side of the terminal window - Aylantiriş panelini terminal oynasining çap tomonida körsatiş
+&Left side - &Çap tomonda
+Reflow lines when terminal resizes - Terminal ölçami özgarganda satrlarni qayta joylaştiriş
+Scrollbar position: - Aylantiriş paneli joylaşuvi:
+Search highlighting line opacity: - Qidiruvni ajratib körsatiş çiziği noşaffofligi:
+Tab Titles - Tab sarlavhalari
+Tab Monitoring - Tab faolligini kuzatiş
+Threshold for continuous silence: - Uzluksiz sukunat çegarasi:
+The threshold for continuous silence to be detected by Konsole - Konsole tomonidan aniqlanadigan uzluksiz sukunat çegarasi
+%v line - %v satr
+When using this option, the scrollback data will be saved to RAM. If you choose a huge value, your system may run out of free RAM and cause serious issues with your system. - Uşbu parametrdan foydalanilganda tarix (scrollback) maʼlumotlari tezkor xotiraga (RAM) saqlanadi. Agar juda katta qiymat tanlasangiz, tizimingizda böş RAM tugab qolişi va jiddiy muammolarga olib kelişi mumkin.
+When using this option, the scrollback data will be written unencrypted to temporary files. Those temporary files will be deleted automatically when Konsole is closed in a normal manner.<nl/>Use <emphasis>Settings → Configure Konsole → Temporary Files</emphasis> to select the location of the temporary files. - Uşbu parametrdan foydalanilganda tarix (scrollback) maʼlumotlari şifrlanmagan holda vaqtinçalik fayllarga yoziladi. Konsole odatiy tarzda yopilganda uşbu vaqtinçalik fayllar avtomatik ravişda öçiriladi.<nl/>Vaqtinçalik fayllar joylaşuvini tanlaş uçun <emphasis>Sozlamalar → Konsole dasturini sozlaş → Vaqtinçalik fayllar</emphasis> bölimidan foydalaning.
+Limit the remembered output to a fixed number of lines - Eslab qolinadigan çiqişni qatʼiy satrlar soni bilan çeklaş
+Fi&xed size: - &Qatʼiy hajm:
+Number of lines of output to remember - Eslab qolinadigan çiqiş satrlari soni
+Remember all output produced by the terminal - Terminal tomonidan hosil qilingan barça çiqişni eslab qoliş
+&Unlimited - &Çeksiz
+Do not remember previous output - Oldingi çiqişni eslab qolmaslik
+&None - &Yöq
+Find... - Topiş...
+Enter the text to search for here - Qidiriladigan matnni şu yerga kiriting
+Next - Keyingi
+Find the next match for the current search phrase - Joriy qidiruv iborasi uçun keyingi moslikni topiş
+Previous - Oldingi
+Find the previous match for the current search phrase - Joriy qidiruv iborasi uçun oldingi moslikni topiş
+Case sensitive - Katta-kiçik harfni inobatga oliş
+Sets whether the search is case sensitive - Qidiruv katta-kiçik harflarga sezgirligini belgilaydi
+Display the options menu - Parametrlar menyusini körsatiş
+Close the search bar - Qidiruv panelini yopiş
+Match regular expression - Muntazam ifodaga (RegExp) moslaştiriş
+Highlight all matches - Barça mosliklarni ajratib körsatiş
+Sets whether matching text should be highlighted - Mos kelgan matn ajratib körsatilişi kerakligini belgilaydi
+Search backwards - Orqaga qidiriş
+Sets whether search should start from the bottom - Qidiruv pastdan boşlanişi kerakligini belgilaydi
+No wrap - Boşiga qaytmaslik
+Sets whether search should stop instead of wrapping - Qidiruv boşiga qaytmasdan töxtaşi kerakligini belgilaydi
+Search for the current search phrase from the bottom - Joriy qidiruv iborasini pastdan boşlab qidiriş
+Search for the current search phrase from the top - Joriy qidiruv iborasini yuqoridan boşlab qidiriş
+Print Shell - Qobiqni bosib çiqariş
+None - Yöq
+Tab title format used when a remote command (e.g. connection to another computer via SSH) is being executed - Masofaviy buyruq (masalan, SSH orqali boşqa kompyuterga ulaniş) bajarilayotganda foydalaniladigan tab sarlavhasi formati
+Remote tab title format: - Masofaviy tab sarlavhasi formati:
+&Tab title format: - &Tab sarlavhasi formati:
+Normal tab title format - Oddiy tab sarlavhasi formati
+Tab Co&lor: - Tab &rangi:
+&Activity Tab Color: - &Faollikda tab rangi:
+Program Name: %n - Dastur nomi: %n
+Current Directory (Short): %d - Joriy katalog (Qisqa): %d
+Current Directory (Long): %D - Joriy katalog (Uzun): %D
+Window Title Set by Shell: %w - Qobiq tomonidan örnatilgan oyna sarlavhasi: %w
+Session Number: %# - Seans raqami: %#
+User Name: %u - Foydalanuvçi nomi: %u
+Local Host: %h - Mahalliy xost: %h
+User's Bourne prompt sigil: %B - Foydalanuvçining Bourne taklif satri belgisi: %B
+User Name@ (if given): %U - Foydalanuvçi nomi@ (agar berilgan bölsa): %U
+Remote Host (Short): %h - Masofaviy xost (Qisqa): %h
+Remote Host (Long): %H - Masofaviy xost (Uzun): %H
+Command and arguments: %c - Buyruq va argumentlar: %c
+Insert - Qöyiş
+Insert title format - Sarlavha formatini qöyiş
+Insert remote title format - Masofaviy sarlavha formatini qöyiş
+Maximize terminal - Terminalni yoyiş
+Move terminal to new tab - Terminalni yangi tabga köçiriş
+Close terminal - Terminalni yopiş
+Restore terminal - Terminalni tiklaş
+Open a new tab - Yangi tab oçiş
+Search Tabs - Tablarni qidiriş
+Close this tab - Uşbu tabni yopiş
+&Detach Tab - Tabni &ajratiş
+&Configure or Rename Tab... - Tabni &sozlaş yoki nomini özgartiriş...
+Close Tab - Tabni yopiş
+Container - Konteyner
+%1: %2 - %1: %2

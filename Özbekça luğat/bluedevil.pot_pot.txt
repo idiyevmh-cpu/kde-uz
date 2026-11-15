@@ -1,0 +1,92 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Forget this Device? - Uşbu qurilma unutilsinmi?
+Are you sure you want to forget \"%1\"? - Haqiqatan ham “%1” ni unutmoqçimisiz?
+Forget Device - Qurilmani unutiş
+Cancel - Bekor qiliş
+Bluetooth Daemon - Bluetooth demoni
+(c) 2010, UFO Coders - (c) 2010, UFO Coders
+Maintainer - Taʼminotçi
+Previous Maintainer - Oldingi taʼminotçi
+Access request from device “%1” - “%1” qurilmasidan kiriş sörovi
+%1 is requesting access to this computer - %1 uşbu kompyuterga kirişni söramoqda
+Trust and Authorize - Işoniş va ruxsat beriş
+Authorize Only - Faqat ruxsat beriş
+Deny - Rad etiş
+Verify PIN for device “%1” - “%1” qurilmasi uçun PIN kodni tasdiqlang
+%1 is asking if the PIN is correct: %2 - %1 PIN kod töğriligini söramoqda: %2
+PIN correct - PIN töğri
+PIN incorrect - PIN notöğri
+PIN for device “%1” - “%1” qurilmasi uçun PIN
+PIN needed to pair with %1 - %1 bilan juftlaş uçun PIN kerak
+Introduce PIN - PIN kodni kiriting
+In order to pair this computer with %1, you have to enter a PIN. Please do it below. - Uşbu kompyuterni %1 bilan juftlaş uçun PIN kodni kiritişingiz kerak. Iltimos, uni quyida kiriting.
+PIN: - PIN:
+1234 - 1234
+Incoming file from device “%1” - “%1” qurilmasidan kiruvçi fayl
+%1 is sending you the file %2 - %1 sizga %2 faylini yubormoqda
+Accept - Qabul qiliş
+Receiving file - Fayl qabul qilinmoqda
+From - Qayerdan
+To - Qayerga
+Saving file failed - Faylni saqlab bölmadi
+Bluetooth transfer failed - Bluetooth orqali uzatiş muvaffaqiyatsiz böldi
+Send File - Fayl yuboriş
+Browse Files - Fayllarni köriş
+No Bluetooth adapters have been found. - Heç qanday Bluetooth adapterlari topilmadi.
+Retrieving services… - Xizmatlar olinmoqda…
+This address is unavailable. - Bu manzil mavjud emas.
+Received Files - Qabul qilingan fayllar
+Scanning for new devices… - Yangi qurilmalar qidirilmoqda…
+Obexd service is not running. - Obexd xizmati işlamayapti.
+Retrieving information from remote device… - Masofaviy qurilmadan maʼlumot olinmoqda…
+Connecting to the device - Qurilmaga ulanmoqda
+This should not happen - Bu yuz bermasligi kerak edi
+Phone memory - Telefon xotirasi
+External memory - Taşqi xotira
+Bluetooth is disabled. - Bluetooth öçirilgan.
+Enable - Yoqiş
+Your Bluetooth adapter is powered off. - Bluetooth adapteringiz öçirilgan.
+Turn On - Yoqiş
+Bluetooth File Transfer - Bluetooth fayl uzatiş
+Specify receiving device by MAC address. - Qabul qiluvçi qurilmani MAC manzili böyiça belgilang.
+Specify receiving device by UBI path. - Qabul qiluvçi qurilmani UBI yöli böyiça belgilang.
+Files to be sent. - Yuboriladigan fayllar.
+Connecting to %1… - %1 ga ulanmoqda…
+The connection to the device has failed: %1 - Qurilmaga ulaniş muvaffaqiyatsiz böldi: %1
+The connection to %1 has failed: %2 - %1 ga ulaniş muvaffaqiyatsiz böldi: %2
+Open file… - Faylni oçiş…
+Select one or more files: - Bir yoki bir neçta faylni tanlang:
+Selected files: <b>%1</b> - Tanlangan fayllar: <b>%1</b>
+Select a device from the list: - Röyxatdan qurilmani tanlang:
+Send to %1 - %1 ga yuboriş
+Sending file over Bluetooth - Faylni Bluetooth orqali yuboriş
+Send Files - Fayllarni yuboriş
+Failed to start org.bluez.obex service: %1 - org.bluez.obex xizmatini işga tuşirib bölmadi: %1
+Option to determine the bluetooth state at launch - Işga tuşirişda bluetooth holatini aniqlaş parametri
+Save received files to: - Qabul qilingan fayllarni bu yerda saqlaş:
+Whether allow to modify shared files - Ulaşilgan fayllarni özgartirişga ruxsat beriş
+Next - Keyingi
+Finish - Tugatiş
+Add Bluetooth Device - Bluetooth qurilmasini qöşiş
+Select a device - Qurilmani tanlang
+Fix it - Tuzatiş
+Your Bluetooth adapter is not pairable. - Bluetooth adapteringiz juftlanadigan rejimda emas.
+Make Pairable - Juftlanadigan qiliş
+Search… - Qidiriş…
+Show unnamed devices - Nomsiz qurilmalarni körsatiş
+Scanning… - Qidirilmoqda…
+Manual PIN: - Qölda kiritiladigan PIN:
+0000 - 0000
+Restart the wizard - Örnatiş ustasini qayta işga tuşiriş
+Close - Yopiş
+The setup of the device has failed - Qurilmani sozlaş muvaffaqiyatsiz böldi
+The setup of %1 has failed - %1 ni sozlaş muvaffaqiyatsiz böldi
+Please introduce the PIN in your keyboard when it appears and press Enter - Iltimos, PIN kod paydo bölganda uni klaviaturangizda kiriting va Enter tugmasini bosing
+Please introduce the PIN in your device when it appears - Iltimos, PIN kod paydo bölganda uni qurilmangizda kiriting
+Matches - Mos keladi
+Does not match - Mos kelmaydi
+Please, confirm that the PIN displayed on %1 matches the wizard one. - Iltimos, %1 da körsatilgan PIN örnatiş ustasidagisiga mos kelişini tasdiqlang.
+Setup Finished - Sozlaş yakunlandi
+The device has been set up and can now be used. - Qurilma sozlandi va endi undan foydalaniş mumkin.
+The device '%1' has been set up and can now be used. - '%1' qurilmasi sozlandi va endi undan foydalaniş mumkin.

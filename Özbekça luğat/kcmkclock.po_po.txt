@@ -1,0 +1,11 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Date and Time - Sana va vaqt
+Set date and time &automatically - Sana va vaqtni &avtomatik örnatiş
+Here you can change the system date's day of the month, month and year. - Bu yerda tizimning sanasini (kun, oy, yil) özgartirişingiz mumkin.
+Time Zone - Vaqt mintaqasi
+Here you can change the system time. Click into the hours, minutes or seconds field to change the relevant value, either using the up and down buttons to the right or by entering a new value. - Bu yerda tizimning vaqtini özgartirişingiz mumkin. Kerakli maydonning qiymatini özgartiriş uçun "pastga", "yuqoriga" tugmalaridan foydalaning yoki yangi qiymatni töğridan-töğri maydonga kiriting.
+<h1>Date & Time</h1> This system settings module can be used to set the system date and time. As these settings do not only affect you as a user, but rather the whole system, you can only change these settings when you start the System Settings as root. If you do not have the root password, but feel the system time should be corrected, please contact your system administrator. - <h1>Sana va vaqt</h1> Uşbu tizim sozlamalari modulidan tizim sanasi va vaqtini belgilaş uçun foydalaniş mumkin. Bu sozlamalar nafaqat sizga, balki butun tizimga taʼsir qilgani sababli, ularni faqat Tizim sozlamalarini root sifatida işga tuşirgandagina özgartira olasiz. Agar sizda root paroli bölmasa, lekin tizim vaqti töğrilanişi kerak deb hisoblasangiz, tizim administratoriga murojaat qiling.
+Unable to change NTP settings - NTP sozlamalarini özgartirib bölmadi
+Unable to set current time - Joriy vaqtni örnatib bölmadi
+Unable to set timezone - Vaqt mintaqasini örnatib bölmadi

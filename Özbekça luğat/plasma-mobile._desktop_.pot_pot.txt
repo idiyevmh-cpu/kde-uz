@@ -1,0 +1,18 @@
+Plasma Mobile - Plasma Mobile
+Plasma Mobile by KDE - KDE Plasma Mobile
+Plasma Mobile (Development) - Plasma Mobile (Işlab çiqiş)
+Waydroid Management - Waydroid boşqaruvi
+Initialize Waydroid - Waydroid-ni işga tuşiriş
+Allow initialization of Waydroid - Waydroid-ni işga tuşirişga (initsializatsiyaga) ruxsat beriş
+Fetch Android ID for Google Services - Google xizmatlari uçun Android ID-ni oliş
+Allow get Android ID of Waydroid container to activate Google services - Google xizmatlarini faollaştiriş uçun Waydroid konteyneri Android ID-sini olişga ruxsat beriş
+Reset Waydroid - Waydroid-ni dastlabki holatga qaytariş
+Allow delete waydroid folder - Waydroid jildini öçirişga ruxsat beriş
+Date and Time Control Module - Sana va vaqtni boşqariş moduli
+Save the date/time settings - Sana/vaqt sozlamalarini saqlaş
+System policies prevent you from saving the date/time settings. - Tizim qoidalari sana/vaqt sozlamalarini saqlaşingizga tösqinlik qiladi.
+Set flashlight brightness - Fonarçik yorqinligini örnatiş
+Allow set brightness on led device - LED qurilmasida yorqinlikni örnatişga ruxsat beriş
+Plasma - Plasma
+Captured - Yozib olindi
+Captured - Yozib olindi

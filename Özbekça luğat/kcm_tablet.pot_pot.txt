@@ -1,0 +1,20 @@
+Source text - Tarjima text
+No drawing tablets found - Grafik planşetlar topilmadi
+Connect a drawing tablet - Çiziş planşetini ulang
+Test Tablet… - Planşetni sinaş…
+Device: - Qurilma:
+Display - Displey
+Pen - Qalam (Stilus)
+Pad - Boşqaruv paneli (Pad)
+Left-handed mode: - Çapaqaylar rejimi:
+Enable - Yoqiş
+Mode: - Rejim:
+The cursor follows where you touch the pen on the surface - Kursor qalam planşet yuzasiga teqqan joy böylab harakatlanadi
+Mouse - Siçqonça
+Sync with mouse cursor - Siçqonça kursori bilan sinxronlaş
+Pen Pressure: - Qalam bosimi:
+Pressure Range: - Bosim oraliği:
+Calibrate - Kalibrlaş
+Reset Custom Calibration - Maxsus kalibrlaşni bekor qiliş
+Tablet Tester - Planşet sinovçisi
+Clear - Tozalaş

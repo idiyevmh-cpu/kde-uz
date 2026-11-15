@@ -1,0 +1,6 @@
+Toplevel Domain: - Yuqori darajali domen (TLD):
+Nameserver: - Nomlar serveri (DNS):
+Password: - Parol:
+Fragment Size: - Fragment ölçami:
+Automatic - Avtomatik
+ bytes -  bayt

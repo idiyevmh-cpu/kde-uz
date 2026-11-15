@@ -1,0 +1,2 @@
+EPub - EPub
+Adds support for reading E-Books - Elektron kitoblarni öqişni qöllab-quvvatlaydi

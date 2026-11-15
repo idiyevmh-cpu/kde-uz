@@ -1,0 +1,7 @@
+Source text - Tarjima text
+Automatic - Avtomatik
+No touchscreens found - Sensorli ekranlar topilmadi
+Connect an external touchscreen - Taşqi sensorli ekranni ulang
+Device: - Qurilma:
+Enabled: - Yoqilgan:
+Target display: - Maqsadli displey:

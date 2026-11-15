@@ -1,0 +1,10 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Plasma Keyboard - Plasma klaviaturasi
+An on-screen keyboard for Plasma - Plasma uçun ekrandagi klaviatura
+Copyright 2024, Aleix Pol Gonzalez - Mualliflik huquqi 2024, Aleix Pol Gonzalez
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Author - Muallif
+Diacritics (Long Press) - Diakritik belgilar (uzoq bosiş)
+Emoji (Prefix Search) - Emojilar (prefiks böyiça qidiruv)
+Text Expansion - Matnni kengaytiriş

@@ -1,0 +1,3 @@
+Source text - Tarjima text
+KWallet PAM Socket Connection - KWallet PAM soket ulanişi
+Connect to KWallet PAM socket - KWallet PAM soketiga ulaniş

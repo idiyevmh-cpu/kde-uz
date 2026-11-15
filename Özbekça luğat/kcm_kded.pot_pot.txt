@@ -1,0 +1,14 @@
+Source text - Tarjima text
+Failed to stop service: %1 - Xizmatni töxtatib bölmadi: %1
+Failed to start service: %1 - Xizmatni işga tuşirib bölmadi: %1
+Failed to notify KDE Service Manager (kded6) of saved changed: %1 - Saqlangan özgarişlar haqida KDE xizmatlar menejeriga (kded6) xabar berib bölmadi: %1
+The background services manager (kded6) is currently not running. - Fon xizmatlari menejeri (kded6) ayni vaqtda işlamayapti.
+All Services - Barça xizmatlar
+Running - Işlayapti
+Not Running - Işlamayapti
+Startup Services - Tizim işga tuşgandagi xizmatlar
+Load-on-Demand Services - Talabga köra yuklanuvçi xizmatlar
+Stop %1 - %1 xizmatini töxtatiş
+Start %1 - %1 xizmatini işga tuşiriş
+Stop Service - Xizmatni töxtatiş
+Start Service - Xizmatni işga tuşiriş

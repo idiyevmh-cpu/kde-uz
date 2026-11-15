@@ -1,0 +1,9 @@
+Source text - Tarjima text
+Audio Volume - Ovoz balandligi
+Sound - Tovuş
+Audio Shortcuts - Audio tezkor tugmalari
+Adjust the volume of devices and applications - Qurilmalar va ilovalarning ovoz balandligini sozlaş
+Configure audio devices and volume - Audio qurilmalar va ovoz balandligini sozlaş
+Provides shortcuts for audio device and volume control - Audio qurilmalar va ovoz balandligini boşqariş uçun tezkor tugmalarni taqdim etadi
+Harald Sitter - Harald Sitter
+sound,volume,output,input,speakers,microphone,audio,music,hardware,devices,alsa,pulseaudio,pipewire,jack,hdmi,recording,playback,streams,sink,balance,audio balance,mono,stereo,surround,sound card,right speaker,left speaker,center speaker,notification sounds,analog,digital,headphone,headphones,earbuds,headset,earpiece,channel,channels,2.0,2.1,5.1,6.1,7.1 - tovuş,ovoz,çiqiş,kiriş,karnaylar,dinamiklar,mikrofon,audio,musiqa,uskuna,qurilmalar,alsa,pulseaudio,pipewire,jack,hdmi,yozib oliş,ijro,oqimlar,balans,audio balans,mono,stereo,surround,tovuş kartasi,bildirişnoma tovuşlari,analog,raqamli,quloqçin,nauşnik,kanal,kanallar,2.0,2.1,5.1

@@ -1,0 +1,9 @@
+Source text - Tarjima text
+Phone - Telefon
+Send and receive phone calls - Telefon qönğiroqlarini amalga oşiriş va qabul qiliş
+The Phone app lets you easily send and receive phone calls from your smartphone. - Telefon ilovasi smartfoningiz orqali qönğiroqlarni osongina amalga oşiriş va qabul qiliş imkonini beradi.
+Features: - Xususiyatlari:
+See your call history and easily call the same number again - Qönğiroqlar tarixini köriş va öşa raqamga qayta qönğiroq qiliş
+Manage your contacts that have a phone number set - Telefon raqami biriktirilgan kontaktlarni boşqariş
+The dialer page - Raqam teriş sahifasi
+Calling voicemail - Ovozli poçtaga qönğiroq qiliş

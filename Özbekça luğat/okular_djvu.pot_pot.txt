@@ -1,0 +1,14 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Editor - Tahrirçi
+Publisher - Naşriyotçi
+Volume - Tovuş
+Type of document - Hujjat turi
+Unknown - Nomaʼlum
+Component Files - Komponent fayllari
+Unknown - Nomaʼlum
+Single Page - Bitta sahifa
+Bundled - Töplam içida
+Indirect - Bilvosita
+Bundled (old) - Töplam içida (eski)
+Indexed (old) - Indekslangan (eski)

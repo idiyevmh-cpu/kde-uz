@@ -1,0 +1,152 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Error fetching information from the firewall. - Fayrvoll maʼlumotlarini olişda xatolik.
+firewalld saving (runtime to permanent) - firewalld saqlamoqda (vaqtinçalikdan doimiyga)
+firewalld saving - firewalld saqlamoqda
+firewalld %1 - firewalld %1
+firewalld listing rules and services - firewalld qoidalar va xizmatlarni sanamoqda
+Protocol - Protokol
+Local address - Mahalliy manzil
+Foreign address - Taşqi manzil
+Status - Holati
+PID - PID
+Program - Dastur
+Failed to get connections: %1 - Ulanişlarni olib bölmadi: %1
+Not Connected - Ulanmagan
+Established - Örnatilgan
+Listening - Tinglamoqda (Listening)
+Invalid arguments passed to the profile - Profilga yaroqsiz argumentlar uzatildi
+Error saving the profile. - Profilni saqlaşda xatolik.
+Invalid arguments passed to delete profile - Profilni öçiriş uçun yaroqsiz argument uzatildi
+Could not remove the profile from disk. - Profilni diskdan öçirib bölmadi.
+Invalid argument passed to add Rules - Qoidalar qöşiş uçun yaroqsiz argument uzatildi
+An error occurred in command '%1': %2 - '%1' buyruğida xatolik yuz berdi: %2
+There was an error in the backend! Please report it.
+%1 %2 - Bekendda xatolik yuz berdi! Iltimos, xabar bering.
+%1 %2
+Error fetching firewall logs: %1 - Fayrvoll jurnallarini olişda xatolik: %1
+Any - Har qanday
+From - &Kimdan
+Source port - Manba porti
+To - Kimga
+Destination port - Möljal porti
+Interface - Interfeys
+Action - Amal
+Time - Vaqt
+Date - Sana
+%1 on %2 - %2 da %1
+Anywhere - Har qayerdan
+%1 (%2) - %1 ( %2 )
+%1 incoming - %1 kiruvçi
+%1 outgoing - %1 çiquvçi
+Yes - Ha
+IP - IP
+Logging - Log qiliş
+Comment - Izoh
+Edit - Tahrirlaş
+Invalid Call - Yaroqsiz çaqiruv
+Off - Öçirilgan
+Low - Past
+Medium - Ör&ta
+High - Yuqori
+Full - Töliq
+None - Yöq
+New connections - Yangi ulanişlar
+All packets - Barça paketlar
+Allow - Ruxsat beriş
+Deny - &Ruxsat berilmasin
+Reject - Rad etiş
+Limit - Çeklov
+Amule - Amule
+Deluge - Deluge
+KTorrent - KTorrent
+Nicotine - Nicotine
+qBittorrent - qBittorrent
+Transmission - Transmission
+ICQ - ICQ
+Jabber - Jabber
+Windows Live Messenger - Windows Live Messenger
+Yahoo! Messenger - Yahoo! Messenger
+FTP - FTP
+HTTP - HTTP
+Secure HTTP - Xavfsiz HTTP (HTTPS)
+IMAP - IMAP
+Secure IMAP - Xavfsiz IMAP
+POP3 - POP3
+Secure POP3 - Xavfsiz POP3
+SMTP - SMTP
+NFS - NFS
+Samba - Samba
+Secure Shell - Xavfsiz qobiq (SSH)
+VNC - VNC
+Zeroconf - Zeroconf
+Telnet - Telnet
+NTP - NTP
+CUPS - CUPS
+Policy: - Q&oida:
+Direction: - Yönaliş:
+Incoming - Kiruvçi
+Outgoing - Çiquvçi
+IP Version: - IP versiyasi:
+IPv4 - IPv4
+IPv6 - IPv6
+Source: - Manba:
+Destination: - Manzil:
+Protocol: - Protokol:
+Interface: - Interfeys:
+Logging: - Jurnalga yoziş:
+Comment: - Izoh
+Optional - Qöşimça
+Connections - Ulanişlar
+There are currently no open connections - Hozirda oçiq ulanişlar yöq
+Created a blacklist rule from this connection. - Uşbu ulanişdan qora röyxat qoidasi yaratildi.
+could not find iproute2 or net-tools packages installed. - iproute2 yoki net-tools paketlari topilmadi.
+Any IP address - Har qanday IP manzil
+Firewall Logs - Fayrvoll jurnallari
+There are currently no firewall log entries - Hozirça heç qanday fayrvoll jurnali yozuvlari yöq
+Created a blacklist rule from this log entry. - Uşbu jurnal yozuvidan qora röyxat qoidasi yaratildi.
+Allow all connections - Barça ulanişlarga ruxsat beriş
+Ignore - Eʼtibor berilmasin
+Keeps the program waiting until the connection attempt times out, some short time later. - Qisqa vaqtdan söng ulanişga uriniş vaqti tugaguniga qadar dasturni kutiş holatida saqlaydi.
+Produces an immediate and very informative 'Connection refused' message - Darhol va juda tuşunarli 'Ulaniş rad etildi' (Connection refused) xabarini çiqaradi
+Add Rule… - Qoida qöşiş…
+View Connections - Ulanişlarni köriş
+View Logs - Jurnallarni köriş
+Disabling… - Öçirilmoqda…
+Enabled - Yoqilgan
+Enabling… - Yoqilmoqda…
+Disabled - Öçirilgan
+The firewall application, please install %1 - Fayrvoll ilovasi, iltimos %1 örnating
+Permission denied - Ruxsat yöq.
+You recently updated your kernel. Iptables is failing to initialize, please reboot. - Yaqinda yadroni yangiladingiz. Iptables işga tuşmayapti, qayta işga tuşiring.
+Error enabling firewall: %1 - Fayrvollni yoqişda xatolik: %1
+Error disabling firewall: %1 - Fayrvollni öçirişda xatolik: %1
+Create A New Firewall Rule - Yangi fayrvoll qoidasini yaratiş
+Edit Firewall Rule - Fayrvoll qoidasini tahrirlaş
+Please restart plasma firewall, the backend disconnected. - Iltimos, Plasma fayrvollni qayta işga tuşiring, bekend uzildi.
+Error creating rule: %1 - Qoida yaratişda xatolik: %1
+Error updating rule: %1 - Qoidani yangilaşda xatolik: %1
+Create - Yaratiş
+Save - Saqlaş
+Firewall type: - Fayrvoll turi:
+Firewall version: %1 - Fayrvoll versiyasi: %1
+Default Incoming Policy: - Standart kiruvçi siyosat:
+Default Outgoing Policy: - Standart çiquvçi siyosat:
+Error changing policy: %1 - Siyosatni özgartirişda xatolik: %1
+Edit Rule - Qoidani tahrirlaş
+Error removing rule: %1 - Qoidani olib taşlaşda xatolik: %1
+Remove Rule - Qoidani olib taşlaş
+Firewall is disabled - Fayrvoll öçirilgan
+No firewall rules have been added - Heç qanday fayrvoll qoidalari qöşilmagan
+Click the <interface>Add Rule…</interface> button to add one - Qöşiş uçun <interface>Qoida qöşiş…</interface> tugmasini bosing
+Click switch above to enable it - Uni yoqiş uçun yuqoridagi tugmaçani bosing
+Please install a firewall, such as ufw or firewalld - Iltimos, ufw yoki firewalld kabi fayrvoll dasturini örnating
+Any Port - Har qanday port
+New Connections - Yangi ulanişlar
+All Packets - Barça paketlar
+The default incoming policy is already '%1'. - Standart kiruvçi siyosat allaqaçon '%1'.
+The default outgoing policy is already '%1'. - Standart çiquvçi siyosat allaqaçon '%1'.
+Advanced - Qöşimça
+Allow connections for: - Quyidagilar uçun ulanişlarga ruxsat beriş:
+Application: - Ilova:
+Blacklist Connection - Ulanişni qora röyxatga kiritiş

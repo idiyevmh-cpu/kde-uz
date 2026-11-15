@@ -1,0 +1,171 @@
+Appearance - Köriniş
+Font: - Şrift:
+Bold text - Qalin matn
+Italic text - Qiya matn
+Fuzzyness: - Noaniqlik darajasi:
+Accurate - Aniq
+Fuzzy - Taxminiy
+One o’clock - Soat Bir
+Five past one - Soat Birdan beş daqiqa ötdi
+Ten past one - Soat Birdan ön daqiqa ötdi
+Quarter past one - Soat Birdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past one - Soat Birdan yigirma daqiqa ötdi
+Twenty-five past one - Soat Birdan yigirma beş daqiqa ötdi
+Half past one - Soat Bir yarim
+Twenty-five to two - Soat Ikkiga yigirma beş daqiqa qoldi
+Twenty to two - Soat Ikkiga yigirma daqiqa qoldi
+Quarter to two - Soat Ikkiga ön beş daqiqa qoldi (çorak kam)
+Ten to two - Soat Ikkiga ön daqiqa qoldi
+Five to two - Soat Ikkiga beş daqiqa qoldi
+Two o’clock - Soat Ikki
+Five past two - Soat Ikkidan beş daqiqa ötdi
+Ten past two - Soat Ikkidan ön daqiqa ötdi
+Quarter past two - Soat Ikkidan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past two - Soat Ikkidan yigirma daqiqa ötdi
+Twenty-five past two - Soat Ikkidan yigirma beş daqiqa ötdi
+Half past two - Soat Ikki yarim
+Twenty-five to three - Soat Uçga yigirma beş daqiqa qoldi
+Twenty to three - Soat Uçga yigirma daqiqa qoldi
+Quarter to three - Soat Uçga ön beş daqiqa qoldi (çorak kam)
+Ten to three - Soat Uçga ön daqiqa qoldi
+Five to three - Soat Uçga beş daqiqa qoldi
+Three o’clock - Soat Uç
+Five past three - Soat Uçdan beş daqiqa ötdi
+Ten past three - Soat Uçdan ön daqiqa ötdi
+Quarter past three - Soat Uçdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past three - Soat Uçdan yigirma daqiqa ötdi
+Twenty-five past three - Soat Uçdan yigirma beş daqiqa ötdi
+Half past three - Soat Uç yarim
+Twenty-five to four - Soat Törtga yigirma beş daqiqa qoldi
+Twenty to four - Soat Törtga yigirma daqiqa qoldi
+Quarter to four - Soat Törtga ön beş daqiqa qoldi (çorak kam)
+Ten to four - Soat Törtga ön daqiqa qoldi
+Five to four - Soat Törtga beş daqiqa qoldi
+Four o’clock - Soat Tört
+Five past four - Soat Törtdan beş daqiqa ötdi
+Ten past four - Soat Törtdan ön daqiqa ötdi
+Quarter past four - Soat Törtdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past four - Soat Törtdan yigirma daqiqa ötdi
+Twenty-five past four - Soat Törtdan yigirma beş daqiqa ötdi
+Half past four - Soat Tört yarim
+Twenty-five to five - Soat Beşga yigirma beş daqiqa qoldi
+Twenty to five - Soat Beşga yigirma daqiqa qoldi
+Quarter to five - Soat Beşga ön beş daqiqa qoldi (çorak kam)
+Ten to five - Soat Beşga ön daqiqa qoldi
+Five to five - Soat Beşga beş daqiqa qoldi
+Five o’clock - Soat Beş
+Five past five - Soat Beşdan beş daqiqa ötdi
+Ten past five - Soat Beşdan ön daqiqa ötdi
+Quarter past five - Soat Beşdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past five - Soat Beşdan yigirma daqiqa ötdi
+Twenty-five past five - Soat Beşdan yigirma beş daqiqa ötdi
+Half past five - Soat Beş yarim
+Twenty-five to six - Soat Oltiga yigirma beş daqiqa qoldi
+Twenty to six - Soat Oltiga yigirma daqiqa qoldi
+Quarter to six - Soat Oltiga ön beş daqiqa qoldi (çorak kam)
+Ten to six - Soat Oltiga ön daqiqa qoldi
+Five to six - Soat Oltiga beş daqiqa qoldi
+Six o’clock - Soat Olti
+Five past six - Soat Oltidan beş daqiqa ötdi
+Ten past six - Soat Oltidan ön daqiqa ötdi
+Quarter past six - Soat Oltidan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past six - Soat Oltidan yigirma daqiqa ötdi
+Twenty-five past six - Soat Oltidan yigirma beş daqiqa ötdi
+Half past six - Soat Olti yarim
+Twenty-five to seven - Soat Yettiga yigirma beş daqiqa qoldi
+Twenty to seven - Soat Yettiga yigirma daqiqa qoldi
+Quarter to seven - Soat Yettiga ön beş daqiqa qoldi (çorak kam)
+Ten to seven - Soat Yettiga ön daqiqa qoldi
+Five to seven - Soat Yettiga beş daqiqa qoldi
+Seven o’clock - Soat Yetti
+Five past seven - Soat Yettidan beş daqiqa ötdi
+Ten past seven - Soat Yettidan ön daqiqa ötdi
+Quarter past seven - Soat Yettidan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past seven - Soat Yettidan yigirma daqiqa ötdi
+Twenty-five past seven - Soat Yettidan yigirma beş daqiqa ötdi
+Half past seven - Soat Yetti yarim
+Twenty-five to eight - Soat Sakkizga yigirma beş daqiqa qoldi
+Twenty to eight - Soat Sakkizga yigirma daqiqa qoldi
+Quarter to eight - Soat Sakkizga ön beş daqiqa qoldi (çorak kam)
+Ten to eight - Soat Sakkizga ön daqiqa qoldi
+Five to eight - Soat Sakkizga beş daqiqa qoldi
+Eight o’clock - Soat Sakkiz
+Five past eight - Soat Sakkizdan beş daqiqa ötdi
+Ten past eight - Soat Sakkizdan ön daqiqa ötdi
+Quarter past eight - Soat Sakkizdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past eight - Soat Sakkizdan yigirma daqiqa ötdi
+Twenty-five past eight - Soat Sakkizdan yigirma beş daqiqa ötdi
+Half past eight - Soat Sakkiz yarim
+Twenty-five to nine - Soat Töqqizga yigirma beş daqiqa qoldi
+Twenty to nine - Soat Töqqizga yigirma daqiqa qoldi
+Quarter to nine - Soat Töqqizga ön beş daqiqa qoldi (çorak kam)
+Ten to nine - Soat Töqqizga ön daqiqa qoldi
+Five to nine - Soat Töqqizga beş daqiqa qoldi
+Nine o’clock - Soat Töqqiz
+Five past nine - Soat Töqqizdan beş daqiqa ötdi
+Ten past nine - Soat Töqqizdan ön daqiqa ötdi
+Quarter past nine - Soat Töqqizdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past nine - Soat Töqqizdan yigirma daqiqa ötdi
+Twenty-five past nine - Soat Töqqizdan yigirma beş daqiqa ötdi
+Half past nine - Soat Töqqiz yarim
+Twenty-five to ten - Soat Önga yigirma beş daqiqa qoldi
+Twenty to ten - Soat Önga yigirma daqiqa qoldi
+Quarter to ten - Soat Önga ön beş daqiqa qoldi (çorak kam)
+Ten to ten - Soat Önga ön daqiqa qoldi
+Five to ten - Soat Önga beş daqiqa qoldi
+Ten o’clock - Soat Ön
+Five past ten - Soat Öndan beş daqiqa ötdi
+Ten past ten - Soat Öndan ön daqiqa ötdi
+Quarter past ten - Soat Öndan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past ten - Soat Öndan yigirma daqiqa ötdi
+Twenty-five past ten - Soat Öndan yigirma beş daqiqa ötdi
+Half past ten - Soat Ön yarim
+Twenty-five to eleven - Soat Ön birga yigirma beş daqiqa qoldi
+Twenty to eleven - Soat Ön birga yigirma daqiqa qoldi
+Quarter to eleven - Soat Ön birga ön beş daqiqa qoldi (çorak kam)
+Ten to eleven - Soat Ön birga ön daqiqa qoldi
+Five to eleven - Soat Ön birga beş daqiqa qoldi
+Eleven o’clock - Soat Ön bir
+Five past eleven - Soat Ön birdan beş daqiqa ötdi
+Ten past eleven - Soat Ön birdan ön daqiqa ötdi
+Quarter past eleven - Soat Ön birdan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past eleven - Soat Ön birdan yigirma daqiqa ötdi
+Twenty-five past eleven - Soat Ön birdan yigirma beş daqiqa ötdi
+Half past eleven - Soat Ön bir yarim
+Twenty-five to twelve - Soat Ön ikkiga yigirma beş daqiqa qoldi
+Twenty to twelve - Soat Ön ikkiga yigirma daqiqa qoldi
+Quarter to twelve - Soat Ön ikkiga ön beş daqiqa qoldi (çorak kam)
+Ten to twelve - Soat Ön ikkiga ön daqiqa qoldi
+Five to twelve - Soat Ön ikkiga beş daqiqa qoldi
+Twelve o’clock - Soat Ön ikki
+Five past twelve - Soat Ön ikkidan beş daqiqa ötdi
+Ten past twelve - Soat Ön ikkidan ön daqiqa ötdi
+Quarter past twelve - Soat Ön ikkidan ön beş daqiqa ötdi (çorak ötdi)
+Twenty past twelve - Soat Ön ikkidan yigirma daqiqa ötdi
+Twenty-five past twelve - Soat Ön ikkidan yigirma beş daqiqa ötdi
+Half past twelve - Soat Ön ikki yarim
+Twenty-five to one - Soat Birga yigirma beş daqiqa qoldi
+Twenty to one - Soat Birga yigirma daqiqa qoldi
+Quarter to one - Soat Birga ön beş daqiqa qoldi (çorak kam)
+Ten to one - Soat Birga ön daqiqa qoldi
+Five to one - Soat Birga beş daqiqa qoldi
+Sleep - Uyqu vaqti
+Breakfast - Nonuşta
+Second Breakfast - Ikkinçi nonuşta
+Elevenses - Çoy vaqti (ön birda)
+Lunch - Tuşlik
+Afternoon tea - Peşin çoyi
+Dinner - Keçki ovqat
+Supper - Keçki tamaddi
+Night - Tun
+Early morning - Tong sahar
+Morning - Ertalab
+Almost noon - Tuşga yaqin
+Noon - Tuş vaqti
+Afternoon - Tuşdan keyin
+Evening - Oqşom
+Late evening - Keçki payt
+Start of week - Hafta boşi
+Middle of week - Hafta örtasi
+End of week - Hafta oxiri
+Weekend! - Dam oliş kuni!

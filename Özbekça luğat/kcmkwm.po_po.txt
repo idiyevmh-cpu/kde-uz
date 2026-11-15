@@ -1,0 +1,123 @@
+Window focus policy: - Oyna fokusi siyosati:
+Click to focus - Fokuslaş uçun bosiş
+Window becomes focused when clicked. - Oyna bosilganda fokusga ega böladi.
+Focus follows pointer - Fokus körsatkiç ortidan ergaşadi
+As the pointer moves, windows under it become focused after a configurable delay. - Körsatkiç harakatlanganda, uning ostidagi oynalar sozlanadigan keçikişdan keyin fokusga ega böladi.
+Focus under pointer - Fokus körsatkiç ostida
+Window under pointer receives focus, even if the pointer has not moved. - Körsatkiç harakatlanmagan bölsa ham, uning ostidagi oyna fokusni qabul qiladi.
+Selecting <interface>Focus under pointer</interface> will prevent focus on some windows appearing on screen. This can lead to assigning focus to unwanted windows. Use with caution. - <interface>Fokus körsatkiç ostida</interface> tanlanganda ekranda paydo böladigan baʼzi oynalarga fokus berilişi töxtatiladi. Bu keraksiz oynalarga fokus berilişiga olib kelişi mumkin. Ehtiyotkorlik bilan foydalaning.
+Last focused window - Oxirgi fokuslangan oyna
+After closing a window, move focus to: - Oyna yopilgandan söng fokusni quyidagiga köçiriş:
+Window under pointer - Körsatkiç ostidagi oyna
+&Delay focus by: - Fokusni quyidagiça &keçiktiriş:
+%1 ms - %1 ms
+ms -  ms
+Focus &stealing prevention: - Fokus &öğirlanişining oldini oliş:
+None - Yöq
+Low - Past
+Medium - Örtaça
+High - Yuqori
+Extreme - Maksimal
+Switch to window’s Virtual Desktop - Oynaning virtual iş stoliga ötiş
+When focusing a window on a different Virtual Desktop: - Boşqa virtual iş stolidagi oynaga fokuslanganda:
+Bring window to current Virtual Desktop - Oynani joriy virtual iş stoliga olib keliş
+Do nothing - Heç narsa qilmaslik
+Raising windows: - Oynalarni kötariş:
+&Click raises focused window - &Bosiş fokuslangan oynani kötaradi
+&Raise on hover, delayed by: - Siçqonça borganda &kötariş, keçikişi:
+Multiscreen behavior: - Köp ekranli xatti-harakat:
+&Separate screen focus - &Alohida ekran fokusi
+&Focus - &Fokuslaş
+Titlebar A&ctions - Sarlavha paneli &amallari
+W&indow Actions - &Oyna amallari
+Mo&vement & Placement - &Harakatlaniş va joylaşuv
+Movement - Harakatlaniş
+Screen &edge snap zone: - Ekran &çeti yopişiş zonasi:
+%1 px - %1 px
+px - px
+&Window snap zone: - &Oyna yopişiş zonasi:
+&Center snap zone: - &Markaziy yopişiş zonasi:
+&Snap windows: - Oynalarni &yopiştiriş:
+Only when overlapping - Faqat ustma-ust tuşganda
+Placement - Joylaştiriş
+Window &placement: - Oynani &joylaştiriş:
+Minimal Overlapping - Minimal ustma-ustlik
+Maximized - Kattalaştirilgan
+Random - Tasodifiy
+Centered - Markazda
+In Top-Left Corner - Yuqori çap burçakda
+Under mouse - Siçqonça ostida
+Overlay Positioning - Qoplama joylaşuvi
+OSD popups: - OSD qalqib çiquvçi oynalari:
+Picture-in-picture: - Rasm içida rasm (PiP):
+Top-left - Yuqori çap
+Top-right - Yuqori öng
+Bottom-left - Quyi çap
+Bottom-right - Quyi öng
+Margin: - Hoşiya:
+Top-left - Yuqori çap
+Top-center - Yuqori markaz
+Top-right - Yuqori öng
+Center-left - Markaz çap
+Center - Markazda
+Center-right - Markaz öng
+Bottom-left - Quyi çap
+Bottom-center - Quyi markaz
+Bottom-right - Quyi öng
+Lower center - Quyi markaz
+Raise - Oldinga
+Lower - Orqaga
+Raise/lower - Kötariş/tuşiriş
+Minimize - Yiğiş
+Close - Yopiş
+Window menu - Oyna menyusi
+Focus and raise - Fokuslaş va kötariş
+Focus and lower - Fokuslaş va tuşiriş
+Focus - Fokuslaş
+Maximize - Kattalaştiriş (Butun ekranga yoyiş)
+Vertically maximize - Vertikal kattalaştiriş
+Horizontally maximize - Gorizontal kattalaştiriş
+Titlebar Actions - Sarlavha paneli amallari
+&Double-click: - &Ikki marta bosiş:
+Show on all desktops - Barça iş stollarida körsatiş
+Mouse &wheel: - Siçqonça &ğildirakçasi:
+Maximize/restore - Kattalaştiriş/tiklaş
+Keep above/below - Ustida/ostida uşlab turiş
+Move to previous/next desktop - Oldingi/keyingi iş stoliga ötkaziş
+Change opacity - Şaffoflikni özgartiriş
+Titlebar and Frame Actions - Sarlavha paneli va ramka amallari
+Focused - Fokuslangan
+Unfocused - Fokuslanmagan
+&Left click: - &Çap tugmani bosiş:
+Left click on a focused titlebar or frame - Fokuslangan sarlavha paneli yoki ramkada çap tugmani bosiş
+Left click on an unfocused titlebar or frame - Fokuslanmagan sarlavha paneli yoki ramkada çap tugmani bosiş
+&Middle click: - &Örta tugmani bosiş:
+Middle click on a focused titlebar or frame - Fokuslangan sarlavha paneli yoki ramkada örta tugmani bosiş
+Middle click on an unfocused titlebar or frame - Fokuslanmagan sarlavha paneli yoki ramkada örta tugmani bosiş
+&Right click: - &Öng tugmani bosiş:
+Right click on a focused titlebar or frame - Fokuslangan sarlavha paneli yoki ramkada öng tugmani bosiş
+Right click on an unfocused titlebar or frame - Fokuslanmagan sarlavha paneli yoki ramkada öng tugmani bosiş
+Maximize window by double clicking its frame - Ramkasini ikki marta bosiş orqali oynani kattalaştiriş
+Maximize Button Actions - Kattalaştiriş tugmasi amallari
+L&eft click: - &Çap tugmani bosiş:
+Middle c&lick: - Örta tugmani b&osiş:
+Right clic&k: - Öng tugmani bo&siş:
+Focus, raise, and click through - Fokuslaş, kötariş va bosişni ötkaziş
+Focus and click through - Fokuslaş va bosişni ötkaziş
+Move - Köçiriş
+Focus, raise, and move - Fokuslaş, kötariş va köçiriş
+Focus, raise, and resize - Fokuslaş, kötariş va ölçamni özgartiriş
+Resize - Ölçamini özgartiriş
+Decrease opacity - Şaffoflikni kamaytiriş
+Increase opacity - Şaffoflikni oşiriş
+Unfocused Inner Window Actions - Fokuslanmagan içki oyna amallari
+Focus, click through, and raise on release - Fokuslaş, bosişni ötkaziş va qöyib yuborganda kötariş
+Scroll - Aylantiriş
+Focus and scroll - Fokuslaş va aylantiriş
+Focus, raise, and scroll - Fokuslaş, kötariş va aylantiriş
+Inner Window, Titlebar, and Frame Actions - Içki oyna, sarlavha paneli va ramka amallari
+Mo&difier key: - Mo&difikator tugmasi:
+Meta - Meta
+Alt - Alt
+Middle &click: - Örta &bosiş:
+Mo&use wheel: - Siçqonça &ğildirakçasi:

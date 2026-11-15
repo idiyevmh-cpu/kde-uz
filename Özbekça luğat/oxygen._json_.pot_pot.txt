@@ -1,0 +1,18 @@
+Air - Air
+Oxygen - Oxygen
+Oxygen Window Decoration - Oxygen oyna bezaklari
+Oxygen Widget Style - Oxygen vidjetlar uslubi
+Oxygen Light - Oxygen oç rangli
+Oxygen Dark - Oxygen töq rangli
+Horos - Horos
+A breath of fresh air - Toza havo nafasi
+Theme done in the Oxygen style - Oxygen uslubida yaratilgan mavzu
+Modify the appearance of window decorations - Oyna bezaklari körinişini özgartiriş
+Window decoration using the Oxygen visual style for the Plasma Desktop - Plasma iş stoli uçun Oxygen vizual uslubidagi oyna bezaklari
+Modify the appearance of widgets - Vidjetlar körinişini özgartiriş
+Air Desktop Design Language - Air iş stoli dizayn tili
+Oxygen Desktop Design Language - Oxygen iş stoli dizayn tili
+The Oxygen Project - Oxygen loyihasi
+The Oxygen team - Oxygen jamoasi
+Nuno Pinheiro - Nuno Pinheiro
+oxygen,decoration - oxygen,bezak

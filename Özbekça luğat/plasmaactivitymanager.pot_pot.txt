@@ -1,0 +1,9 @@
+Used some time ago - Bir qança vaqt oldin işlatilgan
+Used more than a year ago - Bir yildan köproq vaqt oldin işlatilgan
+Used a month ago - Bir oy oldin işlatilgan
+Used a day ago - Bir kun oldin işlatilgan
+Used an hour ago - Bir soat oldin işlatilgan
+Used a minute ago - Bir daqiqa oldin işlatilgan
+Used a moment ago - Hozirgina işlatilgan
+Walk through activities - Faoliyatlar böylab ötiş
+Walk through activities (Reverse) - Faoliyatlar böylab ötiş (Teskari)

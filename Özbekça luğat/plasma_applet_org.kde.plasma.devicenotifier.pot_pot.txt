@@ -1,0 +1,43 @@
+Check for Errors - Xatolarni tekşiriş
+Mount - Ulaniş
+Open in File Manager - Fayl boşqaruvçisida oçiş
+Try to Fix - Tuzatişga urinib köriş
+Mount and Open - Ulaş va oçiş
+Eject - Çiqariş
+Safely remove - Xavfsiz ajratiş
+This device has file system errors. - Bu qurilmada fayl tizimi xatolari mavjud.
+This device has no errors - Bu qurilmada xatolar yöq
+Successfully repaired! - Muvaffaqiyatli tuzatildi!
+Device Status - Qurilma holati
+A device can now be safely removed - Qurilmani endi xavfsiz ajratiş mumkin
+This device can now be safely removed. - Bu qurilmani endi xavfsiz ajratiş mumkin.
+You are not authorized to mount this device. - Sizga bu qurilmani ulaşga ruxsat berilmagan.
+You are not authorized to eject this disc. - Sizga bu diskni çiqarişga ruxsat berilmagan.
+You are not authorized to remove this device. - Sizga bu qurilmani ajratişga ruxsat berilmagan.
+You are not authorized to repair this device. - Sizga bu qurilmani tuzatişga ruxsat berilmagan.
+Unknown error type - Nomaʼlum xato turi
+Could not mount this device as it is busy. - Bu qurilmani ulab bölmadi, çunki u band.
+One or more files on this device are open within an application. - Bu qurilmadagi bir yoki bir neçta fayl ilovada oçiq qolgan.
+One or more files on this device are opened in application "%2". - Bu qurilmadagi bir yoki bir neçta fayl "%2" ilovasida oçilgan.
+,  - , 
+Could not mount this device. - Bu qurilmani ulab bölmadi.
+Could not eject this disc. - Bu diskni çiqarib bölmadi.
+Could not remove this device. - Bu qurilmani ajratib bölmadi.
+Could not repair this device: %1 - Bu qurilmani tuzatib bölmadi: %1
+Checking… - Tekşirilmoqda…
+Repairing… - Tuzatilmoqda…
+%1 free of %2 - %2 dan %1 böş
+Accessing… - Kirilmoqda…
+Removing… - Ajratilmoqda…
+Don't unplug yet! Files are still being transferred… - Hozirça uzmang! Fayllar hali uzatilmoqda…
+Remove All - Hammasini ajratiş
+Click to safely remove all devices - Barça qurilmalarni xavfsiz ajratiş uçun bosing
+No removable devices attached - Olinadigan qurilmalar ulanmagan
+No disks available - Disklar mavjud emas
+Most Recent Device - Eng sönggi qurilma
+No Devices Available - Mavjud qurilmalar yöq
+Configure Removable Devices… - Olinadigan qurilmalarni sozlaş…
+Removable Devices - Olinadigan qurilmalar
+Non Removable Devices - Olinmaydigan qurilmalar
+All Devices - Barça qurilmalar
+Show popup when new device is plugged in - Yangi qurilma ulanganda xabarnomani körsatiş

@@ -1,0 +1,2 @@
+Mount - Ulaş (mount)
+Unmount - Ulanişni uziş (unmount)

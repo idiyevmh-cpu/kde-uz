@@ -1,0 +1,8 @@
+Okular Mobile - Okular Mobile
+Document Viewer - Hujjat köruvçi
+Okular is a universal document viewer developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, macOS, *BSD, etc. - Okular — KDE tomonidan işlab çiqilgan universal hujjat köruvçidir. Okular Linux, Windows, macOS, *BSD va boşqa köplab platformalarda işlaydi.
+Features: - Xususiyatlar:
+Supported Formats: PDF, PS, Tiff, DjVu, Images, DVI, XPS, Fiction Book, Comic Book, Plucker, EPub, Fax - Qöllab-quvvatlanadigan formatlar: PDF, PS, TIFF, DjVu, Rasmlar, DVI, XPS, Fiction Book, Comic Book, Plucker, EPub, Faks
+Sidebar with contents, thumbnails, reviews and bookmarks - Mundarija, miniatyuralar, şarhlar va xatçöplar bilan yon panel
+Annotations support - Izohlarni qöllab-quvvatlaş
+Reading manual in Okular - Okular-da qöllanmani öqiş

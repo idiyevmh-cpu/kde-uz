@@ -1,0 +1,9 @@
+Source text - Tarjima text
+FreeDesktop - FreeDesktop
+Theme installed successfully. - Mavzu muvaffakiyatli ornatildi.
+Install from File… - Fayldan ornatiş…
+Enable notification sounds - Bildirişnoma tovuşlarini yokiş
+Preview: - Oldindan eşitiş:
+Preview sound %1 - %1 tovuşini tinglab koriş
+Choose Sound Theme - Tovuş mavzusini tanlaş
+Theme Files (*.tar.gz *.tar.bz2 *.tar.xz *.tar.lz *.zip) - Mavzu fayllari (*.tar.gz *.tar.bz2 *.tar.xz *.tar.lz *.zip)

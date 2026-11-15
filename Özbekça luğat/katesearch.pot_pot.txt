@@ -1,0 +1,124 @@
+Usage: grep [pattern to search for in folder] - Foydalaniş: grep [jildda qidiriladigan namuna]
+Usage: newGrep [pattern to search for in folder] - Foydalaniş: newGrep [jildda qidiriladigan namuna]
+Usage: search [pattern to search for in open files] - Foydalaniş: search [oçiq fayllarda qidiriladigan namuna]
+Usage: pgrep [pattern to search for in current project] - Foydalaniş: pgrep [joriy loyihada qidiriladigan namuna]
+Usage: newPGrep [pattern to search for in current project] - Foydalaniş: newPGrep [joriy loyihada qidiriladigan namuna]
+Usage: preg [regex pattern to search for in current project] - Foydalaniş: preg [joriy loyihada qidiriladigan regex namuna]
+Export Search Result Matches - Qidiruv natijalari mosliklarini eksport qiliş
+Export pattern: \0 for full match, \1,\2,.. for regular expression captures - Eksport namunasi: töliq moslik uçun \0, regex guruhlari uçun \1,\2,..
+Generate - Yaratiş
+Result - Natija
+<b><i>Generating file list: ...%1</i></b> - <b><i>Fayllar röyxati yaratilmoqda: ...%1</i></b>
+<b><i>One match found, searching: ...%2</i></b> - <b><i>Bitta moslik topildi, qidirilmoqda: ...%2</i></b>
+<b><i>One match found, searching: %2</i></b> - <b><i>Bitta moslik topildi, qidirilmoqda: %2</i></b>
+One checked - Bitta belgilangan
+<b><i>One match (%2) found in file</i></b> - <b><i>Faylda bitta moslik (%2) topildi</i></b>
+<b><i>One match (%2) found in open files</i></b> - <b><i>Oçiq fayllarda bitta moslik (%2) topildi</i></b>
+<b><i>One match (%3) found in folder %2</i></b> - <b><i>%2 jildida bitta moslik (%3) topildi</i></b>
+<b><i>One match (%4) found in project %2 (%3)</i></b> - <b><i>%2 (%3) loyihasida bitta moslik (%4) topildi</i></b>
+<b><i>One match (%3) found in all open projects (common parent: %2)</i></b> - <b><i>Barça oçiq loyihalarda bitta moslik (%3) topildi</i></b>
+Generating file list: ...%1 - Fayllar röyxati yaratilmoqda: ...%1
+One match found, searching: ...%2 - Bitta moslik topildi, qidirilmoqda: ...%2
+One match found, searching: %2 - Bitta moslik topildi, qidirilmoqda: %2
+One match (%2) found in file - Faylda bitta moslik (%2) topildi
+One match (%2) found in open files - Oçiq fayllarda bitta moslik (%2) topildi
+One match (%3) found in folder %2 - %2 jildida bitta moslik (%3) topildi
+One match (%4) found in project %2 (%3) - %2 (%3) loyihasida bitta moslik (%4) topildi
+One match (%3) found in all open projects (common parent: %2) - Barça oçiq loyihalarda bitta moslik (%3) topildi
+Filter… - Filtrlaş…
+Search in current tab; press and hold Ctrl to search in a new tab. - Joriy varaqda qidiriş; yangi varaqda qidiriş uçun Ctrl tugmasini bosib turing.
+Search - Qidiriş
+Replace Checked - Belgilanganlarni almaştiriş
+Next - Oldinga
+Stop - Töxtatiş
+Match case - Katta-kiçik harfni inobatga oliş
+<html><head/><body><p>Enable regular expressions. Find help for regex syntax by using the buttons in the search and replace text fields.</p></body></html> - <html><head/><body><p>Muntazam ifodalarni (regex) yoqiş.</p></body></html>
+Expand results - Natijalarni yoyiş
+... - ...
+Replace - Almaştiriş
+In Current File - Joriy faylda
+In Open Files - Oçiq fayllarda
+In Folder - Jildda
+Use the current document's path. - Joriy hujjatning yölidan foydalaniş.
+Show more search options - Qöşimça qidiruv parametrlarini körsatiş
+Add new search tab - Yangi qidiruv varağini qöşiş
+Folder: - Jild:
+Go one folder up. - Bitta jild yuqoriga.
+Filter: - Filtr:
+* - *
+Exclude: - Istisno qiliş:
+Recursive - Rekursiv
+Include hidden - Yaşirin fayllarni kiritiş
+Follow symbolic links - Belgili havolalarga ergaşiş
+Include binary files - Ikkilik (binary) fayllarni kiritiş
+MB -  Mb
+Size limit - Hajm çeklovi
+Line break - Qator uzilişi
+Tab - Tabulyatsiya (Tab)
+Beginning of line - Satrning boşi
+End of line - Satrning oxiri
+Any single character (excluding line breaks) - Har qanday bitta belgi (qator uzilişlaridan taşqari)
+Literal dot - Oddiy nuqta
+One or more occurrences - Bir yoki undan köp takrorlaniş
+Zero or more occurrences - Nol yoki undan köp takrorlaniş
+Zero or one occurrences - Nol yoki bitta takrorlaniş
+<a> through <b> occurrences - <a> dan <b> gaça takrorlanişlar
+Group, capturing - Guruh, uşlab qoluvçi
+Or - Yoki
+Set of characters - Belgilar töplami
+Negative set of characters - Manfiy belgilar töplami
+Group, non-capturing - Guruh, uşlab qolmaydigan
+Lookahead - Oldindan qaraş (Lookahead)
+Negative lookahead - Manfiy oldindan qaraş
+Word boundary - Söz çegarasi
+Not word boundary - Söz çegarasi bölmagan
+Digit - Son
+Non-digit - Raqam bölmagan belgi
+Whitespace (excluding line breaks) - Böş joy belgisi
+Non-whitespace (excluding line breaks) - Böş joy bölmagan belgi
+Word character (alphanumerics plus '_') - Söz belgisi (harflar, raqamlar va '_')
+Non-word character - Söz bölmagan belgi
+Regular expression capture 0 (whole match) - Muntazam ifoda tutqiçi 0 (töliq moslik)
+Regular expression capture 1-9 - Muntazam ifoda tutqiçi 1-9
+Regular expression capture 0-999 - Muntazam ifoda tutqiçi 0-999
+Upper-cased capture 0-9 - Katta harfli uşlaş 0-9
+Upper-cased capture 0-999 - Katta harfli uşlaş 0-999
+Lower-cased capture 0-9 - Kiçik harfli uşlaş 0-9
+Lower-cased capture 0-999 - Kiçik harfli uşlaş 0-999
+Search & Replace - Qidiriş va almaştiriş
+Find in Files - Fayllardan qidiriş
+Find in Files (in a New Tab) - Fayllardan qidiriş (yangi varaqda)
+Go to Next Match - Keyingi moslikka ötiş
+Go to Previous Match - Oldingi moslikka ötiş
+Cut Matching Lines - Mos keluvçi qatorlarni qirqib oliş
+This will cut all highlighted search match lines from the current document to the clipboard - Bu joriy hujjatdagi barça ajratilgan qidiruv mosliklari qatorlarini qirqib oladi
+Copy Matching Lines - Mos keluvçi qatorlardan nusxa oliş
+This will copy all highlighted search match lines in the current document to the clipboard - Bu joriy hujjatdagi barça ajratilgan qidiruv mosliklari qatorlarini vaqtinçalik xotiraga nusxalaydi
+Comma separated list of file types to search in. Example: "*.cpp,*.h" - Qidiriladigan fayl turlari röyxati (vergul bilan ajratilgan). Masalan: "*.cpp,*.h"
+Comma separated list of wildcard patterns to match files or directory names to exclude from the search.
+Example: "build*"
+If the pattern contains a '/', the whole path is checked for a match. - Qidiruvdan çiqarib taşlanadigan fayl yoki jild nomlari namunalari.
+Click to filter through results - Natijalar böyiça filtrlaş uçun bosing
+Find - Qidiriş
+Search was not started as directory '%1' to search in doesn't exist. - Qidiriladigan '%1' jildi mavjud bölmagani uçun qidiruv boşlanmadi.
+Searching while you type was interrupted. It would have taken too long. - Yoziş davomida qidiriş töxtatildi. Bu juda köp vaqt olgan bölardi.
+Search Match - Qidiruv mosligi
+Next from cursor - Kursordan keyingisi
+Starting from first match - Birinçi moslikdan boşlanmoqda
+Continuing from first match - Birinçi moslikdan davom ettirilmoqda
+Starting from last match - Oxirgi moslikdan boşlanmoqda
+Continuing from last match - Oxirgi moslikdan davom ettirilmoqda
+Search: %1 - Qidiruv: %1
+Copy all - Barçasidan nusxa oliş
+Copy expanded - Yoyilganidan nusxa oliş
+Export matches - Mosliklarni eksport qiliş
+Transform and export search matches using a replacement pattern. To export the whole matches, use \0. To export regular expression captures, use \1,\2,... The other text in the pattern is returned in the export results. - Qidiruv mosliklarini almaştiriş namunasi yordamida eksport qiliş.
+Open as Editor Tab - Muharrir varaği sifatida oçiş
+Clear - Tozalaş
+Clear history - Tarixni tozalaş
+Add... - Qöşiş...
+Search As You Type - Yozgan sari qidiriş
+In Current Project - Joriy loyihada
+In All Open Projects - Barça oçiq loyihalarda
+&Edit - &Tahrirlaş
+Find in Files Variants - Fayllardan qidiriş variantlari

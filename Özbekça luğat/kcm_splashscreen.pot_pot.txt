@@ -1,0 +1,10 @@
+Source text - Tarjima text
+None - Heç qanday
+No splash screen will be shown - Heç qanday yuklaniş ekrani körsatilmaydi
+You cannot delete the currently selected splash screen - Hozir tanlangan yuklaniş ekranini öçira olmaysiz
+Name of the current splash theme - Joriy yuklaniş mavzusi nomi
+&Get New… - &Yangi yuklab oliş…
+Preview splash screen - Yuklaniş ekranini körib çiqiş
+Remove splash screen - Yuklaniş ekranini olib taşlaş
+Cannot delete the active splash screen - Faol yuklaniş ekranini öçirib bölmaydi
+Cannot delete system-installed splash screens - Tizim tomonidan örnatilgan yuklaniş ekranlarini öçirib bölmaydi

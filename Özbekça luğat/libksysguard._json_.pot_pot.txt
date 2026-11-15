@@ -1,0 +1,12 @@
+Bar Chart - Gistogramma
+Color Grid - Ranglar töri
+Grid - Tör
+Horizontal Bars - Gorizontal ustunlar
+Line Chart - Çiziqli diagramma
+Pie Chart - Doiraviy diagramma (sektorli)
+Text Only - Faqat matn
+Kai Uwe Broulik - Kai Uwe Broulik
+Arjen Hiemstra - Arjen Hiemstra
+Marco Martin - Marco Martin
+Stats of per-process GPU resources for AMD cards - AMD kartalari uçun jarayonlar böyiça GPU resurslari statistikasi
+Per-application network usage - Har bir ilova böyiça tarmoqdan foydalaniş

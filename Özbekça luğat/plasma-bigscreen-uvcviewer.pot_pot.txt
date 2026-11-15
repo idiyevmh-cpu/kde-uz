@@ -1,0 +1,4 @@
+Select Media Device - Media qurilmani tanlang
+No video devices found - Video qurilmalari topilmadi
+Plasma Bigscreen UVC Viewer - Plasma Bigscreen UVC tomoşa qilgiçi
+Bigscreen UVC Viewer - Bigscreen UVC tomoşa qilgiçi

@@ -1,0 +1,7 @@
+Source text - Tarjima text
+Gwenview - Gwenview
+Image Viewer - Rasmlarni köruvçi
+A simple image viewer - Oddiy rasm köruvçi dastur
+Download Photos with Gwenview - Gwenview yordamida rasmlarni yuklab oliş
+Gwenview Importer - Gwenview import vositasi
+Gwenview Image Viewer - Gwenview rasm köruvçisi

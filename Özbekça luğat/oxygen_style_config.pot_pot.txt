@@ -1,0 +1,62 @@
+Oxygen Settings - Oxygen sozlamalari
+Focus, mouseover and widget state transition - Fokus, siçqonça ötişi va vidjet holati ötişi
+Configure widgets' focus and mouseover highlight animation, as well as widget enabled/disabled state transition - Vidjetlarning fokus va siçqonça ustiga borgandagi ajratib körsatiş animatsiyasini, şuningdek vidjetning yoqilgan/öçirilgan holati ötişini sozlaş
+Toolbar highlight - Asboblar paneli ajratib körsatilişi
+Configure toolbars' mouseover highlight animation - Asboblar panellarining siçqonça borgandagi animatsiyasini sozlaş
+Menu bar highlight - Menyu paneli ajratib körsatilişi
+Configure menu bars' mouseover highlight animation - Menyu panellarining siçqonça ustiga borgandagi animatsiyasini sozlaş
+Menu highlight - Menyu ajratib körsatilişi
+Configure menus' mouseover highlight animation - Menyularning siçqonça ustiga borgandagi animatsiyasini sozlaş
+Progress bar animation - Jarayon paneli animatsiyasi
+Configure progress bars' steps animation - Jarayon panellarining qadamlar animatsiyasini sozlaş
+Tab transitions - Varaqlar ötişi
+Configure fading transition between tabs - Varaqlar orasidagi söniş ötişini sozlaş
+Label transitions - Yorliqlar ötişi
+Configure fading transition when a label's text is changed - Yorliq matni özgargandagi söniş ötişini sozlaş
+Text editor transitions - Matn muharriri ötişlari
+Configure fading transition when an editor's text is changed - Muharrir matni özgargandagi söniş ötişini sozlaş
+Combo box transitions - Oçiluvçi röyxat (combo box) ötişlari
+Configure fading transition when a combo box's selected choice is changed - Oçiluvçi röyxat tanlovi özgargandagi söniş ötişini sozlaş
+Progress bar busy indicator - Jarayon paneli bandlik indikatori
+Configure progress bars' busy indicator animation - Jarayon panellarining bandlik indikatori animatsiyasini sozlaş
+Frame - Freym
+Animation type: - Animatsiya turi:
+Fade - Söniş
+Follow Mouse - Siçqonçaga ergaşiş
+Fade duration: - Söniş davomiyligi:
+Follow mouse duration: - Siçqonçaga ergaşiş davomiyligi:
+ ms -  ms
+Dialog - Dialog oynasi
+General - Umumiy
+Drag windows from titlebar only - Oynalarni faqat sarlavha panelidan sudrab köçiriş
+Drag windows from titlebar, menubar and toolbars - Oynalarni sarlavha, menyu va asboblar panellaridan sudrab köçiriş
+Drag windows from all empty areas - Oynalarni barça böş joylardan sudrab köçiriş
+Keyboard accelerators visibility: - Klaviatura tezlatgiçlarining körinuvçanligi:
+Always hide - Har doim yaşiriş
+Show when Alt key is pressed - Alt tugmasi bosilganda körsatiş
+Always show - Har doim körsatiş
+Windows' &drag mode: - Oynalarni &sudrab köçiriş rejimi:
+Draw toolbar item separators - Asboblar paneli elementlari ajratgiçlarini çiziş
+Enable extended resize handles - Kengaytirilgan ölçam özgartiriş dastaklarini yoqiş
+Draw window background gradient - Oyna foni gradientini çiziş
+Animations - Animatsiya
+Views - Körinişlar
+Draw tree branch lines - Daraxt şoxlari çiziqlarini çiziş
+&Tree expander size: - &Daraxt yoyuvçi ölçami:
+Tiny - &Juda kiçik
+Small - &Kiçik
+Normal - Oddiy
+Draw focus indicator in lists - Röyxatlarda fokus indikatorini çiziş
+Scrollbars - Aylantiriş çiziqlari
+Scrollbar wi&dth: - Aylantiriş çiziği &kengligi:
+px - px
+Top arrow button type: - Yuqori strelka tugmasi turi:
+Bottom arrow button type: - Pastki strelka tugmasi turi:
+No buttons - Tugmalarsiz
+One button - Bitta tugma
+Two buttons - Ikkita tugma
+No button - Tugmasiz
+Menu Highlight - Menyuni ajratib körsatiş
+Use dar&k color - Tö&q rangdan foydalaniş
+&Use selection color (plain) - &Tanlaş rangidan foydalaniş (oddiy)
+Use selec&tion color (subtle) - Tan&laş rangidan foydalaniş (nozik)

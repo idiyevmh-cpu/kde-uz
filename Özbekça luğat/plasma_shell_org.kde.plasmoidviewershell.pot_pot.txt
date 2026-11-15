@@ -1,0 +1,95 @@
+Copy to Clipboard - Almaşiş buferiga nusxalaş
+View Error Details… - Xatolik tafsilotlarini köriş…
+Open %1 - %1 ni oçiş
+About - &Haqida
+Send an email to %1 - %1 ga elektron xat yuboriş
+Open website %1 - %1 veb-saytini oçiş
+Copyright - Mualliflik huquqi
+License: - Litsenziya:
+View license text - Litsenziya matnini köriş
+Authors - Mualliflar
+Credits - Minnatdorçilik
+Translators - Tarjimonlar
+Report a Bug… - Xato haqida xabar beriş…
+Keyboard Shortcuts - Klaviatura tezkor tugmalari
+Apply Settings - Moslamalarni qöllaş
+The current page has unsaved changes. Apply the changes or discard them? - Joriy sahifada saqlanmagan özgarişlar bor. Özgarişlar qöllansinmi yoki bekor qilinsinmi?
+OK - OK
+Apply - Qöllaş
+Cancel - &Bekor qiliş
+Open configuration page - Sozlaş sahifasini oçiş
+Left-Button - Çap tugma
+Right-Button - Öng tugma
+Middle-Button - Örta tugma
+Back-Button - Orqaga tugmasi
+Forward-Button - Oldinga tugmasi
+Vertical-Scroll - Vertikal aylantiriş
+Horizontal-Scroll - Gorizontal aylantiriş
+Shift - Shift
+Ctrl - Ctrl
+Alt - Alt
+Meta - Meta
++ - +
+About - &Haqida
+Add Action - Amal qöşiş
+Layout changes have been restricted by the system administrator - Joylaşuvni özgartiriş tizim administratori tomonidan çeklangan
+Layout: - Joylaşuv:
+Wallpaper type: - Fon rasmi turi:
+Get New Plugins… - Yangi plaginlarni oliş…
+Layout changes must be applied before other changes can be made - Boşqa özgarişlarni amalga oşirişdan oldin joylaşuv özgarişlari qöllanişi kerak
+Apply Now - Hozir qöllaş
+Shortcuts - Tugmalar birikmasi
+This shortcut will activate the applet as though it had been clicked. - Bu yorliq apletni bosilgandek faollaştiradi.
+Wallpaper - Fon rasmi
+Mouse Actions - Siçqonça amallari
+Input Here - Bu yerga kiriting
+Panel Settings - Panel sozlamalari
+Add Spacer - Böş joy (ajratuvçi) qöşiş
+Add spacer widget to the panel - Panelga ajratuvçi vidjetini qöşiş
+Add Widgets… - Vidjetlar qöşiş…
+Open the widget selector to drag and drop widgets to the panel - Vidjetlarni panelga sudrab olib ötiş uçun vidjet tanlagiçni oçing
+Position - &Joylaşişi
+Top - Yuqorida
+Right - Öngga
+Left - Çapga
+Bottom - Pastda
+Set Position… - Joylaşuvni belgilaş…
+Alignment - Tekislaş
+Center - Markazda
+Height - Balandlik
+Width - Kenglik
+Fill height - Balandlikni töldiriş
+Fill width - Kenglikni töldiriş
+Fit content - Tarkibga moslaş
+Custom - Maxsus
+Visibility - Köriniş
+Always visible - Har doim körinadigan
+Auto hide - Avtomatik yaşiriş
+Dodge windows - Oynalarni çetlab ötiş (Dodge)
+Windows Go Below - Oynalar pastga ötadi
+Opacity - Şaffoflik
+Adaptive - Moslaşuvçan
+Opaque - Nuri ötmas (Opaque)
+Translucent - Yarim şaffof
+Style - Uslub
+Floating - Suzib yuruvçi (Floating)
+Panel Width: - Panel kengligi:
+Height: - Balandlik:
+Focus shortcut: - Fokus tezkor tugmasi:
+Press this keyboard shortcut to move focus to the Panel - Fokusni panelga ötkaziş uçun uşbu klaviatura tezkor tugmasini bosing
+Delete Panel - Panelni öçiriş
+Remove this panel; this action is undo-able - Uşbu panelni olib taşlaş; bu amalni bekor qiliş mumkin
+FormFactors - Şakl omillari (FormFactors)
+Planar - Tekis (Planar)
+Vertical - Vertikal
+Horizontal - Gorizontal
+Mediacenter - Mediamarkaz
+Application - Dastur
+Location - Joylaşuv
+Desktop - Iş stoli
+Fullscreen - &Butun ekranga
+Top Edge - Yuqori qirra
+Bottom Edge - Pastki qirra
+Left Edge - Çap qirra
+Right Edge - Öng qirra
+Configure Containment - Konteynerni sozlaş

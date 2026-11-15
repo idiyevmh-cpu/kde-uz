@@ -1,0 +1,33 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+Launch - Işga tuşiriş
+Window Management - Oynalarni boşqariş
+Plasma Workspace - Plasma iş maydoni
+Error while saving shortcut %1: %2 - %1 tezkor tugmasini saqlaşda xatolik: %2
+Error while communicating with the global shortcuts service - Global tezkor tugmalar xizmati bilan aloqada xatolik yuz berdi
+Resolve Shortcut Conflict - Tezkor tugmalar töqnaşuvini hal qiliş
+Reassign - Qayta tayinlaş
+Applications - Ilovalar
+Commands - Buyruqlar
+System Services - Tizim xizmatlari
+Common Actions - Umumiy amallar
+Import… - Import qiliş…
+Export… - Eksport qiliş…
+Add New - Yangi qöşiş
+Command or Script… - Buyruq yoki skript…
+Export Shortcut Scheme - Tezkor tugmalar sxemasini eksport qiliş
+Import Shortcut Scheme - Tezkor tugmalar sxemasini import qiliş
+Edit Command - Buyruqni tahrirlaş
+Add Command - Buyruq qöşiş
+Save - Saqlaş
+Enter a command or choose a script file: - Buyruqni kiriting yoki skript faylini tanlang:
+Command: - Buyruq:
+Choose… - Tanlaş…
+Name: - Nomi:
+Editing shortcut: %1 - Tezkor tugmani tahrirlaş: %1
+No active shortcuts - Faol tezkor tugmalar yöq
+Default shortcut - Standart tezkor tugma
+Custom shortcuts - Maxsus tezkor tugmalar
+Delete shortcut - Tezkor tugmani öçiriş
+Add custom shortcut - Maxsus tezkor tugma qöşiş

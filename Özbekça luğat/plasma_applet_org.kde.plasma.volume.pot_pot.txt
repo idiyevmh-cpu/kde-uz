@@ -1,0 +1,49 @@
+Currently not recording - Hozirda yozilmayapti
+Currently not playing - Hozirda ijro etilmayapti
+%1 - %1
+Additional Options - Qöşimça parametrlar
+Show additional options for %1 - %1 uçun qöşimça parametrlarni körsatiş
+Unmute - Ovozni yoqiş
+Mute - Tovuşsiz
+Unmute %1 - %1 ovozini yoqiş
+Mute %1 - %1 ovozini öçiriş
+Adjust volume for %1 - %1 uçun ovoz balandligini sozlaş
+%1% - %1%
+100% - 100%
+Test… - Sinaş…
+Audio Volume - Ovoz balandligi
+Connection to the Sound Service Lost - Tovuş xizmati bilan aloqa uzildi
+No output or input devices found - Çiqariş yoki kiritiş qurilmalari topilmadi
+Trying to reconnect… - Qayta ulanişga urinilmoqda…
+Audio Muted - Ovoz öçirilgan
+Volume at %1% - Tovuş %1%
+Middle-click to unmute - Ovozni yoqiş uçun siçqonçaning örta tugmasini bosing
+Middle-click to mute all audio - Barça ovozlarni öçiriş uçun siçqonçaning örta tugmasini bosing
+Scroll to adjust volume - Ovoz balandligini sozlaş uçun aylantiring
+Device name not found - Qurilma nomi topilmadi
+Devices - Qurilmalar
+Applications - Dasturlar
+More actions - Köproq amallar
+Keep open - Oçiq qoldiriş
+Retry - Qaytadan uriniş
+No applications playing or recording audio - Audio ijro etayotgan yoki yozib olayotgan ilovalar yöq
+Output Devices - Çiqariş qurilmalari
+Output Streams - Çiqariş oqimlari
+Input Devices - Kiritiş qurilmalari
+Input Streams - Kiritiş oqimlari
+Prolonged use of this feature will damage the device's speakers. Only use it temporarily to make quiet media audible. - Uşbu xususiyatdan uzoq vaqt foydalaniş qurilma karnaylariga zarar yetkazadi. Undan faqat past ovozli mediani eşitiladigan qiliş uçun vaqtinça foydalaning.
+Raise maximum volume - Maksimal ovoz balandligini oşiriş
+Force mute all playback devices - Barça ijro etiş qurilmalari ovozini majburan öçiriş
+Force mute all input devices - Barça kiritiş qurilmalari ovozini majburan öçiriş
+Show virtual devices - Virtual qurilmalarni körsatiş
+&Configure Audio Devices… - &Audio qurilmalarini sozlaş…
+Stop - Töxtatiş
+Record - Yozib oliş
+Stop - Töxtatiş
+Play - Öynaş
+Volume level - Ovoz balandligi darajasi
+%1 % - %1 %
+Sensitivity - Sezgirlik
+Back - Orqaga
+Microphone test error:<nl/><nl/>%1 - Mikrofonni sinaş xatosi:<nl/><nl/>%1
+Stream name not found - Oqim nomi topilmadi

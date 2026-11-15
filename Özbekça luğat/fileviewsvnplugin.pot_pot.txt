@@ -1,0 +1,88 @@
+SVN Update - SVN Yangilaş
+Show Local SVN Changes - Mahalliy SVN özgarişlarini körsatiş
+SVN Commit... - Izohni qöşiş...
+SVN Add - SVN Qöşiş
+SVN Delete - Öçiriş
+SVN Revert - SVN Qaytariş
+Show SVN Updates - SVN yangilanişlarini körsatiş
+SVN Log... - SVN Jurnali...
+SVN Checkout... - SVN Tekşirib oliş...
+SVN Cleanup... - SVN Tozalaş...
+SVN status update failed. Disabling Option "Show SVN Updates". - SVN holatini yangilab bölmadi. "SVN yangilanişlarini körsatiş" öçirilmoqda.
+SVN Update - SVN Yangilaş
+Updating SVN repository... - SVN ombori yangilanmoqda...
+Update of SVN repository failed. - SVN omborini yangilaş muvaffaqiyatsiz tugadi.
+Updated SVN repository. - SVN ombori yangilandi.
+Could not show local SVN changes. - Mahalliy SVN özgarişlarini körsatib bölmadi.
+Could not show local SVN changes: svn diff failed. - Mahalliy SVN özgarişlarini körsatib bölmadi: svn diff bajarilmadi.
+Could not show local SVN changes: could not start kompare. - Mahalliy SVN özgarişlarini körsatib bölmadi: kompare işga tuşirilmadi.
+Adding files to SVN repository... - Fayllar SVN omboriga qöşilmoqda...
+Adding of files to SVN repository failed. - Fayllarni SVN omboriga qöşiş muvaffaqiyatsiz tugadi.
+Added files to SVN repository. - Fayllar SVN omboriga qöşildi.
+Removing files from SVN repository... - Fayllar SVN omboridan olib taşlanmoqda...
+Removing of files from SVN repository failed. - Fayllarni SVN omboridan olib taşlaş muvaffaqiyatsiz tugadi.
+Removed files from SVN repository. - Fayllar SVN omboridan olib taşlandi.
+SVN Revert - SVN Qaytariş
+Reverting files from SVN repository... - Fayllar SVN omboridan qaytarilmoqda...
+Reverting of files from SVN repository failed. - Fayllarni SVN omboridan qaytariş muvaffaqiyatsiz tugadi.
+Reverted files from SVN repository. - Fayllar SVN omboridan asl holatiga qaytarildi.
+SVN checkout: checkout in process... - SVN tekşirib oliş jarayonda...
+SVN error starting: %1 - SVN işga tuşiş xatosi: %1
+SVN checkout: checkout failed: %1 - SVN tekşirib oliş muvaffaqiyatsiz tugadi: %1
+SVN checkout: checkout successful. - SVN tekşirib oliş muvaffaqiyatli yakunlandi.
+SVN Checkout - SVN Tekşirib oliş
+Reverting changes to file... - Fayldagi özgarişlar bekor qilinmoqda...
+Revert file failed. - Faylni qaytariş muvaffaqiyatsiz tugadi.
+File reverted. - Fayl asl holatiga qaytarildi.
+Could not show local SVN changes for a file: could not get file. - Fayl uçun mahalliy SVN özgarişlarini körsatib bölmadi: fayl olinmadi.
+Commit of SVN changes failed. - SVN özgarişlarini kommit qiliş muvaffaqiyatsiz tugadi.
+SVN Commit - Izohni qöşiş...
+Committing SVN changes... - SVN özgarişlari kommit qilinmoqda...
+Committed SVN changes. - SVN özgarişlari kommit qilindi.
+Show updates - Yangilanişlarni körsatiş
+Choose a directory to checkout - Tekşirib oliş uçun jildni tanlang
+SVN Checkout - SVN Tekşirib oliş
+URL of repository: - Ombor URL manzili:
+Checkout directory: - Tekşirib oliş (checkout) jildi:
+Omit externals - Taşqi elementlarni tuşirib qoldiriş
+OK - OK
+Cancel - &Bekor qiliş
+Choose a directory to clean up - Tozalaş uçun jildni tanlang
+SVN clean up completed successfully. - SVN tozalaş muvaffaqiyatli yakunlandi.
+SVN clean up failed for %1 - %1 uçun SVN tozalaş muvaffaqiyatsiz tugadi
+SVN Cleanup... - SVN Tozalaş...
+Clean up directory: - Jildni tozalaş:
+Delete unversioned files and directories - Versiyalanmagan fayl va jildlarni öçiriş
+Delete ignored files and directories - Eʼtiborsiz qoldirilgan fayl va jildlarni öçiriş
+Include externals - Taşqi elementlarni kiritiş
+Description: - Taʼrifi
+Refresh - Yangilaş
+Commit - Izohni qöşiş...
+Revert - &Teskarisi
+Show changes - Özgarişlarni körsatiş
+Add file - Fayl qöşiş
+Path - Qöyiş
+Status - Holati
+Unversioned - Versiyalanmagan
+Modified - Özgargan:
+Added - Qöşildi
+Deleted - Öçirilgan
+Conflict - Ziddiyat (konflikt)
+Missing - Yetişmayapti
+Update required - Yangilaş talab qilinadi
+Update to revision - Versiyaga yangilaş
+Revert to revision - Versiyaga (reviziyaga) qaytariş
+Show changes - Özgarişlarni körsatiş
+Changes against working copy - Işçi nusxaga nisbatan özgarişlar
+SVN log: update to revision failed. - SVN jurnali: versiyaga yangilaş muvaffaqiyatsiz tugadi.
+SVN log: update to revision %1 successful. - SVN jurnali: %1 versiyasiga muvaffaqiyatli yangilandi.
+SVN log: revert to revision failed. - SVN jurnali: versiyaga qaytariş muvaffaqiyatsiz tugadi.
+SVN log: revert to revision %1 successful. - SVN jurnali: %1 versiyasiga muvaffaqiyatli qaytarildi.
+SVN Log - SVN Jurnali
+Revision - Versiya (reviziya)
+Author - Muallif
+Date - Yangilaş
+Message - &Xabar
+Next 100 - Keyingi 100 ta
+Refresh - Yangilaş
+Error starting: %1 - Işga tuşirişda xato: %1

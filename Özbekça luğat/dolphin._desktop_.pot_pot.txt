@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Icons - Belgilar
+Compact - Qisqaça (Ixçam)
+Details - Tafsilotlar
+Dolphin - Dolphin
+File Manager - Fayl boşqaruvçisi
+Manage your files - Fayllaringizni boşqaring
+files;file management;file browsing;samba;network shares;Explorer;Finder; - fayllar;fayllarni boşqariş;fayllarni köriş;samba;tarmoq papkalari;Explorer;Finder;

@@ -1,0 +1,11 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Pairing request from %1
+Key: %2 - %1 dan juftlaş sörovi
+Kalit: %2
+Open - Oçiş
+Accept - Qabul qiliş
+Reject - Rad etiş
+KDE Connect Daemon - KDE Connect demoni
+© 2015–2025 KDE Connect Team - © 2015–2025 KDE Connect jamoasi
+Replace an existing instance - Mavjud nusxani almaştiriş

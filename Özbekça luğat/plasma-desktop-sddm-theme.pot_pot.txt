@@ -1,0 +1,16 @@
+Keyboard Layout: %1 - Klaviatura terilmasi: %1
+Username - Foydalanuvçi nomi
+Password - Parol
+Log in - Kiriş
+Log In - Kiriş
+Caps Lock is on - Caps Lock yoqilgan
+Hibernate - Gipenatsiya
+Sleep - Kutiş rejimi
+Restart - Qayta işga tuşiriş
+Shut Down - Öçiriş
+Other… - Boşqa…
+Type in Username and Password - Foydalanuvçi nomi va parolni kiriting
+List Users - Foydalanuvçilar röyxati
+Virtual Keyboard - Virtual klaviatura
+Login Failed - Kiriş muvaffaqiyatsiz böldi
+Desktop Session: %1 - Iş stoli seansi: %1

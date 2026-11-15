@@ -1,0 +1,66 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Open Image - Rasmni oçiş
+Directory with the wallpaper to show slides from - Slaydlar körsatiladigan fon rasmlari jildi
+Positioning: - Joylaştiriş:
+Scaled and cropped - Masştablangan va qirqilgan
+Scaled - Masştablangan
+Scaled, keep proportions - Masştablangan, nisbatlarni saqlagan holda
+Centered - Markazlaştirilgan
+Switch dynamic wallpapers: - Dinamik fon rasmlarini almaştiriş:
+Based on whether the Plasma style is light or dark  - Plasma uslubi yoruğ yoki qoronği ekanligiga asoslangan 
+Based on the day-night cycle - Kun-tun davriga asoslangan
+Always use light variant - Har doim yoruğ variantdan foydalaniş
+Always use dark variant - Har doim qoronği variantdan foydalaniş
+Configure… - Sozlaş…
+Background: - Fon:
+Blur - Xiralaştiriş (Blur)
+Solid color - Bir xil rang
+Select Background Color - Fon rangini tanlang
+Open Wallpaper Image - Fon rasmini oçiş
+Images - Rasmlar
+Add… - Qöşiş…
+Add Wallpaper Image… - Fon rasmini qöşiş…
+Get New… - Yangilarini oliş…
+Get New Wallpaper Images… - Yangi fon rasmlarini oliş…
+Select All - Hammasini tanlaş
+Select All Slides - Barça slaydlarni tanlaş
+Select None - Heç birini tanlamaslik
+Unselect All Slides - Barça slaydlardan tanlovni olib taşlaş
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Restore wallpaper - Fon rasmini qayta tiklaş
+Remove Wallpaper - Fon rasmini olib taşlaş
+This tool allows you to set an image as the wallpaper for the Plasma session. - Uşbu vosita Plasma seansi uçun rasmni fon rasmi sifatida örnatiş imkonini beradi.
+An image file or an installed wallpaper kpackage that you wish to set as the wallpaper for your Plasma session - Plasma seansingiz uçun fon rasmi sifatida örnatmoqçi bölgan rasm fayli yoki örnatilgan kpackage fon rasmi
+Specify the fill mode (e.g., stretch, preserveAspectCrop, etc.) - Töldiriş rejimini belgilang (masalan, stretch, preserveAspectCrop va h.k.)
+There is a stray single quote in the filename of this wallpaper (') - please contact the author of the wallpaper to fix this, or rename the file yourself: %1 - Uşbu fon rasmi fayl nomida adaşgan yakka tirnoq belgisi (') mavjud — iltimos, buni tuzatiş uçun fon rasmi muallifi bilan boğlaning yoki fayl nomini özingiz özgartiring: %1
+Invalid fill mode specified: %1 - Yaroqsiz töldiriş rejimi körsatilgan: %1
+An error occurred while attempting to set the Plasma wallpaper:\n - Plasma fon rasmini örnatişga urinişda xatolik yuz berdi:\n
+Successfully set the wallpaper for all desktops to the KPackage based %1 - Barça iş stollari uçun fon rasmi KPackage asosidagi %1 ga muvaffaqiyatli örnatildi
+Successfully set the wallpaper for all desktops to the image %1 - Barça iş stollari uçun fon rasmi %1 rasmiga muvaffaqiyatli örnatildi
+The file passed to be set as wallpaper does not exist, or we cannot identify it as a wallpaper: %1 - Fon rasmi sifatida örnatiş uçun berilgan fayl mavjud emas yoki uni fon rasmi sifatida aniqlab bölmadi: %1
+Next Wallpaper Image - Keyingi fon rasmi
+Media Files - Media fayllari
+Order: - Tartib:
+Random - Tasodifiy
+A to Z - A dan Z gaça
+Z to A - Z dan A gaça
+Date modified (newest first) - Özgartirilgan sana (avval yangilari)
+Date modified (oldest first) - Özgartirilgan sana (avval eskilar)
+Group by folders - Jildlar böyiça guruhlaş
+Change every: - Har qançada özgartiriş:
+%1 hour - %1 soat
+%1 minute - %1 daqiqa
+%1 second - %1 soniya
+Set all times to 0 to disable automatic wallpaper changing. You can still change wallpapers manually with the <interface>Next Wallpaper Image</interface> menu item in the desktop context menu. - Fon rasmining avtomatik özgarişini öçirib qöyiş uçun barça vaqtlarni 0 ga örnating. Siz hali ham iş stoli kontekst menyusidagi <interface>Keyingi fon rasmi</interface> menyu bandi orqali fon rasmlarini qölda özgartirişingiz mumkin.
+Folders - Jildlar
+Add Folder… - Jild qöşiş…
+Remove Folder - Jildni olib taşlaş
+Open Folder… - Jildni oçiş…
+There are no wallpaper locations configured - Fon rasmi joylaşuvlari sozlanmagan
+Set as Wallpaper - Fon rasmi sifatida örnatiş
+Desktop - Iş stoli
+Lockscreen - Qulflaş ekrani
+Both - Ikkalasi ham
+An error occurred while attempting to set the Plasma wallpaper:<nl/>%1 - Plasma fon rasmini örnatişga urinişda xatolik yuz berdi:<nl/>%1
+An error occurred while attempting to open kscreenlockerrc config file. - kscreenlockerrc sozlaş faylini oçişga urinişda xatolik yuz berdi.

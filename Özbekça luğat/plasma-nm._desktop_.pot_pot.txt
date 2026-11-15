@@ -1,0 +1,21 @@
+Source text - Tarjima text
+Network Management - Tarmoq boşqaruvi
+Network management - Tarmoqni boşqariş
+Connection Activated - Ulaniş faollaşdi
+Connection Deactivated - Ulaniş nofaol böldi
+Connection Added - Ulaniş qöşildi
+Connection Removed - Ulaniş öçirildi
+Connection Updated - Ulaniş yangilandi
+Device Failed - Qurilma xatosi
+Failed to Activate Connection - Ulanişni faollaştirib bölmadi
+Failed to Add Connection - Ulanişni qöşib bölmadi
+Failed to Deactivate Connection - Ulanişni öçirib bölmadi
+Failed to Remove Connection - Ulanişni olib taşlab bölmadi
+Failed to Get Secrets - Maxfiy maʼlumotlarni (parollarni) olib bölmadi
+Failed to Update Connection - Ulanişni yangilab bölmadi
+Missing VPN Plugin - VPN plagini yetişmayapti
+No Longer Connected to a Network - Tarmoqqa ulaniş uzildi
+Captive Portal Detected - Avtorizatsiya portali (Captive Portal) aniqlandi
+Limited Connectivity - Çeklangan ulaniş
+Failed to Create Hotspot - Kiriş nuqtasi (Hotspot) yaratib bölmadi
+VPN Importer - VPN importçisi

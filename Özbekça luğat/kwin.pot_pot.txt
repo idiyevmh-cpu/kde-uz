@@ -1,0 +1,752 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Press right control to ungrab pointer - Körsatkiçni böşatiş uçun öng Ctrl tugmasini bosing
+Press right control key to grab pointer - Körsatkiçni uşlab oliş uçun öng Ctrl tugmasini bosing
+KDE Wayland Compositor %1 - KDE Wayland kompozitori %1
+- Output disabled - - Çiqiş öçirilgan
+- Output dimmed - - Çiqiş xiralaştirilgan
+Press right control to ungrab input - Kiritişni böşatiş uçun öng Ctrl tugmasini bosing
+Press right control key to grab input - Kiritişni uşlab oliş uçun öng Ctrl tugmasini bosing
+KDE Wayland Compositor - KDE Wayland kompozitori
+Graphics card “%1” (%2) was reset - “%1” (%2) videokartasi qayta tiklandi
+Graphics card “%1” was reset - “%1” videokartasi qayta tiklandi
+Failed to open ICC profile "%1" - "%1" ICC profilini oçib bölmadi
+ICC profile "%1" doesn't exist - "%1" ICC profili mavjud emas
+ICC profile "%1" is not usable for displays - "%1" ICC profilidan displeylar uçun foydalanib bölmaydi
+ICC profile "%1" has unsupported connection space, only XYZ is supported - "%1" ICC profilida qöllab-quvvatlanmaydigan ulaniş fazosi mavjud, faqat XYZ qöllab-quvvatlanadi
+ICC profile "%1" is broken, input/output color space isn't RGB - "%1" ICC profili buzilgan, kiriş/çiqiş rang fazosi RGB emas
+ICC profile "%1" is broken, it has no whitepoint - "%1" ICC profili buzilgan, unda oq nuqta mavjud emas
+ICC profile "%1" is broken, its whitepoint is invalid - "%1" ICC profili buzilgan, uning oq nuqtasi yaroqsiz
+ICC profile "%1" is broken, parsing chromatic adaptation matrix failed - "%1" ICC profili buzilgan, xromatik moslaşuv matritsasini tahlil qilib bölmadi
+ICC profile "%1" is broken, inverting chromatic adaptation matrix failed - "%1" ICC profili buzilgan, xromatik moslaşuv matritsasini teskari ögirib bölmadi
+ICC profile "%1" is broken, its primaries are invalid - "%1" ICC profili buzilgan, uning asosiy ranglari yaroqsiz
+ICC profile "%1" is broken, it has no primaries - "%1" ICC profili buzilgan, unda asosiy ranglar mavjud emas
+ICC profile "%1" is broken, couldn't calculate its primaries - "%1" ICC profili buzilgan, uning asosiy ranglarini hisoblab bölmadi
+ICC profile "%1" with only BToD tags isn't supported - Faqat BToD teglariga ega "%1" ICC profili qöllab-quvvatlanmaydi
+Color profile is missing TRC tags - Rang profilida TRC teglari yetişmayapti
+Couldn't invert tone curves of ICC profile "%1" - "%1" ICC profilining ton egri çiziqlarini teskari ögirib bölmadi
+Timestamp - Vaqt belgisi
+Timestamp (µsec) - Vaqt belgisi (mks)
+Left - Çap
+Right - Öng
+Middle - Örta tugma
+Back - Orqaga
+Forward - Oldinga
+Task - Vazifa
+Extra Button 4 - Qöşimça tugma 4
+Extra Button 5 - Qöşimça tugma 5
+Extra Button 6 - Qöşimça tugma 6
+Extra Button 7 - Qöşimça tugma 7
+Extra Button 8 - Qöşimça tugma 8
+Extra Button 9 - Qöşimça tugma 9
+Extra Button 10 - Qöşimça tugma 10
+Extra Button 11 - Qöşimça tugma 11
+Extra Button 12 - Qöşimça tugma 12
+Extra Button 13 - Qöşimça tugma 13
+Extra Button 14 - Qöşimça tugma 14
+Extra Button 15 - Qöşimça tugma 15
+Extra Button 16 - Qöşimça tugma 16
+Extra Button 17 - Qöşimça tugma 17
+Extra Button 18 - Qöşimça tugma 18
+Extra Button 19 - Qöşimça tugma 19
+Extra Button 20 - Qöşimça tugma 20
+Extra Button 21 - Qöşimça tugma 21
+Extra Button 22 - Qöşimça tugma 22
+Extra Button 23 - Qöşimça tugma 23
+Extra Button 24 - Qöşimça tugma 24
+Input Device - Kiritiş qurilmasi
+Unknown - Nomaʼlum
+Pointer Motion - Körsatkiç harakati
+Delta - Siljiş
+Delta (not accelerated) - Siljiş (tezlaştirilmagan)
+Global Position - Global joylaşuv
+Pointer Button Press - Siçqonça tugmasini bosiş
+Button - Tugma
+Native Button code - Tugmaning quyi darajadagi kodi
+Pressed Buttons - Bosilgan tugmalar
+Pointer Button Release - Siçqonça tugmasini qöyib yuboriş
+Pointer Axis - Siçqonça ğildiragini aylantiriş
+Orientation - Yönaliş
+Horizontal - Gorizontal
+Vertical - Vertikal
+Delta - Siljiş
+Delta (V120) - Buriliş burçagi (V120)
+Key Press - Tugmani bosiş
+Key Release - Tugmani qöyib yuboriş
+Shift - Shift
+Control - Ctrl
+Alt - Alt
+Meta - Meta
+Keypad - Qöşimça raqamlar klaviaturasi (Keypad)
+Group-switch - Guruh almaştirgiçi
+Repeat - Takrorlaş
+Keycode - Tugma kodi
+Qt::Key code - Qt::Key kodi
+Xkb symbol - XKB belgisi
+Utf8 - UTF-8
+Modifiers - Modifikator tugmalar
+Touch down - Tegiş
+Point identifier - Nuqta identifikatori
+Global position - Global joylaşuv
+Touch Motion - Tegiş nuqtasi harakati
+Touch Up - Tegişni yakunlaş
+Pinch start - Çimçilaşni boşlaş
+Finger count - Barmoqlar soni
+Pinch update - Çimçilaşni yangilaş
+Scale - Massştab
+Angle delta - Burçak özgarişi
+Delta x - X böyiça siljiş
+Delta y - Y böyiça siljiş
+Pinch end - Çimçilaşni yakunlaş
+Pinch cancelled - Çimçilaşni bekor qiliş
+Swipe start - Surişni (swipe) boşlaş
+Finger count - Barmoqlar soni
+Swipe update - Surişni (swipe) yangilaş
+Delta x - X böyiça siljiş
+Delta y - Y böyiça siljiş
+Swipe end - Surişni (swipe) yakunlaş
+Swipe cancelled - Surişni (swipe) bekor qiliş
+Hold start - Uşlab turişni boşlaş
+Finger count - Barmoqlar soni
+Hold end - Uşlab turişni yakunlaş
+Hold cancelled - Uşlab turişni bekor qiliş
+Switch toggled - Almaştirgiç işga tuşdi
+Notebook lid - Noutbuk qopqoği
+Tablet mode - Planşet rejimi
+Switch - Almaştirgiç
+Off - Öçirilgan
+On - Yoqilgan
+State - Holati
+Tablet Tool Proximity - Stilus yaqinligi
+Proximity - Yaqinlik
+In - Kiriş
+Out - Çiqiş
+Position - Joylaşuvi
+Tilt - Oğiş
+Rotation - Buriş
+Distance - Masofa
+Tablet Tool Axis - Stilus öqi
+Pressure - Bosim
+Tablet Tool Tip - Stilus uçi
+Tip - Uçi
+Down - Pastga
+Up - Yuqoriga
+Slider Position - Slayder holati
+Tablet Tool Button - Stilus tugmasi
+Button - Tugma
+Pressed - Bosilgan
+Tablet - Planşet
+Tablet Pad Button - Planşet paneli tugmasi
+Group - Guruh
+Mode - Rejim
+Is Mode Switch - Rejim almaştirgiçi
+Tablet Pad Strip - Planşet sensorli çiziği
+Number - Raqam
+isFinger - Barmoq
+Tablet Pad Ring - Planşet sensorli halqasi
+Tablet Pad Dial - Planşet aylanma tugmasi
+Delta - Siljiş
+Effects - Effektlar
+No Mouse Buttons - Siçqonça tugmalari yöq
+left - çap
+right - öng
+middle - örta
+back - orqaga
+forward - oldinga
+extra 1 - qöşimça 1
+extra 2 - qöşimça 2
+extra 3 - qöşimça 3
+extra 4 - qöşimça 4
+extra 5 - qöşimça 5
+extra 6 - qöşimça 6
+extra 7 - qöşimça 7
+extra 8 - qöşimça 8
+extra 9 - qöşimça 9
+extra 10 - qöşimça 10
+extra 11 - qöşimça 11
+extra 12 - qöşimça 12
+extra 13 - qöşimça 13
+extra 14 - qöşimça 14
+extra 15 - qöşimça 15
+extra 16 - qöşimça 16
+extra 17 - qöşimça 17
+extra 18 - qöşimça 18
+extra 19 - qöşimça 19
+extra 20 - qöşimça 20
+extra 21 - qöşimça 21
+extra 22 - qöşimça 22
+extra 23 - qöşimça 23
+extra 24 - qöşimça 24
+task - vazifa
+X11 Windows - X11 oynalari
+X11 Unmanaged Windows - Boşqarilmaydigan X11 oynalari
+Wayland Windows - Wayland oynalari
+Internal Windows - Içki oynalar
+Unload - Yukni tuşiriş
+Load - Yuklaş
+Debug Console - Sozlaş (debug) konsoli
+Windows - Oynalar
+Pick Window… - Oynani tanlaş…
+Input Events - Kiritiş hodisalari
+Input Devices - Kiritiş qurilmalari
+OpenGL - OpenGL
+No OpenGL compositor running - OpenGL asosidagi kompozitor işlamayapti
+OpenGL (ES) driver information - OpenGL (ES) drayveri haqida maʼlumot
+Vendor: - Işlab çiqaruvçi:
+Renderer: - Renderlaş moduli:
+Version: - Versiyasi:
+Shading Language Version: - Şeyderlar tili versiyasi:
+Driver: - Drayver:
+GPU class: - Grafik protsessor sinfi:
+OpenGL Version: - OpenGL versiyasi:
+GLSL Version: - GLSL versiyasi:
+Platform Extensions - Platforma kengaytmalari
+OpenGL (ES) Extensions - OpenGL (ES) kengaytmalari
+Keyboard - Klaviatura
+Keymap Layouts - Klaviatura tartiblari
+Current Layout: - Joriy tartib:
+Modifiers - Modifikator tugmalar
+Active Modifiers - Faol modifikator tugmalar
+LEDs - LED indikatorlar
+Active LEDs - Faol LED indikatorlar
+Clipboard - Almaşiş buferi
+Primary Selection - Birlamçi tanlov
+Window Manager - Oyna boşqaruvçisi
+ID of resource belonging to the application - Ilovaga tegişli resurs identifikatori (ID)
+id - id
+Time of user action causing termination - Yakunlanişga sabab bölgan foydalanuvçi harakati vaqti
+time - vaqt
+The message to show (fullscreen, noborder) - Körsatiladigan xabar (töliq ekran, ramkasiz)
+KWin helper utility - KWin yordamçi vositasi
+This helper utility is not supposed to be called directly. - Bu yordamçi vositani töğridan-töğri işga tuşiriş közda tutilmagan.
+You have selected to show a window in fullscreen mode. If the application itself does not have an option to turn the fullscreen mode off you will not be able to disable it again using the mouse: use the %1 keyboard shortcut instead. - Siz oynani töliq ekran rejimida körsatişni tanladingiz. Agar ilovaning özida töliq ekran rejimini öçiriş imkoniyati bölmasa, uni siçqonça yordamida qayta öçira olmaysiz: buning örniga %1 klaviatura tezkor tugmasidan foydalaning.
+You have selected to show a window in fullscreen mode. If the application itself does not have an option to turn the fullscreen mode off you will not be able to disable it again using the mouse: use the window menu instead, activated using the %1 keyboard shortcut. - Siz oynani töliq ekran rejimida körsatişni tanladingiz. Agar ilovaning özida töliq ekran rejimini öçiriş imkoniyati bölmasa, uni siçqonça yordamida qayta öçira olmaysiz: buning örniga %1 klaviatura tezkor tugmasi orqali faollaştiriladigan oyna menyusidan foydalaning.
+You have selected to show a window in fullscreen mode. If the application itself does not have an option to turn the fullscreen mode off you will not be able to disable it again using the mouse. - Siz oynani töliq ekran rejimida körsatişni tanladingiz. Agar ilovaning özida töliq ekran rejimini öçiriş imkoniyati bölmasa, uni siçqonça yordamida qayta öçira olmaysiz.
+Undo Fullscreen - Töliq ekran rejimini bekor qiliş
+You have selected to show a window without its border. Without the border, you will not be able to enable the border again using the mouse: use the %1 keyboard shortcut instead. - Siz oynani çegarasiz (ramkasiz) körsatişni tanladingiz. Çegarasiz holatda uni siçqonça yordamida qayta yoqa olmaysiz: buning örniga %1 klaviatura tezkor tugmasidan foydalaning.
+You have selected to show a window without its border. Without the border, you will not be able to enable the border again using the mouse: use the window menu instead, activated using the %1 keyboard shortcut. - Siz oynani çegarasiz (ramkasiz) körsatişni tanladingiz. Çegarasiz holatda uni siçqonça yordamida qayta yoqa olmaysiz: buning örniga %1 klaviatura tezkor tugmasi orqali faollaştiriladigan oyna menyusidan foydalaning.
+You have selected to show a window without its border. Without the border, you will not be able to enable the border again using the mouse. - Siz oynani çegarasiz (ramkasiz) körsatişni tanladingiz. Çegarasiz holatda uni siçqonça yordamida qayta yoqa olmaysiz.
+Restore Border - Ramkani tiklaş
+Do not show again - Boşqa körsatilmasin
+<para><application>%1</application> is not responding. Do you want to terminate this application?</para><para><emphasis strong='true'>Terminating this application will close all of its windows. Any unsaved data will be lost.</emphasis></para> - <para><application>%1</application> ilovasi javob bermayapti. Uşbu ilova işini majburan yakunlaşni xohlaysizmi?</para><para><emphasis strong='true'>Uşbu ilova işini yakunlaş uning barça oynalarini yopadi. Barça saqlanmagan maʼlumotlar yöqoladi.</emphasis></para>
+<para>"%1" of <application>%2</application> is not responding. Do you want to terminate this application?</para><para><emphasis strong='true'>Terminating this application will close all of its windows. Any unsaved data will be lost.</emphasis></para> - <para><application>%2</application> ilovasining "%1" oynasi javob bermayapti. Uşbu ilova işini majburan yakunlaşni xohlaysizmi?</para><para><emphasis strong='true'>Uşbu ilova işini yakunlaş uning barça oynalarini yopadi. Barça saqlanmagan maʼlumotlar yöqoladi.</emphasis></para>
+Terminating %1… - %1 yakunlanmoqda…
+&Terminate %1 - %1 işini &yakunlaş
+&Wait Longer - Yana &kutiş
+Process ID: %1 - Jarayon identifikatori (PID): %1
+Host name: %1 - Xost nomi: %1
+Not Responding - Javob bermayapti
+&Details - &Tafsilotlar
+PID of the application to terminate - Yakunlanadigan ilovaning PID raqami
+pid - pid
+Hostname on which the application is running - Ilova işlayotgan xost nomi
+hostname - xost_nomi
+Caption of the window to be terminated - Yopiladigan oynaning sarlavhasi
+caption - sarlavha
+Name of the application to be terminated - Yakunlanadigan ilovaning nomi
+name - nomi
+Keyboard Layout Switcher - Klaviatura tartibini almaştirgiç
+Select window to force close with left click or enter. Escape or right click to cancel. - Majburiy yopiş uçun oynani siçqonçaning çap tugmasi yoki Enter bilan tanlang. Bekor qiliş uçun Escape yoki siçqonçaning öng tugmasini bosing.
+KWin - KWin
+KDE window manager - KDE oyna boşqaruvçisi
+(c) 1999-2019, The KDE Developers - (c) 1999-2019, KDE dasturçilari
+Matthias Ettrich - Matthias Ettrich
+Cristian Tibirna - Cristian Tibirna
+Daniel M. Duley - Daniel M. Duley
+Luboš Luňák - Luboš Luňák
+Martin Flöser - Martin Flöser
+David Edmundson - David Edmundson
+Roman Gilg - Roman Gilg
+Vlad Zahorodnii - Vlad Zahorodnii
+Xaver Hugl - Xaver Hugl
+Start a rootless Xwayland server. - Ildiz oynasiz (rootless) Xwayland serverini işga tuşiriş.
+Name of the Wayland socket to listen on. If not set "wayland-0" is used. - Ulanişlarni kutiş uçun Wayland soketi nomi. Agar körsatilmasa, "wayland-0" işlatiladi.
+The X11 Display to use in windowed mode on platform X11. - X11 platformasida oynali rejimda foydalaniş uçun X11 displeyi.
+The Wayland Display to use in windowed mode on platform Wayland. - Wayland platformasida oynali rejimda foydalaniş uçun Wayland displeyi.
+Render to a virtual framebuffer. - Virtual freymbuferga renderlaş.
+The width for windowed mode. Default width is 1024. - Oynali rejim uçun kenglik. Standart kenglik — 1024.
+The height for windowed mode. Default height is 768. - Oynali rejim uçun balandlik. Standart balandlik — 768.
+Whether or not to make windowed mode fullscreen - Oynali rejimni töliq ekranli qiliş yoki qilmaslik
+The scale for windowed mode. Default value is 1. - Oynali rejim uçun massştab. Standart qiymat — 1.
+The number of windows to open as outputs in windowed mode. Default value is 1 - Oynali rejimda çiqiş sifatida oçiladigan oynalar soni. Standart qiymat — 1
+Wayland socket to use for incoming connections. This can be combined with --socket to name the socket - Kiruvçi ulanişlar uçun foydalaniladigan Wayland soketi. Soketga nom beriş uçun buni --socket bilan birga işlatiş mumkin
+XWayland socket to use for Xwayland's incoming connections. This can be set multiple times - Xwayland kiruvçi ulanişlari uçun foydalaniladigan XWayland soketi. Buni bir neça marta körsatiş mumkin
+Name of the xwayland display that has been pre-set up - Oldindan sozlangan xwayland displeyi nomi
+XWayland socket to use for Xwayland's init connections - Xwayland initsializatsiya ulanişlari uçun foydalaniladigan XWayland soketi
+Name of the xwayland init display that has been pre-set up - Oldindan sozlangan xwayland initsializatsiya displeyi nomi
+Name of the xauthority file  - xauthority fayli nomi 
+Exits this instance so it can be restarted by kwin_wayland_wrapper. - kwin_wayland_wrapper tomonidan qayta işga tuşirilişi uçun uşbu nusxadan çiqadi.
+Render through drm node. - DRM tuguni orqali renderlaş.
+Extract locale information from locale1 rather than the user's configuration - Mahalliy standartlar (lokal) haqidagi maʼlumotlarni foydalanuvçi sozlamalaridan emas, balki locale1 dan oliş
+Input method that KWin starts. - KWin işga tuşiradigan kiritiş usuli.
+Starts the session in locked mode. - Seansni qulflangan rejimda işga tuşiradi.
+Starts the session without lock screen support. - Seansni ekran qulfini qöllab-quvvatlamasdan işga tuşiradi.
+Starts the session without global shortcuts support. - Seansni global tezkor tugmalarni qöllab-quvvatlamasdan işga tuşiradi.
+Disable KActivities integration. - KActivities (KDE faoliyat turlari) integratsiyasini öçiriş.
+Exit after the session application, which is started by KWin, closed. - KWin tomonidan işga tuşirilgan seans ilovasi yopilgandan söng çiqiş.
+Applications to start once Wayland and Xwayland server are started - Wayland va Xwayland serverlari işga tuşgandan söng işga tuşiriladigan ilovalar
+Blur strength: - Xiralaştiriş darajasi:
+Light - Yengil
+Strong - Kuçli
+Noise strength: - Şovqin darajasi:
+Saturation: - Töyinganlik:
+None - Yöq
+Select a position for color picking with left click or enter. Escape or right click to cancel. - Rang tanlaş joyini siçqonçaning çap tugmasi yoki Enter bilan tanlang. Bekor qiliş uçun Escape yoki siçqonçaning öng tugmasini bosing.
+Strength: - Jadallik:
+Dim: - Xiralaştiriş:
+Docks and panels - Doklar va panellar
+Desktop - Iş stoli
+Keep above windows - Boşqalar ustida uşlab turiladigan oynalar
+By window group - Oyna guruhi böyiça
+Fullscreen windows - Töliq ekranli oynalar
+Delay Time - Kutiş vaqti
+Dwell Time - Uşlab turiş vaqti
+Motion Threshold - Harakat bösağasi
+Default Button - Standart tugma
+Lock Button - Qulflaş tugmasi
+Dwell Color - Uşlab turiş rangi
+Disable Active Input Capture - Faol kiritişni uşlab olişni öçiriş
+Remote Control - Masofaviy boşqaruv
+<application>%1</application> is asking to control input devices - <application>%1</application> kiritiş qurilmalarini boşqarişni söramoqda
+Remember for apps claiming to be %1 - Özini %1 deb tanitadigan ilovalar uçun eslab qoliş
+Identities of legacy X11 apps cannot be verified. If permitted any app claiming to be <application>%1</application> will be able to control input devices. You can change this setting later on <application>System Settings</application>’ “Legacy X11 App Support” page. - Eski X11 ilovalarining haqiqiyligini tekşirib bölmaydi. Agar ruxsat berilsa, özini <application>%1</application> deb tanitgan har qanday ilova kiritiş qurilmalarini boşqara oladi. Bu sozlamani keyinroq <application>Tizim sozlamalari</application>ning “Eski X11 ilovalarini qöllab-quvvatlaş” sahifasida özgartirişingiz mumkin.
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Animation duration: - Animatsiya davomiyligi:
+Duration: - Davomiyligi:
+Default - Standart
+ milliseconds -  millisoniya
+Window Open Animation - Oyna oçilişi animatsiyasi
+Rotation edge: - Aylaniş çeti:
+Top - Yuqori
+Right - Öng
+Bottom - Past
+Left - Çap
+Rotation angle: - Aylaniş burçagi:
+Distance: - Masofa:
+Window Close Animation - Oyna yopilişi animatsiyasi
+Never - Heç qaçon
+%1 second - %1 soniya
+Hide pointer on inactivity: - Harakatsizlikda körsatkiçni yaşiriş:
+Hide pointer on typing - Matn terilganda körsatkiçni yaşiriş
+Toggle Invert Effect - Ranglarni teskari qiliş effektini yoqiş/öçiriş
+Toggle Invert Effect on Window - Oynada ranglarni teskari qiliş effektini yoqiş/öçiriş
+Invert Screen Colors - Ekran ranglarini teskari qiliş
+The Caps Lock key has been activated - Caps Lock tugmasi faollaştirildi
+The Caps Lock key is now inactive - Caps Lock tugmasi endi nofaol
+The Num Lock key has been activated - Num Lock tugmasi faollaştirildi
+The Num Lock key is now inactive - Num Lock tugmasi endi nofaol
+The Scroll Lock key has been activated - Scroll Lock tugmasi faollaştirildi
+The Scroll Lock key is now inactive - Scroll Lock tugmasi endi nofaol
+The Shift key is now active. - Shift tugmasi endi faol.
+The Shift key is now inactive. - Shift tugmasi endi nofaol.
+The Control key is now active. - Control tugmasi endi faol.
+The Control key is now inactive. - Control tugmasi endi nofaol.
+The Alt key is now active. - Alt tugmasi endi faol.
+The Alt key is now inactive. - Alt tugmasi endi nofaol.
+The Meta key is now active. - Meta tugmasi endi faol.
+The Meta key is now inactive. - Meta tugmasi endi nofaol.
+activate - faollaştiriş
+close - yopiş
+min - min
+minimize - yiğiş
+max - maks
+maximize - yoyiş
+fullscreen - töliq ekran
+shade - sarlavhaga yiğiş
+keep above - boşqalar ustida uşlab turiş
+keep below - boşqalar ostida uşlab turiş
+window - oyna
+name - nomi
+appname - ilova_nomi
+desktop - iş stoli
+Switch to desktop %1 - %1-iş stoliga ötiş
+Close running window on %1 - %1 dagi işlab turgan oynani yopiş
+(Un)minimize running window on %1 - %1 dagi işlab turgan oynani yiğiş/tiklaş
+Maximize/restore running window on %1 - %1 dagi işlab turgan oynani yoyiş/tiklaş
+Toggle fullscreen for running window on %1 - %1 dagi işlab turgan oyna uçun töliq ekran rejimini yoqiş/öçiriş
+(Un)shade running window on %1 - %1 dagi işlab turgan oynani sarlavhaga yiğiş/tiklaş
+Toggle keep above for running window on %1 - %1 dagi işlab turgan oynani boşqalar ustida uşlab turişni yoqiş/öçiriş
+Toggle keep below running window on %1 - %1 dagi işlab turgan oynani boşqalar ostida uşlab turişni yoqiş/öçiriş
+Activate running window on %1 - %1 dagi işlab turgan oynani faollaştiriş
+Fade to black (fullscreen splash screens only) - Qora rangga söniş (faqat töliq ekranli kiriş oynalari uçun)
+Default - Standart
+Toggle Mouse Click Animation - Siçqonça bosilişi animatsiyasini yoqiş/öçiriş
+Left - Çap
+Middle - Örta tugma
+Right - Öng
+Basic Settings - Asosiy sozlamalar
+Left Mouse Button Color: - Siçqonçaning çap tugmasi rangi:
+Middle Mouse Button Color: - Siçqonçaning örta tugmasi rangi:
+Right Mouse Button Color: - Siçqonçaning öng tugmasi rangi:
+Advanced Settings - Qöşimça sozlamalar
+Rings - Halqalar
+Line Width: - Çiziq qalinligi:
+ pixel -  piksel
+ msec -  ms
+Ring Duration: - Halqa davomiyligi:
+Ring Radius: - Halqa radiusi:
+Ring Count: - Halqalar soni:
+Text - Matn
+Font: - Şrift:
+Show Text: - Matnni körsatiş:
+Clear All Mouse Marks - Siçqonça bilan çizilgan barça çiziqlarni tozalaş
+Clear Last Mouse Mark - Siçqonça bilan çizilgan oxirgi çiziqni tozalaş
+Clear Mouse Marks - Siçqonça bilan çizilgan çiziqlarni tozalaş
+ pixel -  piksel
+Appearance - Taşqi köriniş
+Wid&th: - Qa&linligi:
+&Color: - &Rangi:
+Draw with the mouse by holding modifier keys and moving the mouse - Modifikator tugmalarni bosib turib va siçqonçani harakatlantirib çiziş
+Free draw modifier keys: - Erkin çiziş uçun modifikator tugmalar:
+Alt - Alt
+Ctrl - Ctrl
+Shift - Shift
+Meta - Meta
+Arrow draw modifier keys: - Körsatkiç (strelka) çiziş uçun modifikator tugmalar:
+Night Light Suspended - Tungi yoruğlik vaqtinça töxtatildi
+Night Light Resumed - Tungi yoruğlik qayta tiklandi
+Suspend/Resume Night Light - Tungi yoruğlikni vaqtinça töxtatiş/tiklaş
+Color Temperature Preview - Rang haroratini oldindan köriş
+                 Specifies the date and time until which Night Light must be temporarily active.              -                  Tungi yoruğlik qaysi sana va vaqtgaça vaqtinça faol bölişi kerakligini belgilaydi.             
+                 Night Light is activated until manually disabled.              -                  Tungi yoruğlik qölda öçirilgunga qadar faollaştiriladi.             
+                 Specifies the date and time until which Night Light must be temporarily inactive.              -                  Tungi yoruğlik qaysi sana va vaqtgaça vaqtinça nofaol bölişi kerakligini belgilaydi.             
+                 Night Light is suspended until manually turned back on.              -                  Tungi yoruğlik qölda qayta yoqilgunga qadar vaqtinça töxtatiladi.             
+Built-in Screen - Örnatilgan ekran
+Delete Virtual Desktop - Virtual iş stolini öçiriş
+Add Virtual Desktop - Virtual iş stolini qöşiş
+Virtual Desktop limit reached - Virtual iş stollari çegarasiga yetdi
+No other Virtual Desktops to show - Körsatiş uçun boşqa virtual iş stollari yöq
+Add Virtual Desktop - Virtual iş stolini qöşiş
+Configure Virtual Desktops… - Virtual iş stollarini sozlaş…
+No matching windows - Mos keladigan oynalar yöq
+Cycle through Overview and Grid View - Umumiy köriniş va Katak körinişi böylab aylanib ötiş
+Cycle through Grid View and Overview - Katak körinişi va Umumiy köriniş böylab aylanib ötiş
+Toggle Overview - Umumiy körinişni yoqiş/öçiriş
+Toggle Grid View - Katak körinişini yoqiş/öçiriş
+Drag Down To Close - Yopiş uçun pastga torting
+Close window - Oynani yopiş
+Window open scale: - Oyna oçilişidagi massştab:
+Window close scale: - Oyna yopilişidagi massştab:
+Failed to start main PipeWire loop - PipeWire asosiy siklini işga tuşirib bölmadi
+Failed to create PipeWire context - PipeWire kontekstini yaratib bölmadi
+Failed to connect PipeWire context - PipeWire kontekstiga ulanib bölmadi
+Unsupported compositing type - Qöllab-quvvatlanmaydigan kompozitsiya turi
+Could not find window id %1 - %1 identifikatorli oyna topilmadi
+Could not find output - Çiqiş (ekran) topilmadi
+Invalid region - Yaroqsiz soha
+Failed to create PipeWire stream - PipeWire oqimini yaratib bölmadi
+Select window to screen shot with left click or enter. Escape or right click to cancel. - Skrinşot oliş uçun oynani siçqonçaning çap tugmasi yoki Enter bilan tanlang. Bekor qiliş uçun Escape yoki siçqonçaning öng tugmasini bosing.
+Create screen shot with left click or enter. Escape or right click to cancel. - Skrinşot yaratiş uçun siçqonçaning çap tugmasi yoki Enter tugmasini bosing. Bekor qiliş uçun Escape yoki siçqonçaning öng tugmasini bosing.
+This effect is not a benchmark - Bu effekt samaradorlik testi (benchmark) emas
+Paint Duration - Çiziş davomiyligi
+Current FPS - Joriy FPS
+Maximum FPS - Maksimal FPS
+Gap between desktops - Iş stollari orasidagi masofa
+Horizontal: - Gorizontal:
+Vertical: - Vertikal:
+Slide desktop background - Iş stoli fonini suriş
+The Shift key has been locked and is now active for all of the following keypresses. - Shift tugmasi qulflandi va endi keyingi barça tugma bosilişlari uçun faol.
+The Control key has been locked and is now active for all of the following keypresses. - Control tugmasi qulflandi va endi keyingi barça tugma bosilişlari uçun faol.
+The Alt key has been locked and is now active for all of the following keypresses. - Alt tugmasi qulflandi va endi keyingi barça tugma bosilişlari uçun faol.
+The Meta key has been locked and is now active for all of the following keypresses. - Meta tugmasi qulflandi va endi keyingi barça tugma bosilişlari uçun faol.
+The AltGr key has been locked and is now active for all of the following keypresses. - AltGr tugmasi qulflandi va endi keyingi barça tugma bosilişlari uçun faol.
+Toggle Thumbnail for Current Window - Joriy oyna eskizini körsatişni yoqiş/öçiriş
+Maximum &width: - Maksimal &kenglik:
+&Spacing: - &Oraliq:
+ pixels -  piksel
+&Opacity: - &Xiralik (noşaffoflik):
+ % -  %
+Toggle Tiles Editor - Plitkalar (mozaika) tahrirçisini yoqiş/öçiriş
+Padding: - Içki boşliq:
+Load Layout… - Tartibni yuklaş…
+Close - Yopiş
+Split Left/Right - Çap/öng qismlarga böliş
+Split Top/Bottom - Yuqori/pastki qismlarga böliş
+Add Floating Tile - Suzuvçi plitka qöşiş
+Delete - Öçiriş
+Track mouse - Siçqonça kursorini kuzatiş
+Trigger effect with: - Effektni işga tuşiriş:
+Keyboard shortcut: - Klaviatura tezkor tugmasi:
+Modifier keys: - Modifikator tugmalar:
+Translucency - Yarim şaffoflik
+General Translucency Settings - Umumiy yarim şaffoflik sozlamalari
+Combobox popups: - Oçiluvçi röyxatlar:
+Opaque - Noşaffof (xira)
+Dialogs: - Muloqot oynalari:
+Transparent - Şaffof
+Menus: - Menyular:
+Exclude fullscreen windows - Töliq ekranli oynalarni istisno qiliş
+Moving windows: - Köçirilayotgan oynalar:
+Inactive windows: - Nofaol oynalar:
+Set menu translucency independently - Menyu yarim şaffofligini alohida belgilaş
+Dropdown menus: - Pastga oçiluvçi menyular:
+Popup menus: - Qalqib çiquvçi menyular:
+Torn-off menus: - Ajratiluvçi menyular:
+Video Wall - Video devori
+Apply to - Qöllaş:
+vlc, xv, vdpau, smplayer, dragon, xine, ffplay - vlc, xv, vdpau, smplayer, dragon, xine, ffplay
+Comma separated list of window classes - Vergul bilan ajratilgan oyna sinflari röyxati
+All - Hammasi
+Ignore - Eʼtiborsiz qoldiriş
+Toggle Present Windows (Current desktop) - Joriy iş stolidagi oynalarni körsatişni yoqiş/öçiriş
+Toggle Present Windows (All desktops) - Barça iş stollaridagi oynalarni körsatişni yoqiş/öçiriş
+Toggle Present Windows (Window class) - Bir sinfdagi oynalarni körsatişni yoqiş/öçiriş
+Toggle Present Windows (Window class on current desktop) - Joriy iş stolidagi bir sinfga mansub oynalarni körsatişni yoqiş/öçiriş
+Ignore &minimized windows - &Yiğilgan oynalarni eʼtiborsiz qoldiriş
+No Matches - Mosliklar yöq
+No Windows - Oynalar yöq
+Filter windows… - Oynalarni filtrlaş…
+Advanced - Qöşimça
+&Stiffness: - &Qattiqlik:
+Dra&g: - &Qarşilik:
+&Move factor: - &Siljiş koeffitsiyenti:
+Wo&bble when moving - Köçirişda &tebraniş
+Wobble when &resizing - Ölçamni özgartirişda &tebraniş
+&Wobbliness - &Tebraniş darajasi
+Cloth - Mato
+Gelatin - Jelatin
+Water - Suv
+Pudding - Puding
+Molasses - Qiyom (melassa)
+Nitroglycerin - Nitroglitserin
+Custom - Moslaştirilgan
+Move Zoomed Area to Left - Kattalaştirilgan sohani çapga suriş
+Move Zoomed Area to Right - Kattalaştirilgan sohani öngga suriş
+Move Zoomed Area Upwards - Kattalaştirilgan sohani yuqoriga suriş
+Move Zoomed Area Downwards - Kattalaştirilgan sohani pastga suriş
+Total rules count (legacy) - Umumiy qoidalar soni (eskirgan)
+Ordered list of rules groups - Qoidalar guruhlarining tartiblangan röyxati
+Rule description - Qoida taʼrifi
+Rule description (legacy) - Qoida taʼrifi (eskirgan)
+Delete this rule (for use in imports) - Uşbu qoidani öçiriş (import qilişda foydalaniş uçun)
+This rule is enabled - Uşbu qoida yoqilgan
+Window class (application) - Oyna sinfi (ilova)
+Window class string match type - Oyna sinfi satrining moslik turi
+Match whole window class - Butun oyna sinfiga moslaş
+Window role - Oyna roli
+Window role string match type - Oyna roli satrining moslik turi
+Window title - Oyna sarlavhasi
+Window title string match type - Oyna sarlavhasi satrining moslik turi
+Machine (hostname) - Kompyuter (xost nomi)
+Machine string match type - Kompyuter nomi satrining moslik turi
+Window tag - Oyna tegi
+Window tag string match type - Oyna tegi satrining moslik turi
+Has parent window - Ona oynaga ega
+Has parent window match type - «Ona oynaga ega» xossasining moslik turi
+Window types that match - Mos keladigan oyna turlari
+Initial placement - Dastlabki joylaşuv
+Initial placement rule type - Dastlabki joylaşuv qoidasi turi
+Window position - Oyna joylaşuvi
+Window position rule type - Oyna joylaşuvi qoidasi turi
+Window size - Oyna ölçami
+Window size rule type - Oyna ölçami qoidasi turi
+Window minimum size - Oynaning minimal ölçami
+Window minimum size rule type - Oynaning minimal ölçami qoidasi turi
+Window maximum size - Oynaning maksimal ölçami
+Window maximum size rule type - Oynaning maksimal ölçami qoidasi turi
+Active opacity - Faol paytdagi noşaffoflik
+Active opacity rule type - Faol oyna noşaffofligi qoidasi turi
+Inactive opacity - Nofaol paytdagi noşaffoflik
+Inactive opacity rule type - Nofaol oyna noşaffofligi qoidasi turi
+Ignore requested geometry - Söralgan geometriyani eʼtiborsiz qoldiriş
+Ignore requested geometry rule type - Söralgan geometriyani eʼtiborsiz qoldiriş qoidasi turi
+List of Desktop Ids - Iş stollari identifikatorlari röyxati
+Desktop Ids rule type - Iş stoli identifikatori qoidasi turi
+Screen number - Ekran raqami
+Screen number rule type - Ekran raqami qoidasi turi
+Activity - Faoliyat turi (komnata)
+Activity rule type - Faoliyat turi qoidasi turi
+Maximized vertically - Vertikal yoyilgan
+Maximized vertically rule type - Vertikal yoyiş qoidasi turi
+Maximized horizontally - Gorizontal yoyilgan
+Maximized horizontally rule type - Gorizontal yoyiş qoidasi turi
+Minimized - Yiğilgan
+Minimized rule type - Yiğiş qoidasi turi
+Skip taskbar - Vazifalar panelida körsatmaslik
+Skip taskbar rule type - Vazifalar panelida körsatmaslik qoidasi turi
+Skip pager - Iş stollari almaştirgiçida (peyjerda) körsatmaslik
+Skip pager rule type - Iş stollari almaştirgiçida körsatmaslik qoidasi turi
+Skip switcher - Oynalar almaştirgiçida körsatmaslik
+Skip switcher rule type - Oynalar almaştirgiçida körsatmaslik qoidasi turi
+Keep above - Boşqalar ustida uşlab turiş
+Keep above rule type - Boşqalar ustida uşlab turiş qoidasi turi
+Keep below - Boşqalar ostida uşlab turiş
+Keep below rule type - Boşqalar ostida uşlab turiş qoidasi turi
+Fullscreen - Töliq ekran
+Fullscreen rule type - Töliq ekran rejimi qoidasi turi
+No titlebar and frame - Sarlavha va oyna çegarasiz
+No titlebar rule type - Sarlavha va oyna çegarasini yaşiriş qoidasi turi
+Decoration policy - Bezak qoidasi
+Decoration policy rule type - Bezak qoidasi turi
+Titlebar color and scheme - Sarlavha rangi va sxemasi
+Titlebar color rule type - Sarlavha rang sxemasi qoidasi turi
+Focus stealing prevention - Fokusni tortib olişning oldini oliş
+Focus stealing prevention rule type - Fokusni tortib olişning oldini oliş qoidasi turi
+Focus protection - Fokus himoyasi
+Focus protection rule type - Fokus himoyasi qoidasi turi
+Accept Focus - Fokusni qabul qiliş
+Accept Focus rule type - Fokusni qabul qiliş qoidasi turi
+Closeable - Yopiladigan
+Closeable rule type - Oynani yopiş imkoniyati qoidasi turi
+Shortcut - Tezkor tugma
+Shortcut rule type - Tezkor tugma qoidasi turi
+Ignore global shortcuts - Global tezkor tugmalarni eʼtiborsiz qoldiriş
+Ignore global shortcuts rule type - Global tezkor tugmalarni eʼtiborsiz qoldiriş qoidasi turi
+Desktop file name - Desktop fayli nomi
+Desktop file name rule type - Desktop fayli nomi qoidasi turi
+Layer - Qatlam
+Layer rule type - Qatlam qoidasi turi
+AdaptiveSync - Moslaşuvçan sinxronizatsiya (AdaptiveSync)
+AdaptiveSync rule type - Moslaşuvçan sinxronizatsiya qoidasi turi
+Allow Tearing - Tasvir uzilişlariga (tearing) ruxsat beriş
+Tearing rule type - Tasvir uzilişlariga ruxsat beriş qoidasi turi
+Hide from screenshots and screen recordings - Skrinşotlar va ekran yozuvlaridan yaşiriş
+Hide from screenshots and screen recordings rule type - «Skrinşotlar va ekran yozuvlaridan yaşiriş» qoidasi turi
+Toggle “Show Compositing” effect - “Kompozitsiyani körsatiş” effektini yoqiş/öçiriş
+Dialog - Muloqot oynasi
+... - ...
+Cancel Logout - Seansdan çiqişni bekor qiliş
+Log Out Anyway - Baribir seansdan çiqiş
+The following applications did not close: %1 Logging out anyway in 2 minutes. - Quyidagi ilovalar yopilmadi: %1 Baribir 2 daqiqadan söng seansdan çiqiladi.
+Peek at Desktop - Iş stoliga nazar taşlaş
+No open windows - Oçiq oynalar yöq
+Walk Through Windows - Oynalar böylab ötiş
+Walk Through Windows (Reverse) - Oynalar böylab ötiş (teskarisiga)
+Walk Through Windows Alternative - Oynalar böylab muqobil ötiş
+Walk Through Windows Alternative (Reverse) - Oynalar böylab muqobil ötiş (teskarisiga)
+Walk Through Windows of Current Application - Joriy ilova oynalari böylab ötiş
+Walk Through Windows of Current Application (Reverse) - Joriy ilova oynalari böylab ötiş (teskarisiga)
+Walk Through Windows of Current Application Alternative - Joriy ilova oynalari böylab muqobil ötiş
+Walk Through Windows of Current Application Alternative (Reverse) - Joriy ilova oynalari böylab muqobil ötiş (teskarisiga)
+The Window Switcher installation is broken, resources are missing. Contact your distribution about this. - Oynalar almaştirgiçi örnatilişi buzilgan, resurslar yetişmayapti. Bu haqda distributivingiz taʼminotçisiga murojaat qiling.
+Move the tablet to the next output - Planşetni keyingi çiqişga (ekranga) ötkaziş
+Tablet moved to %1 - Planşet %1 ga ötkazildi
+Tablets switched outputs - Planşetlar boşqa çiqişlarga (ekranlarga) ötkazildi
+&Move - &Köçiriş
+&Resize - Ölçamini &özgartiriş
+Keep &Below Others - Boşqalar &ostida uşlab turiş
+&Fullscreen - &Töliq ekran
+&No Titlebar and Frame - &Sarlavha va oyna çegarasiz
+&Hide from Screenshots and Screen Recordings - Skrinşotlar va ekran yozuvlaridan &yaşiriş
+Set Window Short&cut… - Oyna &tezkor tugmasini örnatiş…
+Configure Special &Window Settings… - Maxsus &oyna sozlamalarini moslaş…
+Configure S&pecial Application Settings… - Maxsus &ilova sozlamalarini moslaş…
+Ma&ximize - &Yoyiş
+Mi&nimize - Yi&ğiş
+Keep &Above Others - Boşqalar &ustida uşlab turiş
+&More Actions - &Qöşimça amallar
+&Close - &Yopiş
+&Extensions - &Kengaytmalar
+&Desktops - &Iş stollari
+Move to &Screen - &Ekranga köçiriş
+Show in &Activities - &Faoliyat turlarida körsatiş
+&All Desktops - &Barça iş stollari
+Move to %1 - %1 ga köçiriş
+Add to &New Desktop - &Yangi iş stoliga qöşiş
+Move to New Desktop - Yangi iş stoliga köçiriş
+Screen &%1 (%2) - Ekran &%1 (%2)
+&All Activities - &Barça faoliyat turlari
+<b>%1</b> is already in use - <b>%1</b> allaqaçon foydalanilmoqda
+<b>%1</b> is used by %2 in %3 - <b>%1</b> %3 ilovasida «%2» amali tomonidan foydalanilmoqda
+Window Menu - Oyna menyusi
+Close Window - Oynani yopiş
+Maximize Window - Oynani yoyiş
+Maximize Window Vertically - Oynani vertikal yoyiş
+Maximize Window Horizontally - Oynani gorizontal yoyiş
+Restore Window - Oynani tiklaş
+Minimize Window - Oynani yiğiş
+Move Window - Oynani köçiriş
+Resize Window - Oyna ölçamini özgartiriş
+Raise Window - Oynani oldinga çiqariş
+Lower Window - Oynani orqaga ötkaziş
+Toggle Window Raise/Lower - Oynani oldinga/orqaga ötkaziş
+Make Window Fullscreen - Oynani töliq ekranli qiliş
+Toggle Window Titlebar and Frame - Oyna sarlavhasi va çegarasini körsatiş/yaşiriş
+Keep Window Above Others - Oynani boşqalar ustida uşlab turiş
+Keep Window Below Others - Oynani boşqalar ostida uşlab turiş
+Activate Window Demanding Attention - Eʼtibor talab qilayotgan oynani faollaştiriş
+Setup Window Shortcut - Oyna tezkor tugmasini sozlaş
+Move Window to the Center - Oynani markazga köçiriş
+Move Window Right - Oynani öngga köçiriş
+Move Window Left - Oynani çapga köçiriş
+Move Window Up - Oynani yuqoriga köçiriş
+Move Window Down - Oynani pastga köçiriş
+Expand Window Horizontally - Oynani gorizontal kengaytiriş
+Shrink Window Horizontally - Oynani gorizontal toraytiriş
+Expand Window Vertically - Oynani vertikal kengaytiriş
+Shrink Window Vertically - Oynani vertikal toraytiriş
+Quick Tile Window to the Left - Oynani ekranning çap yarmiga joylaştiriş
+Quick Tile Window to the Right - Oynani ekranning öng yarmiga joylaştiriş
+Quick Tile Window to the Top - Oynani ekranning yuqori yarmiga joylaştiriş
+Quick Tile Window to the Bottom - Oynani ekranning pastki yarmiga joylaştiriş
+Quick Tile Window to the Top Left - Oynani ekranning yuqori çap çorak qismiga joylaştiriş
+Quick Tile Window to the Bottom Left - Oynani ekranning pastki çap çorak qismiga joylaştiriş
+Quick Tile Window to the Top Right - Oynani ekranning yuqori öng çorak qismiga joylaştiriş
+Quick Tile Window to the Bottom Right - Oynani ekranning pastki öng çorak qismiga joylaştiriş
+Switch to Window Above - Yuqoridagi oynaga ötiş
+Switch to Window Below - Pastdagi oynaga ötiş
+Switch to Window to the Right - Öngdagi oynaga ötiş
+Switch to Window to the Left - Çapdagi oynaga ötiş
+Increase Opacity of Active Window by 5% - Faol oyna noşaffofligini 5% ga oşiriş
+Decrease Opacity of Active Window by 5% - Faol oyna noşaffofligini 5% ga kamaytiriş
+Keep Window on All Desktops - Oynani barça iş stollarida uşlab turiş
+Custom Quick Tile Window to the Left - Oynani ekranning çap yarmiga moslaştirilgan joylaştiriş
+Custom Quick Tile Window to the Right - Oynani ekranning öng yarmiga moslaştirilgan joylaştiriş
+Custom Quick Tile Window to the Top - Oynani ekranning yuqori yarmiga moslaştirilgan joylaştiriş
+Custom Quick Tile Window to the Bottom - Oynani ekranning pastki yarmiga moslaştirilgan joylaştiriş
+Window to Desktop %1 - Oynani %1-iş stoliga köçiriş
+Window to Next Desktop - Oynani keyingi iş stoliga köçiriş
+Window to Previous Desktop - Oynani oldingi iş stoliga köçiriş
+Window One Desktop to the Right - Oynani öngdagi iş stoliga köçiriş
+Window One Desktop to the Left - Oynani çapdagi iş stoliga köçiriş
+Window One Desktop Up - Oynani yuqoridagi iş stoliga köçiriş
+Window One Desktop Down - Oynani pastdagi iş stoliga köçiriş
+Move Window to Screen %1 - Oynani %1-ekranga köçiriş
+Move Window to Next Screen - Oynani keyingi ekranga köçiriş
+Move Window to Previous Screen - Oynani oldingi ekranga köçiriş
+Move Window One Screen to the Right - Oynani bitta öngdagi ekranga köçiriş
+Move Window One Screen to the Left - Oynani bitta çapdagi ekranga köçiriş
+Move Window One Screen Up - Oynani bitta yuqoridagi ekranga köçiriş
+Move Window One Screen Down - Oynani bitta pastdagi ekranga köçiriş
+Switch to Screen %1 - %1-ekranga ötiş
+Switch to Next Screen - Keyingi ekranga ötiş
+Switch to Previous Screen - Oldingi ekranga ötiş
+Switch to Screen to the Right - Öngdagi ekranga ötiş
+Switch to Screen to the Left - Çapdagi ekranga ötiş
+Switch to Screen Above - Yuqoridagi ekranga ötiş
+Switch to Screen Below - Pastdagi ekranga ötiş
+Peek at Desktop - Iş stoliga nazar taşlaş
+Kill Window - Oynani majburiy yopiş (öldiriş)
+Center Pointer in Focused Window - Körsatkiçni fokuslangan oyna markaziga joylaştiriş
+Center Pointer in Screen - Körsatkiçni ekran markaziga joylaştiriş
+Activate Window (%1) - Oynani faollaştiriş (%1)
+unknown - nomaʼlum
+Desktop %1 - Iş stoli %1
+Switch to Next Desktop - Keyingi iş stoliga ötiş
+Switch to Previous Desktop - Oldingi iş stoliga ötiş
+Switch One Desktop to the Right - Bitta öngdagi iş stoliga ötiş
+Switch One Desktop to the Left - Bitta çapdagi iş stoliga ötiş
+Switch One Desktop Up - Bitta yuqoridagi iş stoliga ötiş
+Switch One Desktop Down - Bitta pastdagi iş stoliga ötiş
+Switch to Desktop %1 - %1-iş stoliga ötiş
+Setting custom modes with too old kde-output-management-v2 protocol versions is unsupported - Juda eski kde-output-management-v2 protokoli versiyalari bilan moslaştirilgan rejimlarni örnatiş qöllab-quvvatlanmaydi
+abm level is larger than the maximum (4): %1 - abm darajasi maksimal qiymatdan (4) katta: %1
+One of the relevant outputs is no longer available - Tegişli çiqişlardan (ekranlardan) biri endi mavjud emas
+Disabling all outputs through configuration changes is not allowed - Konfiguratsiya özgarişlari orqali barça çiqişlarni (ekranlarni) öçirişga ruxsat berilmaydi
+%1 cannot mirror itself - %1 özini özi aks ettira (dublikat qila) olmaydi
+Cannot add a custom mode with an empty size - Böş ölçamli moslaştirilgan rejimni qöşib bölmaydi
+Cannot add a custom mode with a refresh rate of zero Hz - Yangilaniş çastotasi nol Gs bölgan moslaştirilgan rejimni qöşib bölmaydi
+Position of output %1 is way too negative (%2, %3) - %1 çiqişining joylaşuvi haddan taşqari manfiy (%2, %3)
+Position of enabled output %1 is negative (%2, %3) - Yoqilgan %1 çiqişining joylaşuvi manfiy (%2, %3)
+Position of output %1 is way too large (%2, %3) - %1 çiqişining joylaşuvi haddan taşqari katta (%2, %3)
+The session is not active - Seans faol emas
+More displays are enabled than are supported by the graphics card. - Videokarta qöllab-quvvatlaydiganidan köproq displeylar yoqilgan.
+The driver rejected the output configuration: %1 - Drayver çiqiş konfiguratsiyasini rad etdi: %1
+(Not Responding) - (Javob bermayapti)
+Built-in Screen - Örnatilgan ekran
+%1 %2 %3 - %1 %2 %3
+%1 %2 %3 - %1 %2 %3
+%1 %2 - %1 %2
+KWin Support Information: The following information should be used when requesting support on e.g. https://discuss.kde.org. It provides information about the currently running instance, which options are used, what OpenGL driver and which effects are running. Please post the information provided underneath this introductory text to a paste bin service like https://paste.kde.org instead of pasting into support threads.  - KWin qöllab-quvvatlaş maʼlumotlari: Quyidagi maʼlumotlar, masalan, https://discuss.kde.org saytida yordam söraganda işlatilişi kerak. U joriy işlab turgan nusxa, qaysi parametrlar işlatilayotgani, qaysi OpenGL drayveri va effektlar işlayotgani haqida maʼlumot beradi. Iltimos, uşbu kiriş matni ostida berilgan maʼlumotlarni töğridan-töğri forum mavzulariga joylaştiriş örniga https://paste.kde.org kabi pastebin xizmatiga joylaştiring. 
+Xwayland has crashed - Xwayland avariya holatida töxtadi

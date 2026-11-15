@@ -1,0 +1,110 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Output - Çiqiş
+Build Again - Qayta quriş
+Cancel - Bekor qiliş
+Build & Run - Quriş va işga tuşiriş
+Build & Run Settings - Quriş va işga tuşiriş sozlamalari
+Delete selected entries - Tanlangan yozuvlarni öçiriş
+Delete all entries - Barça yozuvlarni öçiriş
+General Settings - Umumiy sozlamalar
+Add errors and warnings to Diagnostics - Xatolar va ogohlantirişlarni Diagnostikaga qöşiş
+Automatically switch to output pane on executing the selected target - Tanlangan nişon bajarilganda avtomatik çiqiş paneliga ötiş
+If the output lines start with [ # / ## ] or [ ## % ], display the latest as a message. - Agar çiqiş qatorlari [ # / ## ] yoki [ ## % ] bilan boşlansa, oxirgisini xabar sifatida körsatiş.
+Show build progress as a message when the output pane is hidden - Çiqiş paneli yaşirilganda quriş jarayonini xabar sifatida körsatiş
+Allowed && Blocked Commands - Ruxsat berilgan va bloklangan buyruqlar
+Build - Quriş
+Select Target... - Nişonni tanlaş...
+Build Selected Target - Tanlangan nişonni quriş
+Build and Run Selected Target - Tanlangan nişonni quriş va işga tuşiriş
+Compile Current File - Joriy faylni kompilyatsiya qiliş
+Try to compile the current file by searching a compile_commands.json - compile_commands.json qidiriş orqali joriy faylni kompilyatsiya qilişga uriniş
+Stop - Töxtatiş
+Load targets from CMake Build Dir - CMake quriş jildidan nişonlarni yuklaş
+Focus Next Tab to the Left - Çapdagi keyingi varaqqa ötiş
+Focus Next Tab to the Right - Öngdagi keyingi varaqqa ötiş
+Target Settings - Nişon sozlamalari
+<b>File not found:</b> %1<br><b>Search paths:</b><br>%2<br>Try adding a search path to the "Working Directory" - <b>Fayl topilmadi:</b> %1<br><b>Qidiruv yöllari:</b><br>%2<br>"Işçi jild"ga qidiruv yölini qöşib köring
+Build Information - Quriş maʼlumotlari
+There is no file or directory specified for building. - Quriş uçun heç qanday fayl yoki jild körsatilmagan.
+The file "%1" is not a local file. Non-local files cannot be compiled. - "%1" fayli mahalliy fayl emas. Mahalliy bölmagan fayllarni kompilyatsiya qilib bölmaydi.
+Create directory - Jild yaratiş
+The configured working directory <b>%1</b> for the targetset <b>%2</b> does not exist.<br><br>Create the directory? - <b>%2</b> nişonlar töplami uçun sozlangan <b>%1</b> işçi jildi mavjud emas.<br><br>Jild yaratilsinmi?
+Failed to create the directory <b>%1</b> - <b>%1</b> jildini yaratib bölmadi
+Failed to run "%1". exitStatus = %2 - "%1" ni işga tuşirib bölmadi. Çiqiş holati = %2
+Building <b>%1: %2</b> cancelled - <b>%1: %2</b> qurilişi bekor qilindi
+Did not find a compile_commands.json for file "%1".  - "%1" fayli uçun compile_commands.json topilmadi. 
+Did not find a compile command for file "%1" in "%2".  - "%2" içida "%1" fayli uçun kompilyatsiya buyruği topilmadi. 
+Cannot make "%f" substitution. No open file or the current file is untitled! - "%f" almaştirişini bajarib bölmadi. Oçiq fayl yöq yoki joriy fayl nomsiz!
+Cannot make "%d" substitution. No open file or the current file is untitled! - "%d" almaştirişini bajarib bölmadi. Oçiq fayl yöq yoki joriy fayl nomsiz!
+Cannot make "%n" substitution. No open file or the current file is untitled! - "%n" almaştirişini bajarib bölmadi. Oçiq fayl yöq yoki joriy fayl nomsiz!
+Cannot make project substitution (%B). No open project! - Loyiha almaştirişini (%B) bajarib bölmadi. Oçiq loyiha yöq!
+Already building... - Quriş allaqaçon bormoqda...
+Cannot execute: %1: %2 No working directory set.
+There is no local file or directory specified for building. - Bajarib bölmadi: %1: %2 Işçi jild belgilanmagan. Quriş uçun mahalliy fayl yoki jild körsatilmagan.
+Building target <b>%1: %2</b> ... - <b>%1: %2</b> nişoni qurilmoqda ...
+Cannot load targets, the file %1 does not contain a proper CMAKE_COMMAND entry ! - Nişonlarni yuklab bölmadi, %1 faylida töğri CMAKE_COMMAND yozuvi yöq!
+Could not write CMake File API query files for build directory %1 ! - %1 quriş jildi uçun CMake File API sörov fayllarini yozib bölmadi!
+Could not run CMake (%2) for build directory %1 ! - %1 quriş jildi uçun CMake (%2) ni işga tuşirib bölmadi!
+Generating CMake File API reply files for build directory %1 failed (using %2) ! - %1 quriş jildi uçun CMake File API javob fayllarini yaratiş muvaffaqiyatsiz tugadi (%2 yordamida)!
+Build plugin wants to execute program - Quriş plagini dasturni işga tuşirmoqçi
+The Kate build plugin needs to execute an external command to read the targets from the build tree.<br><br>The full command line is:<br><br><b>%1</b><br><br>Proceed and allow to run this command ?<br><br>The choice can be altered via the config page of the plugin. - Kate quriş plagini quriş daraxtidan nişonlarni öqiş uçun taşqi buyruqni bajarişi kerak.<br><br>Töliq buyruq qatori:<br><br><b>%1</b><br><br>Davom etilsin va uşbu buyruqni işga tuşirişga ruxsat berilsinmi?<br><br>Tanlovni plaginning sozlamalar sahifasi orqali özgartiriş mumkin.
+<title>Build Finished:</title>%1 - <title>Quriş yakunlandi:</title>%1
+Build <b>%1: %2</b> completed. %3 error(s), %4 warning(s), %5 note(s) - <b>%1: %2</b> qurilişi yakunlandi. %3 ta xato, %4 ta ogohlantiriş, %5 ta eslatma
+Found one error. - Bitta xato topildi.
+Found one warning. - Bitta ogohlantiriş topildi.
+Found one note. - Bitta eslatma topildi.
+Build canceled. - Quriş bekor qilindi.
+Build failed. - Quriş muvaffaqiyatsiz tugadi.
+Build completed without problems. - Quriş muammosiz yakunlandi.
+Build <b>%1: %2 canceled</b>. %3 error(s), %4 warning(s), %5 note(s) - <b>%1: %2 qurilişi bekor qilindi</b>. %3 ta xato, %4 ta ogohlantiriş, %5 ta eslatma
+error - xato
+warning - ogohlantiriş
+note|info - eslatma|maʼlumot
+undefined reference - aniqlanmagan havola
+Cannot save build targets in: %1 - Quriş nişonlarini şu yerga saqlab bölmadi: %1
+<B>T:</B> %1 - <B>T:</B> %1
+<B>Dir:</B> %1 - <B>Jild:</B> %1
+Leave empty to use the directory of the current document.
+Add search directories by adding paths separated by ';' - Joriy hujjat jildidan foydalaniş uçun böş qoldiring.
+Qidiruv jildlarini ';' bilan ajratilgan yöllarni kiritiş orqali qöşing
+Use:
+"%B" for project base directory
+"%b" for name of project base directory - Foydalaniş:
+"%B" loyiha asosiy jildi uçun
+"%b" loyiha asosiy jildi nomi uçun
+Use:
+"%f" for current file
+"%d" for directory of current file
+"%n" for current file name without suffix
+"%B" for current project's base directory
+"%w" for the working directory of the target - Foydalaniş:
+"%f" joriy fayl uçun
+"%d" joriy fayl jildi uçun
+"%n" kengaytmasiz joriy fayl nomi uçun
+"%B" joriy loyihaning asosiy jildi uçun
+"%w" nişonning işçi jildi uçun
+Target Set - Nişonlar töplami
+Projects - Loyihalar
+Session - Seans
+Command/Target-set Name - Buyruq/Nişonlar töplami nomi
+Build Command / Working Directory - Quriş buyruği / Işçi jild
+Run Command - Işga tuşiriş buyruği
+Filter targets, use arrow keys to select, Enter to execute - Nişonlarni filtrlang, tanlaş uçun yönaliş tugmalaridan, bajariş uçun Enter tugmasidan foydalaning
+Create new set of targets - Yangi nişonlar töplamini yaratiş
+Clone command or target set - Buyruq yoki nişonlar töplamidan nusxa oliş
+Delete current target or current set of targets - Joriy nişon yoki joriy nişonlar töplamini öçiriş
+Add new target - Yangi nişon qöşiş
+Build selected target - Tanlangan nişonni quriş
+Build and run selected target - Tanlangan nişonni quriş va işga tuşiriş
+Move selected target up - Tanlangan nişonni yuqoriga köçiriş
+Move selected target down - Tanlangan nişonni pastga köçiriş
+Copy - Nusxa oliş
+Cut - Kesiş
+Paste after - Keyin joylaştiriş
+Build Command - Quriş buyruği
+Configure - Sozlaş
+&Build - &Quriş
+Build Plugin Toolbar - Quriş plagini asboblar paneli
+Insert path - Yölni kiritiş
+Select directory to insert - Kiritiş uçun jildni tanlang

@@ -1,0 +1,14 @@
+Source text - Tarjima text
+KCalc - KCalc
+Scientific calculator - Ilmiy kalkulyator
+KCalc has everything you would expect from a scientific calculator, plus: - KCalc ilmiy kalkulyatordan kutilgan barça imkoniyatlarga va quyidagilarga ega:
+Trigonometric functions, logic operations and statistical calculations - Trigonometrik funksiyalar, mantiqiy amallar va statistik hisoblaşlar
+A results stack which enables convenient recall of previous calculation results - Oldingi hisob-kitob natijalarini qulay çaqirib oliş imkonini beruvçi natijalar steki
+Precision is user-definable - Aniqlik darajasi foydalanuvçi tomonidan belgilanadi
+The display allows cut and paste of numbers - Displey raqamlarni qirqib oliş va qöyiş imkonini beradi
+The display colors and font are configurable, aiding usability - Displey ranglari va şrifti qulaylik yaratiş uçun sozlanadi
+The use of key-bindings make it easy to use without a pointing device - Tezkor tugmalar yordamida siçqonçasiz ham oson foydalaniş mumkin
+Main window of KCalc - KCalc asosiy oynasi
+KCalc window in numeral system mode - KCalc oynasi sanoq tizimlari rejimida
+Kcalc window in scientific mode - KCalc oynasi ilmiy rejimda
+Kcalc window in statistics mode - KCalc oynasi statistika rejimida

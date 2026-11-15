@@ -1,0 +1,16 @@
+Open in Filelight - Filelight dasturida oçiş
+Open in File Manager - Fayl boşqaruvçisida oçiş
+Configure Warning… - Ogohlantirişni sozlaş…
+Minimum free space before user starts being notified. - Foydalanuvçi ogohlantirilişidan oldingi minimal böş joy.
+Minimum percentage free space before user starts being notified. - Foydalanuvçi ogohlantirilişidan oldingi minimal böş joy foizi.
+Is the free space notification enabled. - Böş joy haqidagi bildirişnoma yoqilganmi.
+Enable low disk space warning - Diskda böş joy kamligi haqidagi ogohlantirişni yoqiş
+Warn when free space is below: - Böş joy bundan kam bölganda ogohlantiriş:
+ MiB -  MiB
+And when free space is under: - Va böş joy bundan kam bölganda:
+% - %
+The system will notify you if the free space drops below the specified MiB and the specified percentage of available space. - Agar böş joy körsatilgan MiB va mavjud böş joyning körsatilgan foizidan kamaysa, tizim sizni ogohlantiradi.
+Your %1 partition is running out of disk space; %2 MiB of space remaining (%3%). - Sizning %1 bölimingizda disk joyi tugamoqda; %2 MiB joy qoldi (%3%).
+Your Root partition is running out of disk space; %1 MiB of space remaining (%2%). - Sizning asosiy (Root) bölimingizda disk joyi tugamoqda; %1 MiB joy qoldi (%2%).
+Your Home folder is running out of disk space; %1 MiB of space remaining (%2%). - Sizning Uy (Home) jildingizda disk joyi tugamoqda; %1 MiB joy qoldi (%2%).
+General - Umumiy

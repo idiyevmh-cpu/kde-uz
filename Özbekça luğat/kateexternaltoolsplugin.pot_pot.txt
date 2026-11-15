@@ -1,0 +1,92 @@
+Clang Format Full File - Clang Format: Butun faylni formatlaş
+Tools - Vositalar
+Clang Format Selected Text - Clang Format: Tanlangan matnni formatlaş
+Compile and Run cpp - cpp-ni kompilyatsiya qiliş va işga tuşiriş
+git blame - git blame
+Git - Git
+git-cola - git-cola
+gitk - gitk
+Go Fmt Full File - Go Fmt: Butun faylni formatlaş
+Go - Ötiş
+GoImports Full File - GoImports: Butun fayl
+Google Selected Text - Tanlangan matnni Google-dan qidiriş
+Insert UUID - UUID kiritiş
+JSON Format Full File - JSON Format: Butun faylni formatlaş
+Prettier Format Current File - Prettier: Joriy faylni formatlaş
+Qt Quick 2 Preview - Qt Quick 2 oldindan köriş
+Qt - Qt
+Run Shell Script - Shell skriptini işga tuşiriş
+Rust Fmt Full File - Rust Fmt: Butun faylni formatlaş
+Search KDE API - KDE API-dan qidiriş
+Search Qt API - Qt API-dan qidiriş
+XML Format Full File - XML Format: Butun faylni formatlaş
+This list shows all the configured tools, represented by their menu text. - Bu röyxat hamma moslangan vositalarni körsatadi.
+&Add - &Qöşiş
+&Edit... - &Tahrirlaş
+&Remove - &Olib taşlaş
+Failed to find executable '%1'. Please make sure the executable file exists and that variable names, if used, are correct - '%1' bajariluvçi fayli topilmadi. Fayl mavjudligiga işonç hosil qiling
+External Tools - Taşqi vositalar
+Running %1: %2 %3 - Işlamoqda %1: %2 %3
+Running %1: %2 %3 with input %4 - Işlamoqda %1: %2 %3 kiritiş %4 bilan
+Data written to stderr:
+ - stderr ga yozilgan maʼlumotlar:
+
+%1 crashed - %1 halokatga uçradi
+%1 finished with exit code %2 - %1 çiqiş kodi %2 bilan yakunlandi
+Starts the external tool '%1' - '%1' taşqi vositasini işga tuşiradi
+Edit External Tool - Taşqi vositani tahrirlaş
+Revert tool to default settings - Vositani standart sozlamalariga qaytariş
+External Tool - Taşqi vosita
+You must specify at least a name and an executable - Kamida nom va bajariluvçi faylni körsatişingiz kerak
+With 'Trigger' enabled, at least one mimetype needs to be specified. - 'Trigger' yoqilgan bölsa, kamida bitta mime turi körsatilişi kerak.
+Select the MimeTypes for which to enable this tool. - Bu vosita uçun MIME turlarini tanlang.
+Select Mime Types - MIME turlarini tanlaş
+Add Tool... - Vosita qöşiş...
+Add Tool from Defaults - Standart vositalardan qöşiş
+Add Category - Toifa qöşiş
+Uncategorized - Toifasiz
+New Category - Yangi toifa
+New Category %1 - Yangi toifa %1
+Configure... - Moslaş...
+Launch external helper applications - Taşqi yordamçi dasturlarni işga tuşiriş
+Edit Tool - Vositani tahrirlaş
+Na&me: - &Ismi:
+The name will be displayed in the 'Tools->External Tools' menu. - Uşbu nom 'Asboblar->Taşqi vositalar' menyusida körsatiladi.
+Short name of the tool - Vositaning qisqa nomi
+Executable: - Bajariluvçi fayl:
+Application or interpreter - Ilova yoki interpretator
+Ar&guments: - Ar&gumentlar:
+Command line arguments - Buyruqlar satri argumentlari
+&Input: - &Kiritiş:
+Optional standard input - Ixtiyoriy standart kiritiş
+Working directory: - Işçi jild:
+Uses current document path if empty - Böş bölsa joriy hujjat yölidan foydalanadi
+Mime &types: - Mime &turlari:
+A semicolon-separated list of mime types for which this tool should be available. If empty, the tool is always available. - Uşbu vosita mavjud bölişi kerak bölgan mime turlari röyxati (nuqtali vergul bilan ajratilgan).
+Show tool only for given mime types - Vositani faqat berilgan mime turlari uçun körsatiş
+Opens a dialog that helps in creating a list of mimetypes. - Mime turlari röyxatini yaratişga yordam beradigan muloqot oynasini oçadi.
+Save: - Saqlaş:
+Optionally save the current or all modified documents prior to running the command. This is helpful if you want to pass URLs to an application like, for example, an FTP client. - Buyruqni işga tuşirişdan oldin joriy yoki barça özgartirilgan hujjatlarni saqlaş.
+None - Yöq
+Current Document - Joriy hujjat
+All Documents - Hamma hujjatlar
+Trigger - Trigger
+Before Save - Saqlaşdan oldin
+After Save - Saqlangandan söng
+Reload current document after execution - Ijro etilgandan söng joriy hujjatni qayta yuklaş
+O&utput: - Çiq&iş:
+Ignore - Eʼtibor berilmasin
+Insert at Cursor Position - Kursor turgan joyga kiritiş
+Replace Selected Text - Tanlangan matnni almaştiriş
+Replace Current Document - Joriy hujjatni almaştiriş
+Append to Current Document - Joriy hujjat oxiriga qöşiş
+Insert in New Document - Yangi hujjatga kiritiş
+Copy to Clipboard - Vaqtinçalik xotiraga nusxalaş
+Display in Pane - Panelda körsatiş
+Editor command: - Muharrir buyruği:
+If you specify a name here, you can invoke the command from the view command line with the_name_you_specified_here. Please do not use spaces or tabs in the name. - Agar bu yerda nom körsatsangiz, buyruqni köriniş buyruq satridan çaqirişingiz mumkin.
+Optional view command line name - Ixtiyoriy köriniş buyruq satri nomi
+Output - Çiqiş
+Displays output from the external tool - Taşqi vositadan çiqişni körsatadi
+&Tools - &Vositalar
+Main Toolbar - Asboblar paneli

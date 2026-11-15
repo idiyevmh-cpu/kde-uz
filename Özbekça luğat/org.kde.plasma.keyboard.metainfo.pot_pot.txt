@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Plasma Keyboard - Plasma klaviaturasi
+On-Screen Keyboard for Plasma - Plasma uçun ekran klaviaturasi
+Plasma Keyboard provides a virtual, on-screen keyboard for touchscreens, tablets, convertible devices, phones, and traditional computers without a physical keyboard. - Plasma Keyboard sensorli ekranlar, planşetlar, transformer-qurilmalar, telefonlar va jismoniy klaviaturasi bölmagan kompyuterlar uçun virtual ekran klaviaturasini taqdim etadi.
+Seamless integration with the Plasma workspace and applications - Plasma iş maydoni va ilovalari bilan uzviy integratsiya
+Automatic appearance when text input is needed - Matn kiritiş zarur bölganda avtomatik ravişda paydo böliş
+Support for multiple layouts and languages - Bir neçta tillar va klaviatura tartiblarini qöllab-quvvatlaş
+Configurable size and behavior for different form factors - Turli xil qurilmalar uçun ölçam va işlaş tartibini moslaş imkoniyati

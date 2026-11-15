@@ -1,0 +1,20 @@
+Source text - Tarjima text
+Ark Extract Here - Ark: Şu yerga ajratiş
+'Compress' service menu - 'Siqiş' xizmati menyusi
+'Extract' service menu - 'Ajratiş' xizmati menyusi
+Archiver - Arxivlagiç
+7z plugin - 7z plagini
+ARJ plugin - ARJ plagini
+RAR plugin - RAR plagini
+The Unarchiver plugin - The Unarchiver plagini
+Info-zip plugin - Info-zip plagini
+Libarchive plugin - Libarchive plagini
+Libarchive plugin (read-only formats) - Libarchive plagini (faqat öqiş uçun formatlar)
+Archive Handling Tool - Arxivlar bilan işlaş vositasi
+Full support for the zip and 7z archive formats - Zip va 7z arxiv formatlarini töliq qöllab-quvvatlaş
+Full support for the ARJ archive formats - ARJ arxiv formatlarini töliq qöllab-quvvatlaş
+Full support for the RAR archive format - RAR arxiv formatini töliq qöllab-quvvatlaş
+Open and extract RAR and LHA archives - RAR va LHA arxivlarini oçiş va ajratiş
+Legacy support for the zip archive format - Zip arxiv formati uçun eski qöllab-quvvatlov
+Full support for compressed TAR archives - Siqilgan TAR arxivlarini töliq qöllab-quvvatlaş
+Open and extract DEB, RPM, ISO, AppImage, XAR, CAB, and EXE files - DEB, RPM, ISO, AppImage, XAR, CAB va EXE fayllarini oçiş hamda ajratiş

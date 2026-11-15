@@ -1,0 +1,107 @@
+Folio - Folio
+Halcyon - Halcyon
+Phone Panel - Telefon paneli
+Phone Task panel - Telefon vazifalar paneli
+Cellular - Mobil aloqa
+Finished - Tugadi
+Prepare - Tayyorlaş
+System Navigation - Tizim navigatsiyasi
+Time - Vaqt
+WiFi - WiFi
+Information - Maʼlumot
+Shell - Qobiq (Shell)
+Navigation - Navigatsiya
+Time and Date - Sana va vaqt
+Waydroid Integration - Waydroid integratsiyasi
+Plasma Mobile Autodetect APNs - Plasma Mobile APN-larni avtomatik aniqlaş
+Plasma Mobile Start - Plasma Mobile Start
+Mobile Task Switcher - Mobil vazifalarni almaştirgiç
+Convergent Windows - Konvergent oynalar
+Default Mobile Navigation Panel - Standart mobil navigatsiya paneli
+Default Mobile Status Bar - Standart mobil holat paneli
+Plasma Mobile Breeze - Plasma Mobile Breeze
+Airplane Mode - Samolyot rejimi
+Audio - Audio
+Auto Hide Panels - Panellarni avtomatik yaşiriş
+Battery - Batareya
+Bluetooth - Bluetooth
+Caffeine - Kofein
+Dark Mode - Qoronği rejim
+Docked Mode - Dok rejimi
+Do Not Disturb - Bezovta qilinmasin
+Flashlight - Fonarçik
+Hotspot - Hotspot (ulaniş nuqtasi)
+Virtual Keyboard Toggle - Virtual klaviaturani almaştiriş
+Screen OSD - Ekrandagi OSD
+Mobile Data - Mobil maʼlumotlar
+Night Color - Tungi rang
+Power Menu - Quvvat menyusi
+Record Screen - Ekranni yozib oliş
+Screen rotation - Ekranni buriş
+Screenshot - Skrinşot
+Settings - Moslamalar
+Waydroid - Waydroid
+Wi-Fi - Wi-Fi
+Plasma Mobile - Plasma Mobile
+Mobile homescreen with a focus on customizability. - Moslaşuvçanlikka yönaltirilgan mobil boş ekran.
+A mobile homescreen focused on simplicity and ease-of-use. - Oddiylik va foydalaniş qulayligiga qaratilgan mobil boş ekran.
+Top panel for Plasma Mobile - Plasma Mobile uçun yuqori panel
+Navigation panel for Plasma Mobile - Plasma Mobile uçun navigatsiya paneli
+Cellular initialstart module for Plasma Mobile - Plasma Mobile uçun uyali aloqa dastlabki sozlaş moduli
+Finished initialstart module for Plasma Mobile - Plasma Mobile uçun dastlabki sozlaş moduli yakunlandi
+Prepare initialstart module for Plasma Mobile - Plasma Mobile uçun dastlabki sozlaşga tayyorlaş moduli
+System navigation initialstart module for Plasma Mobile - Plasma Mobile uçun tizim navigatsiyasi dastlabki sozlaş moduli
+Time initialstart module for Plasma Mobile - Plasma Mobile uçun vaqt dastlabki sozlaş moduli
+WiFi initialstart module for Plasma Mobile - Plasma Mobile uçun WiFi dastlabki sozlaş moduli
+Software Versions - Dasturiy taʼminot versiyalari
+Configure the system shell - Tizim qobiğini sozlaş
+Configure System Navigation - Tizim navigatsiyasini sozlaş
+Timezone, Date Display - Vaqt mintaqasi, Sana körsatiş
+Waydroid configuration - Waydroid sozlamalari
+Autodetect cellular APNs in Plasma Mobile - Plasma Mobile-da uyali aloqa APN-larini avtomatik aniqlaş
+Run initial tasks for Plasma Mobile during session startup - Seans işga tuşganda Plasma Mobile uçun dastlabki vazifalarni bajariş
+Allows you to switch between running tasks with a mobile interface. - Mobil interfeys bilan işlayotgan vazifalar orasida almaşiş imkonini beradi.
+Removes window decorations and maximizes windows on the first screen only. - Oyna bezaklarini olib taşlaydi va oynalarni faqat birinçi ekranda kattalaştiradi.
+Default navigation panel for mobile - Mobil uçun standart navigatsiya paneli
+Default status bar for mobile - Mobil uçun standart holat paneli
+Plasma for mobile devices - Mobil qurilmalar uçun Plasma
+Airplane mode quick setting for Plasma Mobile - Plasma Mobile uçun samolyot rejimi tezkor sozlamasi
+Audio quick setting for Plasma Mobile - Plasma Mobile uçun audio tezkor sozlamasi
+Auto Hide Panels quick setting for Plasma Mobile - Plasma Mobile uçun panellarni avtomatik yaşiriş tezkor sozlamasi
+Battery quick setting for Plasma Mobile - Plasma Mobile uçun batareya tezkor sozlamasi
+Bluetooth quick setting for Plasma Mobile - Plasma Mobile uçun Bluetooth tezkor sozlamasi
+Quick setting to suspend system sleep for Plasma Mobile - Plasma Mobile uçun tizim uyqu rejimini töxtatib turiş tezkor sozlamasi
+Dark Mode quick setting for Plasma Mobile - Plasma Mobile uçun qoronği rejim tezkor sozlamasi
+Quick setting to toggle docked mode for Plasma Mobile - Plasma Mobile uçun dok rejimini yoqiş/öçiriş tezkor sozlamasi
+Quick setting to toggle do not disturb mode for Plasma Mobile - Plasma Mobile uçun bezovta qilinmasin rejimini yoqiş/öçiriş tezkor sozlamasi
+Flashlight quick setting for Plasma Mobile - Plasma Mobile uçun fonarçik tezkor sozlamasi
+Hotspot quick setting for Plasma Mobile - Plasma Mobile uçun hotspot tezkor sozlamasi
+Quick setting for keyboard toggle for Plasma Mobile - Plasma Mobile uçun klaviaturani yoqiş/öçiriş tezkor sozlamasi
+Screen setup OSD quick setting for Plasma Mobile - Plasma Mobile uçun ekran sozlamasi OSD tezkor sozlamasi
+Location quick setting for Plasma Mobile - Plasma Mobile uçun joylaşuv tezkor sozlamasi
+Night color quick setting for Plasma Mobile - Plasma Mobile uçun tungi rang tezkor sozlamasi
+Power menu quick setting for Plasma Mobile - Plasma Mobile uçun quvvat menyusi tezkor sozlamasi
+Screen recording quick setting for Plasma Mobile - Plasma Mobile uçun ekranni yozib oliş tezkor sozlamasi
+Screen rotation quick setting for Plasma Mobile - Plasma Mobile uçun ekranni buriş tezkor sozlamasi
+Screenshot quick setting for Plasma Mobile - Plasma Mobile uçun skrinşot tezkor sozlamasi
+Settings application quick setting for Plasma Mobile - Plasma Mobile uçun sozlamalar ilovasi tezkor sozlamasi
+Waydroid quick setting for Plasma Mobile - Plasma Mobile uçun Waydroid tezkor sozlamasi
+Wi-Fi quick setting for Plasma Mobile - Plasma Mobile uçun Wi-Fi tezkor sozlamasi
+Plasma shell for mobile devices - Mobil qurilmalar uçun Plasma qobiği
+Marco Martin - Marco Martin
+Devin Lin - Devin Lin
+Luis Büchi - Luis Büchi
+Florian RICHER - Florian RICHER
+Plata Hill - Plata Hill
+KDE Visual Design Group - KDE Vizual Dizayn Guruhi
+Bhushan Shah - Bhushan Shah
+Micah Stanley - Micah Stanley
+Yari Polla - Yari Polla
+Sebastian Kügler - Sebastian Kügler
+Aleix Pol - Aleix Pol
+Aleix Pol i Gonzalez - Aleix Pol i Gonzalez
+info, distro, system - maʼlumot, distributiv, tizim
+system,shell,panel - tizim,qobiq,panel
+system,shell,panel,navigation,gesture - tizim,qobiq,panel,navigatsiya,imo-işora
+theme, look, feel - mavzu, köriniş, hissiyot
+waydroid - waydroid

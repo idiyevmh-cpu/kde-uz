@@ -1,0 +1,147 @@
+Parent UDI - Ota UDI
+Vendor - Işlab çiqaruvçi
+Product - Mahsulot
+Description - Taʼrifi
+Icon - Nişonça
+Emblems - Emblemalar
+State - Holati
+Operation result - Amal natijasi
+Timestamp - Vaqt belgisi
+Processor - Protsessor
+Number - Raqam
+Max Speed - Maksimal tezlik
+Can Change Frequency - Çastotani özgartira oladi
+Block - Blok
+Major - Asosiy (Major)
+Minor - Qoşimça (Minor)
+Device - Qurilma
+Storage Access - Xotiraga kiriş
+Accessible - Kiriş mumkin
+File Path - Fayl yöli
+Storage Drive - Saqlaş drayvi
+Ide - IDE
+Usb - USB
+Ieee1394 - IEEE 1394 (FireWire)
+Scsi - SCSI
+Sata - SATA
+Platform - Platforma
+Hard Disk - Qattiq disk
+Cdrom Drive - CD-ROM drayvi
+Floppy - Disketa (Floppy)
+Tape - Lenta (Tape)
+Compact Flash - Compact Flash
+Memory Stick - Memory Stick
+Smart Media - Smart Media
+SdMmc - SD/MMC
+Xd - xD
+Bus - Şina (Bus)
+Drive Type - Drayv turi
+Removable - Olinadigan
+Hotpluggable - Iş vaqtida ulanadigan (Hotpluggable)
+Optical Drive - Optik drayv
+CD-R - CD-R
+CD-RW - CD-RW
+DVD - DVD
+DVD-R - DVD-R
+DVD-RW - DVD-RW
+DVD-RAM - DVD-RAM
+DVD+R - DVD+R
+DVD+RW - DVD+RW
+DVD+DL - DVD+DL
+DVD+DLRW - DVD+DLRW
+BD - BD
+BD-R - BD-R
+BD-RE - BD-RE
+HDDVD - HDDVD
+HDDVD-R - HDDVD-R
+HDDVD-RW - HDDVD-RW
+Supported Media - Qöllab-quvvatlanadigan media
+Read Speed - Öqiş tezligi
+Write Speed - Yoziş tezligi
+Write Speeds - Yoziş tezliklari
+Storage Volume - Xotira jildi (tomi)
+Other - Boşqa
+Unused - Işlatilmagan
+File System - Fayl tizimi
+Partition Table - Bölimlar jadvali
+Raid - Raid
+Encrypted - Şifrlangan
+Usage - Foydalaniş
+Unknown - Nomaʼlum
+Ignored - Eʼtiborsiz qoldirilgan
+File System Type - Fayl tizimi turi
+Label - Yorliq
+UUID - UUID
+Encrypted Container - Şifrlangan konteyner
+OpticalDisc - Optik disk
+Audio - Audio
+Data - Maʼlumotlar
+Video CD - Video CD
+Super Video CD - Super-video kompakt-disk
+Video DVD - Video DVD
+Video Blu Ray - Video Blu Ray
+Available Content - Mavjud tarkib
+Unknown Disc Type - Nomaʼlum disk turi
+CD Rom - CD Rom
+CD Recordable - Yoziladigan CD
+CD Rewritable - Qayta yoziladigan CD
+DVD Rom - DVD Rom
+DVD Ram - DVD Ram
+DVD Recordable - Yoziladigan DVD
+DVD Rewritable - Qayta yoziladigan DVD
+DVD Plus Recordable - Yoziladigan DVD Plus
+DVD Plus Rewritable - Qayta yoziladigan DVD Plus
+DVD Plus Recordable Duallayer - Ikki qatlamli yoziladigan DVD Plus
+DVD Plus Rewritable Duallayer - Ikki qatlamli qayta yoziladigan DVD Plus
+Blu Ray Rom - Blu Ray Rom
+Blu Ray Recordable - Yoziladigan Blu Ray
+Blu Ray Rewritable - Qayta yoziladigan Blu Ray
+HD DVD Rom - HD DVD Rom
+HD DVD Recordable - Yoziladigan HD DVD
+HD DVD Rewritable - Qayta yoziladigan HD DVD
+Disc Type - Disk turi
+Appendable - Qöşib yoziladigan
+Blank - Böş
+Rewritable - Qayta yoziladigan
+Capacity - Siğim
+Camera - Kamera
+Supported Protocols - Qöllab-quvvatlanadigan protokollar
+Supported Drivers - Qöllab-quvvatlanadigan drayverlar
+Portable Media Player - Portativ media pleyer
+Battery - Batareya
+Unknown Battery - Nomaʼlum batareya
+PDA Battery - KPK batareyasi
+UPS Battery - UPS batareyasi
+Primary Battery - Asosiy batareya
+Mouse Battery - Siçqonça batareyasi
+Keyboard Battery - Klaviatura batareyasi
+Keyboard Mouse Battery - Klaviatura va siçqonça batareyasi
+Camera Battery - Kamera batareyasi
+Phone Battery - Telefon batareyasi
+Monitor Battery - Monitor batareyasi
+Gaming Input Battery - Geympad batareyasi
+Bluetooth Battery - Bluetooth batareyasi
+Tablet Battery - Planşet batareyasi
+Headphone Battery - Quloqçin batareyasi
+Headset Battery - Garnitura batareyasi
+Touchpad Battery - Taçpad batareyasi
+Not Charging - Quvvatlanmayapti
+Charging - Quvvatlanmoqda
+Discharging - Quvvati sarflanmoqda
+Fully Charged - Töliq quvvatlandi
+Plugged In - Ulangan
+Type - Turi
+Charge Percent - Quvvat foizi
+Rechargeable - Qayta quvvatlanuvçi
+Charge State - Quvvat holati
+Type Description - Tur tavsifi
+Device Types - Qurilma turlari
+Size - Hajm
+Filesystem is not responding - Fayl tizimi javob bermayapti
+Filesystem mounted at '%1' is not responding - '%1' ga ulangan fayl tizimi javob bermayapti
+Free Space - Böş joy
+Free Space Text - Böş joy matni
+Size Text - Ölçam matni
+Temperature - Harorat
+Temperature Unit - Harorat birligi
+In Use - Işlatilmoqda

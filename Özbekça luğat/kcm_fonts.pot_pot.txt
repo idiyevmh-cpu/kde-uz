@@ -1,0 +1,45 @@
+General font - Umumiy şrift
+Fixed width font - Belgilangan kenglikdagi şrift
+Small font - Kiçik şrift
+Tool bar font - Asboblar paneli şrifti
+Menu font - Menyu şrifti
+Window title font - Oyna sarlavhasi şrifti
+Vendor default - Işlab çiqaruvçi birlamçi sozlamasi
+None - Yöq
+RGB - RGB
+BGR - BGR
+Vertical RGB - Vertikal RGB
+Vertical BGR - Vertikal BGR
+Medium - Örtaça
+Slight - Yengil
+Full - Töliq
+%1 %2pt - %1 %2pt
+Display - Displey
+Adjust Global Scale… - Global masştabni moslaştiriş…
+Very large fonts may produce odd-looking results. Instead of using a very large font size, consider adjusting the global screen scale. - Juda katta şriftlar ğalati körinişga olib kelişi mumkin. Juda katta şrift hajmidan foydalaniş örniga ekranning umumiy masştabini moslaştirişni körib çiqing.
+“Display” fonts are <link url='https://wikipedia.org/wiki/Display_typeface'>not intended for use on computer displays</link>, and may produce odd results. Consider using a different font. - “Display” şriftlari <link url='https://wikipedia.org/wiki/Display_typeface'>kompyuter displeylarida foydalaniş uçun möljallanmagan</link> va ğalati natijalar berişi mumkin. Boşqa şriftdan foydalanişni körib çiqing.
+Plasma is not designed to be usable with fonts smaller than 4pt. Size has been reset to 4pt. - Plasma 4pt dan kiçik şriftlar bilan foydalaniş uçun möljallanmagan. Hajm 4pt ga qaytarildi.
+Very small fonts may produce odd-looking results. Instead of using a very small font size, consider adjusting the global screen scale. - Juda kiçik şriftlar ğalati körinişga olib kelişi mumkin. Juda kiçik şrift hajmidan foydalaniş örniga ekranning umumiy masştabini moslaştirişni körib çiqing.
+&Adjust All Fonts… - Barça şriftlarni &moslaştiriş…
+General: - Umumiy:
+Select general font - Umumiy şriftni tanlang
+Fixed width: - Belgilangan kenglik:
+Select fixed width font - Belgilangan kenglikdagi şriftni tanlang
+Small: - Kiçik:
+Select small font - Kiçik şriftni tanlang
+Toolbar: - Asboblar paneli:
+Select toolbar font - Asboblar paneli şriftini tanlang
+Menu: - Menyu:
+Select menu font - Menyu şriftini tanlang
+Window title: - Oyna sarlavhasi:
+Select window title font - Oyna sarlavhasi şriftini tanlang
+Anti-Aliasing: - Tekislaş (Anti-aliasing):
+Enable - Yoqiş
+Pixels on displays are generally aligned in a grid. Therefore shapes of fonts that do not align with this grid will look blocky and wrong unless <emphasis>anti-aliasing</emphasis> techniques are used to reduce this effect. You generally want to keep this option enabled unless it causes problems. - Displeylardagi piksellar odatda katak şaklida tekislanadi. Şuning uçun bu katakka töğri kelmaydigan şrift şakllari bu taʼsirni kamaytiriş uçun <emphasis>tekislaş (anti-aliasing)</emphasis> usullari qöllanilmasa, ğadir-budur va notöğri körinadi. Agar muammo tuğdirmasa, uşbu parametrni yoqilgan holda qoldirişingiz tavsiya etiladi.
+Exclude range from anti-aliasing - Oraliqni tekislaşdan çiqarib taşlaş
+%1 pt - %1 pt
+to - dan
+Sub-pixel rendering: - Sub-piksel renderlaş:
+<para>On TFT or LCD screens every single pixel is actually composed of three or four smaller monochrome lights. These <emphasis>sub-pixels</emphasis> can be changed independently to further improve the quality of displayed fonts.</para> <para>The rendering quality is only improved if the selection matches the manner in which the sub-pixels of your display are aligned. Most displays have a linear ordering of <emphasis>RGB</emphasis> sub-pixels, some have <emphasis>BGR</emphasis> and some exotic orderings are not supported by this feature.</para>This does not work with CRT monitors. - <para>TFT yoki LCD ekranlarda har bir piksel aslida uç yoki törtta kiçikroq monoxrom çiroqlardan iborat böladi. Körsatiladigan şriftlar sifatini yanada yaxşilaş uçun bu <emphasis>sub-piksellar</emphasis> mustaqil ravişda özgartirilişi mumkin.</para> <para>Renderlaş sifati faqat tanlov displeyingizning sub-piksellari tekislangan usuliga mos kelgandagina yaxşilanadi. Aksariyat displeylar <emphasis>RGB</emphasis> sub-piksellarining çiziqli tartibiga ega, baʼzilarida <emphasis>BGR</emphasis> mavjud, baʼzi ğayritabiiy tartiblar esa uşbu xususiyat tomonidan qöllab-quvvatlanmaydi.</para>Bu CRT monitorlarda işlamaydi.
+Hinting: - Xinting (Hinting):
+Hinting is a technique in which hints embedded in a font are used to enhance the rendering quality especially at small sizes. Stronger hinting generally leads to sharper edges but the small letters will less closely resemble their shape at big sizes. - Xinting — bu, ayniqsa, kiçik ölçamlarda renderlaş sifatini oşiriş uçun şriftga kiritilgan maslahatlardan foydalaniladigan usuldir. Kuçliroq xinting odatda aniqroq qirralarga olib keladi, lekin kiçik harflar katta ölçamdagi şakliga kamroq öxşaş böladi.

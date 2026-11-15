@@ -1,0 +1,10 @@
+Creates Characters from :q: if it is a hexadecimal code or defined alias. - :q: ön oltilik kod yoki belgilangan taxallus bölsa, undan belgi yaratadi.
+Config entries for alias list and code list have different sizes, ignoring all. - Taxalluslar röyxati va kodlar röyxati sozlamalari turliça ölçamda, barçasi eʼtiborsiz qoldirilmoqda.
+Character Runner Config - Belgilar yugurtirgiçi sozlamasi
+&Trigger word: - &Işga tuşiruvçi söz:
+Alias: - Taxallus:
+Hex code: - Ön oltilik kod:
+Alias - Taxallus (alias)
+Code - Kod
+Add Item - Element qöşiş
+Delete Item - Elementni öçiriş

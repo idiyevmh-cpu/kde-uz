@@ -1,0 +1,14 @@
+&Execute - &Bajariş
+Plasma - Plasma
+KWin - KWin
+Templates - Andozalar
+Desktop Shell Scripting Console - Iş stoli qobigi skriptlar konsoli
+Editor - Tahrirlovçi
+Load - Yuklaş
+Use - Foydalaniş
+Output - Çiqiş
+Unable to load script file <b>%1</b> - <b>%1</b> skript faylini yuklab bölmadi
+Open Script File - Skript faylini oçiş
+Save Script File - Skript faylini saqlaş
+Executing script at %1 - %1 manzilidagi skript bajarilmoqda
+Runtime: %1ms - Işlaş vaqti: %1 ms

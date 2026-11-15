@@ -1,0 +1,63 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Expand All - Barçasini yoyiş
+Collapse All - Hammasini yo&piş
+Plasma Engine Explorer - Plasma dvigatellar tadqiqotçisi
+Search - Qidiriş
+DataSource/Key - Maʼlumot manbai/Kalit
+Type - Turi
+Value - Qiymat
+Get associated service - Boğlangan xizmatni oliş
+Get associated model - Boğlangan modelni oliş
+Update source now - Manbani hozir yangilaş
+Remove source - Manbani olib taşlaş
+<1 bit> - <1 bit>
+<1 byte> - <1 bayt>
+<1 item> - <1 element>
+<empty> - <böş>
+<not displayable> - <körsatib bölmaydi>
+<%1 item> - <%1 element>
+<%1 pair> - <%1 juftlik>
+Plasma DataEngine Explorer - Plasma DataEngine tadqiqotçisi
+%1 Engine - 1 data source - %1 dvigateli - 1 ta maʼlumot manbai
+Source name - Manba nomi
+Update on demand - Talab böyiça yangilaş
+ ms -  ms
+Update Every  - Yangilaş oraliği: 
+Request Source - Manbani söraş
+Service for source - Manba uçun xizmat
+Request Service for Source - Manba uçun xizmatni söraş
+Search Columns - Ustunlarda qidiriş
+All Visible Columns - Hamma körsatilgan ustunlar
+S&earch: - Q&idiriş:
+No description available - Heç qanday taʼrif mavjud emas
+Explore the data published by Plasma DataEngines - Plasma DataEngines tomonidan eʼlon qilingan maʼlumotlarni köriş
+(c) 2006, The KDE Team - (c) 2006, KDE jamoasi
+Aaron J. Seigo - Aaron J. Seigo
+Author and maintainer - Muallif va taʼminotçi
+Displays a list of known engines and their descriptions - Maʼlum dvigatellar va ularning tavsiflari röyxatini körsatadi
+The desired height in pixels - Pikselda istalgan balandlik
+The desired width in pixels - Pikselda istalgan kenglik
+The desired x position in pixels - Pikselda istalgan x holati
+The desired y position in pixels - Pikselda istalgan y holati
+The data engine to use - Foydalaniladigan maʼlumotlar dvigateli
+The source to request - Söraladigan manba
+Update interval in milliseconds - Yangilaş oraliği (millisoniyalarda)
+Only show engines associated with the parent application; maps to the X-KDE-ParentApp entry in the DataEngine's .desktop file. - Faqat ota ilova bilan boğlangan dvigatellarni körsatiş; DataEngine-ning .desktop faylidagi X-KDE-ParentApp yozuviga mos keladi.
+Unknown - Nomaʼlum
+No valid model was returned. Verify that a model is available for this source. - Yaroqli model qaytarilmadi. Uşbu manba uçun model mavjudligini tekşiring.
+%1 Model Explorer - %1 model tadqiqotçisi
+Start Operation - Amalni boşlaş
+Unknown - Nomaʼlum
+No valid service was returned. Verify that a service is available for this source. - Yaroqli xizmat qaytarilmadi. Uşbu manba uçun xizmat mavjudligini tekşiring.
+%1 Service Explorer - %1 xizmat tadqiqotçisi
+Engine: <b>%1</b>; Source: <b>%2</b>; Service: <b>%3</b> - Dvigatel: <b>%1</b>; Manba: <b>%2</b>; Xizmat: <b>%3</b>
+Key - Kalit
+<b>'%1'</b> operation with destination <b>'%2'</b> failed. <p>The error was: <b>'%3: %4'</b></p> - <b>'%2'</b> möljalli <b>'%1'</b> amali muvaffaqiyatsiz tugadi. <p>Xato: <b>'%3: %4'</b></p>
+Operation Result - Amal natijasi
+No response from job. - Vazifadan javob bölmadi.
+<b>'%1'</b> operation with destination <b>'%2'</b> returned successfully. <p>The result was: <b>'%3'</b></p> - <b>'%2'</b> möljalli <b>'%1'</b> amali muvaffaqiyatli bajarildi. <p>Natija: <b>'%3'</b></p>
+One active operation… - Bitta faol amal…
+Opera&tion: - &Amal:
+Operation count - Amallar soni
+Data Engines - Maʼlumotlar dvigatellari

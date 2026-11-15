@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Run in Terminal Window - Terminal oynasida işga tuşiriş
+Finds commands that matç :q:, using common şell syntax - Umumiy buyruqlar qobiği sintaksisi böyiça :q: ga mos keluvçi buyruqlarni topadi
+Run %1 - %1 ni işga tuşiriş

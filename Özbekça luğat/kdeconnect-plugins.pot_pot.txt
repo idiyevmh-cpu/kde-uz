@@ -1,0 +1,93 @@
+%1: Low Battery - %1: Batareya quvvati kam
+Battery at %1% - Batareya: %1%
+Automatically share the clipboard from this device - Uşbu qurilmadan vaqtinçalik xotirani avtomatik ulaşiş
+Including passwords (as marked by password managers) - Parollar bilan birga (parol boşqaruvçilari tomonidan belgilanganidek)
+Max Clipboard File Size (MB) - Vaqtinçalik xotira faylining maksimal ölçami (MB)
+KDE Connect Error - KDE Connect xatosi
+Unable to create a virtual drawing tablet. If this error persists, file a bug report. - Virtual çiziş planşetini yaratib bölmadi. Agar bu xato davom etsa, xato haqida xabar bering.
+Unable to process one or more input events for the virtual device. If this error persists, file a bug report. - Virtual qurilma uçun bir yoki bir neçta kiritiş hodisalariga işlov berib bölmadi. Agar bu xato davom etsa, xato haqida xabar bering.
+Apply - Qöllaş
+Sound to play: - Çalinadigan tovuş:
+Choose file - Faylni tanlang
+Play - Ijro etiş
+Remote lock successful - Masofadan qulflaş muvaffaqiyatli yakunlandi
+Remote lock failed - Masofadan qulflaş muvaffaqiyatsiz böldi
+Current Player - Joriy pleyer
+N/A - Mavjud emas
+Reply - Javob beriş
+Reply in %1… - %1 içida javob beriş…
+Reply to %1… - %1 ga javob beriş…
+Send - Yuboriş
+Dialog - Muloqot oynasi
+Pause as soon as phone rings - Telefon jiringlaşi bilan pauza qiliş
+Pause only while talking - Faqat gaplaşayotganda pauza qiliş
+Pause media players - Media pleyerlarni pauza qiliş
+Mute system sound - Tizim tovuşini öçiriş
+Resume automatically when call ends - Qönğiroq tugaganda avtomatik davom ettiriş
+Ping! - Ping!
+Display: - Displey:
+Red Dot - Qizil nuqta
+Electric - Elektr
+Add Command… - Buyruq qöşiş…
+Edit - Tahrirlaş
+Delete - Öçiriş
+No commands configured - Heç qanday buyruq sozlanmagan
+Add commands to run them remotely from other devices - Boşqa qurilmalardan masofadan işga tuşiriş uçun buyruqlar qöşing
+Add Command - Buyruq qöşiş
+Add - Qöşiş
+Add command - Buyruq qöşiş
+Name: - Nomi:
+Command: - Buyruq:
+Sample commands: - Namuna buyruqlar:
+Suspend - Kutiş rejimi
+Lock Screen - Ekranni qulflaş
+Maximum Brightness - Maksimal yorqinlik
+Unlock Screen - Ekranni qulfdan çiqariş
+Close All Vaults - Barça seyflarni yopiş
+Forcefully Close All Vaults - Barça seyflarni majburan yopiş
+Edit Command - Buyruqni tahrirlaş
+Confirm - Tasdiqlaş
+Confirm - Tasdiqlaş
+Phone is connected - Telefon ulangan
+Persistent notifications only - Faqat doimiy bildirişnomalar
+Include body - Matn tarkibini qöşiş
+Include icon - Belgini qöşiş
+Minimum urgency level: - Minimal muhimlik darajasi:
+Name - Nomi
+Excluded - Istisno qilingan
+Name of a notifying application. - Bildirişnoma yuboruvçi ilova nomi.
+Synchronize notifications of an application? - Ilova bildirişnomalari sinxronlansinmi?
+Regular expression defining which notifications should not be sent.
+This pattern is applied to the summary and, if selected above, the body of notifications. - Qaysi bildirişnomalar yuborilmasligi kerakligini belgilovçi muntazam ifoda (regular expression).
+Uşbu qolip qisqa mazmunga va agar yuqorida tanlangan bölsa, bildirişnomalar matniga qöllaniladi.
+Failed to start sshfs - sshfs-ni işga tuşirib bölmadi
+sshfs process crashed - sshfs jarayoni halokatga uçradi
+Unknown error in sshfs - sshfs-da nomaʼlum xatolik
+Error when accessing filesystem. sshfs finished with exit code %0 - Fayl tizimiga kirişda xato. sshfs %0 çiqiş kodi bilan yakunlandi
+Failed to mount filesystem: device not responding - Fayl tizimini ulab bölmadi: qurilma javob bermayapti
+KDE Connect - KDE Connect
+Cannot handle SFTP protocol. Apologies for the inconvenience - SFTP protokoliga işlov berib bölmadi. Noqulaylik uçun uzr söraymiz
+All files - Barça fayllar
+Camera pictures - Kamera rasmlari
+Save files in: - Fayllarni saqlaş joyi:
+%1 in the path will be replaced with the specific device name - Yöldagi %1 muayyan qurilma nomi bilan almaştiriladi
+Shared text copied to clipboard - Ulaşilgan matn vaqtinçalik xotiraga nusxalandi
+Shared text from %1 copied to clipboard - %1 dan ulaşilgan matn vaqtinçalik xotiraga nusxalandi
+Open in Text Editor - Matn muharririda oçiş
+Open Link - Havolani oçiş
+Could not share file - Faylni ulaşib bölmadi
+%1 does not exist - %1 mavjud emas
+Permission denied: %1 - Ruxsat rad etildi: %1
+Leave Screen at - Ekrandan çiqiş joyi:
+Top - Yuqori
+Left - Çap
+Right - Öng
+Bottom - Past
+Another device already reserved this edge. This may lead to unexpected results when both are connected at the same time. - Boşqa qurilma uşbu qirrani allaqaçon band qilgan. Ikkalasi bir vaqtda ulanganda bu kutilmagan natijalarga olib kelişi mumkin.
+unknown number - nomaʼlum raqam
+Incoming call from %1 - %1 dan kiruvçi qönğiroq
+Missed call from %1 - %1 dan ötkazib yuborilgan qönğiroq
+Mute Call - Qönğiroq ovozini öçiriş
+Remote device does not have a VNC or RDP client (eg. krdc) installed. - Masofaviy qurilmada VNC yoki RDP mijozi (masalan, krdc) örnatilmagan.
+The krdp package is required on the local device. - Mahalliy qurilmada krdp paketi talab qilinadi.
+Cannot start a request without a resolution - Ekran ölçamisiz (resolution) sörovni boşlab bölmaydi

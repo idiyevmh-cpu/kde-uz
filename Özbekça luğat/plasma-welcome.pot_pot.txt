@@ -1,0 +1,187 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Friendly onboarding wizard for Plasma - Plasma uçun qulay boşlanğiç taniştiriş ustasi
+Welcome Center - Qutlov markazi
+© 2021–2024, KDE Community - © 2021–2024, KDE hamjamiyati
+Felipe Kinoshita - Felipe Kinoshita
+Author - Muallif
+Nate Graham - Nate Graham
+Oliver Beard - Oliver Beard
+Display release notes for the current Plasma release. - Joriy Plasma nuri (relizi) uçun çiqariliş eslatmalarini körsatiş.
+Display guidance for a Plasma Safe Mode session. - Plasma xavfsiz rejimi seansi böyiça qöllanmani körsatiş.
+Display the live page intended for distro live environments. - Distributivning jonli (live) muhitlari uçun möljallangan sahifani körsatiş.
+Specify comma-delimited list of page(s) (by internal name) to be displayed. - Körsatilişi kerak bölgan sahifalarning (içki nomi böyiça) vergul bilan ajratilgan röyxatini körsating.
+Unknown module %1 requested - Nomaʼlum %1 moduli söraldi
+The command <command>%1</command> could not be found. - <command>%1</command> buyruği topilmadi.
+No error message provided - Xatolik xabari taqdim etilmagan
+The command <command>%1</command> failed: %2 - <command>%1</command> buyruği muvaffaqiyatsiz tugadi: %2
+Launch %1 now - %1 dasturini hozir işga tuşiriş
+This settings module could not be loaded - Bu sozlamalar modulini yuklab bölmadi
+Unassigned - Tayinlanmagan
+If you find Plasma to be useful, consider getting involved or donating. KDE is an international volunteer community, not a big company; your contributions make a real difference! - Agar Plasma-ni foydali deb topsangiz, loyihada iştirok etişni yoki xayriya qilişni körib çiqing. KDE yirik kompaniya emas, balki xalqaro köngillilar hamjamiyatidir; sizning hissangiz haqiqiy ahamiyatga ega!
+Make a donation - Xayriya qiliş
+Get involved - Iştirok etiş
+&Skip - Ö&tkazib yuboriş
+&Back - &Orqaga
+&Next - &Keyingi
+&Finish - &Tugatiş
+Show after Plasma is updated - Plasma yangilangandan keyin körsatilsin
+&OK - &OK
+Activities - Faoliyatlar
+Home - Uy
+School - Maktab
+Work - Iş
+Currently being used - Ayni paytda işlatilmoqda
+Used 3 hours ago - 3 soat oldin işlatilgan
+Create activity… - Faoliyat yaratiş…
+Search… - Qidiriş…
+Desktop 1 - Iş stoli 1
+Expand the window - Oynani kengaytiriş
+Error loading page - Sahifani yuklaşda xatolik
+Report Bug… - Xato haqida xabar beriş…
+Copy Details - Tafsilotlarni nusxalaş
+This page could not be loaded - Bu sahifani yuklab bölmadi
+This page provided by your distribution could not be loaded - Distributivingiz tomonidan taqdim etilgan uşbu sahifani yuklab bölmadi
+This page provided by Welcome Center could not be loaded - Qutlov markazi tomonidan taqdim etilgan uşbu sahifani yuklab bölmadi
+Find Great Apps - Ajoyib ilovalarni toping
+There’s no need to search the web to download app installers or use a command-line package manager; KDE’s app store <application>%1</application> does it all for you!<nl/><nl/>Click on any of the icons below to give it a try! - Ilova örnatuvçilarini yuklab oliş uçun internetdan qidiriş yoki buyruq satri paket boşqaruvçisidan foydalanişga hojat yöq; KDE-ning <application>%1</application> ilovalar dökonida bularning barçasi siz uçun tayyor!<nl/><nl/>Sinab köriş uçun quyidagi nişonçalardan (belgilardan) istalgan birini bosing!
+Show %1 in Discover - %1 ilovasini Discover-da körsatiş
+Enjoy It! - Mazza qilib işlating!
+We hope you love Plasma as much as we loved making it for you! Now it’s time to jump right in. Explore its features, install your favorite apps and games, and get busy doing what makes you you! - Umid qilamizki, biz Plasma-ni siz uçun qançalik sevib yaratgan bölsak, siz ham uni şunçalik yaxşi körasiz! Endi işga kirişiş vaqti keldi. Uning imkoniyatlarini örganing, sevimli ilova va öyinlaringizni örnating hamda özingiz sevgan işlar bilan maşğul böling!
+Learn more about the KDE community - KDE hamjamiyati haqida köproq bilib oling
+Get help at KDE’s discussion forums - KDE muhokama forumlarida yordam oling
+Supporting Members - Qöllab-quvvatlovçi aʼzolar
+Supporting Members - Qöllab-quvvatlovçi aʼzolar
+We thank the following supporting members for their recurring donation to KDE: - KDE-ga muntazam xayriya qilayotgan quyidagi qöllab-quvvatlovçi aʼzolarga minnatdorçilik bildiramiz:
+Sort: %1 - Saralaş: %1
+Random - Tasodifiy
+Last Name - Familiya
+First Name - Ism
+Contribution Date - Hissa qöşilgan sana
+Reverse - Teskari tartibda
+Share Anonymous Usage Information - Anonim foydalaniş maʼlumotlarini ulasiş
+Our developers will use this anonymous data to improve KDE software. You can choose how much to share in System Settings, and here too. - Dasturçilarimiz uşbu anonim maʼlumotlardan KDE dasturiy taʼminotini yaxşilaş uçun foydalanadilar. Qança maʼlumot ulasişni Tizim sozlamalarida, şuningdek, şu yerning özida ham tanlaşingiz mumkin.
+Welcome to %1! - %1 tizimiga xuş kelibsiz!
+Pressing the icon below will begin installing %1. Alternatively, you can close the window to explore the live environment or continue here to find out about KDE Plasma. - Quyidagi belgini bosiş %1 örnatilişini boşlaydi. Yoki jonli (live) muhitni örganiş uçun oynani yopişingiz, yoxud KDE Plasma haqida bilib oliş uçun şu yerda davom etişingiz mumkin.
+You can close the window to explore the live environment or continue here to find out about KDE Plasma. - Jonli (live) muhitni örganiş uçun oynani yopişingiz yoki KDE Plasma haqida bilib oliş uçun şu yerda davom etişingiz mumkin.
+Visit home page - Boş sahifaga taşrif buyuriş
+Install %1 now - %1 tizimini hozir örnatiş
+Access the Internet - Internetga ulaniş
+You can connect to the internet and manage your network connections with the <interface>Networks applet</interface>. To access it, click on the <interface>Networks</interface> icon in your <interface>System Tray</interface>, which lives in the bottom-right corner of the screen. - <interface>Tarmoqlar appleti</interface> yordamida internetga ulanişingiz va tarmoq ulanişlaringizni boşqarişingiz mumkin. Unga kiriş uçun ekranning pastki öng burçagida joylaşgan <interface>Tizim lotogi</interface>dagi <interface>Tarmoqlar</interface> belgisini bosing.
+Networking support for Plasma is not currently installed - Plasma uçun tarmoq qöllab-quvvatlaşi hozirda örnatilmagan
+To manage network connections, Plasma requires <icode>plasma-nm</icode> to be installed. Please <link url='%1'>report this omission to %2</link>. - Tarmoq ulanişlarini boşqariş uçun Plasma <icode>plasma-nm</icode> örnatilişini talab qiladi. Iltimos, <link url='%1'>uşbu kamçilik haqida %2 ga xabar bering</link>.
+You’re connected - Siz internetga ulangansiz
+All good to go! - Hammasi tayyor!
+To manually preview the different states of the page, you can use the button. - Sahifaning turli holatlarini qölda oldindan köriş uçun tugmadan foydalanişingiz mumkin.
+Change state - Holatni özgartiriş
+Plasma has been updated to %1 - Plasma %1 versiyasiga yangilandi
+Thank you for testing this beta release of Plasma — your feedback is fundamental to helping us improve it! Please report any and all bugs you find so that we can fix them. - Plasma-ning uşbu beta-relizini sinovdan ötkazganingiz uçun taşakkur — sizning fikr-mulohazalaringiz uni yaxşilaşimizda muhim ahamiyatga ega! Iltimos, biz ularni tuzatişimiz uçun topgan barça xatolaringiz haqida xabar bering.
+KDE contributors have spent the last four months hard at work on this release. We hope you enjoy using Plasma as much as we enjoyed making it! - KDE iştirokçilari sönggi tört oyni uşbu reliz ustida tinimsiz mehnat qiliş bilan ötkazdilar. Umid qilamizki, biz Plasma-ni qançalik zavq bilan yaratgan bölsak, siz ham undan foydalanişdan şunçalik zavqlanasiz!
+Report a bug - Xato haqida xabar beriş
+Download an embedded preview of the release announcement? - Reliz eʼlonining örnatilgan oldindan köriş nusxasi yuklab olinsinmi?
+The preview has not been automatically downloaded because you are using a metered network connection. - Siz çegaralangan (ölçovli) tarmoq ulanişidan foydalanayotganingiz sababli, oldindan köriş avtomatik ravişda yuklab olinmadi.
+The preview could not be downloaded — a network error occurred (%1). - Oldindan körişni yuklab bölmadi — tarmoq xatosi yuz berdi (%1).
+The preview could not be loaded — a parse error occurred. - Oldindan körişni yuklab bölmadi — tahlil qiliş (parse) xatosi yuz berdi.
+Download Preview - Oldindan körişni yuklab oliş
+Download Anyway - Baribir yuklab oliş
+Retry - Qaytadan uriniş
+Open in Browser… - Brauzerda oçiş…
+Load preview automatically - Oldindan körişni avtomatik yuklaş
+The preview will be loaded automatically when this page is shown for future Plasma updates, except when using a metered network connection. - Çegaralangan (ölçovli) tarmoq ulanişidan foydalanilgan holatlardan taşqari, kelajakdagi Plasma yangilanişlari uçun bu sahifa körsatilganda oldindan köriş avtomatik ravişda yuklanadi.
+<b>Click to read the announcement</b> - <b>Eʼlonni öqiş uçun bosing</b>
+Powerful When Needed - Kerakli paytda qudratli
+Plasma is a feature-rich environment, designed to super-charge your productivity!<nl/><nl/>Click the cards below to see just a smattering of what it can do for you: - Plasma — bu sizning unumdorligingizni oşiriş uçun möljallangan, imkoniyatlarga boy muhitdir!<nl/><nl/>U siz uçun nimalar qila olişining kicik bir qismini köriş uçun quyidagi kartalarni bosing:
+Keyboard Shortcuts - Klaviatura tezkor tugmalari
+Activate features from the keyboard - Imkoniyatlarni klaviaturadan faollaştiring
+Overview - Umumiy köriniş
+Your system command center - Tizimingizning boşqaruv markazi
+KRunner - KRunner
+Search for anything - Istalgan narsani qidiring
+KDE Connect - KDE Connect
+Connect your phone and your computer - Telefoningiz va kompyuteringizni ulang
+Activities - Faoliyatlar
+Separate work, school, or home tasks - Iş, öqiş yoki uy vazifalarini alohida ajrating
+Vaults - Seyflar (Vaults)
+Store sensitive files securely - Maxfiy fayllarni xavfsiz saqlang
+Learn about more Plasma features - Plasma-ning boşqa imkoniyatlari haqida bilib oling
+Activities - Faoliyatlar
+Activities can be used to separate high-level projects or workflows so you can focus on one at a time. You can have an activity for “Home”, “School”, “Work”, and so on. Each Activity has access to all your files but has its own set of open apps and windows, recent documents, “Favorite” apps, and desktop widgets. - Bir vaqtning özida bitta işga diqqatni jamlaş uçun yuqori darajadagi loyihalarni yoki iş jarayonlarini ajratişda Faoliyatlardan foydalaniş mumkin. “Uy”, “Maktab”, “Iş” va hokazolar uçun alohida faoliyat yaratişingiz mumkin. Har bir Faoliyat sizning barça fayllaringizga kiriş huquqiga ega, ammo özining oçiq ilovalari va oynalari, sönggi hujjatlari, “Sevimli” ilovalari va iş stoli vidjetlari töplamiga ega böladi.
+Open Settings… - Sozlamalarni oçiş…
+To get started, launch <interface>System Settings</interface> and search for “Activities”. On that page, you can create more Activities. You can then switch between them using the <shortcut>%1</shortcut> keyboard shortcut. - Boşlaş uçun <interface>Tizim sozlamalari</interface>ni işga tuşiring va “Faoliyatlar”ni qidiring. Uşbu sahifada köproq Faoliyatlar yaratişingiz mumkin. Şundan söng ular orasida <shortcut>%1</shortcut> klaviatura tezkor tugmasi yordamida almaşişingiz mumkin.
+KDE Connect - KDE Connect
+KDE Connect lets you integrate your phone with your computer in various ways:<nl/><list><item>See notifications from your phone on your computer</item><item>Reply to text messages from your phone on your computer</item><item>Sync your clipboard contents between your computer and your phone</item><item>Make a noise on your phone when it’s been misplaced</item><item>Copy pictures, videos, and other files from your phone to your computer, and vice versa</item><item>…And much more!</item></list> - KDE Connect telefoningizni kompyuteringiz bilan turli usullarda birlaştiriş imkonini beradi:<nl/><list><item>Telefoningizdagi bildirişnomalarni kompyuterda köriş</item><item>Telefoningizga kelgan matnli xabarlarga kompyuterdan javob yoziş</item><item>Kompyuter va telefon örtasida almaşiş buferi tarkibini sinxronlaştiriş</item><item>Telefon yöqolib qolganda unda ovoz çiqariş</item><item>Rasmlar, videolar va boşqa fayllarni telefondan kompyuterga va aksinça nusxalaş</item><item>…Va yana köp narsalar!</item></list>
+To get started, click the <interface>%1</interface> button. You can pair your phone there. - Boşlaş uçun <interface>%1</interface> tugmasini bosing. U yerda telefoningizni ulaşingiz (juftlaştirişingiz) mumkin.
+Open %1 - %1 dasturini oçiş
+KDE Connect is not installed. - KDE Connect örnatilmagan.
+Install KDE Connect… - KDE Connect-ni örnatiş…
+KRunner - KRunner
+KRunner is Plasma’s exceptionally powerful and versatile search system. It powers the search functionality in the Application Launcher menu and the Overview screen, and it can be accessed as a standalone search bar using the <shortcut>%1</shortcut> keyboard shortcut.<nl/><nl/>In addition to finding your files and folders, KRunner can launch apps, search the web, convert between currencies, calculate math problems, and a lot more. - KRunner — bu Plasma-ning ğoyatda qudratli va köp qirrali qidiruv tizimi. U Ilovalarni işga tuşiruvçi menyuda va Umumiy köriniş (Overview) ekranida qidiruv funksiyasini taʼminlaydi hamda unga <shortcut>%1</shortcut> klaviatura tezkor tugmasi orqali mustaqil qidiruv satri sifatida kiriş mumkin.<nl/><nl/>Fayl va jildlaringizni topişdan taşqari, KRunner ilovalarni işga tuşirişi, internetdan qidirişi, valyutalarni konvertatsiya qilişi, matematik misollarni hisoblaşi va yana köplab işlarni bajarişi mumkin.
+To learn more, open the KRunner search bar using the <shortcut>%1</shortcut> keyboard shortcut and click on the question mark icon. - Köproq biliş uçun <shortcut>%1</shortcut> klaviatura tezkor tugmasi yordamida KRunner qidiruv satrini oçing va söroq belgisi ustiga bosing.
+time Shanghai - vaqt Şanxay
+27 / 3 - 27 / 3
+200 EUR in USD - 200 EUR USD hisobida
+25 miles in km - 25 milya km hisobida
+...and much more! - ...va yana köp narsalar!
+Keyboard Shortcuts - Klaviatura tezkor tugmalari
+Configure Shortcuts… - Tugmalar birikmasini sozlaş…
+Almost anything in Plasma can be done with the keyboard, using shortcuts that mostly involve the <shortcut>Meta</shortcut> key.<nl/><nl/>On a Mac keyboard, this is the “Command” key: - Plasma-da deyarli hamma narsani asosan <shortcut>Meta</shortcut> tugmasi iştirok etadigan tezkor tugmalar yordamida klaviatura orqali bajariş mumkin.<nl/><nl/>Mac klaviaturasida bu “Command” tugmasidir:
+Almost anything in Plasma can be done with the keyboard, using shortcuts that mostly involve the <shortcut>Meta</shortcut> key.<nl/><nl/>This key is usually located between the left <shortcut>Ctrl</shortcut> and <shortcut>Alt</shortcut> keys, and contains either a symbol of some kind, or the word “Super”: - Plasma-da deyarli hamma narsani asosan <shortcut>Meta</shortcut> tugmasi iştirok etadigan tezkor tugmalar yordamida klaviatura orqali bajariş mumkin.<nl/><nl/>Bu tugma odatda çap <shortcut>Ctrl</shortcut> va <shortcut>Alt</shortcut> tugmalari orasida joylaşgan böladi hamda özida biror belgini yoki “Super” sözini saqlaydi:
+Ctrl - Ctrl
+Fn - Fn
+Super - Super
+I never meta key I didn't like - Menga yoqmaydigan Meta tugmasini heç uçratmaganman
+Alt - Alt
+fn - fn
+control - control
+option - option
+command - command
+What can you do with the <shortcut>Meta</shortcut> key? Here are a few examples:<list><item>Press it: Open the Application Launcher widget</item><item>Press <shortcut>Meta+[arrow keys]</shortcut>: Tile window to screen edges or corners</item><item>Press <shortcut>Meta+[number keys]</shortcut>: Launch pinned Task Manager apps</item><item>Press <shortcut>Meta+R</shortcut>: Start a screen recording</item><item>Press <shortcut>Meta+L</shortcut>: Lock the screen</item><item>Press <shortcut>Meta+Shift+S</shortcut>: Toggle screen reader on/off</item><item>Press <shortcut>Meta+Alt+P</shortcut>: Move keyboard focus to panel</item><item>Press <shortcut>Meta+Esc</shortcut>: Launch System Monitor app</item><item>Press <shortcut>Meta+.</shortcut>: Launch Emoji Selector app</item><item>Press <shortcut>Meta+D</shortcut>: Show the desktop</item></list> - <shortcut>Meta</shortcut> tugmasi bilan nimalar qiliş mumkin? Mana bir neçta misollar:<list><item>Uni bosing: Ilovalarni işga tuşiruvçi vidjetni oçiş</item><item><shortcut>Meta+[strelka tugmalari]</shortcut>ni bosing: Oynani ekran çetlariga yoki burçaklariga joylaştiriş</item><item><shortcut>Meta+[raqam tugmalari]</shortcut>ni bosing: Vazifalar boşqaruvçisiga qadalgan ilovalarni işga tuşiriş</item><item><shortcut>Meta+R</shortcut>ni bosing: Ekranni yozib olişni boşlaş</item><item><shortcut>Meta+L</shortcut>ni bosing: Ekranni qulflaş</item><item><shortcut>Meta+Shift+S</shortcut>ni bosing: Ekranni öquvçini yoqiş/öçiriş</item><item><shortcut>Meta+Alt+P</shortcut>ni bosing: Klaviatura fokusini panelga köçiriş</item><item><shortcut>Meta+Esc</shortcut>ni bosing: Tizim kuzatuvçisi ilovasini işga tuşiriş</item><item><shortcut>Meta+.</shortcut>ni bosing: Emojilar tanlagiç ilovasini işga tuşiriş</item><item><shortcut>Meta+D</shortcut>ni bosing: Iş stolini körsatiş</item></list>
+Overview - Umumiy köriniş
+Overview is a full-screen overlay that shows all of your open windows, letting you easily access any of them. It also shows your current Virtual Desktops, allowing you to add more, remove some, and switch between them. Finally, it offers a KRunner-powered search field that can also filter through open windows. - Umumiy köriniş (Overview) — bu barça oçiq oynalaringizni körsatadigan va ularning istalgan biriga osonlik bilan ötiş imkonini beradigan töliq ekranli qatlamdir. Şuningdek, u joriy Virtual iş stollarini körsatib, yangilarini qöşiş, baʼzilarini olib taşlaş va ular orasida almaşiş imkonini beradi. Va nihoyat, u oçiq oynalarni saralay oladigan KRunner asosidagi qidiruv maydonini taklif etadi.
+You can access Overview using the <shortcut>%1</shortcut> keyboard shortcut, or by moving your mouse into the top-left corner of the screen. You can also press <shortcut>%2</shortcut> for Grid View, which shows Virtual Desktops in a grid. - Umumiy körinişga <shortcut>%1</shortcut> klaviatura tezkor tugmasi orqali yoki siçqonçani ekranning yuqori çap burçagiga olib boriş orqali kirişingiz mumkin. Şuningdek, Virtual iş stollarini katakça (setka) şaklida körsatadigan Katakça körinişi uçun <shortcut>%2</shortcut> tugmasini bosişingiz mumkin.
+Plasma Vaults - Plasma seyflari (Vaults)
+Plasma Vaults allows you to create encrypted folders, called <interface>Vaults.</interface> Inside each Vault, you can securely store your passwords, files, pictures, and documents, safe from prying eyes. Vaults can live inside folders that are synced to cloud storage services too, providing extra privacy for that content. - Plasma seyflari (Vaults) sizga <interface>Seyflar</interface> deb ataladigan şifrlangan jildlarni yaratiş imkonini beradi. Har bir seyf içida parollaringiz, fayllaringiz, rasmlaringiz va hujjatlaringizni begona közlardan xoli tarzda xavfsiz saqlaşingiz mumkin. Seyflar bulutli xotira xizmatlari bilan sinxronlaştiriladigan jildlar içida ham joylaşişi mumkin, bu esa uşbu maʼlumotlar uçun qöşimça maxfiylikni taʼminlaydi.
+Vaults - Seyflar (Vaults)
+Important Documents - Muhim hujjatlar
+My Photos - Mening rasmlarim
+Unlock and Open - Qulfdan çiqariş va oçiş
+To get started, click the arrow on the <interface>System Tray</interface> to show hidden items, and then click the <interface>Vaults</interface> icon. - Boşlaş uçun yaşirin elementlarni körsatiş maqsadida <interface>Tizim lotogi</interface>dagi strelkani bosing va söng <interface>Seyflar</interface> (Vaults) belgisini bosing.
+This is a Safe Mode Session - Bu Xavfsiz rejim seansi
+Help & Support - Yordam va qöllab-quvvatlaş
+https://kde.org/support/<nl/><nl/>Find out more information or ask others for help with KDE software. - https://kde.org/support/<nl/><nl/>KDE dasturiy taʼminoti böyiça köproq maʼlumot oling yoki boşqalardan yordam sörang.
+About Welcome Center - Qutlov markazi haqida
+About KDE - KDE haqida
+Your usual KDE Plasma and app settings have been safely preserved for later, but are not being used right now. They will be used again when you return to your regular Plasma session.<nl/><nl/>Here are some actions you can take to try fixing your regular Plasma session: - Sizning odatiy KDE Plasma va ilova sozlamalaringiz keyinroq işlatiş uçun xavfsiz saqlab qöyildi, ammo hozir foydalanilmayapti. Odatiy Plasma seansiga qaytganingizda ular yana işlatiladi.<nl/><nl/>Odatiy Plasma seansini tuzatişga urinib köriş uçun quyidagi amallarni bajarişingiz mumkin:
+Clear Cache Files - Keş fayllarini tozalaş
+Safe to try; cache files are automatically regenerated - Sinab köriş xavfsiz; keş fayllari avtomatik tarzda qayta yaratiladi
+Manual changes made to KDE Plasma and apps while in Safe Mode will be lost when you return to your regular Plasma session. - Xavfsiz rejim paytida KDE Plasma va ilovalarga qölda kiritilgan özgarişlar odatiy Plasma seansiga qaytganingizda yöqoladi.
+E&xit Safe Mode… - Xavfsiz rejimdan &çiqiş…
+Clear Cache Files - Keş fayllarini tozalaş
+KDE Plasma, system services, and applications create cache files to help with performance. Sometimes these go stale, and can cause problems.<nl/><nl/>Often the problem lies elsewhere, but clearing the caches doesn't hurt to try, as they will be automatically regenerated when needed.<nl/><nl/>Your customizations will remain untouched. - KDE Plasma, tizim xizmatlari va ilovalar samaradorlikni oşiriş uçun keş fayllarini yaratadi. Baʼzida ular eskirib qoladi va muammolarga sabab bölişi mumkin.<nl/><nl/>Köpinça muammo boşqa joyda böladi, lekin keşlarni tozalab köriş zarar qilmaydi, çunki kerak bölganda ular avtomatik tarzda qayta yaratiladi.<nl/><nl/>Sizning şaxsiy sozlamalaringiz özgarişsiz qoladi.
+&Clear Cache Files - &Keş fayllarini tozalaş
+No cache directory was found at <filename>%1</filename>. Cache files do not need to be cleared. - <filename>%1</filename> manzilida keş katalogi topilmadi. Keş fayllarini tozalaşga hojat yöq.
+The session environment does not specify a cache directory to clear. - Seans muhiti tozalaş uçun keş katalogini körsatmagan.
+Cache files have been cleared:<nl/><filename>%1</filename> was deleted. - Keş fayllari tozalandi:<nl/><filename>%1</filename> öçirib taşlandi.
+Failed to clear the cache at <filename>%1</filename>:<nl/><message>%2</message> - <filename>%1</filename> manzilidagi keşni tozalab bölmadi:<nl/><message>%2</message>
+&Open Cache Folder - &Keş jildini oçiş
+&Retry - &Qaytadan uriniş
+Simple by Default - Odatiy böyiça oddiy
+Plasma is designed to be simple and usable out of the box. Things are where you would expect, and there is generally no need to configure anything before you can be comfortable and productive.<nl/><nl/>Below is a visual representation of a typical Plasma Desktop; move the pointer over or click on something to learn about it! - Plasma dastlabki holatdayoq oddiy va foydalanişga qulay bölişi uçun yaratilgan. Har bir narsa siz kutgan joyda joylaşgan bölib, qulay va samarali işlaşdan oldin odatda heç narsani sozlaşga hojat yöq.<nl/><nl/>Quyida odatiy Plasma iş stolining vizual tasviri keltirilgan; biror narsa haqida bilib oliş uçun körsatkiçni uning ustiga olib boring yoki bosing!
+This is the “Desktop”. It shows files and folders that are contained in your <filename>Desktop</filename> folder, and can hold widgets. Right-click on it and choose <interface>Desktop and Wallpaper…</interface> to configure the appearance of the desktop. You can also choose <interface>Enter Edit Mode</interface> to add, remove or modify widgets. - Bu “Iş stoli”. U <filename>Desktop</filename> jildingizdagi fayl va jildlarni körsatadi hamda vidjetlarni özida saqlay oladi. Iş stolining körinişini sozlaş uçun ustida siçqonçaning öng tugmasini bosing va <interface>Iş stoli va fon rasmi…</interface> bandini tanlang. Vidjetlarni qöşiş, olib taşlaş yoki özgartiriş uçun <interface>Tahrirlaş rejimiga ötiş</interface>ni ham tanlaşingiz mumkin.
+This is a “Panel” — a container to hold widgets. Right-click on it and choose <interface>Show Panel Configuration</interface> to change how it behaves, which screen edge it lives on, and to add, remove or modify widgets. - Bu “Panel” — vidjetlarni saqlaş uçun konteyner. Uning qanday işlaşini, ekranning qaysi çetida joylaşişini özgartiriş hamda vidjetlarni qöşiş, olib taşlaş yoki tahrirlaş uçun uning ustida siçqonçaning öng tugmasini bosib, <interface>Panel sozlamalarini körsatiş</interface> bandini tanlang.
+This is the “Application Launcher” widget, a multipurpose launcher. Here you can launch apps, shut down or restart the system, access recent files, and more. Click on it to get started! - Bu “Ilovalarni işga tuşiruvçi” vidjeti — köp maqsadli işga tuşiruvçi vosita. Bu yerda siz ilovalarni işga tuşirişingiz, tizimni öçirişingiz yoki qayta yoqişingiz, yaqinda işlatilgan fayllarga kirişingiz va boşqa amallarni bajarişingiz mumkin. Boşlaş uçun uning ustiga bosing!
+This is the “Task Manager” widget, where you can switch between open apps and also launch new ones. Drag app icons to re-arrange them. - Bu “Vazifalar boşqaruvçisi” vidjeti bölib, u yerda oçiq ilovalar orasida almaşişingiz va yangilarini işga tuşirişingiz mumkin. Ilova belgilarini qayta tartiblaş uçun ularni sudrab joyini özgartiiring.
+This is the “System Tray” widget, which lets you control system functions like changing the volume and connecting to networks. Items will become visible here only when relevant. To see all available items, click the ^ arrow next to the clock. - Bu “Tizim lotogi” vidjeti bölib, u ovoz balandligini özgartiriş va tarmoqlarga ulaniş kabi tizim funksiyalarini boşqariş imkonini beradi. Elementlar bu yerda faqat dolzarb bölgandagina körinadi. Barça mavjud elementlarni köriş uçun soat yonidagi ^ strelkasini bosing.
+This is the “Digital Clock” widget. Click on it to show a calendar. It can be also configured to show other timezones and events from your digital calendars. - Bu “Raqamli soat” vidjeti. Taqvimni körsatiş uçun uning ustiga bosing. Şuningdek, uni boşqa vaqt mintaqalarini va raqamli taqvimlaringizdagi tadbirlarni körsatadigan qilib sozlaş mumkin.
+This is the “Peek at Desktop” widget. Click on it to temporarily hide all open windows so you can access the desktop. Click on it again to bring them back. - Bu “Iş stoliga qaraş” vidjeti. Barça oçiq oynalarni vaqtinça yaşiriş va iş stoliga kiriş uçun uni bosing. Ularni qaytariş uçun yana bir bor bosing.
+Welcome - Xuş kelibsiz
+%1<nl/><nl/>This operating system is running Plasma, a free and open-source desktop environment created by KDE, an international software community of volunteers. It is designed to be simple by default for a smooth experience, but powerful when needed to help you really get things done. We hope you love it! - %1<nl/><nl/>Uşbu operatsion tizimda xalqaro köngillilar dasturiy taʼminot hamjamiyati bölmiş KDE tomonidan yaratilgan erkin va oçiq kodli iş stoli muhiti — Plasma işlamoqda. U ravon işlaş uçun odatiy böyiça oddiy, ammo vazifalarni haqiqatan ham hal qilişga yordam beriş uçun kerakli paytda qudratli qilib yaratilgan. Umid qilamizki, u sizga yoqadi!
+Welcome to the %1 operating system running KDE Plasma!<nl/><nl/>Plasma is a free and open-source desktop environment created by KDE, an international software community of volunteers. It is designed to be simple by default for a smooth experience, but powerful when needed to help you really get things done. We hope you love it! - KDE Plasma asosida işlovçi %1 operatsion tizimiga xuş kelibsiz!<nl/><nl/>Plasma — xalqaro köngillilar dasturiy taʼminot hamjamiyati bölmiş KDE tomonidan yaratilgan erkin va oçiq kodli iş stoli muhitidir. U ravon işlaş uçun odatiy böyiça oddiy, ammo vazifalarni haqiqatan ham hal qilişga yordam beriş uçun kerakli paytda qudratli qilib yaratilgan. Umid qilamizki, u sizga yoqadi!
+Learn more about the KDE community - KDE hamjamiyati haqida köproq bilib oling
+Learn more about %1 - %1 haqida köproq bilib oling
+Image loading failed - Rasmni yuklaş muvaffaqiyatsiz tugadi
+Could not load <filename>%1</filename>. Make sure it exists. - <filename>%1</filename> faylini yuklab bölmadi. Uning mavjudligiga işonç hosil qiling.
+The KDE mascot Konqi welcomes you to the KDE community for this 30th anniversary release! - KDE timsoli Konqi sizni uşbu 30 yillik yubiley relizi munosabati bilan KDE hamjamiyatiga qutlaydi!
+%1 Dev - %1 Dev
+%1 Beta - %1 Beta
+%1 Beta %2 - %1 Beta %2

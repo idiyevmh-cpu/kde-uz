@@ -1,0 +1,9 @@
+Source text - Tarjima text
+Okular - Okular
+View and annotate documents - Hujjatlarni köriş va ularga izohlar kiritiş
+Okular is a universal document viewer developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, macOS, *BSD, etc. - Okular — bu KDE tomonidan yaratilgan universal hujjat köriş dasturi. Okular Linux, Windows, macOS, *BSD va boşqa köplab platformalarda işlaydi.
+Features: - Xususiyatlari:
+Supported Formats: PDF, PS, Tiff, DjVu, Images, DVI, XPS, Fiction Book, Comic Book, Plucker, EPub, Fax - Qöllab-quvvatlanadigan formatlar: PDF, PS, Tiff, DjVu, Rasmlar, DVI, XPS, Fiction Book, Comic Book, Plucker, EPub, Fax
+Sidebar with contents, thumbnails, reviews and bookmarks - Mundarija, eskizlar, şarhlar va xatçöplarga ega yon panel
+Annotations support - Izohlar (annotsiyalar) kiritişni qöllab-quvvatlaş
+Reading manual in Okular - Okular dasturida qöllanmani öqiş

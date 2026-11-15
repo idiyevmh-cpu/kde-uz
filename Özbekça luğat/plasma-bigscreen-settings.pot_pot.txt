@@ -1,0 +1,10 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Desktop Settings - Iş stoli sozlamalari
+Bigscreen Settings - Bigscreen sozlamalari
+Plasma Bigscreen Settings - Plasma Bigscreen sozlamalari
+© 2025 Plasma developers - © 2025 Plasma dasturçilari
+Settings module to open - Oçiladigan sozlamalar moduli
+Settings - Moslamalar
+Open desktop settings? - Iş stoli sozlamalari oçilsinmi?
+The desktop settings application does not support key navigation, a mouse may be required. However, it contains extra settings that may be useful. - Iş stoli sozlamalari ilovasi klaviatura navigatsiyasini qöllab-quvvatlamaydi, siçqonça talab qilinişi mumkin.

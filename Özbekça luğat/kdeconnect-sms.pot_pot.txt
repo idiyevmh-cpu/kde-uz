@@ -1,0 +1,42 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Download attachment - Biriktirilgan faylni yuklab oliş
+Picture - &Rasm
+Video - Video
+%1 file - %1 ta fayl
+You: %1 - Siz: %1
+%1: %2 - %1 %2
+%1 - %1
+KDE Connect SMS - KDE Connect SMS
+SMS Instant Messaging - SMS tezkor xabar almaşiş
+© 2018–2025 KDE Connect Team - © 2018–2025 KDE Connect jamoasi
+Simon Redman - Simon Redman
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Nicolas Fella - Nicolas Fella
+Select a device - Qurilmani tanlang
+id - id
+Send a message - Xabar yuboriş
+message - xabar
+Open with default - Standart ilova bilan oçiş
+Download attachment… - Biriktirilgan faylni yuklab oliş…
+No devices available - Qurilmalar mavjud emas
+No new messages can be sent or received, but you can browse cached content - Yangi xabarlarni yuboriş yoki qabul qiliş mumkin emas, lekin keşdagi kontentni körişingiz mumkin
+Loading conversations from device. If this takes a long time, please wake up your device and then click Refresh. - Suhbatlar yuklanmoqda. Bu uzoq vaqt olsa, qurilmangizni faollaştiring va Yangilaş tugmasini bosing.
+Tip: If you plug in your device, it should not go into doze mode and should load quickly. - Maslahat: Agar qurilmani quvvatga ulasangiz, u uyqu rejimiga kirmaydi va tez yuklanadi.
+Refresh - Yangilaş
+Choose recipient - Qabul qiluvçini tanlang
+Cancel - &Bekor qiliş
+Search or start a conversation - Qidiriş yoki suhbatni boşlaş
+Start new conversation - Yangi suhbat boşlaş
+No Matches - Mosliklar yöq
+No Conversations - Suhbatlar yöq
+Devices - Qurilmalar
+About - &Haqida
+About KDE - KDE haqida
+Audio clip - Audio klip
+Failed to send - Yuborib bölmadi
+Max message size limit exceeded. - Xabarning maksimal ölçami oşib ketdi.
+Send a message… - Xabar yuboriş…
+Attach an image or file - Rasm yoki faylni biriktiriş
+Clear attachments - Biriktirilgan fayllarni tozalaş
+Send message - Xabar yuboriş

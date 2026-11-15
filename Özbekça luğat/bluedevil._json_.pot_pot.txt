@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Bluetooth - Bluetooth
+Bluetooth status and control - Bluetooth holati va boşqaruvi
+Manage Bluetooth devices - Bluetooth qurlamalarini boşqariş
+Handles Bluetooth events - Bluetooth hodisalarini qayta işlaydi
+David Rosca - David Rosca
+Nicolas Fella - Nicolas Fella
+bluetooth,hardware,connection,devices,find devices,connect,disconnect,send file,receive file,transfer,wireless,visible,adapter,pin,trusted devices - bluetooth,uskuna,ulaniş,qurlamalar,qurlamalarni izlaş,ulaniş,uziş,fayl yuboriş,fayl qabul qiliş,uzatiş,simsiz,körinuvçi,adapter,pin,işonçli qurlamalar

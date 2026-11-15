@@ -1,0 +1,8 @@
+Source text - Tarjima text
+PlasmaLogin - Plasma Login
+Save Settings - Sozlamalarni saqlaş
+Save Settings in Plasma Login - Sozlamalarni Plasma Login tizimida saqlaş
+Synchronize Settings - Sozlamalarni sinxronlaş
+Synchronize user settings with Plasma Login settings - Foydalanuvçi parametrlarini Plasma Login parametrlari bilan sinxronlaş
+Reset Settings - Sozlamalarni qayta tiklaş
+Reset Plasma Login settings to factory default state - Plasma Login sozlamalarini standart zavod holatiga qaytariş

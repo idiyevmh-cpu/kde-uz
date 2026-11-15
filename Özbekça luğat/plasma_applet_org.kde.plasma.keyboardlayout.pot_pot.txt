@@ -1,0 +1,6 @@
+Source text - Tarjima text
+General - Umumiy
+Display style: - Körsatiş uslubi:
+No flag available - Bayroq mavjud emas
+Layouts: - Tartiblar:
+Configure… - Sozlaş…

@@ -1,0 +1,7 @@
+Source text - Tarjima text
+Welcome Center - Qutlov markazi
+Learn more about KDE Plasma - KDE Plasma haqida köproq bilib oling
+Welcome Center is the perfect introduction to KDE Plasma! It can help you learn how to connect to the internet, install apps, customize the system, and more! - Qutlov markazi — bu KDE Plasma bilan tanişiş uçun eng yaxşi vosita! U internetga ulaniş, ilovalarni örnatiş, tizimni özingizga moslaş va boşqa köplab jihatlarni örganişga yordam beradi!
+Welcome Center first page: introducing KDE Plasma - Qutlov markazi birinçi sahifasi: KDE Plasma bilan tanişuv
+Welcome Center second page: how to install apps - Qutlov markazi ikkinçi sahifasi: ilovalarni qanday örnatiş kerak
+Welcome Center sixth page: how to get involved - Qutlov markazi oltinçi sahifasi: loyihaga qanday hissa qöşiş mumkin

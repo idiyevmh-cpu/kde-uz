@@ -1,0 +1,7 @@
+Clipboard Contents - Almaşiş buferi tarkibi
+Clipboard is empty - Almaşiş buferi böş
+The clipboard and the selection currently hold sensitive data - Almaşiş buferi va tanlov ayni paytda maxfiy maʼlumotlarni saqlamoqda
+The clipboard currently holds sensitive data - Almaşiş buferi ayni paytda maxfiy maʼlumotlarni saqlamoqda
+The selection currently holds sensitive data - Tanlov ayni paytda maxfiy maʼlumotlarni saqlamoqda
+Clear History - Tarixni tozalaş
+Configure Clipboard… - Almaşiş buferini sozlaş…

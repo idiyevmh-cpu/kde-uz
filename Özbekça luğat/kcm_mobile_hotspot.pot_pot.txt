@@ -1,0 +1,9 @@
+Configure Hotspot - Kiriş nuqtasini (Hotspot) sozlaş
+Hotspot SSID: - Hotspot SSID nomi:
+Hotspot Password: - Hotspot paroli:
+Hotspot - Hotspot (ulaniş nuqtasi)
+Share your internet connection with other devices as a Wi-Fi network. - Internet aloqangizni Wi-Fi tarmoği sifatida boşqa qurilmalar bilan ulaşing.
+Settings - Moslamalar
+Hotspot SSID - Hotspot SSID nomi
+Hotspot Password - Hotspot paroli
+Configure - Sozlaş

@@ -1,0 +1,563 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Kate - Kate
+Kate - Advanced Text Editor - Kate - Kengaytirilgan matn tahrirçisi
+(c) 2000-2024 The Kate Authors - (c) 2000-2024 Kate mualliflari
+Start Kate with a given session. - Kate dasturini körsatilgan seans bilan işga tuşiriş.
+session - seans
+Start Kate with a new anonymous session, implies '-n'. - Kate dasturini yangi anonim seans bilan işga tuşiriş, '-n' parametrini nazarda tutadi.
+Force start of a new kate instance (is ignored if start is used and another kate instance already has the given session opened), forced if no parameters and no URLs are given at all. - Yangi Kate nusxasini majburiy işga tuşiriş (agar start işlatilsa va boşqa Kate nusxasida berilgan seans allaqaçon oçilgan bölsa, eʼtiborsiz qoldiriladi); heç qanday parametr va URL berilmaganda majburiy yoqiladi.
+If using an already running kate instance, block until it exits, if URLs given to open. - Agar allaqaçon işlab turgan Kate nusxasidan foydalanilsa va oçiş uçun URL manzillar berilgan bölsa, u çiqiygunga qadar bloklaş.
+Only try to reuse kate instance with this pid (is ignored if start is used and another kate instance already has the given session opened). - Faqat uşbu pid ga ega Kate nusxasidan qayta foydalanişga uriniş (agar start işlatilsa va boşqa Kate nusxasida berilgan seans allaqaçon oçilgan bölsa, eʼtiborsiz qoldiriladi).
+pid - pid
+Set encoding for the file to open. - Oçiladigan fayl uçun kodlaşni örnatiş.
+encoding - kodlaş
+Navigate to this line. - Uşbu satrga ötiş.
+line - satr
+Navigate to this column. - Uşbu ustunga ötiş.
+column - ustun
+Read the contents of stdin. - Standart kiritiş (stdin) tarkibini öqiş.
+The files/URLs opened by the application will be deleted after use - Ilova tomonidan oçilgan fayllar/URL manzillar foydalanilgandan söng öçiriladi
+Starts the application in self-test mode for some basic functions checks and quits afterwards - Baʼzi asosiy funksiyalarni tekşiriş uçun ilovani öz-özini sinaş rejimida işga tuşiradi va keyin çiqadi
+Documents to open. - Oçiladigan hujjatlar.
+[urls...] - [urls...]
+KWrite - KWrite
+KWrite - Text Editor - KWrite - Matn tahrirçisi
+ [read only] -  [faqat öqiş uçun]
+Filter… - Filtrlaş…
+Open File - Faylni oçiş
+Copy Location - Manzildan nusxa oliş
+Git - Git
+Renamed %1 => %2 - Nomi özgartirildi: %1 => %2
+Invalid hash - Yaroqsiz xeş
+%1 doesn't exist in a git repo. - %1 git repozitoriyida mavjud emas.
+Commit %1 - Kommit %1
+Stash %1 - Zaxira (stash) %1
+&File - &Fayl
+File Act&ions - Fayl &amallari
+&Edit - &Tahrirlaş
+Sele&ction - &Tanlaş
+&Go - Ö&tiş
+&View - &Köriniş
+Split View - Körinişni böliş
+&Tools - &Vositalar
+Diagnostics View - Diagnostika körinişi
+&Settings - &Sozlamalar
+&Help - &Yordam
+Main Toolbar - Asosiy asboblar paneli
+Hamburger Menu Toolbar - Gamburger menyusi asboblar paneli
+&Status Bar Items - &Holat paneli elementlari
+Error in regular expression: %1 offset %2: %3 - Muntazam ifodada xatolik: %1 siljiş %2: %3
+All - Hammasi
+Diagnostics limit reached, ignoring further diagnostics. The limit can be configured in settings. - Diagnostika çegarasiga yetdi, keyingi diagnostika maʼlumotlari eʼtiborsiz qoldiriladi. Çegarani sozlamalarda moslaş mumkin.
+Diagnostics View - Diagnostika körinişi
+Quick Fix - Tezkor tuzatiş
+Next Item - Keyingi element
+Previous Item - Oldingi element
+Clear Diagnostics Filter - Diagnostika filtrini tozalaş
+Show Hover Info - Kursor olib borilganda maʼlumotni körsatiş
+Diagnostics - Diagnostika
+Errors - Xatolar
+Warnings - Ogohlantirişlar
+Clear diagnostics - Diagnostikani tozalaş
+Error - Xato
+Warning - Ogohlantiriş
+Information - Maʼlumot
+%1 [suppressed: %2] - %1 [bostirilgan: %2]
+Expand All - Barçasini yoyiş
+Collapse All - Barçasini yiğiş
+Copy to Clipboard - Almaşiş buferiga nusxa oliş
+Remove Global Suppression - Global bostirişni olib taşlaş
+Add Global Suppression - Global bostirişni qöşiş
+Remove Local Suppression - Mahalliy bostirişni olib taşlaş
+Add Local Suppression - Mahalliy bostirişni qöşiş
+Disable Suppression - Bostirişni öçiriş
+Enable Suppression - Bostirişni yoqiş
+Show fixes - Tuzatişlarni körsatiş
+Change Style - Uslubni özgartiriş
+Side By Side - Yonma-yon
+Unified - Birlaştirilgan
+Raw - Xom (asli)
+Edit Line - Satrni tahrirlaş
+Stage Line - Satrni indeksga qöşiş (stage)
+Stage Hunk - Blokni indeksga qöşiş (stage)
+Discard Line - Satr özgarişini rad etiş
+Discard Hunk - Blok özgarişini rad etiş
+Unstage Line - Satrni indeksdan çiqariş (unstage)
+Unstage Hunk - Blokni indeksdan çiqariş (unstage)
+Diff - %1 - Farqlar - %1
+Diff - %1..%2 - Farqlar - %1..%2
+<b>git</b> not found. Git is needed to diff the documents. If git is already installed, make sure it is your PATH variable. See https://git-scm.com/downloads - <b>git</b> topilmadi. Hujjatlarni soliştiriş uçun Git kerak. Agar git allaqaçon örnatilgan bölsa, u PATH özgaruvçisida ekanligiga işonç hosil qiling. Qarang: https://git-scm.com/downloads
+Diff - staş - Farqlar - zaxira (stash)
+Diff %1 .. %2 - Farqlar %1 .. %2
+Show/Hide Commit Info - Kommit maʼlumotlarini körsatiş/yaşiriş
+Jump to Next File - Keyingi faylga ötiş
+Jump to Previous File - Oldingi faylga ötiş
+Jump to Next Hunk - Keyingi blokka ötiş
+Jump to Previous Hunk - Oldingi blokka ötiş
+Reload Diff - Farqlarni qayta yuklaş
+Show diff with full context, not just the changed lines - Faqat özgartirilgan satrlarni emas, balki töliq kontekst bilan farqlarni körsatiş
+New file %1 - Yangi fayl %1
+Deleted file %1 - Öçirilgan fayl %1
+No differences found - Farqlar topilmadi
+Invalid date: %1 - Yaroqsiz sana: %1
+Filter the log.<ul><li>Use <code>"a:"</code> prefix to filter by author name. For e.g., <b>a:john doe</b></li><li>Use <code>"!a:"</code> prefix to exclude an author. For e.g., <b>!a:john doe</b></li><li>Use <code>"since:"</code> prefix to show commits after the given date. The author date of each commit will be checked. The date format is yyyy-MM-dd For e.g., <b>since:2025-04-17</b></li><li>Use <code>"until:"</code> prefix to show commits before the given date. The author date of each commit will be checked. The date format is yyyy-MM-dd For e.g., <b>until:2025-04-17</b></li><li>To filter messages, just type the search term. If multiple search terms are given then messages matching all the search terms will be shown.</li></ul>To trigger the filter, press the <b>Enter</b> key. - Jurnalni filtrlaş.<ul><li>Muallif nomi böyiça filtrlaş uçun <code>"a:"</code> prefiksidan foydalaning. Masalan, <b>a:john doe</b></li><li>Muallifni istisno qiliş uçun <code>"!a:"</code> prefiksidan foydalaning. Masalan, <b>!a:john doe</b></li><li>Berilgan sanadan keyingi kommitlarni körsatiş uçun <code>"since:"</code> prefiksidan foydalaning. Har bir kommitning mualliflik sanasi tekşiriladi. Sana formati: yyyy-MM-dd. Masalan, <b>since:2025-04-17</b></li><li>Berilgan sanadan oldingi kommitlarni körsatiş uçun <code>"until:"</code> prefiksidan foydalaning. Har bir kommitning mualliflik sanasi tekşiriladi. Sana formati: yyyy-MM-dd. Masalan, <b>until:2025-04-17</b></li><li>Xabarlarni filtrlaş uçun qidiruv sözini yozing. Agar bir neçta qidiruv sözlari berilsa, barça qidiruv sözlariga mos keladigan xabarlar körsatiladi.</li></ul>Filtrni işga tuşiriş uçun <b>Enter</b> tugmasini bosing.
+Failed to get file history: git executable not found in PATH - Fayl tarixini olib bölmadi: PATH da git bajariladigan fayli topilmadi
+Failed to get file history: %1 - Fayl tarixini olib bölmadi: %1
+Copy Commit Hash - Kommit xeşidan nusxa oliş
+Show Full Commit - Kommitni töliq körsatiş
+History - %1 - Tarix - %1
+User Settings - Foydalanuvçi sozlamalari
+Settings file: - Sozlamalar fayli:
+Default Settings - Standart sozlamalar
+No JSON data to validate. - Tekşiriş uçun JSON maʼlumotlari yöq.
+JSON data is valid. - JSON maʼlumotlari töğri.
+JSON data is invalid: no JSON object - JSON maʼlumotlari notöğri: JSON obʼekti yöq
+JSON data is invalid: %1 - JSON maʼlumotlari notöğri: %1
+Running this editor with sudo can cause bugs and expose you to security vulnerabilities. Instead use this editor normally and you will be prompted for elevated privileges when saving documents if needed. - Uşbu tahrirçini sudo bilan işga tuşiriş xatoliklarga olib kelişi va xavfsizlik zaifliklarini keltirib çiqarişi mumkin. Buning örniga tahrirçidan odatdagidek foydalaning; zarurat bölganda hujjatlarni saqlaşda sizdan yuqori huquqlar söraladi.
+Running this editor with kdesu can cause bugs and expose you to security vulnerabilities. Instead use this editor normally and you will be prompted for elevated privileges when saving documents if needed. - Uşbu tahrirçini kdesu bilan işga tuşiriş xatoliklarga olib kelişi va xavfsizlik zaifliklarini keltirib çiqarişi mumkin. Buning örniga tahrirçidan odatdagidek foydalaning; zarurat bölganda hujjatlarni saqlaşda sizdan yuqori huquqlar söraladi.
+Christoph Cullmann - Christoph Cullmann
+Maintainer - Taʼminlovçi
+Dominik Haumann - Dominik Haumann
+Core Developer - Asosiy dasturçi
+Sven Brauch - Sven Brauch
+Developer - Dasturçi
+Kåre Särs - Kåre Särs
+Waqar Ahmed - Waqar Ahmed
+Anders Lund - Anders Lund
+Joseph Wenninger - Joseph Wenninger
+Hamish Rodda - Hamish Rodda
+Alexander Neundorf - Alexander Neundorf
+Waldo Bastian - Waldo Bastian
+The cool buffersystem - Ajoyib bufer tizimi
+Charles Samuels - Charles Samuels
+The Editing Commands - Tahrirlaş buyruqlari
+Matt Newell - Matt Newell
+Testing, ... - Sinaş, ...
+Michael Bartl - Michael Bartl
+Former Core Developer - Oldingi asosiy dasturçi
+Michael McCallum - Michael McCallum
+Jochen Wilhemly - Jochen Wilhemly
+KWrite Author - KWrite muallifi
+Michael Koch - Michael Koch
+KWrite port to KParts - KWrite dasturini KParts ga ötkaziş
+Christian Gebauer - Christian Gebauer
+Simon Hausmann - Simon Hausmann
+Glen Parker - Glen Parker
+KWrite Undo History, Kspell integration - KWrite amallarni bekor qiliş tarixi, Kspell integratsiyasi
+Scott Manson - Scott Manson
+KWrite XML Syntax highlighting support - KWrite XML sintaksisini rang bilan ajratişni qöllab-quvvatlaş
+John Firebaugh - John Firebaugh
+Patches and more - Paçlar va boşqa narsalar
+Pablo Martín - Pablo Martín
+Python Plugin Developer - Python plagini dasturçisi
+Gerald Senarclens de Grancy - Gerald Senarclens de Grancy
+QA and Scripting - Sifat nazorati va skriptlar
+Tyson Tan - Tyson Tan
+Designer of Kate's mascot 'Kate the Cyber Woodpecker' - Kate maskoti 'Kiber qizilişton Kate' (Kate the Cyber Woodpecker) dizayneri
+Matteo Merli - Matteo Merli
+Highlighting for RPM Spec-Files, Perl, Diff and more - RPM Spec-fayllari, Perl, Diff va boşqalar uçun sintaksisni yoritiş
+Rocky Scaletta - Rocky Scaletta
+Highlighting for VHDL - VHDL uçun sintaksisni yoritiş
+Yury Lebedev - Yury Lebedev
+Highlighting for SQL - SQL uçun sintaksisni yoritiş
+Chris Ross - Chris Ross
+Highlighting for Ferite - Ferite uçun sintaksisni yoritiş
+Nick Roux - Nick Roux
+Highlighting for ILERPG - ILERPG uçun sintaksisni yoritiş
+Carsten Niehaus - Carsten Niehaus
+Highlighting for LaTeX - LaTeX uçun sintaksisni yoritiş
+Per Wigren - Per Wigren
+Highlighting for Makefiles, Python - Makefiles, Python uçun sintaksisni yoritiş
+Jan Fritz - Jan Fritz
+Highlighting for Python - Python uçun sintaksisni yoritiş
+Daniel Naber - Daniel Naber
+Roland Pabel - Roland Pabel
+Highlighting for Scheme - Scheme uçun sintaksisni yoritiş
+Cristi Dumitrescu - Cristi Dumitrescu
+PHP Keyword/Datatype list - PHP kalit sözlar/maʼlumot turlari röyxati
+Carsten Pfeiffer - Carsten Pfeiffer
+Very nice help - Juda katta yordam
+All people who have contributed and I have forgotten to mention - Hissa qöşgan, ammo ularni yod etiş esdan çiqqan barça insonlar
+Folders can only be opened when the projects plugin is enabled - Jildlarni faqat loyihalar plagini yoqilganda oçiş mumkin
+The file '%1' could not be opened: it is not a normal file, it is a folder. - '%1' faylini oçib bölmadi: u oddiy fayl emas, balki jilddir.
+Configure - Sozlaş
+Behavior - Xatti-harakat
+Behavior Options - Xatti-harakat parametrlari
+PATH - PATH
+List of %1 separated directories where Kate will look for programs to run. This list will be prepended to your PATH environment variable. E.g '/home/USER/myapps/bin/:/home/USER/.local/bin' - Kate işga tuşiriladigan dasturlarni qidiradigan, %1 bilan ajratilgan kataloglar röyxati. Bu röyxat PATH muhit özgaruvçingizning boşiga qöşiladi. Masalan, '/home/USER/myapps/bin/:/home/USER/.local/bin'
+&Behavior - &Xatti-harakat
+Open each document in its own window - Har bir hujjatni alohida oynada oçiş
+If enabled, each document will be opened in its own window. If not enabled, each document will be opened in a new tab in the current window. - Agar yoqilsa, har bir hujjat alohida oynada oçiladi. Agar yoqilmasa, har bir hujjat joriy oynaning yangi varaqasida oçiladi.
+&Switch to output view upon message type: - Xabar turiga köra çiqiş körinişiga &ötiş:
+Never - Heç qaçon
+Info - Maʼlumot
+Log - Jurnal
+&Limit output view history: - Çiqiş körinişi tarixini &çeklaş:
+Unlimited - Çeklanmagan
+Use a separate &dialog for handling externally modified files - Taşqaridan özgartirilgan fayllarni qayta işlaş uçun alohida &muloqot oynasidan foydalaniş
+If enabled, a modal dialog will be used to show all of the modified files. If not enabled, you will be individually asked what to do for each modified file only when that file's view receives focus. - Agar yoqilsa, barça özgartirilgan fayllarni körsatiş uçun modal muloqot oynasi işlatiladi. Agar yoqilmasa, har bir özgartirilgan fayl böyiça nima qiliş kerakligi faqat öşa fayl körinişi fokus olgandagina alohida söraladi.
+Output timestamps with date - Vaqt belgilarini sana bilan çiqariş
+When enabled, the output line timestamp headers will be prefixed with date. - Yoqilganda, çiqiş satridagi vaqt belgisi sarlavhalari oldiga sana qöşiladi.
+&Sidebars - &Yon panellar
+Sync section size with tab positions - Bölim ölçamini varaqalar joylaşuvi bilan sinxronlaş
+When enabled the section size will be determined by the position of the tabs. This option does not affect the bottom sidebar. - Yoqilganda bölim ölçami varaqalar joylaşuvi bilan belgilanadi. Bu parametr pastki yon panelga taʼsir qilmaydi.
+Show text for left and right sidebar buttons - Çap va öng yon panel tugmalari uçun matnni körsatiş
+Icon size for left and right sidebar buttons: - Çap va öng yon panel tugmalari uçun nişonça ölçami:
+&Tabs - &Varaqalar
+&Limit number of tabs: - Varaqalar sonini &çeklaş:
+A high limit can increase the window size, please enable 'Allow tab scrolling' to prevent it. Unlimited tabs are always scrollable. - Yuqori çegara oyna ölçamini kattalaştirişi mumkin, buni oldini oliş uçun 'Varaqalarni aylantirişga ruxsat beriş' parametrini yoqing. Çeklanmagan varaqalar doimo aylantiriladi.
+&Auto hide tabs - Varaqalarni &avtomatik yaşiriş
+When checked tabs will be hidden if only one document is open. - Belgilanganda, faqat bitta hujjat oçiq bölsa varaqalar yaşiriladi.
+&Show close button - Yopiş tugmasini &körsatiş
+When checked each tab will display a close button. - Belgilanganda har bir varaqada yopiş tugmasi körsatiladi.
+&Expand tabs - Varaqalarni &kengaytiriş
+When checked tabs take as much size as possible. - Belgilanganda varaqalar imkon qadar katta joy egallaydi.
+&Double click opens a new document - &Ikki marta bosiş yangi hujjatni oçadi
+When checked double click opens a new document. - Belgilanganda siçqonça bilan ikki marta bosiş yangi hujjatni oçadi.
+&Middle click closes a document - &Örta tugmani bosiş hujjatni yopadi
+When checked middle click closes a document. - Belgilanganda siçqonçaning örta tugmasini bosiş hujjatni yopadi.
+Allow tab scrolling - Varaqalarni aylantirişga ruxsat beriş
+When checked this will allow scrolling in tab bar when number of tabs is large. - Belgilanganda varaqalar soni köp bölganda varaqalar panelini aylantiriş imkonini beradi.
+Elide tab text - Varaqa matnini qisqartiriş
+When checked tab text might be elided if it is too long. - Belgilanganda varaqa matni juda uzun bölsa qisqartirilişi mumkin.
+Open new tabs to the right of the current tab - Yangi varaqalarni joriy varaqaning öng tomonida oçiş
+If unchecked the new tab will open at the end. - Agar belgilanmasa, yangi varaqa oxirida oçiladi.
+Allow cycling through tabs - Varaqalar böylab davriy ötişga ruxsat beriş
+If unchecked, the action '%1'/'%2' will not go to first/last tab after reaching the end. - Agar belgilanmasa, '%1'/'%2' amali oxiriga yetgandan söng birinçi/oxirgi varaqaga ötmaydi.
+&Mouse - &Siçqonça
+&Backward button pressed: - &Orqaga tugmasi bosilganda:
+Previous tab - Oldingi varaqa
+History back - Tarix böyiça orqaga
+&Forward button pressed: - &Oldinga tugmasi bosilganda:
+Next tab - Keyingi varaqa
+History forward - Tarix böyiça oldinga
+Diff Style: - Farqlar uslubi:
+Navigation Bar - Navigatsiya paneli
+Show current symbol in navigation bar - Navigatsiya panelida joriy belgini körsatiş
+Diagnostics limit: - Diagnostika çegarasi:
+Max number of diagnostics allowed in the Diagnostics toolview. - Diagnostika vosita panelida ruxsat etilgan maksimal diagnostika maʼlumotlari soni.
+Context - Kontekst
+Enable tool view - Vosita panelini yoqiş
+A tool view to display context associated with the current cursor position (LSP hints, diagnostics) - Joriy kursor joylaşuvi bilan boğliq kontekstni (LSP maslahatlari, diagnostika) körsatiş uçun vosita paneli
+Session - Seans
+Session Management - Seansni boşqariş
+(never) - (heç qaçon)
+%v day - %v kun
+When a window is closed the documents opened only in this window are closed as well. - Oyna yopilganda faqat şu oynada oçilgan hujjatlar ham yopiladi.
+Plugins - Plaginlar
+Plugin Manager - Plagin boşqaruvçisi
+User Feedback - Foydalanuvçi fikr-mulohazasi
+Bad PATH value - Notoğri PATH qiymati
+The path '%1' doesn't exist - '%1' yöli mavjud emas
+You have unsaved changes. Do you want to apply the changes or discard them? - Saqlanmagan özgarişlar mavjud. Özgarişlarni qöllaşni xohlaysizmi yoki ularni rad etasizmi?
+Here you can see all available Kate plugins. Those with a check mark are loaded, and will be loaded again the next time Kate is started. - Bu yerda barça mavjud Kate plaginlarini körişingiz mumkin. Belgilangan plaginlar yuklangan bölib, Kate keyingi safar işga tuşganda yana yuklanadi.
+Name - Nomi
+Description - Taʼrifi
+Starting Up - Işga tuşmoqda
+Reopening files from the last session... - Oxirgi seansdagi fayllar qaytadan oçilmoqda...
+Cannot pin untitled documents. - Nomsiz hujjatlarni qadab bölmaydi.
+Cannot pin non local documents. - Mahalliy bölmagan hujjatlarni qadab bölmaydi.
+Rename file - Fayl nomini özgartiriş
+New file name - Yangi fayl nomi
+File "%1" is already open in another document. Please close that document first if you want to overwrite it or choose a different name. - "%1" fayli allaqaçon boşqa hujjatda oçiq. Agar uning ustiga yozmoqçi bölsangiz, avval öşa hujjatni yoping yoki boşqa nom tanlang.
+File "%1" could not be moved to "%2" - "%1" faylini "%2" ga köçirib bölmadi
+Do you really want to delete file "%1"? - Haqiqatan ham "%1" faylini öçirmoqçimisiz?
+Delete file - Faylni öçiriş
+File "%1" could not be deleted. - "%1" faylini öçirib bölmadi.
+&Other Application... - &Boşqa ilova...
+Use this command to show or hide the view's statusbar - Körinişning holat panelini körsatiş yoki yaşiriş uçun uşbu buyruqdan foydalaning
+Show &Tabs - &Varaqalarni körsatiş
+Use this command to show or hide the tabs for the views - Körinişlar uçun varaqalarni körsatiş yoki yaşiriş uçun uşbu buyruqdan foydalaning
+Sho&w Path in Titlebar - Sarlavha panelida &yölni körsatiş
+Show the complete document path in the window caption - Oyna sarlavhasida hujjatning töliq yölini körsatiş
+Show Navigation Bar - Navigatsiya panelini körsatiş
+&Window Color Scheme - &Oyna rang sxemasi
+&Previous Tab - &Oldingi varaqa
+Focus the previous tab. - Oldingi varaqaga ötiş.
+&Next Tab - &Keyingi varaqa
+Focus the next tab. - Keyingi varaqaga ötiş.
+Switch to Tab %1 - %1-varaqaga ötiş
+&Quick Open - &Tezkor oçiş
+Open a form to quick open documents. - Hujjatlarni tezkor oçiş şaklini oçiş.
+Output - Çiqiş
+Create a new document - Yangi hujjat yaratiş
+Open an existing document for editing - Tahrirlaş uçun mavjud hujjatni oçiş
+This lists files which you have opened recently, and allows you to easily open them again. - Bu yerda yaqinda oçilgan fayllar röyxati keltirilgan bölib, ularni osongina qaytadan oçiş imkonini beradi.
+Sa&ve All - Barçasini &saqlaş
+Save all open, modified documents to disk. - Barça oçiq, özgartirilgan hujjatlarni diskka saqlaş.
+Reload A&ll - Barçasini &qayta yuklaş
+Reload all open documents. - Barça oçiq hujjatlarni qayta yuklaş.
+Copies the file path of the current file to clipboard. - Joriy faylning yölini almaşiş buferiga nusxalaydi.
+Copy Filename - Fayl nomidan nusxa oliş
+Copies the file name of the current file to clipboard. - Joriy faylning nomini almaşiş buferiga nusxalaydi.
+&Open Containing Folder - &Joylaşgan jildni oçiş
+Opens containing folder of the current file. - Joriy fayl joylaşgan jildni oçadi.
+Rename... - Nomini özgartiriş...
+Renames the file belonging to the current document. - Joriy hujjatga tegişli fayl nomini özgartiradi.
+Delete - Öçiriş
+Deletes the file belonging to the current document. - Joriy hujjatga tegişli faylni öçiradi.
+Properties - Xossalar
+Compare - Soliştiriş
+Use the Tabbar context menu to compare two documents - Ikkita hujjatni soliştiriş uçun varaqalar paneli kontekst menyusidan foydalaning
+Shows a hint how to compare documents. - Hujjatlarni qanday soliştiriş haqida maslahat körsatadi.
+Close Orp&haned - &Yetim qolganlarini yopiş
+Close all documents in the file list that could not be reopened, because they are not accessible anymore. - Fayllar röyxatidagi endi mavjud bölmasligi sababli qayta oçib bölmaydigan barça hujjatlarni yopiş.
+Close the current document. - Joriy hujjatni yopiş.
+Close O&ther - &Boşqalarini yopiş
+Close other open documents. - Boşqa oçiq hujjatlarni yopiş.
+Clos&e All - Barçasini &yopiş
+Close all open documents. - Barça oçiq hujjatlarni yopiş.
+&Reopen Latest Closed Document(s) - Oxirgi yopilgan hujjat(lar)ni &qayta oçiş
+Reopen the document or documents that were most recently closed - Eng oxirgi yopilgan hujjat yoki hujjatlarni qayta oçiş
+Close &Window - &Oynani yopiş
+Close this window - Uşbu oynani yopiş
+Quit the application - Ilovadan çiqiş
+New &Window - &Yangi oyna
+Create a new window. - Yangi oyna yaratiş.
+Open W&ith - ...bilan &oçiş
+Open the current document using another application registered for its file type, or an application of your choice. - Joriy hujjatni uşbu fayl turi uçun röyxatdan ötgan boşqa ilova yoki siz tanlagan ilova yordamida oçiş.
+Configure the application's keyboard shortcut assignments. - Ilovaning klaviatura tezkor tugmalarini sozlaş.
+Configure which items should appear in the toolbar(s). - Asboblar panel(lar)ida qaysi elementlar körinişini sozlaş.
+Configure various aspects of this application and the editing component. - Uşbu ilovaning turli jihatlarini va tahrirlaş komponentini sozlaş.
+&Plugins Handbook - &Plaginlar qöllanmasi
+This shows help files for various available plugins. - Bu mavjud plaginlar uçun yordam fayllarini körsatadi.
+Sess&ions - &Seanslar
+&New Session - &Yangi seans
+&Recent Sessions - &Yaqindagi seanslar
+&All Sessions - &Barça seanslar
+&Manage Sessions... - Seanslarni &boşqariş...
+&Save Session - Seansni &saqlaş
+Save Session &As... - Seansni ...&sifatida saqlaş...
+Pin/Unpin Active Document - Faol hujjatni qadaş/böşatiş
+Open Next Pinned Document - Keyingi qadalgan hujjatni oçiş
+Go to Previous Location - Oldingi joylaşuvga ötiş
+Go to Next Location - Keyingi joylaşuvga ötiş
+Show File Git History - Faylning Git tarixini körsatiş
+&Windows - &Oynalar
+This will close all open documents. Are you sure you want to continue? - Bu barça oçiq hujjatlarni yopadi. Davom etişga işonçingiz komilmi?
+Close all documents? - Barça hujjatlar yopilsinmi?
+Close All - Barçasini yopiş
+This will close all open documents beside the current one. Are you sure you want to continue? - Bu joriy hujjatdan taşqari barça oçiq hujjatlarni yopadi. Davom etişga işonçingiz komilmi?
+Close all documents beside current one? - Joriy hujjatdan taşqari barça hujjatlar yopilsinmi?
+Close Others - Boşqalarini yopiş
+New file opened while trying to close Kate, closing aborted. - Kate yopilayotganda yangi fayl oçildi, yopiş töxtatildi.
+Closing Aborted - Yopiş töxtatildi
+This will hide the menu bar completely. You can show it again by typing %1. - Bu menyu panelini butunlay yaşiradi. Uni %1 tugmasini bosib qayta körsatişingiz mumkin.
+Hide menu bar - Menyu panelini yaşiriş
+You dropped the directory %1 into Kate. Do you want to open all files contained in it? - Siz %1 katalogini Kate oynasiga taşladingiz. Uning içidagi barça fayllarni oçişni xohlaysizmi?
+Open Files Recursively - Fayllarni rekursiv oçiş
+Open All Files - Barça fayllarni oçiş
+Toolview Manager - Vosita panellarini boşqaruvçi
+Sidebar Buttons - Yon panel tugmalari
+Focus Toolview - Vosita paneliga fokuslaş
+Tool &Views - Vosita &panellari
+Show Side&bars - Yon &panellarni körsatiş
+Hide All Tool Views - Barça vosita panellarini yaşiriş
+Show %1 - %1 panelini körsatiş
+Show %1 Button - %1 tugmasini körsatiş
+Focus %1 - %1 paneliga fokuslaş
+Configure... - Sozlaş...
+Hide Button - Tugmani yaşiriş
+Move To - Köçiriş
+Own Section - Şaxsiy bölim
+One Down - Bitta pastga
+One Right - Bitta öngga
+One Up - Bitta yuqoriga
+One Left - Bitta çapga
+Left Sidebar - Çap yon panel
+Right Sidebar - Öng yon panel
+Top Sidebar - Yuqori yon panel
+Bottom Sidebar - Pastki yon panel
+<qt>You are about to hide the sidebars. With hidden sidebars it is not possible to directly access the tool views with the mouse anymore, so if you need to access the sidebars again invoke <b>View &gt; Tool Views &gt; Show Sidebars</b> in the menu. It is still possible to show/hide the tool views with the assigned shortcuts.</qt> - <qt>Siz yon panellarni yaşirmoqçisiz. Yon panellar yaşirilganda siçqonça yordamida vosita panellariga töğridan-töğri kirib bölmaydi, şuning uçun yon panellarga qayta kiriş kerak bölsa menyudan <b>Köriniş &gt; Vosita panellari &gt; Yon panellarni körsatiş</b> bandini tanlang. Biriktirilgan tezkor tugmalar yordamida vosita panellarini körsatiş/yaşiriş imkoniyati saqlanib qoladi.</qt>
+Documents Modified on Disk - Diskda özgartirilgan hujjatlar
+<qt>The documents listed below have changed on disk.<p>Select one or more at once, and press an action button until the list is empty.</p></qt> - <qt>Quyida keltirilgan hujjatlar diskda özgartirilgan.<p>Bir yoki bir neçtasini tanlang va röyxat böşagunça amal tugmasini bosing.</p></qt>
+Filename - Fayl nomi
+Status on Disk - Diskdagi holati
+Modified - Özgartirilgan
+Created - Yaratilgan
+Deleted - Öçirilgan
+&View Difference - &Farqni köriş
+Calculates the difference between the editor contents and the disk file for the selected document. - Tanlangan hujjat uçun tahrirçi tarkibi va diskdagi fayl örtasidagi farqni hisoblaydi.
+&Ignore Changes - Özgarişlarni &eʼtiborsiz qoldiriş
+Remove modified flag from selected documents - Tanlangan hujjatlardan özgartirilganlik belgisini olib taşlaş
+Overwrite selected documents, discarding disk changes - Diskdagi özgarişlarni rad etgan holda tanlangan hujjatlar ustidan yoziş
+&Reload - &Qayta yuklaş
+Reload selected documents from disk - Tanlangan hujjatlarni diskdan qayta yuklaş
+Could not save the document  '%1' - '%1' hujjatini saqlab bölmadi
+Failed to create a temporary file - Vaqtinçalik faylni yaratib bölmadi
+Please install git to view diffs - Farqlarni köriş uçun git dasturini örnating
+The diff command failed. Please make sure that git is installed and in your PATH. - diff buyruği bajarilmadi. git örnatilganligiga va PATH özgaruvçisida mavjudligiga işonç hosil qiling.
+Error Creating Diff - Farqni yaratişda xatolik
+[OLD] - [ESKI]
+[NEW] - [YANGI]
+Search... - Qidiriş...
+Copy all text to clipboard - Barça matndan almaşiş buferiga nusxa oliş
+Clear all messages - Barça xabarlarni tozalaş
+Error - Xato
+Warning - Ogohlantiriş
+Info - Maʼlumot
+Log - Jurnal
+Save As (%1) - ...sifatida saqlaş (%1)
+Save Documents - Hujjatlarni saqlaş
+Close Document - Hujjatni yopiş
+The document "%1" has been modified. Do you want to save your changes or discard them? - "%1" hujjati özgartirildi. Özgarişlarni saqlaşni xohlaysizmi yoki ularni rad etasizmi?
+<qt>The following documents have been modified. Do you want to save them before closing?</qt> - <qt>Quyidagi hujjatlar özgartirildi. Yopişdan oldin ularni saqlaşni xohlaysizmi?</qt>
+Documents - Hujjatlar
+Location - Manzil
+Se&lect All - &Barçasini tanlaş
+Data you requested to be saved could not be written. Please choose how you want to proceed. - Saqlaş söralgan maʼlumotlarni yozib bölmadi. Qanday davom etişni tanlang.
+Copy Location - Manzildan nusxa oliş
+Copy Filename - Fayl nomidan nusxa oliş
+Copy Item - Elementdan nusxa oliş
+Split Ve&rtical - &Vertikal böliş
+Split the currently active view vertically into two views. - Joriy faol körinişni vertikal ravişda ikkita körinişga böliş.
+Split &Horizontal - &Gorizontal böliş
+Split the currently active view horizontally into two views. - Joriy faol körinişni gorizontal ravişda ikkita körinişga böliş.
+Move Document to New Vertical Split - Hujjatni yangi vertikal bölinmaga köçiriş
+Split the currently active view vertically into two views and move the currently active document to right view. - Joriy faol körinişni vertikal ravişda ikkita körinişga böliş va joriy faol hujjatni öng körinişga köçiriş.
+Move Document to New Horizontal Split - Hujjatni yangi gorizontal bölinmaga köçiriş
+Split the currently active view horizontally into two views and move the currently active document to view below. - Joriy faol körinişni gorizontal ravişda ikkita körinişga böliş va joriy faol hujjatni pastki körinişga köçiriş.
+Cl&ose Current View - Joriy &körinişni yopiş
+Close the currently active split view - Joriy faol bölingan körinişni yopiş
+Close Inactive Views - Nofaol körinişlarni yopiş
+Close every view but the active one - Faol körinişdan taşqari barça körinişlarni yopiş
+Hide Inactive Views - Nofaol körinişlarni yaşiriş
+Hide every view but the active one - Faol körinişdan taşqari barça körinişlarni yaşiriş
+Toggle Orientation - Yönalişni almaştiriş
+Toggles the orientation of the current split view - Joriy bölingan körinişning yönalişini almaştiradi
+Next Split View - Keyingi bölingan köriniş
+Make the next split view the active one. - Keyingi bölingan körinişni faol qiliş.
+Previous Split View - Oldingi bölingan köriniş
+Make the previous split view the active one. - Oldingi bölingan körinişni faol qiliş.
+Left Split View - Çap bölingan köriniş
+Make the split view intuitively on the left the active one. - Çap tomondagi bölingan körinişni faol qiliş.
+Right Split View - Öng bölingan köriniş
+Make the split view intuitively on the right the active one. - Öng tomondagi bölingan körinişni faol qiliş.
+Upward Split View - Yuqoridagi bölingan köriniş
+Make the split view intuitively upward the active one. - Yuqori tomondagi bölingan körinişni faol qiliş.
+Downward Split View - Pastdagi bölingan köriniş
+Make the split view intuitively downward the active one. - Pastki tomondagi bölingan körinişni faol qiliş.
+Move Splitter Right - Ajratgiçni öngga suriş
+Move the splitter of the current view to the right - Joriy köriniş ajratgiçini öngga suriş
+Move Splitter Left - Ajratgiçni çapga suriş
+Move the splitter of the current view to the left - Joriy köriniş ajratgiçini çapga suriş
+Move Splitter Up - Ajratgiçni yuqoriga suriş
+Move the splitter of the current view up - Joriy köriniş ajratgiçini yuqoriga suriş
+Move Splitter Down - Ajratgiçni pastga suriş
+Move the splitter of the current view down - Joriy köriniş ajratgiçini pastga suriş
+Focus Navigation Bar - Navigatsiya paneliga fokuslaş
+Focus the navigation bar - Navigatsiya paneliga fokuslaş
+Welcome Page - Xuş kelibsiz sahifasi
+Show the welcome page - Xuş kelibsiz sahifasini körsatiş
+Toggle Scroll Synchronization - Aylantiriş sinxronizatsiyasini yoqiş/öçiriş
+Toggle scroll synchronization for the current view - Joriy köriniş uçun aylantiriş sinxronizatsiyasini yoqiş/öçiriş
+Detach Active Document - Faol hujjatni ajratiş
+Opens the active document in a new window and closes it in the current window - Faol hujjatni yangi oynada oçadi va joriy oynada yopadi
+<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do you want to proceed?</p><p><strong>Beware that kate may stop responding for some time when opening large files.</strong></p> - <p>Siz bir yoki bir neçta katta hajmli fayllarni oçişga urinmoqdasiz:</p><ul>%1</ul><p>Davom etişni xohlaysizmi?</p><p><strong>Katta fayllarni oçişda Kate bir muddat javob bermay qolişi mumkinligini yodda tuting.</strong></p>
+Opening Large File - Katta fayl oçilmoqda
+%1 cannot open folders - %1 jildlarni oça olmaydi
+The plugin required to open folders was not found - Jildlarni oçiş uçun talab qilinadigan plagin topilmadi
+In order to open folders, the <b>%1</b> plugin must be enabled. Enable it? - Jildlarni oçiş uçun <b>%1</b> plagini yoqilişi kerak. U yoqilsinmi?
+Open Folder - Jildni oçiş
+Enable - Yoqiş
+Failed to enable <b>%1</b> plugin - <b>%1</b> plaginini yoqib bölmadi
+The file '%1' does not exist - '%1' fayli mavjud emas
+Synchronize Scrolling - Aylantirişni sinxronlaş
+Synchronize scrolling of this split-view with other synchronized split-views - Uşbu bölingan körinişni aylantirişni boşqa sinxronlangan bölingan körinişlar bilan sinxronlaş
++%1 - +%1
+Click here to switch to the Quick Open view. - Tezkor oçiş körinişiga ötiş uçun şu yerga bosing.
+Control view space splitting - Köriniş maydonini bölişni boşqariş
+Currently, there is one more document open. To see all open documents, switch to the Quick Open view by clicking here. - Hozirda yana bitta hujjat oçiq. Barça oçiq hujjatlarni köriş uçun şu yerga bosib Tezkor oçiş körinişiga öting.
+&Close Tab - &Varaqani yopiş
+Close &Other Tabs - &Boşqa varaqalarni yopiş
+Close All &Tabs - Barça &varaqalarni yopiş
+D&etach Document - Hujjatni &ajratiş
+Opens the document in a new window and closes it in the current window - Hujjatni yangi oynada oçadi va joriy oynada yopadi
+Compare with Active Document - Faol hujjat bilan soliştiriş
+Compare with Active Document Using - Faol hujjat bilan quyidagi yordamida soliştiriş:
+Unpin Document - Hujjatni böşatiş
+Pin Document - Hujjatni qadaş
+Can not open %1 - %1 ni oçib bölmadi
+No toolview found for name: '%1'. Is the plugin for it disabled or the name is misspelled? - '%1' nomli vosita paneli topilmadi. Uning plagini öçirilganmi yoki nomi xato yozilganmi?
+Script error. Expected a toolview name. Available: %1 - Skript xatosi. Vosita paneli nomi kutilgan edi. Mavjudlari: %1
+Scripting - Skriptlar
+'showtoolview $toolview_name'. Show a toolview panel. Available panels: %1 - 'showtoolview $toolview_name'. Vosita panelini körsatiş. Mavjud panellar: %1
+'showtoolview $toolview_name'. Hide a toolview panel. Available panels: %1 - 'showtoolview $toolview_name'. Vosita panelini yaşiriş. Mavjud panellar: %1
+Search files in all projects (right click to configure) - Barça loyihalarda fayllarni qidiriş (sozlaş uçun öng tugmani bosing)
+Search files in current project (right click to configure) - Joriy loyihada fayllarni qidiriş (sozlaş uçun öng tugmani bosing)
+All Projects - Barça loyihalar
+Current Project - Joriy loyiha
+Fuzzy Filtering - Noaniq filtrlaş
+Wildcard Filtering - Andoza belgilari böyiça filtrlaş
+Match Folder Names - Jild nomlariga moslaş
+Project: %1 - Loyiha: %1
+Manage Sessions - Seanslarni boşqariş
+Session Chooser - Seans tanlagiç
+Restore - Qayta tiklaş
+Session will be deleted on dialog close - Muloqot oynasi yopilganda seans öçiriladi
+Filter Sessions - Seanslarni filtrlaş
+Session Name - Seans nomi
+Files - Fayllar
+Last opened - Oxirgi marta oçilgan
+&Open - &Oçiş
+New Session - Yangi seans
+Open as Template - Andoza sifatida oçiş
+Don't ask again - Boşqa söralmasin
+Duplicate... - Nusxa yaratiş...
+&Rename... - No&mini özgartiriş...
+Delete - Öçiriş
+Close - Yopiş
+Session '%1' is already opened in another Kate instance. Switch to that or reopen in this instance? - '%1' seansi allaqaçon boşqa Kate nusxasida oçilgan. Öşanga ötasizmi yoki uşbu nusxada qayta oçasizmi?
+Switch to Instance - Nusxaga ötiş
+Reopen - Qayta oçiş
+The session could not be renamed to "%1". Failed to write to "%2" - Seans nomini "%1" ga özgartirib bölmadi. "%2" ga yozişda xatolik yuz berdi
+Session Renaming - Seans nomini özgartiriş
+Session name: - Seans nomi:
+There is already an existing session with your chosen name: %1 Please choose a different one. - Siz tanlagan nomli seans allaqaçon mavjud: %1. Iltimos, boşqa nom tanlang.
+To save a session, you must specify a name. - Seansni saqlaş uçun uning nomini körsatiş kerak.
+Specify a name for this session - Uşbu seans uçun nom körsating
+Specify a new name for session: %1 - Seans uçun yangi nom körsating: %1
+Application Startup Behavior - Ilova işga tuşişidagi xatti-harakat
+&Start new session - &Yangi seansni boşlaş
+&Load last used session - Oxirgi işlatilgan seansni &yuklaş
+&Manually choose a session - Seansni &qölda tanlaş
+Application Startup/Shutdown Behavior - Ilova işga tuşişi/yopilişidagi xatti-harakat
+Automatically save and restore: - Avtomatik saqlaş va qayta tiklaş:
+Newly-created unsaved files - Yangi yaratilgan saqlanmagan fayllar
+Files with unsaved changes - Saqlanmagan özgarişlari bor fayllar
+If disabled, an untitled document will be shown for new windows. - Agar öçirilsa, yangi oynalar uçun nomsiz hujjat körsatiladi.
+Show welcome view for new windows - Yangi oynalar uçun xuş kelibsiz körinişini körsatiş
+If enabled, the application will shutdown when the last file being edited is closed, otherwise a blank page will open so that you can start a new file. - Agar yoqilsa, tahrirlanayotgan oxirgi fayl yopilganda ilova öz işini yakunlaydi, aks holda yangi faylni boşlaşingiz uçun böş sahifa oçiladi.
+Close the application entirely when the last file is closed - Oxirgi fayl yopilganda ilovani butunlay yopiş
+Close documents with the window they belong to - Hujjatlarni ular tegişli bölgan oyna bilan birga yopiş
+Session Elements - Seans elementlari
+The session contains the list of open documents, recently opened files list, bookmarks, cursor position etc. When the session is loaded all elements are restored. - Seans oçiq hujjatlar röyxati, yaqinda oçilgan fayllar röyxati, xatçöplar, kursor joylaşuvi va hokazolarni öz içiga oladi. Seans yuklanganda barça elementlar qayta tiklanadi.
+Maximum number of entries in recent file list: - Yaqindagi fayllar röyxatidagi yozuvlarning maksimal soni:
+Check this if you want all your views and frames restored each time you open the application. - Har safar ilovani oçganingizda barça körinişlar va freymlar qayta tiklanişini xohlasangiz, buni belgilang.
+Include &window configuration - &Oyna moslamalarini qöşiş
+Check this if you want document configuration like for example bookmarks to be saved past editor sessions. The configuration will be restored if the document has not changed when reopened. - Agar xatçöplar kabi hujjat sozlamalari tahrirçi seanslaridan keyin ham saqlanib qolişini xohlasangiz, buni belgilang. Hujjat qayta oçilganda özgartirilmagan bölsa, sozlamalar tiklanadi.
+Keep &meta-information past sessions - Seanslardan keyin &meta-maʼlumotlarni saqlab qoliş
+Delete unused meta-information after: - Foydalanilmayotgan meta-maʼlumotlarni quyidagi muddatdan keyin öçiriş:
+Welcome to %1 - %1 dasturiga xuş kelibsiz
+Recent Documents and Projects - Yaqindagi hujjatlar va loyihalar
+Recent Documents - Yaqinda oçilgan hujjatlar
+No recent documents or projects - Yaqinda oçilgan hujjatlar yoki loyihalar yöq
+No recent documents - Yaqinda oçilgan hujjatlar yöq
+No saved sessions - Saqlangan seanslar yöq
+Open Selected Files... - Tanlangan fayllarni oçiş...
+Copy &Location - &Manzildan nusxa oliş
+&Remove - &Olib taşlaş
+Welcome - Xuş kelibsiz
+New File - Yangi fayl
+Open Folder... - Jildni oçiş...
+Recent Files - Yaqinda oçilgan fayllar
+Open File... - Faylni oçiş...
+Clear Recent Files - Yaqindagi fayllar röyxatini tozalaş
+Help - Yordam
+Visit homepage - Boş sahifaga taşrif buyuriş
+Get involved - Iştirok etiş
+Read handbook - Qöllanmani öqiş
+Saved Sessions - Saqlangan seanslar
+Manage Sessions... - Seanslarni boşqariş...
+Show welcome page for new window - Yangi oyna uçun xuş kelibsiz sahifasini körsatiş

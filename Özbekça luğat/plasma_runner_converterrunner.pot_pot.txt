@@ -1,0 +1,3 @@
+Copy unit and number - Birlik va raqamni nusxalaş
+Converts the value of :q: when :q: is made up of value unit [>, to, as, in] unit.You can use the Unit converter applet to find all available units. - :q: qiymatini uning birligiga mos ravişda aylantiradi. Barça mavjud birliklarni topiş uçun Birliklarni aylantirgiç apletidan foydalanişingiz mumkin.
+in;to;as - da;ga;sifatida

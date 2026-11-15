@@ -1,0 +1,24 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+Unable to connect to server.  Please check your settings and try again. - Serverga ulanib bölmadi. Iltimos, sozlamalaringizni tekşirib, qayta urinib köring.
+Save && C&onnect - Saqlaş va &Ulaniş
+C&onnect - &Ulaniş
+Network Folder Wizard - Tarmoq jildi ustasi
+Add Network Folder - Tarmoq jildini qöşiş
+Select the type of network folder you wish to connect to and press the Next button. - Ulanmoqçi bölgan tarmoq jildi turini tanlang va Keyingi tugmasini bosing.
+&WebFolder (webdav) - &Veb-jild (WebDAV)
+&Secure shell (ssh) - &Xavfsiz qobiq (Ssh)
+FT&P - FT&P
+&Microsoft® Windows® network drive - &Microsoft® Windows® tarmoq diski
+Network Folder Information - Tarmoq jildi haqida maʼlumot
+&Name: - &Nomi:
+&User: - &Foydalanuvçi:
+Se&rver: - &Server:
+&Port: - &Port:
+&Protocol: - &Protokol:
+&Folder: - &Jild:
+Encoding: - Kodlaş usuli:
+Cr&eate an icon for this remote folder - Uşbu masofaviy jild uçun belgi &yaratiş
+&Use encryption - Şifrlaşdan &foydalaniş
+KDE Network Wizard - KDE tarmoq ustasi

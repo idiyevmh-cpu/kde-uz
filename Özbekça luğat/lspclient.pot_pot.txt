@@ -1,0 +1,114 @@
+Filter… - Filtrlaş…
+User Server Settings - Foydalanuvçi server sozlamalari
+Default Server Settings - Standart server sozlamalari
+LSP Client - LSP mijozi
+Delete selected entries - Tanlangan yozuvlarni öçiriş
+Delete all entries - Barça yozuvlarni öçiriş
+LSP server start requested - LSP serverini işga tuşiriş söraldi
+Do you want the LSP server to be started?<br><br>The full command line is:<br><br><b>%1</b><br><br>The choice can be altered via the config page of the plugin. - LSP serveri işga tuşirilişini xohlaysizmi?<br><br>Töliq buyruq qatori:<br><br><b>%1</b><br><br>Tanlovni plaginning sozlamalar sahifasi orqali özgartiriş mumkin.
+User permanently blocked start of: '%1'.
+Use the config page of the plugin to undo this block. - Foydalanuvçi '%1' işga tuşişini doimiy ravişda blokladi. Uşbu blokni bekor qiliş uçun plaginning sozlamalar sahifasidan foydalaning.
+LSP - LSP
+Go to Definition - Taʼrifga ötiş
+Go to Declaration - Deklaratsiyaga ötiş
+Go to Type Definition - Tur taʼrifiga ötiş
+Find References - Havolalarni topiş
+Find Implementations - Amalga oşirişlarni (implementations) topiş
+Highlight - Ajratib körsatiş
+Symbol Info - Belgi maʼlumoti
+Search and Go to Symbol - Qidiriş va belgiga ötiş
+Format - Formatlaş
+Rename - Nomini özgartiriş
+Expand Selection - Tanlovni kengaytiriş
+Shrink Selection - Tanlovni qisqartiriş
+Switch Source Header - Manba va sarlavhani almaştiriş
+Expand Macro - Makrosni yoyiş
+Code Action - Kod amali
+Show lsp completions - LSP töldirişlarini körsatiş
+Show selected completion documentation - Tanlangan töldiriş hujjatlarini körsatiş
+Enable signature help with auto completion - Avtomatik töldirişda imzo yordamini yoqiş
+Include declaration in references - Havolalarda deklaratsiyani kiritiş
+Add parentheses upon function completion - Funksiya töldirilganda qavslarni qöşiş
+Show hover information - Kursor keltirilgandagi maʼlumotni körsatiş
+Format on typing - Yoziş paytida formatlaş
+Format on save - Saqlaşda formatlaş
+Incremental document synchronization - Hujjatni bosqiçma-bosqiç sinxronlaş
+Highlight goto location - Ötilgan joyni ajratib körsatiş
+Show Inlay Hints - Içki maslahatlarni körsatiş
+Show Diagnostics Notifications - Diagnostika bildirişnomalarini körsatiş
+Show Messages - Xabarlarni körsatiş
+Server Memory Usage - Server xotira sarfi
+Close All Dynamic Reference Tabs - Barça dinamik havolalar varaqlarini yopiş
+Restart LSP Server - LSP serverini qayta işga tuşiriş
+Restart All LSP Servers - Barça LSP serverlarini qayta işga tuşiriş
+Suspend All - Barçasini töxtatib turiş
+Go To - Ötiş
+More options - Köproq parametrlar
+Expand All - Barçasini yoyiş
+Collapse All - Barçasini yiğiş
+RangeHighLight - Diapazonni ajratib körsatiş
+Line: %1:  - Qator: %1: 
+No results - Natijalar yöq
+Definition: %1 - Taʼrif: %1
+Declaration: %1 - Deklaratsiya: %1
+Type Definition: %1 - Tur taʼrifi: %1
+References: %1 - Havolalar: %1
+Implementation: %1 - Amalga oşiriş: %1
+Highlight: %1 - Ajratib körsatiş: %1
+No Actions - Amallar yöq
+Loading... - Yuklanmoqda...
+No edits - Tahrirlar yöq
+Rename - Nomini özgartiriş
+New name (caution: not all references may be replaced) - Yangi nom (diqqat: barça havolalar almaştirilmasligi mumkin)
+Not enough results - Natijalar yetarli emas
+Corresponding Header/Source not found - Tegişli sarlavha/manba topilmadi
+LSP Server - LSP serveri
+LSP Client - LSP mijozi
+Question from LSP server - LSP serveridan savol
+Restarting - Qayta işga tuşirilmoqda
+NOT Restarting - Qayta işga tuşirilmayapti
+Server terminated unexpectedly ... %1 [%2] [homepage: %3]  - Server kutilmaganda töxtadi ... %1 [%2] [veb-sahifa: %3] 
+Found old LSP config format for language '%1', please migrate to the new format with a 'servers' sub-object. - '%1' tili uçun eski LSP sozlaş formati topildi, iltimos 'servers' qism-obyektiga ega yangi formatga öting.
+Failed to find server binary '%1' for language '%2' - '%2' tili uçun '%1' server binar fayli topilmadi
+Please check your PATH for the binary - Binar fayl uçun PATH özgaruvçisini tekşiring
+See also %1 for installation or details - Örnatiş yoki tafsilotlar uçun %1 ga ham qarang
+Failed to start server '%1' for language '%2' - '%2' tili uçun '%1' serverini işga tuşirib bölmadi
+Started server %2: %1 - %2 serveri işga tuşirildi: %1
+Failed to parse server configuration '%1': no JSON object - '%1' server sozlamasini tahlil qilib bölmadi: JSON obyekti yöq
+Failed to parse server configuration '%1': %2 - '%1' server sozlamasini tahlil qilib bölmadi: %2
+Failed to read server configuration: %1 - Server sozlamasini öqib bölmadi: %1
+Go to next symbol highlight - Keyingi belgi ajratilişiga ötiş
+Go to previous symbol highlight - Oldingi belgi ajratilişiga ötiş
+Symbol Outline - Belgilar tuzilmasi
+Tree Mode - Daraxt rejimi
+Automatically Expand Tree - Daraxtni avtomatik yoyiş
+Sort Alphabetically - Alifbo böyiça saralaş
+Show Details - Tafsilotlarni körsatiş
+Symbols - Belgilar
+LSP server does not support symbol outline. - LSP serveri belgilar tuzilmasini qöllab-quvvatlamaydi.
+No LSP server for this document. - Uşbu hujjat uçun LSP serveri yöq.
+Client Settings - Mijoz sozlamalari
+Enable semantic highlighting - Semantik ajratib körsatişni yoqiş
+Enable inlay hints - Içki maslahatlarni (inlay hints) yoqiş
+Completions: - Töldirişlar:
+Show completions - Töldirişlarni körsatiş
+Show inline docs for selected completion - Tanlangan töldiriş uçun içki hujjatlarni körsatiş
+Show function signature when typing a function call - Funksiya çaqiruvini yozişda uning imzosini körsatiş
+Add imports automatically if needed upon completion - Töldirişda kerak bölsa importlarni avtomatik qöşiş
+Navigation: - Navigatsiya:
+Count declarations when searching for references to a symbol - Belgiga havolalarni qidirganda deklaratsiyalarni hisoblaş
+Show information about currently hovered symbol - Kursor ostidagi belgi haqida maʼlumot körsatiş
+Highlight target line when hopping to it - Sakrab ötganda nişon qatorni ajratib körsatiş
+Server: - Server:
+Show program diagnostics - Dastur diagnostikasini körsatiş
+Show notifications from the LSP server - LSP serveridan bildirişnomalarni körsatiş
+Incrementally synchronize documents with the LSP server - Hujjatlarni LSP serveri bilan bosqiçma-bosqiç sinxronlaş
+Document outline: - Hujjat tuzilmasi:
+Sort symbols alphabetically - Belgilarni alifbo böyiça saralaş
+Display additional details for symbols - Belgilar uçun qöşimça tafsilotlarni körsatiş
+Present symbols in a hierarchy instead of a flat list - Belgilarni tekis röyxat örniga iyerarxiya körinişida taqdim etiş
+Highlight symbol under cursor - Kursor ostidagi belgini ajratib körsatiş
+Automatically expand tree - Daraxtni avtomatik yoyiş
+Allowed && Blocked Servers - Ruxsat berilgan va bloklangan serverlar
+&LSP Client - &LSP mijozi
+More Options - Köproq parametrlar

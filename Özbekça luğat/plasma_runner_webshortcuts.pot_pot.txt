@@ -1,0 +1,5 @@
+Search %1 for %2 - %1 dan %2 ni qidiriş
+Opens "%1" in a web browser with the query :q:. - Veb-brauzerda "%1" ni :q: sörovi bilan oçadi.
+Search using the DuckDuckGo bang syntax - DuckDuckGo maxsus sintaksisidan foydalanib qidiriş
+Search in private window - Maxfiy oynada qidiriş
+Search in incognito window - Inkognito oynada qidiriş

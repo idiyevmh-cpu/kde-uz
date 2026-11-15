@@ -1,0 +1,78 @@
+Reply - Javob beriş
+Copy Link Address - Havola manzilini nusxalaş
+Copy - Nusxalaş
+Select All - Hammasini tanlaş
+Just now - Hozirgina
+%1 min ago - %1 daqiqa oldin
+%1 s remaining - %1 soniya qoldi
+%1 min remaining - %1 daqiqa qoldi
+%1 h remaining - %1 soat qoldi
+Configure - Sozlaş
+Restore - Qayta tiklaş
+Minimize - Qayiriş
+Close - Yopiş
+%1: - %1:
+%2 of %1 - %1 dan %2
+%3 of %2 file - %2 fayldan %3 tasi
+%3 of %2 folder - %2 jilddan %3 tasi
+%3 of %2 item - %2 elementdan %3 tasi
+%1 file - %1 ta fayl
+%1 folder - %1 ta jild
+%1 item - %1 ta element
+%1/s - %1/s
+Details - Tafsilotlar
+Resume - Davom ettiriş
+Pause - Pauza
+Cancel - Bekor qiliş
+More Options… - Boşqa parametrlar…
+Open - Oçiş
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Type a reply… - Javob yozing…
+Send - Yuboriş
+Speed - Tezlik
+Average Speed - Örtaça tezlik
+%1% - %1%
+%1 (Paused) - %1 (Pauzada)
+%1 (Failed) - %1 (Muvaffaqiyatsiz)
+Job Failed - Vazifa muvaffaqiyatsiz tugadi
+%1 (Finished) - %1 (Yakunlandi)
+Job Finished - Vazifa yakunlandi
+Open with %1 - %1 bilan oçiş
+Open with… - Bilan oçiş…
+&Copy - &Nusxalaş
+Copy Location - Joylaşuvni nusxalaş
+Properties - Xossalar
+Do not disturb - Bezovta qilinmasin
+For 1 hour - 1 soat davomida
+For 4 hours - 4 soat davomida
+Until this evening - Bugun keçqurungaça
+Until tomorrow morning - Ertaga ertalabgaça
+Until Monday - Duşanbagaça
+Until manually disabled - Qölda öçirib qöyilgunça
+Automatically ends: %1 - Avtomatik tugaydi: %1
+While %1 is active (%2) - %1 faol bölganda (%2)
+While %1 is active - %1 faol bölganda
+Screens are mirrored - Ekranlar aks ettirilmoqda
+Fullscreen app is focused - Töliq ekranli ilova fokusda
+View - Köriş
+Close Group - Guruhni yopiş
+Show Fewer - Kamroq körsatiş
+Show %1 More - Yana %1 tasini körsatiş
+No unread notifications - Öqilmagan bildirişnomalar yöq
+Notification service not available - Bildirişnoma xizmati mavjud emas
+Notifications are currently provided by '%1 %2' - Bildirişnomalar ayni paytda '%1 %2' tomonidan taqdim etilmoqda
+Toggle do not disturb - Bezovta qilinmasin rejimini yoqiş/öçiriş
+Clear Notification History - Bildirişnomalar tarixini tozalaş
+Notifications Off - Bildirişnomalar öçiq
+Notifications On - Bildirişnomalar yoniq
+Notification history cleared - Bildirişnomalar tarixi tozalandi
+%1 running job - %1 ta bajarilayotgan vazifa
+%1 (%2%) - %1 (%2%)
+%1 running job (%2%) - %1 ta bajarilayotgan vazifa (%2%)
+%1 unread notification - %1 ta öqilmagan bildirişnoma
+%1 active notification - %1 ta faol bildirişnoma
+Do not disturb until %1; middle-click to exit now - %1 gaça bezovta qilinmasin; hozir çiqiş uçun siçqonçaning örta tugmasini bosing
+Do not disturb mode active; middle-click to exit - Bezovta qilinmasin rejimi faol; çiqiş uçun siçqonçaning örta tugmasini bosing
+Middle-click to enter do not disturb mode - Bezovta qilinmasin rejimiga ötiş uçun siçqonçaning örta tugmasini bosing
+Clear All Notifications - Barça bildirişnomalarni tozalaş
+&Configure Event Notifications and Actions… - Voqealar bildirişnomalari va amallarni &sozlaş…

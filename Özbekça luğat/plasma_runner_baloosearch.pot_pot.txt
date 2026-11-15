@@ -1,0 +1,14 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+File Search - Fayllarni qidiriş
+Open Containing Folder - Öz içiga olgan jildni oçiş
+Audio - Audio
+Images - Rasmlar
+Videos - Videolar
+Spreadsheets - Elektron jadvallar
+Presentations - Taqdimotlar
+Folders - Jildlar
+Documents - Hujjatlar
+Archives - Arxivlar
+Texts - Matnlar
+Files - Fayllar

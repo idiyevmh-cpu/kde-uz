@@ -1,0 +1,11 @@
+Source text - Tarjima text
+Configure Printer - Printerni sozlaş
+Configure your printer - Printeringizni sozlang
+Printer Management - Printerni boşqariş
+Notifies when a new printer is detected - Yangi printer aniqlanganda xabar beradi
+Printer Status Warning - Printer holati böyiça ogohlantiriş
+Low Ink/Toner Levels - Siyoh/Toner darajasi past
+The New Printer was added - Yangi printer qöşildi
+Plasma Print Queue Manager - Plasma çop etiş navbati menejeri
+Print Queue - Çop etiş navbati
+View and manage print jobs - Çop etiş topşiriqlarini köriş va boşqariş

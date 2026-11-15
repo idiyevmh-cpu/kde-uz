@@ -1,0 +1,16 @@
+Activity Manager - Faoliyatlar boşqaruvçisi
+Activity Settings for %1 - %1 uçun faoliyat sozlamalari
+Create a New Activity - Yangi faoliyat yaratiş
+Save - Saqlaş
+Icon: - Belgi:
+Name: - Nomi:
+Description: - Tavsifi:
+While on this activity, allow: - Uşbu faoliyatda bölganda ruxsat beriş:
+Tracking file and app use - Fayl va ilovalardan foydalanişni kuzatiş
+Automatically turning off the screen - Ekranni avtomatik öçiriş
+Automatically shutting down or sleeping - Avtomatik öçiriş yoki kutiş rejimiga ötiş
+Shortcut for switching: - Ötiş uçun tezkor tugma:
+Delete %1 activity - %1 faoliyatini öçiriş
+Create New… - Yangi yaratiş…
+Delete Activity - Faoliyatni öçiriş
+Do you want to delete activity '%1'? - Rostdan ham '%1' faoliyatini öçirib taşlamoqçimisiz?

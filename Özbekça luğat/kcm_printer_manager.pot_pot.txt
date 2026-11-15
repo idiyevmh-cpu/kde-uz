@@ -1,0 +1,132 @@
+Add a new printer - Yangi printer qöşiş
+Add a new printer group - Yangi printerlar guruhini qöşiş
+Configure a printer - Printerni sozlaş
+IPP Everywhere™ - IPP Everywhere™
+Driverless - Drayversiz
+PPD File - PPD fayli
+Failed to get server settings: %1 - Server sozlamalarini olib bölmadi: %1
+Server Settings Not Saved: (%1): %2 - Server sozlamalari saqlanmadi: (%1): %2
+Fatal Save Server Settings: (%1): %2 - Server sozlamalarini saqlaşda jiddiy xato: (%1): %2
+Install Error (package: %1)
+Check authentication credentials and make sure PackageKit is installed properly. - Örnatiş xatosi (paket: %1). Tasdiqlaş maʼlumotlarini tekşiring va PackageKit töğri örnatilganligiga işonç hosil qiling.
+Example Addresses - Namunaviy manzillar
+Printing Device - Çop etiş qurilmasi
+Address: - Manzil:
+Enter device address - Qurilma manzilini kiriting
+Choose a device connection - Qurilma ulanişini tanlang
+Recommended Drivers: - Tavsiya etilgan drayverlar:
+Select Driver… - Drayverni tanlaş…
+Select this driver for the printing device - Çop etiş qurilmasi uçun uşbu drayverni tanlang
+Manual Driver Search… - Drayverni qölda qidiriş…
+Search for and select a driver based on printer make/model - Printer işlab çiqaruvçisi/modeliga asoslanib drayverni qidiring va tanlang
+Line Printer Daemon (LPD) Protocol - Line Printer Daemon (LPD) protokoli
+Enter the address of the LPD device - LPD qurilmasi manzilini kiriting
+Queue: - Navbat:
+LPD queue name - LPD navbati nomi
+Continue with Address… - Manzil bilan davom etiş…
+Invalid LPD URL: %1 - Yaroqsiz LPD URL: %1
+Find remote printing devices - Masofaviy çop etiş qurilmalarini topiş
+Enter the address of the remote host/device - Masofaviy xost/qurilma manzilini kiriting
+No Printers found at host: %1 - %1 xostida printerlar topilmadi
+CUPS request error (%1): %2 - CUPS sörov xatosi (%1): %2
+Select Printer… - Printerni tanlaş…
+If the printer address is known, enter it and choose <interface>Continue</interface>.  If the printer is on a remote host, enter that address and choose <interface>Search</interface>. - Agar printer manzili maʼlum bölsa, uni kiriting va <interface>Davom etiş</interface>ni tanlang. Agar printer masofaviy xostda bölsa, öşa manzilni kiriting va <interface>Qidiriş</interface>ni tanlang.
+Set up a printer on a Windows Network - Windows tarmoğida printerni sozlaş
+Enter the address of the Windows Printer - Windows printeri manzilini kiriting
+Username: - Foydalanuvçi nomi:
+Password: - Parol:
+Save Printer… - Printerni saqlaş…
+Invalid Printer URL: %1 - Yaroqsiz printer URL: %1
+AppSocket Protocol (aka JetDirect) - AppSocket protokoli (JetDirect)
+Enter the address of the AppSocket device - AppSocket qurilmasi manzilini kiriting
+Invalid Socket URL: %1 - Yaroqsiz soket URL: %1
+Set up a Printer Connection - Printer ulanişini sozlaş
+Refresh - Yangilaş
+Show Detected Devices - Aniqlangan qurilmalarni körsatiş
+Show Manual Options - Qölda sozlaş variantlarini körsatiş
+This feature is not available (%1) - Bu funksiya mavjud emas (%1)
+Unable to automatically discover any printing devices - Çop etiş qurilmalarini avtomatik aniqlab bölmadi
+Click <interface>Refresh</interface> to try again, or choose a manual configuration option from the list.<nl/><nl/>Note: Automatic printer discovery requires this system’s firewall to allow through the “mdns” service, or be disabled. - Qayta uriniş uçun <interface>Yangilaş</interface> tugmasini bosing yoki röyxatdan qölda sozlaş variantini tanlang.<nl/><nl/>Eslatma: Printerni avtomatik aniqlaş uşbu tizim xavfsizlik devoridan “mdns” xizmatiga ruxsat berilişini yoki öçirib qöyilişini talab qiladi.
+Choose a manual configuration option from the list - Röyxatdan qölda sozlaş variantini tanlang
+CUPS Server Settings - CUPS server sozlamalari
+CUPS Print Server Admin - CUPS çop etiş serveri maʼmuri
+Reset - Tiklaş
+Apply - Qöllaş
+Please wait while the CUPS server restarts - CUPS serveri qayta işga tuşgunça kuting
+Share printers connected to this system - Uşbu tizimga ulangan printerlarni baham köriş
+Allow printing from the Internet - Internetdan çop etişga ruxsat beriş
+Allow remote administration - Masofaviy boşqaruvga ruxsat beriş
+Allow users to cancel any job (not just their own) - Foydalanuvçilarga har qanday vazifani (faqat özlarinikini emas) bekor qilişga ruxsat beriş
+Printer Setup Helpers - Printerni sozlaş yordamçilari
+Install has completed successfully - Örnatiş muvaffaqiyatli yakunlandi
+Installation failed - Örnatiş muvaffaqiyatsiz böldi
+Installing… - Örnatilmoqda…
+Report this issue to %1 - Uşbu muammo haqida %1 ga xabar bering
+new_queue - yangi_navbat
+new_group - yangi_guruh
+A printer support package that provides convenience features does not appear to be installed.<nl/><nl/>Because this distro does not include PackageKit, we cannot provide an install option. Please use your package manager to install the <command>system-config-printer</command> package manually. - Qulaylik xususiyatlarini taqdim etuvçi printer qöllab-quvvatlaş paketi örnatilmagan körinadi.<nl/><nl/>Uşbu distributivda PackageKit mavjud emasligi sababli, örnatiş imkoniyatini taqdim eta olmaymiz. <command>system-config-printer</command> paketini qölda örnatiş uçun paket menejeringizdan foydalaning.
+A printer support package that provides convenience features does not appear to be installed. - Qulaylik xususiyatlarini taqdim etuvçi printer qöllab-quvvatlaş paketi örnatilmagan körinadi.
+Install It - Uni örnatiş
+Add… - Qöşiş…
+Add Printer… - Printer qöşiş…
+Add Group… - Guruh qöşiş…
+Configure Print Server… - Çop etiş serverini sozlaş…
+No printers are currently set up - Hozirda heç qanday printer sozlanmagan
+Click <interface>Add…</interface> to set up a new printer on this computer - Kompyuterda yangi printerni sozlaş uçun <interface>Qöşiş…</interface> tugmasini bosing
+Printing services not available - Çop etiş xizmatlari mavjud emas
+Click <interface>Configure Print Server…</interface> to check settings, or verify that the CUPS system service is active. - Sozlamalarni tekşiriş uçun <interface>Çop etiş serverini sozlaş…</interface> tugmasini bosing yoki CUPS tizim xizmati faol ekanligini tekşiring.
+Printers - Printerlar
+Printer Groups - Printer guruhlari
+Open Print Queue - Çop etiş navbatini oçiş
+Resume printing - Çop etişni davom ettiriş
+Pause printing - Çop etişni töxtatib turiş
+Resume - Davom ettiriş
+Pause - Vaqtinça töxtatiş
+Select a printer make/model - Printer işlab çiqaruvçisi/modelini tanlang
+Printer Driver (%1) - Printer drayveri (%1)
+Printer Driver - Printer drayveri
+Use IPP Everywhere™ - IPP Everywhere™ dan foydalaniş
+Save - Saqlaş
+Select a PostScript Printer Description (PPD) file - PostScript printer tavsifi (PPD) faylini tanlang
+Printer model is required.  Please select a printer model. - Printer modeli talab qilinadi. Iltimos, printer modelini tanlang.
+Select Make and Model: - Işlab çiqaruvçi va modelni tanlang:
+Filter Models - Modellarni filtrlaş
+PPD file: - PPD fayli:
+Select PPD File… - PPD faylini tanlaş…
+Select - Tanlaş
+PostScript Printer Description Files (*.ppd) - PostScript printer tavsifi fayllari (*.ppd)
+Add Group - Guruh qöşiş
+Add Printer - Printer qöşiş
+Configure… - Sozlaş…
+Remove - Olib taşlaş
+CUPS Printers Overview Help - CUPS printerlari umumiy yordami
+Printer/Device Admin Page - Printer/qurilma maʼmuri sahifasi
+Add - Qöşiş
+Apply - Qöllaş
+Queue name is required. Enter a unique queue name. - Navbat nomi talab qilinadi. Noyob navbat nomini kiriting.
+Queue name must be unique. Enter a unique queue name. - Navbat nomi noyob bölişi kerak. Noyob navbat nomini kiriting.
+Make/Model is required. Choose "Select" to pick Make/Model - Işlab çiqaruvçi/Model kiritilişi şart. Işlab çiqaruvçi/Modelni tanlaş uçun "Tanlaş" tugmasini bosing
+Configuring group, please wait… - Guruh sozlanmoqda, iltimos kuting…
+Configuring printer, please wait… - Printer sozlanmoqda, iltimos kuting…
+Failed to remove the printer: %1 - Printerni olib taşlab bölmadi: %1
+Remove Group? - Guruh olib taşlansinmi?
+Remove Printer? - Printer olib taşlansinmi?
+'%1' will be removed. - '%1' olib taşlanadi.
+Remove Group - Guruhni olib taşlaş
+Remove Printer - Printerni olib taşlaş
+Cancel - Bekor qiliş
+Default printer - Standart printer
+To change the default printer, set another printer as the default. - Standart printerni özgartiriş uçun boşqa printerni standart qilib belgilang.
+Share this group - Uşbu guruhni baham köriş
+Share this printer - Uşbu printerni baham köriş
+Accepting print jobs - Çop etiş vazifalarini qabul qiliş
+Print Test Page - Sinov sahifasini çop etiş
+Print Self-Test Page - Öz-özini sinaş sahifasini çop etiş
+Clean Print Heads - Çop etiş kallaklarini tozalaş
+Queue Name: - Navbat nomi:
+Description: - Tavsifi:
+Location: - Joylaşuvi:
+Connection: - Ulaniş:
+Member Printers: - Aʼzo printerlar:
+Make/Model: - Işlab çiqaruvçi/Model:
+Select… - Tanlaş…

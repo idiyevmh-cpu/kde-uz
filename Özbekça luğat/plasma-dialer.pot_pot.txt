@@ -1,0 +1,65 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Phone - Telefon
+Plasma call screen - Plasma qönğiroq ekrani
+© 2015-2022 KDE Community - © 2015-2022 KDE Hamjamiyati
+Alexey Andreyev - Alexey Andreyev
+Incoming... - Kiruvçi qönğiroq...
+Calling... - Qönğiroq qilinmoqda...
+Swipe to accept - Qabul qiliş uçun suring
+Call - Qönğiroq qiliş
+Close - Yopiş
+Keypad - Raqamlar paneli
+Speaker - Karnay (dinamik)
+Mute - Tovuşsiz
+Plasma phone dialer - Plasma telefon raqam teruvçisi
+Adding contact - Kontakt qöşilmoqda
+Name - Ism
+History - Tarix
+Contacts - Kontaktlar
+Dialer - Qönğiroq teruvçi (Dialer)
+Settings - Moslamalar
+Quit - Çiqiş
+No contacts have a phone number set - Telefon raqami kiritilgan kontaktlar yöq
+Select number to call - Qönğiroq qiliş uçun raqamni tanlang
+Telephony daemons are not responding - Telefoniya xizmatlari javob bermayapti
+Add contact - Kontakt qöşiş
+Modem devices are not found - Modem qurilmalari topilmadi
+Voicemail number couldn't be found - Ovozli poçta raqami topilmadi
+Duration: %1 - Davomiyligi: %1
+Call History - Qönğiroqlar tarixi
+Clear history - Tarixni tozalaş
+No recent calls - Yaqinda qilingan qönğiroqlar yöq
+No IMEIs found - IMEI raqamlari topilmadi
+IMEI - IMEI
+Adaptive Call Blocking - Moslaşuvçan qönğiroq bloklaş
+Ignore calls from unknown numbers - Nomaʼlum raqamlardan qönğiroqlarni eʼtiborsiz qoldiriş
+When a call is an incoming from an unknown number - Qönğiroq nomaʼlum raqamdan bölganda
+Immediately hang up - Darhol qönğiroqni uziş
+Ring without notification - Bildirişnomasiz jiringlaş
+Ring with silent notification - Ovozli bildirişnomasiz jiringlaş
+Allowed exceptions - Ruxsat berilgan istisnolar
+Anonymous numbers - Nomaʼlum raqamlar
+Existing outgoing call to number - Raqamga mavjud çiquvçi qönğiroq
+Callback within - Qayta qönğiroq oraliği
+minutes - daqiqa
+Allowed phone number exceptions - Ruxsat berilgan telefon raqami istisnolari
+Add new pattern - Yangi namuna qöşiş
+Ringtone - Qönğiroq ohangi
+Select from files... - Fayllardan tanlaş...
+Default (System) - Standart (Tizim)
+Choose a ringtone - Qönğiroq ohangini tanlang
+About - &Haqida
+Default - Standart
+Adaptive call blocking - Moslaşuvçan qönğiroq bloklaş
+Incoming call screen appearance - Kiruvçi qönğiroq ekrani körinişi
+Buttons - Tugmalar
+Symmetric Swipe - Simmetrik suriş
+Asymmetric Swipe - Asimmetrik suriş
+USSD Error - USSD xatosi
+USSD Message - USSD xabari
+Write response... - Javob yozing...
+Send - &Jönatiş
+Cancel USSD session - USSD seansini bekor qiliş
+Active call - Faol qönğiroq
+View - Köriniş

@@ -1,0 +1,4 @@
+Source text - Tarjima text
+System Settings - Tizim sozlamalari
+Configure the system’s behavior and appearance - Tizimning xulq-atvori va körinişini sozlaş
+System Settings allows you to configure and tweak your KDE Plasma desktop to make it better meet your needs. - Tizim sozlamalari KDE Plasma iş stolingizni ehtiyojlaringizga töliq moslaştiriş va sozlaş imkonini beradi.

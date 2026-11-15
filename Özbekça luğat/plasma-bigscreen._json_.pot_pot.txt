@@ -1,0 +1,28 @@
+Plasma Bigscreen Homescreen - Plasma Bigscreen boş ekrani
+Plasma Bigscreen - Plasma Bigscreen
+Audio - Audio
+System - Tizim
+Display - Displey
+Input - Kiritiş
+KDE Connect - KDE Connect
+Wallpaper - Fon rasmi
+Web Apps - Veb-ilovalar
+Wi-Fi - Wi-Fi
+Plasma Bigscreen Start - Plasma Bigscreen Start
+Bigscreen homescreen with a focus on customizability. - Moslaşuvçanlikka yönaltirilgan Bigscreen boş ekrani.
+Homescreen for Plasma based TVs - Plasma asosidagi televizorlar uçun boş ekran
+Manage mediacenter audio devices - Mediamarkaz audio qurilmalarini boşqariş
+Look and Feel - Taşqi köriniş
+Display Settings - Displeyning moslamalari
+Configure remote and game controller input - Masofaviy pult va geympad kiritişini sozlaş
+Connect and sync your devices - Qurilmalaringizni ulang va sinxronlang
+Change the system wallpaper - Tizim fon rasmini özgartiriş
+Create and manage web applications - Veb-ilovalarni yaratiş va boşqariş
+Connect to Wi-Fi networks - Wi-Fi tarmoqlariga ulaniş
+Run initial tasks for Plasma Bigscreen during session startup - Seans işga tuşganda Plasma Bigscreen uçun dastlabki vazifalarni bajariş
+Plasma Bigscreen look and feel - Plasma Bigscreen taşqi körinişi
+Plasma shell for TVs - Televizorlar uçun Plasma qobiği
+Aditya Mehra - Aditya Mehra
+Marco Martin - Marco Martin
+theme, look, feel - mavzu, köriniş, hissiyot
+input,controller,gamepad,cec,remote - kiritiş,kontroller,geympad,cec,pult

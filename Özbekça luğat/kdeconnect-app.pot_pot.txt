@@ -1,0 +1,92 @@
+KDE Connect - KDE Connect
+© 2015–2025 KDE Connect Team - © 2015–2025 KDE Connect jamoasi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Albert Vaca Cintora - Albert Vaca Cintora
+Your names - Ismingiz
+Your emails - Emailingiz
+Device id to open the app in - Ilovani oçiş uçun qurilma ID-si
+Configuration module to show, requires --device to be set. - Körsatiladigan sozlaş moduli, --device örnatilgan bölişi talab qilinadi.
+Replace an existing instance - Mavjud nusxani almaştiriş
+URL to share - Ulaşiş uçun URL
+Battery: No info - Batareya: Maʼlumot yöq
+Battery: %1% (Charging) - Batareya: %1% (Quvvatlanmoqda)
+Battery: %1% - Batareya: %1%
+Unknown - Nomaʼlum
+Mobile Network: No signal - Mobil tarmoq: Signal yöq
+Mobile Network: %1 - Mobil tarmoq: %1
+Unpair - Juftlikni bekor qiliş
+Send Ping - Ping yuboriş
+Plugin Settings - Plagin sozlamalari
+Actions - Amallar
+Controls - Boşqaruv elementlari
+Information - Maʼlumot
+Multimedia control - Multimedia boşqaruvi
+Notifications - Xabarnomalar
+Remote input - Masofaviy kiritiş
+Run command - Buyruqni işga tuşiriş
+Presentation Remote - Taqdimot pulti
+Volume control - Ovoz balandligini boşqariş
+SMS Messages - SMS xabarlar
+Lock - Qulflaş
+Unlock - Qulfdan çiqariş
+Find Device - Qurilmani topiş
+Send Clipboard - Vaqtinçalik xotirani yuboriş
+Share File - Faylni ulaşiş
+Browse this device - Uşbu qurilmani körib çiqiş
+Stop virtual monitor session - Virtual monitor seansini töxtatiş
+Use device as an external monitor - Qurilmadan taşqi monitor sifatida foydalaniş
+Address: %1 - Manzil: %1
+This device is not paired. - Uşbu qurilma juftlanmagan.
+Pair - Juftlaş
+Pair requested
+Key:  - Juftlaş söraldi
+Kalit: 
+Accept - Qabul qiliş
+Reject - Rad etiş
+This device is not reachable - Uşbu qurilma bilan boğlanib bölmaydi
+Please choose a file - Iltimos, faylni tanlang
+Open device list - Qurilmalar röyxatini oçiş
+Close device list - Qurilmalar röyxatini yopiş
+Devices - Qurilmalar
+Refresh - Yangilaş
+Refresh Devices - Qurilmalarni yangilaş
+Remembered - Eslab qolingan
+Available - Mavjud
+Connected - Ulangan
+No devices found - Qurilmalar topilmadi
+Settings - Moslamalar
+Settings - Moslamalar
+Remote Control - Masofaviy boşqaruv
+Press %1 or the left and right mouse buttons at the same time to unlock - Qulfdan çiqariş uçun %1 yoki siçqonçaning çap va öng tugmalarini bir vaqtda bosing
+Left Click - Çap çertiş
+Middle Click - Örta çertiş
+Right Click - Öng çertiş
+Multimedia Controls - Multimedia boşqaruvi
+No players available - Pleyerlar mavjud emas
+%1 - %2 - %1 %2
+Notifications - Xabarnomalar
+No notifications - Bildirişnomalar yöq
+Reply - &Javob beriş
+Dismiss - Yopiş
+Cancel - &Bekor qiliş
+Reply to %1… - %1 ga javob beriş…
+Send - &Jönatiş
+Enable Full-Screen - Töliq ekranni yoqiş
+Previous Slide - &Oldingi slayd
+Next Slide - &Keyingi slayd
+Edit commands - Buyruqlarni tahrirlaş
+You can edit commands on the connected device - Ulangan qurilmada buyruqlarni tahrirlaşingiz mumkin
+No commands defined - Buyruqlar belgilanmagan
+Settings - Moslamalar
+Device name - Qurilma nomi
+Backends - Bekendlar
+About KDE Connect - KDE Connect haqida
+About KDE - KDE haqida
+Close - Yopiş
+No Device Selected - Qurilma tanlanmagan
+Make sure to install KDE Connect on your other devices. - Boşqa qurilmalaringizga ham KDE Connect-ni örnatganingizga işonç hosil qiling.
+KDE Connect Android App - KDE Connect Android ilovasi
+F-Droid - F-Droid
+Play Store - Play Store
+KDE Connect iOS App - KDE Connect iOS ilovasi
+App Store - App Store

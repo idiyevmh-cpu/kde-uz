@@ -1,0 +1,51 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Color scheme - Rang sxemasi
+Year - Yil
+Month - Oy
+Day - Kun
+Adjust Date and Time Settings - Sana va vaqt sozlamalarini sozlaş
+Timezone - Vaqt zonasi:
+Set time automatically - Vaqtni avtomatik örnatiş
+Time - Vaqt
+Date - Sana
+Back - Orqaga
+Search City / Region - Şahar / Hududni qidiriş
+Your local timezone is %1 - Mahalliy vaqt mintaqangiz: %1
+%1, %2 - %1 %2
+System - Tizim
+Homescreen Appearance - Boş ekran körinişi
+Colored tiles - Rangli koşinlar
+Tile backgrounds will be colored based on the app's icon - Koşin fonlari ilova nişonçasi rangiga moslanadi
+Wallpaper blur - Fon rasmini xiralaştiriş
+Apply a blur effect to the wallpaper on the homescreen - Boş ekrandagi fon rasmiga xiralaştiriş effektini qöllaş
+Set the system colors - Tizim ranglarini örnatiş
+Window decorations - Oyna bezaklari
+Have a window frame (minimize, maximize, close), for apps that request it - Uni söragan ilovalar uçun oyna romiga ega böliş (kiçraytiriş, kattalaştiriş, yopiş)
+Navigation sounds - Navigatsiya tovuşlari
+Play a sound when the selected item changes in system apps - Tizim ilovalarida tanlangan element özgarganda tovuş çaliş
+Off - Öçirilgan
+Weak - Kuçsiz
+Medium - Ör&ta
+Strong - Kuçli
+Navigation rumble - Navigatsiya tebranişi
+Power inhibition - Quvvatni tejaşni töxtatib turiş
+Prevent the system from automatically sleeping - Tizimning avtomatik uyqu rejimiga ötişini taqiqlaş
+Enable Link Redirector - Havolalar yönaltirgiçini yoqiş
+Clicking links will show a popup that allows sending the link to another device via KDE Connect or a QR code - Havolalarni bosiş KDE Connect yoki QR kod orqali boşqa qurilmaga yuboriş imkonini beruvçi oynani körsatadi
+Default web browser - Standart veb-brauzer
+Not set - Örnatilmagan
+Adjust date and time - Sana va vaqtni sozlaş
+Shortcuts - Tugmalar birikmasi
+Open home overlay shortcut - Boş qoplamani oçiş yorliği
+Open homescreen shortcut - Boş ekranni oçiş yorliği
+Open search shortcut - Qidiruvni oçiş yorliği
+Open settings shortcut - Sozlamalarni oçiş yorliği
+Open tasks shortcut - Vazifalarni oçiş yorliği
+Shortcut currently set to - Joriy örnatilgan tugmalar birikmasi:
+Reset to default - Standart holatga tiklaş
+Set Shortcut - Tugmalar birikmasini örnatiş
+Hour - Soat
+Minute - Daqiqa
+Second - Soniya
+AM/PM - Ertalab/Keçqurun

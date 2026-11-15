@@ -1,0 +1,2 @@
+Send via KDE Connect - KDE Connect orqali yuboriş
+Send to '%1' via KDE Connect - KDE Connect orqali '%1' ga yuboriş

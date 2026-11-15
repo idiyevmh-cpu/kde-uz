@@ -1,0 +1,43 @@
+Source text - Tarjima text
+KDE - KDE
+Get current battery charge limit - Batareyaning joriy quvvatlaş çegarasini oliş
+Authenticate to see the current battery charge limit. - Batareya quvvatlaş çegarasini köriş uçun autentifikatsiyadan öting.
+Set battery charge limit - Batareya quvvatlaş çegarasini örnatiş
+Authenticate to set the battery charge limit. - Batareya quvvatlaş çegarasini belgilaş uçun autentifikatsiyadan öting.
+Check battery conservation mode - Batareyani tejaş rejimini tekşiriş
+Authenticate to check the current state of battery conservation mode. - Batareyani tejaş rejimining joriy holatini tekşiriş uçun autentifikatsiyadan öting.
+Set battery conservation mode - Batareyani tejaş rejimini örnatiş
+Authenticate to set the battery conservation mode. - Batareyani tejaş rejimini yoqiş/öçiriş uçun autentifikatsiyadan öting.
+Get maximum brightness value - Maksimal yorqinlik qiymatini oliş
+Authenticate to see the maximum brightness level. - Maksimal yorqinlik darajasini köriş uçun autentifikatsiyadan öting.
+Get brightness - Yorqinlik darajasini oliş
+Authenticate to see the brightness level. - Yorqinlik darajasini köriş uçun autentifikatsiyadan öting.
+Set brightness - Yorqinlikni örnatiş
+Authenticate to set the brightness level. - Yorqinlik darajasini belgilaş uçun autentifikatsiyadan öting.
+Get syspath - Tizim yöli (syspath)ni oliş
+Authenticate to see the syspath. - Tizim yölini köriş uçun autentifikatsiyadan öting.
+Check for existence of discrete GPU - Diskret video karta (GPU) mavjudligini tekşiriş
+Authenticate to check for the existence of a discrete GPU. - Diskret GPU mavjudligini tekşiriş uçun autentifikatsiyadan öting.
+Power Management - Quvvat boşqaruvi
+Battery, Display and CPU power management and notification - Batareya, displey va protsessor quvvatini boşqariş hamda bildirişnomalar
+Set the wakeup count - Uyğoniş hisoblagiçini örnatiş
+This allows to read wakeup count on next wakeup to identify wakeup source - Bu keyingi uyğonişda manbani aniqlaş uçun uyğoniş sonini öqiş imkonini beradi
+Power Management System - Quvvatni boşqariş tizimi
+Warning - Ogohlantiriş
+Used for warning notifications - Ogohlantiruvçi bildirişnomalar uçun işlatiladi
+Notification - Bildirişnoma
+Used for standard notifications - Standart bildirişnomalar uçun işlatiladi
+Critical notification - Muhim (krizis) bildirişnoma
+Notifies a critical event - Favqulodda holat haqida xabar beradi
+Battery Low - Batareya quvvati kam
+Battery has reached low level - Batareya quvvati past darajaga tuşdi
+Battery Critical - Batareya quvvati öta kam (kritik)
+Battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave it on. - Batareya kritik darajaga yetdi. Uşbu bildirişnoma sozlangan amal bajarilişidan oldin vaqt hisobini boşlaydi, şuning uçun uni yoqiq qoldiriş qatʼiy tavsiya etiladi.
+Charge Complete - Quvvatlaş yakunlandi
+The battery is fully charged - Batareya töliq quvvatlandi
+Peripheral Battery Low - Taşqi qurilma batareya quvvati past
+The battery in a connected device, such as mouse or keyboard, is low - Siçqonça yoki klaviatura kabi ulangan qurilmaning batareyasi quvvati kam qoldi
+Power source connected - Quvvat manbai ulandi
+The power source has been connected - Quvvat manbaiga ulandi
+Power source disconnected - Quvvat manbaidan uzildi
+The power source has been disconnected - Quvvat manbaidan uzildi

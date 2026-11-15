@@ -1,0 +1,9 @@
+Source text - Tarjima text
+Restore Windows - Oynalarni qayta tiklaş
+Minimize All Windows - Barça oynalarni yiğiş
+Restores the previously minimized windows - Avval yiğilgan oynalarni qayta oçadi
+Shows the Desktop by minimizing all windows - Barça oynalarni yiğib, iş stolini körsatadi
+Peek at Desktop - Iş stoliga köz taşlaş
+Stop Peeking at Desktop - Iş stoliga köz taşlaşni töxtatiş
+Moves windows back to their original positions - Oynalarni avvalgi örniga qaytaradi
+Temporarily shows the desktop by moving windows away - Oynalarni çetga surib, vaqtinça iş stolini körsatadi

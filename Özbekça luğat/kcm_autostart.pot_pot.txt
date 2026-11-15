@@ -1,0 +1,23 @@
+Source text - Tarjima text
+Stop - Tokhtatiş
+Start - Işga tuşiriş
+Name: - Nomi:
+Status: - Holati:
+Last activated on: - Songgi marta faollaşgan vakti:
+Refresh - Yangilaş
+Make Executable - Bajariluvçi kiliş
+Add New - Yangi koşiş
+Application… - Ilova…
+Login Script… - Tizimga kiriş skripti…
+Logout Script… - Tizimdan çikiş skripti…
+Disable autostart - Avto-işga tuşirişni oçiriş
+Enable autostart - Avto-işga tuşirişni yokiş
+Applications - Ilovalar
+Login Scripts - Kiriş skriptlari
+Pre-startup Scripts - Işga tuşirişdan oldingi skriptlar
+Logout Scripts - Çikiş skriptlari
+Choose Login Script - Kiriş skriptini tanlang
+Choose Logout Script - Çikiş skriptini tanlang
+Running - Işlayapti
+Not running - Işlamayapti
+Failed - Xatolik yuz berdi

@@ -1,0 +1,20 @@
+date - sana
+time - vaqt
+to|in|as|at - ga|da|sifatida|vaqtida
+Displays the current date - Joriy sanani körsatadi
+Displays the current time - Joriy vaqtni körsatadi
+ <timezone> -  <vaqt_mintaqasi>
+Displays the current date and difference to system date in a given timezone - Körsatilgan vaqt mintaqasida joriy sana va tizim sanasi orasidagi farqni körsatadi
+Displays the current time and difference to system time in a given timezone - Körsatilgan vaqt mintaqasida joriy vaqt va tizim vaqti orasidagi farqni körsatadi
+<time> <timezone> in <timezone> - <vaqt> <vaqt_mintaqasi> <vaqt_mintaqasi> da
+Converts the time from the first timezone to the second timezone. If only one time zone is given, the other will be the system time zone. If no date or time is given, it will be the current date and time. - Vaqtni birinçi vaqt mintaqasidan ikkinçisiga ötkazadi.
+Today's date is %1 - Bugungi sana: %1
+%1 later - %1 keyinroq
+%1 earlier - %1 oldinroq
+no date difference - sana farqi yöq
+Current time is %1 - Joriy vaqt: %1
+%1 + %2 - %1 + %2
+%1 - %2 - %1 %2
+%1 later - %1 keyinroq
+%1 earlier - %1 oldinroq
+no time difference - vaqt farqi yöq

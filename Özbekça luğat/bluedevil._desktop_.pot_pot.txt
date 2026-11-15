@@ -1,0 +1,18 @@
+Source text - Tarjima text
+Bluetooth - Bluetooth
+Bluetooth system - Bluetooth tizimi
+Authorization Requested - Avtorizatsiya talab qilinadi
+A device wants to connect - Qurlama ulanmoqçi
+Confirm PIN - PIN kodni tasdiqlaş
+Confirm a device request using matching PINs - Mos keluvçi PIN kodlar yordamida qurlama sörovini tasdiqlang
+Request PIN - PIN kodni söraş
+A PIN is needed - PIN kod kiritilişi zarur
+Incoming File - Kiruvçi fayl
+Incoming file transfer - Kiruvçi fayl uzatmasi
+Connection Failed - Uquvsiz ulaniş (Ulaniş muvaffaqiyatsiz tugadi)
+Connection to device failed - Qurlamaga ulaniş muvaffaqiyatsiz tugadi
+Device Setup Finished - Qurlamani sozlaş yakunlandi
+Setting up a Bluetooth device finished successfully - Bluetooth qurlamasini sozlaş muvaffaqiyatli yakunlandi
+Bluetooth File Transfer - Bluetooth orqali fayl uzatiş
+Send files via Bluetooth - Fayllarni Bluetooth orqali yuboriş
+Add Bluetooth Device - Bluetooth qurlamasini qöşiş

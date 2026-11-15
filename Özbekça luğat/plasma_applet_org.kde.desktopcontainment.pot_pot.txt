@@ -1,0 +1,109 @@
+Location - Joylaşuv
+Icons - Belgilar
+Filter - Filtr
+Back - Orqaga
+Files: - Fayllar:
+Show all - Hammasini körsatiş
+Show matching - Mos keluvçilarni körsatiş
+Hide matching - Mos keluvçilarni yaşiriş
+File name pattern: - Fayl nomi andozasi:
+File types: - Fayl turlari:
+Show hidden files: - Yaşirin fayllarni körsatiş:
+File Type - Fayl turi
+Description - Tavsif
+Select All - Hammasini tanlaş
+Deselect All - Tanlaşni bekor qiliş
+Switch Sort Order - Saralaş tartibini almaştiriş
+Panel button: - Panel tugmasi:
+Use a custom icon - Moslaştirilgan belgidan foydalaniş
+Choose… - Tanlaş…
+Clear Icon - Belgini tozalaş
+Arrangement: - Joylaşuv tartibi:
+In Rows - Qatorlarda
+In Columns - Ustunlarda
+Sort Alignment: - Saralaş tekislanişi:
+Left-to-Right - Çapdan öngga
+Right-to-Left - Öngdan çapga
+Lock in place - Öz joyida qulflaş
+Sort by: - Quyidagiça saralaş:
+Manual - Qölda
+Name - Nomi
+Size - Hajmi
+Type - Turi
+Date - Sanasi
+Descending - Kamayiş tartibida
+Folders first - Avval jildlar
+View mode: - Köriniş rejimi:
+List - Röyxat
+Grid - Katak
+Icon size: - Belgi hajmi:
+Small - Kiçik
+Large - Katta
+Label width: - Yorliq kengligi:
+Narrow - Tor
+Medium - Örtaça
+Wide - Keng
+Text lines: - Matn qatorlari:
+When hovering over icons: - Belgilar ustiga borganda:
+Show tooltips - Maslahatlarni körsatiş
+Show selection markers - Tanlaş belgilarini körsatiş
+Show folder preview popups - Jildni oldindan köriş oynalarini körsatiş
+Typing on the desktop: - Iş stolida yoziş:
+Selects items - Elementlarni tanlaydi
+Activates KRunner - KRunner ni faollaştiradi
+Rename: - Nomini özgartiriş:
+Rename inline by clicking selected item's text - Tanlangan element matnini bosiş orqali joyida nomini özgartiriş
+Previews: - Oldindan köriş:
+Show preview thumbnails - Oldindan köriş eskizlarini körsatiş
+Configure Preview Plugins… - Oldindan köriş plaginlarini sozlaş…
+Show: - Körsatiş:
+Desktop folder - Iş stoli jildi
+Files linked to the current activity - Joriy faoliyatga boğlangan fayllar
+Places panel item: - Joylar paneli elementi:
+Custom location: - Moslaştirilgan joylaşuv:
+Type path or URL… - Yöl yoki URL manzilini kiriting…
+Title: - Sarlavha:
+None - Yöq
+Default - Birlamçi
+Full path - Töliq yöl
+Custom - Moslaştirilgan
+Enter title… - Sarlavhani kiriting…
+Click and drag to rotate - Aylantiriş uçun bosing va sudrang
+Hide Background - Fonni yaşiriş
+Show Background - Fonni körsatiş
+Remove - Olib taşlaş
+Preview Plugins - Oldindan köriş plaginlari
+There are a lot of files and folders on the desktop. This can cause bugs and performance issues. Please consider moving some of them elsewhere. - Iş stolida juda köp fayl va jildlar mavjud. Bu xatolarga va sekinlaşuvga olib kelişi mumkin. Iltimos, ularning bir qismini boşqa joyga köçirişni körib çiqing.
+Folder is empty - Jild böş
+Desktop and Wallpaper - Iş stoli va fon rasmi
+Select Folder - Jildni tanlaş
+&Refresh Desktop - Iş stolini &yangilaş
+&Refresh View - Körinişni &yangilaş
+Link Target Not Found - Havola nişoni topilmadi
+<filename>%1</filename> points to <filename>%2</filename>, but that could not be found. It may have been moved or deleted. - <filename>%1</filename> havola qilayotgan <filename>%2</filename> topilmadi. U köçirilgan yoki öçirib taşlangan bölişi mumkin.
+&Empty Trash - Çiqindilar qutisini &tozalaş
+Restore to Former Location - Avvalgi joyiga qaytariş
+&Open - &Oçiş
+Show Target - Nişonni körsatiş
+Remove Trash Icon - Çiqindilar qutisi belgisini olib taşlaş
+&Move to Trash - Çiqindilar qutisiga &taşlaş
+&Paste - &Qöyiş
+&Properties - &Xossalari
+Sort By - Quyidagiça saralaş
+Unsorted - Saralanmagan
+Folders First - Avval jildlar
+Icon Size - Belgi hajmi
+22px - 22px
+32px - 32px
+48px - 48px
+64px - 64px
+96px - 96px
+128px - 128px
+160px - 160px
+192px - 192px
+224px - 224px
+256px - 256px
+Arrange - Tartiblaş
+Sort Alignment - Saralaş tekislanişi
+Show Previews - Oldindan körişni körsatiş
+Locked - Qulflangan

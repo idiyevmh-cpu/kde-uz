@@ -1,0 +1,16 @@
+Source text - Tarjima text
+No pointer device found. Connect now. - Körsatkiç qurilmasi (siçqonça) topilmadi. Hozir ulang.
+Device: - Qurilma:
+General: - Umumiy:
+Enable device - Qurilmani yoqiş
+Left and right buttons: - Çap va öng tugmalar:
+Swap (left-handed mode) - Örinlarini almaştiriş (çapaqaylar rejimi)
+Press both simultaneously to middle-click - Örta tugma amali uçun ikkalasini bir vaqtda bosiş
+Pointer speed: - Kursor tezligi:
+Enable pointer acceleration - Kursor tezlanişini yoqiş
+Scrolling speed: - Aylantiriş tezligi:
+Slower - Sekinroq
+Faster - Tezroq
+Scrolling: - Aylantiriş:
+Invert scroll direction - Aylantiriş yönalişini teskari qiliş (Invert)
+Cancel - Bekor qiliş

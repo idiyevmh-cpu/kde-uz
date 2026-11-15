@@ -1,0 +1,173 @@
+Your names - Ismingiz
+Your emails - Elektron poçtangiz
+Request device access - Qurilmaga kirişni söraş
+%1 files - %1 fayllari
+Choose Application - Ilovani tanlaş
+Choose an application to open <filename>%1</filename> - <filename>%1</filename> faylini oçiş uçun ilovani tanlang
+Find More in Discover… - Discover-dan köproq topiş…
+Open - Oçiş
+Set as default app to open %1 files - %1 fayllarini oçiş uçun birlamçi ilova sifatida belgilaş
+Show All Installed Applications - Barça örnatilgan ilovalarni körsatiş
+Choose Other… - Boşqasini tanlaş…
+%1<nl/><emphasis>Default app for this file type</emphasis> - %1<nl/><emphasis>Uşbu fayl turi uçun birlamçi ilova</emphasis>
+%1<nl/><emphasis>Last used app for this file type</emphasis> - %1<nl/><emphasis>Uşbu fayl turi uçun oxirgi işlatilgan ilova</emphasis>
+Open with <command>%1</command>? - <command>%1</command> yordamida oçilsinmi?
+No matches - Mos keluvçilar topilmadi
+No installed applications can open <filename>%1</filename> - Örnatilgan ilovalarning heç biri <filename>%1</filename> faylini oça olmaydi
+Run in terminal - Terminalda işga tuşiriş
+Do not close when command exits - Buyruq yakunlanganda oyna yopilmasin
+Background Activity - Orqa fon faoliyati
+%1 wants to remain running when it has no visible windows. If you deny this request, the application will quit when its last window is closed. - %1 körinadigan oynalari qolmaganda ham işlaşda davom etmoqçi. Agar bu sörovni rad etsangiz, ilova oxirgi oynasi yopilganda işini yakunlaydi.
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Deny Background Usage? - Orqa fonda işlaş rad etilsinmi?
+This will force %1 to quit when its last window is closed. This could cause data loss if the application has any unsaved changes when it happens. - Bu %1 ilovasini oxirgi oynasi yopilganda işdan çiqişga majbur qiladi. Agar şu paytda ilovada saqlanmagan özgarişlar bölsa, maʼlumotlar yöqolişiga olib kelişi mumkin.
+Deny Anyway - Baribir rad etiş
+Create Web Application Launcher? - Veb-ilova işga tuşiruvçisi yaratilsinmi?
+Create Application Launcher? - Ilova işga tuşiruvçisi yaratilsinmi?
+A launcher to open the following website will appear in application launchers: - Quyidagi veb-saytni oçiş uçun işga tuşiruvçi ilovalar menyusida paydo böladi:
+A launcher to open the following application will appear in application launchers: - Quyidagi ilovani oçiş uçun işga tuşiruvçi ilovalar menyusida paydo böladi:
+Name - Nomi
+Launcher Requested - Işga tuşiruvçi söraldi
+Edit Info… - Maʼlumotni tahrirlaş…
+Create - Yaratiş
+Cancel - Bekor qiliş
+Open - Oçiş
+The shortcut is already assigned to the action <interface>%1</interface> of <application>%2</application>. Re-enter it here to override that action. - Uşbu tezkor tugma allaqaçon <application>%2</application> ilovasining <interface>%1</interface> amaliga biriktirilgan. Öşa amalni bekor qilib qayta yoziş uçun uni şu yerga qaytadan kiriting.
+The shortcut is already assigned to the <interface>%1</interface> standard action. - Uşbu tezkor tugma allaqaçon <interface>%1</interface> standart amaliga biriktirilgan.
+The shortcut is assigned to multiple actions (<interface>%1</interface>) - Uşbu tezkor tugma bir neçta amallarga (<interface>%1</interface>) biriktirilgan
+,  - , 
+Global Shortcuts Requested - Global tezkor tugmalar söraldi
+An unidentifiable application wants to register the following shortcut. - Aniqlanmagan ilova quyidagi tezkor tugmani röyxatdan ötkazmoqçi.
+%2 wants to register the following shortcut: - %2 quyidagi tezkor tugmani röyxatdan ötkazmoqçi:
+See Other Shortcuts… - Boşqa tezkor tugmalarni köriş…
+View other shortcuts registered by this application - Uşbu ilova tomonidan röyxatdan ötkazilgan boşqa tezkor tugmalarni köriş
+Input Capture Started - Kiritişni tutib oliş boşlandi
+%1 has taken over the pointer and keyboard. Press <shortcut>%2</shortcut> to stop this. - %1 körsatkiç va klaviatura boşqaruvini öz qöliga oldi. Buni töxtatiş uçun <shortcut>%2</shortcut> tugmasini bosing.
+An unidentifiable application has taken over the pointer and keyboard. Press <shortcut>%1</shortcut> to stop this. - Aniqlanmagan ilova körsatkiç va klaviatura boşqaruvini öz qöliga oldi. Buni töxtatiş uçun <shortcut>%1</shortcut> tugmasini bosing.
+Input Capture Approved - Kiritişni tutib oliş tasdiqlandi
+An unidentifiable application will be able to take over the pointer and keyboard in the future. - Aniqlanmagan ilova kelajakda körsatkiç va klaviatura boşqaruvini öz qöliga ola biladi.
+%1 will be able to take over the pointer and keyboard in the future. - %1 kelajakda körsatkiç va klaviatura boşqaruvini öz qöliga ola biladi.
+Input Capture Requested - Kiritişni tutib oliş söraldi
+An unidentifiable application wants to take over the pointer and keyboard. - Aniqlanmagan ilova körsatkiç va klaviatura boşqaruvini öz qöliga olmoqçi.
+%1 wants take over the pointer and keyboard. - %1 körsatkiç va klaviatura boşqaruvini öz qöliga olmoqçi.
+While the application is capturing input, you will not be able to move the pointer yourself or type on the keyboard.<nl/><nl/>Only allow if you know which application made the request. - Ilova kiritişni tutib olayotgan vaqtda siz körsatkiçni özingiz harakatlantira olmaysiz yoki klaviaturada yoza olmaysiz.<nl/><nl/>Faqat sörovni qaysi ilova yuborganini bilsangizgina ruxsat bering.
+While the application is capturing input, you will not be able to move the pointer yourself or type on the keyboard. - Ilova kiritişni tutib olayotgan vaqtda siz körsatkiçni özingiz harakatlantira olmaysiz yoki klaviaturada yoza olmaysiz.
+Allow the application to do this without asking next time - Keyingi safar ilovaga buni söramasdan bajarişga ruxsat beriş
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Select Folder - Jildni tanlaş
+Open File - Faylni oçiş
+Save File - Faylni saqlaş
+Create New Folder - Yangi jild yaratiş
+Folder name - Jild nomi
+File name - Fayl nomi
+Create Folder - Jild yaratiş
+Filter Filetype - Fayl turi böyiça saralaş
+Show Hidden Files - Yaşirin fayllarni körsatiş
+Select - Tanlang
+Share region - Hududni baham köriş
+Share virtual screen - Virtual ekranni baham köriş
+Share full Workspace - Töliq iş maydonini baham köriş
+Laptop screen - Noutbuk ekrani
+Share the entire workspace across all screens - Barça ekranlardagi butun iş maydonini baham köriş
+Create a virtual screen, then share - Virtual ekran yaratiş va keyin baham köriş
+Crops a specific area of your screens - Ekranlaringizning maʼlum bir qismini qirqib oladi
+Resolution: - Ekran ölçami (aniqlik):
+%1 × %2 - %1 × %2
+No windows open - Oçiq oynalar yöq
++%1 - +%1
+Share “%1” - “%1”ni baham köriş
+Start streaming: - Uzatişni (strimingni) boşlaş:
+Clear selection: - Tanlovni tozalaş:
+Cancel: - Bekor qiliş:
+Release left-click - Çap tugmani qöyib yuboriş
+Right-click - Öng tugmani bosiş
+Escape - Escape
+Create selection: - Tanlov yaratiş:
+Left-click and drag - Çap tugmani bosib sudraş
+Remote Desktop Not Available - Masofaviy iş stoli mavjud emas
+The application <application>%1</application> tried to start a remote desktop session, but remote desktop is not available on this system. Please ensure you are running a Wayland session with a compatible window manager such as KWin. - <application>%1</application> ilovasi masofaviy iş stoli seansini boşlaşga urindi, biroq bu tizimda masofaviy iş stoli mavjud emas. Iltimos, KWin kabi mos keluvçi oyna boşqaruvçisi bilan Wayland seansida işlayotganingizga işonç hosil qiling.
+The application <application>%1</application> tried to start a remote desktop session, but remote desktop is not available in X11 sessions. Please switch to a Wayland session and try again. - <application>%1</application> ilovasi masofaviy iş stoli seansini boşlaşga urindi, biroq X11 seanslarida masofaviy iş stoli mavjud emas. Iltimos, Wayland seansiga öting va qaytadan urinib köring.
+Virtual Output - Virtual çiqiş
+Virtual Output (shared with %1) - Virtual çiqiş (%1 bilan baham körilgan)
+Remote Control Started - Masofaviy boşqaruv boşlandi
+Remote Control - Masofaviy boşqaruv
+Remote Control Requested - Masofaviy boşqaruv söraldi
+Allow an unidentifiable application to gain remote control privileges? - Aniqlanmagan ilovaga masofaviy boşqaruv imtiyozlarini olişga ruxsat berasizmi?
+Allow %1 to gain remote control privileges? - %1 ilovasiga masofaviy boşqaruv imtiyozlarini olişga ruxsat berasizmi?
+Only allow if you know which application made the request. - Faqat sörovni qaysi ilova yuborganini bilsangizgina ruxsat bering.
+The application will be able to: - Ilova quyidagilarni bajara oladi:
+%1 will be able to: - %1 quyidagilarni bajara oladi:
+  - See what’s on the screen -   - Ekranda nima borligini köriş
+  - Move the pointer and type keystrokes -   - Körsatkiçni harakatlantiriş va tugmalarni bosiş
+An unidentifiable application is exercising remote control privileges: - Aniqlanmagan ilova masofaviy boşqaruv imtiyozlaridan foydalanmoqda:
+%1 is exercising remote control privileges: - %1 masofaviy boşqaruv imtiyozlaridan foydalanmoqda:
+  - See what’s on the screen -   - Ekranda nima borligini köriş
+  - Move the pointer and type keystrokes -   - Körsatkiçni harakatlantiriş va tugmalarni bosiş
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Screen Sharing Not Available - Ekranni baham köriş mavjud emas
+The application <application>%1</application> tried to start a screen sharing session but screen sharing is not available on this system. Please ensure you are running a Wayland session with a compatible window manager such as KWin. - <application>%1</application> ilovasi ekranni baham köriş seansini boşlaşga urindi, biroq bu tizimda ekranni baham köriş mavjud emas. Iltimos, KWin kabi mos keluvçi oyna boşqaruvçisi bilan Wayland seansida işlayotganingizga işonç hosil qiling.
+The application <application>%1</application> tried to start a screen sharing session but screen sharing is not available in X11 sessions. Please switch to a Wayland session and try again. - <application>%1</application> ilovasi ekranni baham köriş seansini boşlaşga urindi, biroq X11 seanslarida ekranni baham köriş mavjud emas. Iltimos, Wayland seansiga öting va qaytadan urinib köring.
+Screen sharing in progress - Ekranni baham köriş davom etmoqda
+End - Yakunlaş
+Sharing contents to %1 - Tarkib %1 bilan baham körilmoqda
+Screen casting - Ekran namoyişi (screencasting)
+Share this screen with an unidentifiable application? - Uşbu ekranni aniqlanmagan ilova bilan baham körasizmi?
+Share this screen with %1? - Uşbu ekranni %1 bilan baham körasizmi?
+Choose screens to share with an unidentifiable application: - Aniqlanmagan ilova bilan baham köriladigan ekranlarni tanlang:
+Choose screens to share with %1: - %1 bilan baham köriladigan ekranlarni tanlang:
+Choose a screen to share with an unidentifiable application: - Aniqlanmagan ilova bilan baham köriş uçun ekranni tanlang:
+Choose a screen to share with %1: - %1 bilan baham köriş uçun ekranni tanlang:
+Share this window with an unidentifiable application? - Uşbu oynani aniqlanmagan ilova bilan baham körasizmi?
+Share this window with %1? - Uşbu oynani %1 bilan baham körasizmi?
+Choose windows to share with an unidentifiable application: - Aniqlanmagan ilova bilan baham köriladigan oynalarni tanlang:
+Choose windows to share with %1: - %1 bilan baham köriladigan oynalarni tanlang:
+Choose a window to share with an unidentifiable application: - Aniqlanmagan ilova bilan baham köriş uçun oynani tanlang:
+Choose a window to share with %1: - %1 bilan baham köriş uçun oynani tanlang:
+Create a new virtual display to share with an unidentifiable application: - Aniqlanmagan ilova bilan baham köriş uçun yangi virtual displey yarating:
+Create a new virtual display to share with %1: - %1 bilan baham köriş uçun yangi virtual displey yarating:
+Choose what to share with an unidentifiable application: - Aniqlanmagan ilova bilan nimani baham körişni tanlang:
+Choose what to share with %1: - %1 bilan nimani baham körişni tanlang:
+Only share anything if you know which application made the request. - Faqat sörovni qaysi ilova yuborganini bilsangizgina baham köring.
+Search… - Qidiriş…
+Windows - Oynalar
+Screen Sharing Requested - Ekranni baham köriş söraldi
+Share - Baham köriş
+Full Screen - Töliq ekran
+Current Screen - Joriy ekran
+Active Window - Faol oyna
+Screenshot Requested - Ekran tasviri (skrinşot) söraldi
+Allow an unidentifiable application to take a screenshot? - Aniqlanmagan ilovaga ekran tasvirini (skrinşot) olişga ruxsat berasizmi?
+Allow %1 to take a screenshot? - %1 ga ekran tasvirini (skrinşot) olişga ruxsat berasizmi?
+Capture Mode - Tasvirga oliş rejimi
+Area: - Hudud:
+Delay: - Keçikiş:
+%1 second - %1 soniya
+Content Options - Tarkib parametrlari
+Include pointer - Siçqonça körsatkiçini qöşiş
+Include window borders - Oyna çegaralarini qöşiş
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Take Screenshot - Ekran tasvirini oliş
+Device Access Requested - Qurilmaga kiriş söraldi
+Allow an unidentifiable application to access the following device? - Aniqlanmagan ilovaga quyidagi qurilmadan foydalanişga ruxsat berasizmi?
+Allow %2 to access the following device? - %2 ga quyidagi qurilmadan foydalanişga ruxsat berasizmi?
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Share user info with %1? - Foydalanuvçi maʼlumotlarini %1 bilan baham körasizmi?
+The application will be able to see your username, full name, and profile picture.<nl/><nl/>The application did not provide a reason. - Ilova sizning foydalanuvçi nomingiz, töliq ismingiz va profil rasmingizni köra oladi.<nl/><nl/>Ilova buning sababini körsatmadi.
+The application will be able to see your username, full name, and profile picture.<nl/><nl/>Reason: “%1” - Ilova sizning foydalanuvçi nomingiz, töliq ismingiz va profil rasmingizni köra oladi.<nl/><nl/>Sabab: “%1”
+User Information Requested - Foydalanuvçi maʼlumotlari söraldi
+Share - Baham köriş
+Wallpaper Change Requested - Fon rasmini özgartiriş söraldi
+Allow an unidentifiable application to change the desktop wallpaper? - Aniqlanmagan ilovaga iş stoli fon rasmini özgartirişga ruxsat berasizmi?
+Allow an unidentifiable application to change the lock screen wallpaper? - Aniqlanmagan ilovaga qulflaş ekrani fon rasmini özgartirişga ruxsat berasizmi?
+Allow an unidentifiable application to change desktop and lock screen wallpapers? - Aniqlanmagan ilovaga iş stoli va qulflaş ekrani fon rasmlarini özgartirişga ruxsat berasizmi?
+Allow %1 to change the desktop wallpaper? - %1 ga iş stoli fon rasmini özgartirişga ruxsat berasizmi?
+Allow %1 to change the lock screen wallpaper? - %1 ga qulflaş ekrani fon rasmini özgartirişga ruxsat berasizmi?
+Allow %1 to change desktop and lock screen wallpapers? - %1 ga iş stoli va qulflaş ekrani fon rasmlarini özgartirişga ruxsat berasizmi?
+Allow - Ruxsat beriş
+Deny - Rad etiş
+Failed to start screencasting - Ekran namoyişini (screencasting) boşlab bölmadi

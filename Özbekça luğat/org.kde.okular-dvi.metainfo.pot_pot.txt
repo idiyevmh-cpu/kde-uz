@@ -1,0 +1,2 @@
+DVI Documents - DVI hujjatlari
+Adds support for reading DVI documents - DVI hujjatlarini öqişni qöllab-quvvatlaydi

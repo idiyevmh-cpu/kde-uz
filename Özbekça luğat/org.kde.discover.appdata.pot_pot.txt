@@ -1,0 +1,7 @@
+Source text - Tarjima text
+Discover - Discover
+Install and remove apps and add-ons - Ilovalar va qöşimçalarni örnatiş hamda öçiriş
+Discover helps you find and install applications, games, and tools. You can search or browse by category, and look at screenshots and read reviews to help you pick the perfect app. - Discover ilovalar, öyinlar va foydali vositalarni topişingiz hamda örnatişingizga yordam beradi. Siz toifalar böyiça qidirişingiz yoki varaqlab körişingiz, mos keluvçi eng maqbul ilovani tanlaş uçun skrinşotlar va fikr-mulohazalarni öqib çiqişingiz mumkin.
+With Discover, you can manage software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org. - Discover yordamida dasturlarni bir neçta manbalardan, jumladan operatsion tizimingizning dasturiy omborlaridan, Flatpak omborlaridan, Snap dökoni yoki hatto store.kde.org saytidagi AppImage fayllaridan boşqarişingiz mumkin.
+Finally, Discover also allows you to find, install, and manage add-ons for Plasma and all your favorite KDE apps! - Şuningdek, Discover sizga Plasma va barça sevimli KDE ilovalaringiz uçun kengaytmalar va qöşimçalarni topiş, örnatiş va boşqariş imkonini beradi!
+Plasma Discover - Plasma Discover

@@ -1,0 +1,38 @@
+Appearance - Taşqi köriniş
+Wallpaper type: - Fon rasmi turi:
+millisecond - millisoniya
+second - soniya
+minute - daqiqa
+hour - soat
+day - kun
+week - hafta
+month - oy
+year - yil
+milliseconds - millisoniya
+seconds - soniya
+minutes - daqiqa
+hours - soat
+days - kun
+weeks - hafta
+months - oy
+years - yil
+Configure Appearance… - Taşqi körinişni sozlaş…
+Lock screen automatically: - Ekranni avtomatik qulflaş:
+Never - Heç qaçon
+1 minute - 1 daqiqa
+2 minutes - 2 daqiqa
+5 minutes - 5 daqiqa
+10 minutes - 10 daqiqa
+15 minutes - 15 daqiqa
+30 minutes - 30 daqiqa
+Custom… - Moslaştirilgan…
+%1 minute - %1 daqiqa
+Custom Duration - Moslaştirilgan davomiylik
+Lock after waking from sleep - Kutiş rejimidan uyğongandan keyin qulflaş
+Delay before password required: - Parol talab qilinişidan oldingi keçikiş:
+Require password immediately - Parolni darhol talab qiliş
+Never require password - Parolni heç qaçon talab qilmaslik
+5 seconds - 5 soniya
+30 seconds - 30 soniya
+%1 second - %1 soniya
+Keyboard shortcut: - Klaviatura tezkor tugmasi:

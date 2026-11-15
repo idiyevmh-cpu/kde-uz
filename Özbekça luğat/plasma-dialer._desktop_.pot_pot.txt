@@ -1,0 +1,10 @@
+Source text - Tarjima text
+KDE Daemon to handle modem daemon events - Modem hodisalarini boşqariş uçun KDE xizmati
+Telephony Daemon Service - Telefoniya xizmati
+Qt Modem Daemon to handle @MODEM_SUBSYSTEM@ events - Modem quyi tizimi hodisalarini boşqariş uçun Qt modemi xizmati
+Modem Daemon Service - Modem xizmati
+Plasma call screen - Plasma qönğiroq ekrani
+Call Screen - Qönğiroq ekrani
+Plasma phone dialer - Plasma raqam teriş vositasi
+Telephone;Call;Phone;Dial;Dialer;PSTN; - telefon;qönğiroq;raqam teriş;aloqa;
+Phone - Telefon

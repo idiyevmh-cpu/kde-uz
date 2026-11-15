@@ -1,0 +1,61 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+We need a few details to complete the setup. - Sozlaşni yakunlaş uçun bizga bir neçta tafsilotlar kerak.
+This user will be an administrator. - Uşbu foydalanuvçi administrator böladi.
+This user will have administrative privileges on the system.<nl/><nl/>This means that they can change system settings, install software, and access all files on the system.<nl/><nl/>Choose a strong password for this user. - Uşbu foydalanuvçi tizimda administrator imtiyozlariga ega böladi.<nl/><nl/>Bu ular tizim sozlamalarini özgartirişi, dasturiy taʼminot örnatişi va tizimdagi barça fayllarga kirişi mumkinligini anglatadi.<nl/><nl/>Uşbu foydalanuvçi uçun kuçli parol tanlang.
+Full Name - Töliq ism
+Username - Foydalanuvçi nomi
+Password - Parol
+Confirm Password - Parolni tasdiqlang
+Passwords must match - Parollar mos kelişi kerak
+Edit APN - APN ni tahrirlaş
+Name - Nomi
+APN - APN
+Network type - Tarmoq turi
+4G/3G/2G - 4G/3G/2G
+3G/2G - 3G/2G
+2G - 2G
+Only 4G - Faqat 4G
+Only 3G - Faqat 3G
+Only 2G - Faqat 2G
+Any - Har qanday
+Please configure your APN below for mobile data, further information will be available with your carrier. - Mobil internet uçun APN parametrlarini quyida sozlang, qöşimça maʼlumotni aloqa operatoringizdan olişingiz mumkin.
+You are connected to the mobile network. - Siz mobil tarmoqqa ulandingiz.
+Please insert a SIM card into your device. - Iltimos, qurilmangizga SIM-kartani kiriting.
+Your device does not have a modem available. - Qurilmangizda modem mavjud emas.
+Mobile Data - Mobil internet
+Edit - Tahrirlaş
+Delete - Öçiriş
+Add APN - APN qöşiş
+Your device is almost ready.<nl/><nl/>After clicking <interface>Confirm</interface>, the system will finish initial setup. - Qurilmangiz deyarli tayyor.<nl/><nl/><interface>Tasdiqlaş</interface> tugmasini bosgandan söng, tizim dastlabki sozlaşni yakunlaydi.
+Your device is now ready.<br /><br />Enjoy <b>%1</b>! - Qurilmangiz endi tayyor.<br /><br /><b>%1</b> dan zavqlaning!
+Your device is now ready.<br /><br />After clicking <b>Finish</b> you will be able to sign in to your new account.<br /><br />Enjoy <b>%1</b>! - Qurilmangiz endi tayyor.<br /><br /><b>Tugatiş</b> tugmasini bosgandan söng yangi hisobingizga kirişingiz mumkin böladi.<br /><br /><b>%1</b> dan zavqlaning!
+What should this device be called? - Bu qurilma qanday nomlanişi kerak?
+Hostname: - Xost nomi:
+Hostname cannot be empty. - Xost nomi böş bölişi mumkin emas.
+Hostname cannot be “localhost” or “localhost.localdomain”. - Xost nomi “localhost” yoki “localhost.localdomain” bölişi mumkin emas.
+Hostname is too long (maximum 253 characters). - Xost nomi juda uzun (maksimal 253 ta belgi).
+Hostname cannot start with a dot. - Xost nomi nuqta bilan boşlanişi mumkin emas.
+Hostname cannot end with a dot. - Xost nomi nuqta bilan tugaşi mumkin emas.
+Hostname cannot contain consecutive dots. - Xost nomida ketma-ket nuqtalar bölişi mumkin emas.
+Hostname labels cannot be empty. - Xost nomi yorliqlari böş bölişi mumkin emas.
+Each hostname label must be at most 63 characters. - Har bir xost nomi yorliği köpi bilan 63 ta belgidan iborat bölişi kerak.
+Hostnames may contain letters, numbers, and hyphens. Each label must start and end with a letter or number. - Xost nomlarida harflar, raqamlar va çiziqçalar bölişi mumkin. Har bir yorliq harf yoki raqam bilan boşlanişi va tugaşi kerak.
+Select your keyboard layout and language. - Klaviatura terilmasi va tilingizni tanlang.
+Please select your preferred language. - Iltimos, afzal körgan tilingizni tanlang.
+Search languages… - Tillarni qidiriş…
+Dark Theme - Qoronği mavzu
+Select your time zone. - Vaqt mintaqangizni tanlang.
+Connect to a WiFi network for network access. - Tarmoqqa kiriş uçun Wi-Fi tarmoğiga ulaning.
+Connect to - Ulaniş:
+Invalid input. - Yaroqsiz kiritiş.
+Plasma Setup - Plasma sozlaş
+Make Plasma yours - Plasmani özingizga moslang
+© 2021-2024 KDE Community - © 2021-2024 KDE hamjamiyati
+Remove the Plasma Setup autologin configuration. - Plasma Setup avtomatik kiriş sozlamasini olib taşlaş.
+Begin Setup - Sozlaşni boşlaş
+Powered by<br/><b>%1</b> - <b>%1</b> tomonidan taʼminlangan
+Back - Orqaga
+Next - Keyingi
+Confirm - Tasdiqlaş
+Finish - Tugatiş

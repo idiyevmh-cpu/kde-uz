@@ -1,0 +1,26 @@
+Source text - Tarjima text
+No touchpad found - Sensorli panel (touchpad) topilmadi
+Connect an external touchpad - Taşqi taçpadni ulang
+Device: - Qurilma:
+General: - Umumiy:
+Enable device - Qurilmani yoqiş
+Disable while mouse is connected - Siçqonça ulangan paytda öçiriş
+Disable while typing - Matn terayotganda öçiriş
+Swap (left-handed mode) - Örinlarini almaştiriş (çapaqaylar rejimi)
+Pointer speed: - Kursor tezligi:
+Enable pointer acceleration - Kursor tezlanişini yoqiş
+Scrolling speed: - Aylantiriş tezligi:
+Scroll by: - Qanday aylantiriş:
+Moving two fingers anywhere - Ikkala barmoqni harakatlantiriş
+Moving one finger on edge - Bir barmoqni çet böylab suriş
+Invert scroll direction (Natural scrolling) - Tabiiy aylantiriş (yönalişni teskari qiliş)
+Disable horizontal scrolling - Gorizontal aylantirişni öçiriş
+Right-click by: - Öng tugma amali:
+Pressing bottom-left corner - Pastki çap burçakni bosiş
+Pressing bottom-right corner - Pastki öng burçakni bosiş
+Pressing anywhere with two fingers - Ikki barmoq bilan ixtiyoriy joyga bosiş
+Tapping: - Tegiş (Tap):
+Tap to click - Çertiş uçun teginiş
+Two-finger tap: - Ikki barmoq bilan teginiş:
+Right-click - Öng tugma
+Middle-click - Örta tugma

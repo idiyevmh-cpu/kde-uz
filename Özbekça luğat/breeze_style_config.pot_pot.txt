@@ -1,0 +1,30 @@
+Source text - Tarjima text
+Breeze Settings - Breeze sozlamalari
+General - Umumiy
+W&indows' drag mode: - O&ynalarni sudrab ötiriş rejimi:
+Draw focus indicator in lists - Röyxatlarda fokus indikatorini çiziş
+&Keyboard accelerators visibility: - &Klaviatura tezkor tugmalari körinuvçanligi:
+Always hide - Har doim yariş
+Show when Alt key is pressed - Alt tugmasi bosilganda körsatiş
+Always show - Har doim körsatiş
+Drag windows from titlebar only - Oynalarni faqat sarlavha satridan sudrab ötiriş
+Drag windows from titlebar, menubar and toolbars - Oynalarni sarlavha, menyu va vositalar panelidan sudrab ötiriş
+Drag windows from all empty areas - Oynalarni barça böş joylardan sudrab ötiriş
+Center tabbar tabs - Içki varaqlar (tab)ni markazga tekislaş
+Draw toolbar item separators - Vositalar paneli elementlari ajratkiçlarini çiziş
+Draw slider tick marks - Siljitkiç belgilari (çertkalari)ni çiziş
+Enable extended resize handles - Kengaytirilgan ölçam özgartiriş tutqiçlarini yoqiş
+Frames - Ramkalar
+Draw frame around dockable panels - Biriktiriluvçi panellar atrofiga ramka çiziş
+Draw frame around side panels - Yon panellar atrofiga ramka çiziş
+Draw a thin line to indicate focus in menus and menubars - Menyu va menyular panelida fokusni bildiriş uçun ingiçka çiziq çiziş
+Scrollbars - Aylantiriş satrlari
+Bottom arrow button t&ype: - Pastki &körsatkiç tugmasi turi:
+&Top arrow button type: - &Yuqori körsatkiç tugmasi turi:
+No buttons - Tugmalarsiz
+One button - Bitta tugma
+Two buttons - Ikkita tugma
+Transparency - Şaffoflik (Şaffoflik/Tiniqlik)
+Transparent - Şaffof
+Opaque - Xira (Noşaffof)
+Menu: - Menyu:

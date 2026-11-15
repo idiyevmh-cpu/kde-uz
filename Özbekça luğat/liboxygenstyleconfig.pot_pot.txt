@@ -1,0 +1,13 @@
+oxygen-settings - information - oxygen-sozlamalari - maʼlumot
+CheckBox - Belgilaş katagi (CheckBox)
+... - Tanlaş
+Enable animations - Animatsiyadan foydalaniş
+Frame - Freym
+Duration: - Davom etişi:
+ ms -  ms
+Size:  - Ölçami: 
+px - px
+Vertical Offset: - Vertikal siljiş:
+Follow accent color - Urğu rangiga ergaşiş
+Inner Color: - Içki rang:
+Outer Color: - Taşqi rang:

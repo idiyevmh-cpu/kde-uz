@@ -1,0 +1,11 @@
+%1 is in use - %1 işlatilmoqda
+Camera - Kamera
+Active - Faol
+Idle - Böş
+Error - Xato
+Creating - Yaratilmoqda
+Suspended - Töxtatib turilgan
+Unknown - Nomaʼlum
+Camera indicator is unavailable - Kamera körsatkiçi mavjud emas
+A camera is in use - Kamera işlatilmoqda
+No camera is in use - Heç qanday kamera işlatilmayapti

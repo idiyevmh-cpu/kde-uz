@@ -1,0 +1,2 @@
+Battery %1 - Batareya %1
+Battery - Batareya

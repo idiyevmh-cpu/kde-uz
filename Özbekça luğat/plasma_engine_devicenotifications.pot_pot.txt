@@ -1,0 +1,13 @@
+Device Status - Xabarnomalar
+A device can now be safely removed - Endi qurilmani xavfsiz ajratib olişingiz mumkin
+This device can now be safely removed. - Uşbu qurilmani endi xavfsiz ajratib olişingiz mumkin.
+You are not authorized to mount this device. - Uşbu qurilmani ulaşga vakolatingiz yöq.
+You are not authorized to remove this device. - Uşbu qurilmani ajratişga vakolatingiz yöq.
+You are not authorized to eject this disc. - Uşbu diskni çiqarişga vakolatingiz yöq.
+Could not mount this device as it is busy. - Uşbu qurilmani ulab bölmadi, çunki u band.
+One or more files on this device are open within an application. - Uşbu qurilmadagi bir yoki bir neçta fayl ilovada oçiq turibdi.
+One or more files on this device are opened in application "%2". - Uşbu qurilmadagi bir yoki bir neçta fayl "%2" ilovasida oçiq turibdi.
+,  - , 
+Could not mount this device. - Uşbu qurilmani ulab bölmadi.
+Could not remove this device. - Uşbu qurilmani ajratib bölmadi.
+Could not eject this disc. - Uşbu diskni çiqarib bölmadi.

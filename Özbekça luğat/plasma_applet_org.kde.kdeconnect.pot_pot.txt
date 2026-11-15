@@ -1,0 +1,34 @@
+%1% charging - %1% quvvatlanmoqda
+%1% - %1%
+No info - Maʼlumot yöq
+Unknown - Nomaʼlum
+No signal - Signal yöq
+Virtual Monitor is not available - Virtual monitor mavjud emas
+Please choose a file - Iltimos, faylni tanlang
+Share file - Faylni ulaşiş
+Send Clipboard - Almaşiş buferini yuboriş
+Ring my phone - Telefonimni jiringlatiş
+Browse this device - Uşbu qurilmani körib çiqiş
+SMS Messages - SMS xabarlar
+File Transfer - Fayllarni uzatiş
+Drop a file to transfer it onto your phone. - Faylni telefoningizga ötkaziş uçun uni şu yerga taşlang.
+Virtual Display - Virtual displey
+%1% - %1%
+More options… - Köproq variantlar…
+Notifications - Xabarnomalar
+Dismiss all notifications - Barça bildirişnomalarni yopiş
+Remote Keyboard - Masofaviy klaviatura
+Reply - &Javob beriş
+Dismiss - Yopiş
+Cancel - &Bekor qiliş
+Reply to %1… - %1 ga javob beriş…
+Send - &Jönatiş
+Run command - Buyruqni işga tuşiriş
+Add command - Buyruq qöşiş
+No paired devices - Juftlangan qurilmalar yöq
+Paired device is unavailable - Juftlangan qurilma mavjud emas
+Install KDE Connect on your Android device to integrate it with Plasma! - Plasma bilan integratsiya qiliş uçun Android qurilmangizga KDE Connect-ni örnating!
+Pair a Device… - Qurilmani juftlaş…
+Install from Google Play - Google Play orqali örnatiş
+Install from F-Droid - F-Droid orqali örnatiş
+KDE Connect Settings… - KDE Connect sozlamalari…

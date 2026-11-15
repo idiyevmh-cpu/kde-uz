@@ -1,0 +1,22 @@
+Source text - Tarjima text
+About You - Siz haqingizda
+Cellular - Mobil aloqa
+Finish - Yakunlaş
+Hostname - Kompyuter nomi (Hostname)
+Keyboard Layout - Klaviatura tartibi
+Language - Til
+Before we get started… - Işni boşlaşdan oldin…
+Time and Date - Vaqt va sana
+Network - Tarmoq
+Allow the user to set the account name. - Foydalanuvçiga hisob nomini kiritiş imkonini beradi.
+Allow the user to configure the cellular network. - Foydalanuvçiga mobil aloqa tarmoğini sozlaş imkonini beradi.
+Shown when the initial system setup is completed, and the user can commit the changes. - Dastlabki tizim sozlaş yakunlanganda va foydalanuvçi özgarişlarni tasdiqlaşi mumkin bölganda körsatiladi.
+Allow the user to set the system hostname. - Foydalanuvçiga kompyuterning tizim nomini belgilaş imkonini beradi.
+Allow the user to choose the keyboard layout. - Foydalanuvçiga klaviatura tartibini tanlaş imkonini beradi.
+Allow the user to set the system language. - Foydalanuvçiga tizim tilini belgilaş imkonini beradi.
+Allows the user to configure the environment before using it. - Foydalanuvçiga iş muhitini işlatişdan oldin sozlaş imkonini beradi.
+Allow the user to set the timezone. - Foydalanuvçiga vaqt mintaqasini belgilaş imkonini beradi.
+Allow the user to connect to a Wi-Fi network. - Foydalanuvçiga Wi-Fi tarmoğiga ulaniş imkonini beradi.
+Carl Schwan - Carl Schwan
+Devin Lin - Devin Lin
+Kristen McWilliam - Kristen McWilliam

@@ -1,0 +1,7 @@
+Search - Qidiriş
+Search… - Qidiriş…
+Appearance - Taşqi köriniş
+Use single button for application menu - Ilova menyusi uçun yagona tugmadan foydalaniş
+Show full application menu - Töliq ilovalar menyusini körsatiş
+Show menus for apps on different screens - Turli ekranlardagi ilovalar menyularini körsatiş
+Open a menu - Menyuni oçiş

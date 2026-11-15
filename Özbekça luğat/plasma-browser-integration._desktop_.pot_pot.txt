@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Plasma Browser Integration Host - Brauzerning Plasma bilan integratsiyasi mezbon dasturi
+Browser History - Brauzer tarixi
+Search the browser history for visited websites - Taşrif buyurilgan veb-saytlar brauzer tarixidan qidiriş
+Finds websites in the browser history whose title or URL match :q: - Sarlavhasi yoki URL manzili :q: ga mos keluvçi saytlarni brauzer tarixidan topadi
+Browser Tabs - Brauzer içki varaqlari (tablar)
+Find and activate browser tabs - Brauzer içki varaqlarini topiş va faollaştiriş
+Finds open browser tabs whose title or URL match :q: - Sarlavhasi yoki URL manzili :q: ga mos oçiq içki varaqlarni topadi

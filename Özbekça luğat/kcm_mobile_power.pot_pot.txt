@@ -1,0 +1,55 @@
+30 sec - 30 soniya
+1 min - 1 daqiqa
+2 min - 2 daqiqa
+5 min - 5 daqiqa
+10 min - 10 daqiqa
+15 min - 15 daqiqa
+30 min - 30 daqiqa
+Never - Heç qaçon
+Power Save - Quvvatni tejaş
+Balanced - Muvozanatli
+Performance - Yuqori unumdorlik
+Battery Information - Batareya maʼlumotlari
+Usage Graph - Foydalaniş grafigi
+Information - Maʼlumot
+Is Rechargeable - Qayta quvvatlanuvçimi
+Yes - Ha
+No - Yöq
+Charge State - Quvvat holati
+Not charging - Quvvatlanmayapti
+Charging - Quvvatlanmoqda
+Discharging - Quvvat sarflanmoqda
+Fully charged - Töliq quvvatlangan
+Unknown - Nomaʼlum
+Current Charge - Joriy quvvat
+%1 % - %1 %
+Health - Salomatligi
+Vendor - Işlab çiqaruvçi
+Model - Modeli
+Serial Number - Seriya raqami
+Technology - Texnologiya
+Lithium ion - Litiy-ion
+Lithium polymer - Litiy-polimer
+Lithium iron phosphate - Litiy temir fosfat
+Lead acid - Qörğoşin-kislotali
+Nickel cadmium - Nikel-kadmiy
+Nickel metal hydride - Nikel-metall gidrid
+Unknown technology - Nomaʼlum texnologiya
+%1% - %1%
+Devices - Qurilmalar
+Internal battery - Içki batareya
+UPS battery - UPS batareyasi
+Monitor battery - Monitor batareyasi
+Mouse battery - Siçqonça batareyasi
+Keyboard battery - Klaviatura batareyasi
+PDA battery - PDA batareyasi
+Phone battery - Telefon batareyasi
+Unknown battery - Nomaʼlum batareya
+%1 %2 (Charging) - %1 %2 (Quvvatlanmoqda)
+%1 %2 - %1 %2
+Screen - Ekran
+Dim screen after - Ekranni xiralaştiriş vaqti:
+Turn off screen after - Ekranni öçiriş vaqti:
+Suspend device after - Qurilmani töxtatib turiş vaqti:
+Power Profile - Quvvat profili
+Power profile - Quvvat profili

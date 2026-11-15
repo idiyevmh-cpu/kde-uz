@@ -1,0 +1,16 @@
+Source text - Tarjima text
+Emoji Selector - Emodjilarni tanlaş
+Copy emojis to the clipboard - Emodjilarni almaşiş buferiga nusxalaş
+characters;unicode;punctuation;letters;emoji;emoticon;symbols;smiley face; - belgilar;unicode;tiniş belgilari;harflar;emodji;smaylik;ramzlar;kulgi;
+Splash Screens - Yuklaniş ekranlari (Splash screens)
+Touchpad - Sensorli panel (Touchpad)
+Enable Touchpad - Sensorli panelni yoqiş
+Disable Touchpad - Sensorli panelni öçiriş
+Toggle Touchpad - Sensorli panelni almaştiriş (yoqiş/öçiriş)
+Accessibility - Maxsus imkoniyatlar
+Toggle Screen Reader On and Off - Ekran diktorini yoqiş va öçiriş
+KNetAttach - Tarmoq jildiga ulaniş ustasi (KNetAttach)
+Network Folder Wizard - Tarmoq jildi ustasi
+Breeze - Breeze
+Default panel toolbox for the Plasma desktop shell - Plasma iş stoli qobiği uçun standart panel asboblar qutisi
+Panel toolbox - Panel asboblari

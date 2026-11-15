@@ -1,0 +1,10 @@
+Display Detected - Displey aniqlandi
+%1 has been connected. - %1 ulandi.
+%1 %2 (%3) has been connected. - %1 %2 (%3) ulandi.
+Display Removed - Displey ajratildi
+%1 has been disconnected. - %1 uzildi.
+%1 %2 (%3) has been disconnected. - %1 %2 (%3) uzildi.
+A USB device has been connected. - USB qurilmasi ulandi.
+USB Device Detected - USB qurilmasi aniqlandi
+A USB device has been disconnected. - USB qurilmasi ajratildi.
+USB Device Removed - USB qurilmasi olib taşlandi

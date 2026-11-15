@@ -1,0 +1,813 @@
+clear - oçiq
+clear intervals - vaqti-vaqti bilan oçiq
+clear sky - musaffo osmon
+cloudy - bulutli
+cloudy with hail - bulutli, döl
+cloudy with heavy snow - bulutli, kuçli qor
+cloudy with light snow - bulutli, yengil qor
+cloudy with sleet - bulutli, qor aralaş yomğir
+drizzle - maydalab yoqqan yomğir
+fog - tuman
+foggy - tumanli
+grey cloud - kulrang bulutlar
+hail - döl
+hail shower - döl aralaş jala
+hail showers - döl aralaş jala
+hazy - xira tumanli
+heavy rain - kuçli yomğir
+heavy rain shower - kuçli jala
+heavy rain showers - kuçli jala
+heavy shower - kuçli jala
+heavy showers - kuçli qisqa yomğir
+heavy snow - kuçli qor
+heavy snow shower - kuçli qor böroni
+heavy snow showers - kuçli qisqa qor yoğişi
+light cloud - biroz bulutli
+light rain - yengil yomğir
+light rain shower - yengil qisqa yomğir
+light rain showers - yengil qisqa yomğir
+light shower - yengil jala
+light showers - yengil qisqa yomğir
+light snow - yengil qor
+light snow shower - yengil qisqa qor yoğişi
+light snow showers - yengil qisqa qor yoğişi
+mist - yupqa tuman
+misty - tumanli
+N/A - N/A
+na - m/e
+partly cloudy - özgaruvçan bulutli
+sandstorm - qum böroni
+sleet - qor aralaş yomğir
+sleet shower - qor aralaş jala
+sleet showers - qor aralaş jala
+sunny - quyoşli
+sunny intervals - vaqti-vaqti bilan quyoşli
+thick cloud - qalin bulutli
+thunderstorm - momaqaldiroq
+thundery shower - momaqaldiroqli jala
+thundery showers - momaqaldiroqli jala
+tropical storm - tropik böron
+white cloud - oq bulutlar
+clear - oçiq
+clear intervals - vaqti-vaqti bilan oçiq
+clear sky - musaffo osmon
+cloudy - bulutli
+cloudy with hail - bulutli, döl
+cloudy with heavy snow - bulutli, kuçli qor
+cloudy with light snow - bulutli, yengil qor
+cloudy with sleet - bulutli, qor aralaş yomğir
+drizzle - maydalab yoqqan yomğir
+fog - tuman
+foggy - tumanli
+grey cloud - kulrang bulutlar
+hail - döl
+hail shower - döl aralaş jala
+hail showers - döl aralaş jala
+hazy - xira tumanli
+heavy rain - kuçli yomğir
+heavy rain shower - kuçli jala
+heavy rain showers - kuçli jala
+heavy shower - kuçli jala
+heavy showers - kuçli qisqa yomğir
+heavy snow - kuçli qor
+heavy snow shower - kuçli qor böroni
+heavy snow showers - kuçli qisqa qor yoğişi
+light cloud - biroz bulutli
+light rain - yengil yomğir
+light rain shower - yengil qisqa yomğir
+light rain showers - yengil qisqa yomğir
+light shower - yengil jala
+light showers - yengil qisqa yomğir
+light snow - yengil qor
+light snow shower - yengil qisqa qor yoğişi
+light snow showers - yengil qisqa qor yoğişi
+mist - yupqa tuman
+misty - tumanli
+na - m/e
+partly cloudy - özgaruvçan bulutli
+sandstorm - qum böroni
+sleet - qor aralaş yomğir
+sleet shower - qor aralaş jala
+sleet showers - qor aralaş jala
+sunny - quyoşli
+sunny intervals - vaqti-vaqti bilan quyoşli
+thick cloud - qalin bulutli
+thunderstorm - momaqaldiroq
+thundery shower - momaqaldiroqli jala
+thundery showers - momaqaldiroqli jala
+tropical storm - tropik böron
+white cloud - oq bulutlar
+Excellent - Aʼlo
+Very Good - Juda yaxşi
+Good - Yaxşi
+Moderate - Örtaça
+Poor - Yomon
+Very Poor - Juda yomon
+Blowing Snow - Qor böroni
+Clear - Oçiq
+Cloudy - Bulutli
+Decreasing Cloud - Bulutlar kamayişi
+Distant Precipitation - Uzoqda yoğingalarçilik
+Drifting Snow - Yer bağirlab esuvçi qor böroni
+Drizzle - Mayda yomğir
+Dust - Çang
+Dust Devils - Çang uyurmasi
+Fog - Tuman
+Fog Bank Near Station - Stansiya yaqinida tuman qatlami
+Fog Depositing Ice - Muz hosil qiluvçi tuman
+Fog Patches - Töp-töp tuman
+Freezing drizzle - Muzlovçi mayda yomğir
+Freezing rain - Muzlovçi yomğir
+Funnel Cloud - Voronkasimon bulut
+Hail - Döl
+Haze - Xira tuman
+Heavy Blowing Snow - Kuçli qor böroni
+Heavy Drifting Snow - Kuçli yer bağirlab esuvçi qor
+Heavy Drizzle - Kuçli mayda yomğir
+Heavy Hail - Kuçli döl
+Heavy Mixed Rain and Drizzle - Kuçli aralaş yomğir va mayda yomğir
+Heavy Mixed Rain and Snow Shower - Kuçli aralaş yomğir va qor jalasi
+Heavy Rain - Kuçli yomğir
+Heavy Rain and Snow - Kuçli yomğir va qor
+Heavy Rainshower - Kuçli jala
+Heavy Snow - Kuçli qor
+Heavy Snow Pellets - Kuçli qor donalari
+Heavy Snowshower - Kuçli qor jalasi
+Thunderstorm - Momaqaldiroq
+Heavy Thunderstorm with Hail - Döl bilan kuçli momaqaldiroq
+Heavy Thunderstorm with Rain - Yomğir bilan kuçli momaqaldiroq
+Ice Crystals - Muz kristallari
+Ice Pellets - Muz donalari
+Increasing Cloud - Bulutlar köpayişi
+Light Drizzle - Yengil mayda yomğir
+Light Freezing Drizzle - Yengil muzlovçi mayda yomğir
+Light Freezing Rain - Yengil muzlovçi yomğir
+Light Rain - Yengil yomğir
+Light Rainshower - Yengil jala
+Light Snow - Yengil qor
+Light Snow Pellets - Yengil qor donalari
+Light Snowshower - Yengil qor jalasi
+Lightning Visible - Çaqmoq körinadi
+Mainly Clear - Asosan oçiq
+Mainly Sunny - Asosan quyoşli
+Mist - Yupqa tuman
+Mixed Rain and Drizzle - Aralaş yomğir va mayda yomğir
+Mixed Rain and Snow Shower - Aralaş yomğir va qor jalasi
+Mostly Cloudy - Asosan bulutli
+Not Reported - Xabar berilmagan
+Partly Cloudy - Özgaruvçan bulutli
+Rain - Yomğir
+Rain and Snow - Yomğir va qor
+Rainshower - Jala
+Recent Drizzle - Yaqinda yoqqan mayda yomğir
+Recent Dust or Sand Storm - Yaqinda bölgan çang yoki qum böroni
+Recent Fog - Yaqinda bölgan tuman
+Recent Freezing Precipitation - Yaqinda yoqqan muzlovçi yoğinlar
+Recent Hail - Yaqinda yoqqan döl
+Recent Rain - Yaqinda yoqqan yomğir
+Recent Rain and Snow - Yaqinda yoqqan yomğir va qor
+Recent Rainshower - Yaqinda yoqqan jala
+Recent Snow - Yaqinda yoqqan qor
+Recent Snowshower - Yaqinda yoqqan qor jalasi
+Recent Thunderstorm - Yaqinda bölgan momaqaldiroq
+Recent Thunderstorm with Hail - Yaqinda döl bilan bölgan momaqaldiroq
+Recent Thunderstorm with Heavy Hail - Yaqinda kuçli döl bilan bölgan momaqaldiroq
+Recent Thunderstorm with Heavy Rain - Yaqinda kuçli yomğir bilan bölgan momaqaldiroq
+Recent Thunderstorm with Rain - Yaqinda yomğir bilan bölgan momaqaldiroq
+Sand or Dust Storm - Qum yoki çang böroni
+Severe Sand or Dust Storm - Juda kuçli qum yoki çang böroni
+Shallow Fog - Yer usti tumani
+Smoke - Tutun
+Snow - Qor
+Snow Crystals - Qor kristallari
+Snow Grains - Qor donalari
+Squalls - Şiddatli şamol
+Sunny - Quyoşli
+Thunderstorm with Hail - Döl bilan momaqaldiroq
+Thunderstorm with Rain - Yomğir bilan momaqaldiroq
+Thunderstorm with light rainshowers - Yengil jala bilan momaqaldiroq
+Thunderstorm with heavy rainshowers - Kuçli jala bilan momaqaldiroq
+Thunderstorm with Sand or Dust Storm - Qum yoki çang böroni bilan momaqaldiroq
+Thunderstorm without Precipitation - Yoğingalarçiliksiz momaqaldiroq
+Tornado - Tornado
+A few clouds - Biroz bulutli
+A few flurries - Biroz yengil qor
+A few flurries mixed with ice pellets - Biroz muz donalari aralaş yengil qor
+A few flurries or rain showers - Biroz yengil qor yoki jala
+A few flurries or thundershowers - Biroz yengil qor yoki momaqaldiroqli jala
+A few rain showers or flurries - Biroz jala yoki yengil qor
+A few rain showers or wet flurries - Biroz jala yoki yengil höl qor
+A few showers - Biroz jala
+A few showers or drizzle - Biroz jala yoki mayda yomğir
+A few showers or thundershowers - Biroz jala yoki momaqaldiroqli jala
+A few showers or thunderstorms - Biroz jala yoki momaqaldiroq
+A few thundershowers - Biroz momaqaldiroqli jala
+A few thunderstorms - Biroz momaqaldiroq
+A few wet flurries - Biroz yengil höl qor
+A few wet flurries or rain showers - Biroz yengil höl qor yoki jala
+A mix of sun and cloud - Quyoşli va özgaruvçan bulutli
+Blizzard - Qor böroni
+Chance of drizzle - Mayda yomğir ehtimoli bor
+Chance of drizzle mixed with freezing drizzle - Muzlovçi mayda yomğir aralaş mayda yomğir ehtimoli bor
+Chance of drizzle mixed with rain - Yomğir aralaş mayda yomğir ehtimoli bor
+Chance of drizzle or rain - Mayda yomğir yoki yomğir ehtimoli bor
+Chance of flurries - Yengil qor ehtimoli bor
+Chance of flurries at times heavy - Vaqti-vaqti bilan kuçayuvçi yengil qor ehtimoli bor
+Chance of flurries mixed with ice pellets - Muz donalari aralaş yengil qor ehtimoli bor
+Chance of flurries or ice pellets - Yengil qor yoki muz donalari ehtimoli bor
+Chance of flurries or rain showers - Yengil qor yoki jala ehtimoli bor
+Chance of flurries or thundershowers - Yengil qor yoki momaqaldiroqli jala ehtimoli bor
+Chance of freezing drizzle - Muzlovçi mayda yomğir ehtimoli bor
+Chance of freezing rain - Muzlovçi yomğir ehtimoli bor
+Chance of freezing rain mixed with snow - Qor aralaş muzlovçi yomğir ehtimoli bor
+Chance of freezing rain or rain - Muzlovçi yomğir yoki yomğir ehtimoli bor
+Chance of freezing rain or snow - Muzlovçi yomğir yoki qor ehtimoli bor
+Chance of light snow - Yengil qor ehtimoli bor
+Chance of light snow and blowing snow - Yengil qor va qor uyurmasi ehtimoli bor
+Chance of light snow mixed with freezing drizzle - Muzlovçi mayda yomğir aralaş yengil qor ehtimoli bor
+Chance of light snow mixed with ice pellets - Muz donalari aralaş yengil qor ehtimoli bor
+Chance of light snow mixed with rain - Yomğir aralaş yengil qor ehtimoli bor
+Chance of light snow or freezing rain - Yengil qor yoki muzlovçi yomğir ehtimoli bor
+Chance of light snow or ice pellets - Yengil qor yoki muz donalari ehtimoli bor
+Chance of light snow or rain - Yengil qor yoki yomğir ehtimoli bor
+Chance of light wet snow - Yengil höl qor ehtimoli bor
+Chance of rain - Yomğir ehtimoli bor
+Chance of rain at times heavy - Vaqti-vaqti bilan kuçayuvçi yomğir ehtimoli bor
+Chance of rain mixed with snow - Qor aralaş yomğir ehtimoli bor
+Chance of rain or drizzle - Yomğir yoki mayda yomğir ehtimoli bor
+Chance of rain or freezing rain - Yomğir yoki muzlovçi yomğir ehtimoli bor
+Chance of rain or snow - Yomğir yoki qor ehtimoli bor
+Chance of rain showers or flurries - Jala yoki yengil qor ehtimoli bor
+Chance of rain showers or wet flurries - Jala yoki yengil höl qor ehtimoli bor
+Chance of severe thunderstorms - Kuçli momaqaldiroq ehtimoli bor
+Chance of showers - Jala ehtimoli bor
+Chance of showers at times heavy - Vaqti-vaqti bilan kuçayuvçi jala ehtimoli bor
+Chance of showers at times heavy or thundershowers - Vaqti-vaqti bilan kuçayuvçi jala yoki momaqaldiroqli jala ehtimoli bor
+Chance of showers at times heavy or thunderstorms - Vaqti-vaqti bilan kuçayuvçi jala yoki momaqaldiroq ehtimoli bor
+Chance of showers or drizzle - Jala yoki mayda yomğir ehtimoli bor
+Chance of showers or thundershowers - Jala yoki momaqaldiroqli jala ehtimoli bor
+Chance of showers or thunderstorms - Jala yoki momaqaldiroq ehtimoli bor
+Chance of snow - Qor ehtimoli bor
+Chance of snow and blizzard - Qor va qor böroni ehtimoli bor
+Chance of snow mixed with freezing drizzle - Muzlovçi mayda yomğir aralaş qor ehtimoli bor
+Chance of snow mixed with freezing rain - Muzlovçi yomğir aralaş qor ehtimoli bor
+Chance of snow mixed with rain - Yomğir aralaş qor ehtimoli bor
+Chance of snow or rain - Qor yoki yomğir ehtimoli bor
+Chance of snow squalls - Qorli şiddatli şamol ehtimoli bor
+Chance of thundershowers - Momaqaldiroqli jala ehtimoli bor
+Chance of thunderstorms - Momaqaldiroq ehtimoli bor
+Chance of thunderstorms and possible hail - Momaqaldiroq va döl ehtimoli ehtimoli bor
+Chance of wet flurries - Yengil höl qor ehtimoli bor
+Chance of wet flurries at times heavy - Vaqti-vaqti bilan kuçayuvçi yengil höl qor ehtimoli bor
+Chance of wet flurries or rain showers - Yengil höl qor yoki jala ehtimoli bor
+Chance of wet snow - Höl qor ehtimoli bor
+Chance of wet snow mixed with rain - Yomğir aralaş höl qor ehtimoli bor
+Chance of wet snow or rain - Höl qor yoki yomğir ehtimoli bor
+Clear - Oçiq
+Clearing - Oçiliş
+Cloudy - Bulutli
+Partly cloudy - Özgaruvçan bulutli
+Mainly cloudy - Asosan bulutli
+Cloudy periods - Vaqti-vaqti bilan bulutli
+Cloudy with sunny periods - Bulutli, vaqti-vaqti bilan quyoşli
+Drizzle - Mayda yomğir
+Drizzle mixed with freezing drizzle - Muzlovçi mayda yomğir aralaş mayda yomğir
+Drizzle mixed with rain - Yomğir aralaş mayda yomğir
+Drizzle or freezing drizzle - Mayda yomğir yoki muzlovçi mayda yomğir
+Drizzle or rain - Mayda yomğir yoki yomğir
+Flurries - Qisqa qor yoğişi
+Flurries at times heavy - Vaqti-vaqti bilan kuçayuvçi yengil qor
+Flurries at times heavy or rain showers - Vaqti-vaqti bilan kuçayuvçi yengil qor yoki jala
+Flurries mixed with ice pellets - Muz donalari aralaş yengil qor
+Flurries or ice pellets - Yengil qor yoki muz donalari
+Flurries or rain showers - Yengil qor yoki jala
+Flurries or thundershowers - Yengil qor yoki momaqaldiroqli jala
+Fog - Tuman
+Fog developing - Tuman quyuqlaşişi
+Fog dissipating - Tuman tarqalişi
+Fog patches - Töp-töp tuman
+Freezing drizzle - Muzlovçi mayda yomğir
+Freezing rain - Muzlovçi yomğir
+Freezing rain mixed with ice pellets - Muz donalari aralaş muzlovçi yomğir
+Freezing rain mixed with rain - Yomğir aralaş muzlovçi yomğir
+Freezing rain mixed with snow - Qor aralaş muzlovçi yomğir
+Freezing rain or ice pellets - Muzlovçi yomğir yoki muz donalari
+Freezing rain or rain - Muzlovçi yomğir yoki yomğir
+Freezing rain or snow - Muzlovçi yomğir yoki qor
+Ice fog - Muzli tuman
+Ice fog developing - Muzli tuman quyuqlaşişi
+Ice fog dissipating - Muzli tuman tarqalişi
+Ice pellets - Muz donalari
+Ice pellets mixed with freezing rain - Muzlovçi yomğir aralaş muz donalari
+Ice pellets mixed with snow - Qor aralaş muz donalari
+Ice pellets or freezing rain - Muz donalari yoki muzlovçi yomğir
+Ice pellets or snow - Muz donalari yoki qor
+Increasing cloudiness - Bulutlilikni ortişi
+Increasing clouds - Bulutlar köpayişi
+Light snow - Yengil qor
+Light snow and blizzard - Yengil qor va qor böroni
+Light snow and blizzard and blowing snow - Yengil qor, qor böroni va qor uyurmasi
+Light snow and blowing snow - Yengil qor va qor uyurmasi
+Light snow mixed with freezing drizzle - Muzlovçi mayda yomğir aralaş yengil qor
+Light snow mixed with freezing rain - Muzlovçi yomğir aralaş yengil qor
+Light snow mixed with ice pellets - Muz donalari aralaş yengil qor
+Light snow mixed with rain - Yomğir aralaş yengil qor
+Light snow or freezing drizzle - Yengil qor yoki muzlovçi mayda yomğir
+Light snow or freezing rain - Yengil qor yoki muzlovçi yomğir
+Light snow or ice pellets - Yengil qor yoki muz donalari
+Light snow or rain - Yengil qor yoki yomğir
+Light wet snow - Yengil höl qor
+Light wet snow or rain - Yengil höl qor yoki yomğir
+Local snow squalls - Baʼzi joylarda qorli şiddatli şamol
+Near blizzard - Qor böroni yaqinida
+Overcast - Yoppasiga bulutli
+Periods of drizzle - Vaqti-vaqti bilan mayda yomğir
+Periods of drizzle mixed with freezing drizzle - Vaqti-vaqti bilan muzlovçi mayda yomğir aralaş mayda yomğir
+Periods of drizzle mixed with rain - Vaqti-vaqti bilan yomğir aralaş mayda yomğir
+Periods of drizzle or freezing drizzle - Vaqti-vaqti bilan mayda yomğir yoki muzlovçi mayda yomğir
+Periods of drizzle or rain - Vaqti-vaqti bilan mayda yomğir yoki yomğir
+Periods of freezing drizzle - Vaqti-vaqti bilan muzlovçi mayda yomğir
+Periods of freezing drizzle or drizzle - Vaqti-vaqti bilan muzlovçi mayda yomğir yoki mayda yomğir
+Periods of freezing drizzle or rain - Vaqti-vaqti bilan muzlovçi mayda yomğir yoki yomğir
+Periods of freezing rain - Vaqti-vaqti bilan muzlovçi yomğir
+Periods of freezing rain mixed with ice pellets - Vaqti-vaqti bilan muz donalari aralaş muzlovçi yomğir
+Periods of freezing rain mixed with rain - Vaqti-vaqti bilan yomğir aralaş muzlovçi yomğir
+Periods of freezing rain mixed with snow - Vaqti-vaqti bilan qor aralaş muzlovçi yomğir
+Periods of freezing rain or ice pellets - Vaqti-vaqti bilan muzlovçi yomğir yoki muz donalari
+Periods of freezing rain or rain - Vaqti-vaqti bilan muzlovçi yomğir yoki yomğir
+Periods of freezing rain or snow - Vaqti-vaqti bilan muzlovçi yomğir yoki qor
+Periods of ice pellets - Vaqti-vaqti bilan muz donalari
+Periods of ice pellets mixed with freezing rain - Vaqti-vaqti bilan muzlovçi yomğir aralaş muz donalari
+Periods of ice pellets mixed with snow - Vaqti-vaqti bilan qor aralaş muz donalari
+Periods of ice pellets or freezing rain - Vaqti-vaqti bilan muz donalari yoki muzlovçi yomğir
+Periods of ice pellets or snow - Vaqti-vaqti bilan muz donalari yoki qor
+Periods of light snow - Vaqti-vaqti bilan yengil qor
+Periods of light snow and blizzard - Vaqti-vaqti bilan yengil qor va qor böroni
+Periods of light snow and blizzard and blowing snow - Vaqti-vaqti bilan yengil qor, qor böroni va qor uyurmasi
+Periods of light snow and blowing snow - Vaqti-vaqti bilan yengil qor va qor uyurmasi
+Periods of light snow mixed with freezing drizzle - Vaqti-vaqti bilan muzlovçi mayda yomğir aralaş yengil qor
+Periods of light snow mixed with freezing rain - Vaqti-vaqti bilan muzlovçi yomğir aralaş yengil qor
+Periods of light snow mixed with ice pellets - Vaqti-vaqti bilan muz donalari aralaş yengil qor
+Periods of light snow mixed with rain - Vaqti-vaqti bilan yomğir aralaş yengil qor
+Periods of light snow or freezing drizzle - Vaqti-vaqti bilan yengil qor yoki muzlovçi mayda yomğir
+Periods of light snow or freezing rain - Vaqti-vaqti bilan yengil qor yoki muzlovçi yomğir
+Periods of light snow or ice pellets - Vaqti-vaqti bilan yengil qor yoki muz donalari
+Periods of light snow or rain - Vaqti-vaqti bilan yengil qor yoki yomğir
+Periods of light wet snow - Vaqti-vaqti bilan yengil höl qor
+Periods of light wet snow mixed with rain - Vaqti-vaqti bilan yomğir aralaş yengil höl qor
+Periods of light wet snow or rain - Vaqti-vaqti bilan yengil höl qor yoki yomğir
+Periods of rain - Vaqti-vaqti bilan yomğir
+Periods of rain mixed with freezing rain - Vaqti-vaqti bilan muzlovçi yomğir aralaş yomğir
+Periods of rain mixed with snow - Vaqti-vaqti bilan qor aralaş yomğir
+Periods of rain or drizzle - Vaqti-vaqti bilan yomğir yoki mayda yomğir
+Periods of rain or freezing rain - Vaqti-vaqti bilan yomğir yoki muzlovçi yomğir
+Periods of rain or snow - Vaqti-vaqti bilan yomğir yoki qor
+Periods of rain or thundershowers - Vaqti-vaqti bilan yomğir yoki momaqaldiroqli jala
+Periods of rain or thunderstorms - Vaqti-vaqti bilan yomğir yoki momaqaldiroq
+Periods of snow - Vaqti-vaqti bilan qor
+Periods of snow and blizzard - Vaqti-vaqti bilan qor va qor böroni
+Periods of snow and blizzard and blowing snow - Vaqti-vaqti bilan qor, qor böroni va qor uyurmasi
+Periods of snow and blowing snow - Vaqti-vaqti bilan qor va qor uyurmasi
+Periods of snow mixed with freezing drizzle - Vaqti-vaqti bilan muzlovçi mayda yomğir aralaş qor
+Periods of snow mixed with freezing rain - Vaqti-vaqti bilan muzlovçi yomğir aralaş qor
+Periods of snow mixed with ice pellets - Vaqti-vaqti bilan muz donalari aralaş qor
+Periods of snow mixed with rain - Vaqti-vaqti bilan yomğir aralaş qor
+Periods of snow or freezing drizzle - Vaqti-vaqti bilan qor yoki muzlovçi mayda yomğir
+Periods of snow or freezing rain - Vaqti-vaqti bilan qor yoki muzlovçi yomğir
+Periods of snow or ice pellets - Vaqti-vaqti bilan qor yoki muz donalari
+Periods of snow or rain - Vaqti-vaqti bilan qor yoki yomğir
+Periods of wet snow - Vaqti-vaqti bilan höl qor
+Periods of wet snow mixed with rain - Vaqti-vaqti bilan yomğir aralaş höl qor
+Periods of wet snow or rain - Vaqti-vaqti bilan höl qor yoki yomğir
+Rain - Yomğir
+Rain at times heavy - Vaqti-vaqti bilan kuçayuvçi yomğir
+Rain at times heavy mixed with freezing rain - Vaqti-vaqti bilan kuçayuvçi muzlovçi yomğir aralaş yomğir
+Rain at times heavy mixed with snow - Vaqti-vaqti bilan kuçayuvçi qor aralaş yomğir
+Rain at times heavy or drizzle - Vaqti-vaqti bilan kuçayuvçi yomğir yoki mayda yomğir
+Rain at times heavy or freezing rain - Vaqti-vaqti bilan kuçayuvçi yomğir yoki muzlovçi yomğir
+Rain at times heavy or snow - Vaqti-vaqti bilan kuçayuvçi yomğir yoki qor
+Rain at times heavy or thundershowers - Vaqti-vaqti bilan kuçayuvçi yomğir yoki momaqaldiroqli jala
+Rain at times heavy or thunderstorms - Vaqti-vaqti bilan kuçayuvçi yomğir yoki momaqaldiroq
+Rain mixed with freezing rain - Muzlovçi yomğir aralaş yomğir
+Rain mixed with snow - Qor aralaş yomğir
+Rain or drizzle - Yomğir yoki mayda yomğir
+Rain or freezing rain - Yomğir yoki muzlovçi yomğir
+Rain or snow - Yomğir yoki qor
+Rain or thundershowers - Yomğir yoki momaqaldiroqli jala
+Rain or thunderstorms - Yomğir yoki momaqaldiroq
+Rain showers or flurries - Jala yoki yengil qor
+Rain showers or wet flurries - Jala yoki yengil höl qor
+Showers - Jala
+Showers at times heavy - Vaqti-vaqti bilan kuçayuvçi jala
+Showers at times heavy or thundershowers - Vaqti-vaqti bilan kuçayuvçi jala yoki momaqaldiroqli jala
+Showers at times heavy or thunderstorms - Vaqti-vaqti bilan kuçayuvçi jala yoki momaqaldiroq
+Showers or drizzle - Jala yoki mayda yomğir
+Showers or thundershowers - Jala yoki momaqaldiroqli jala
+Showers or thunderstorms - Jala yoki momaqaldiroq
+Smoke - Tutun
+Snow - Qor
+Snow and blizzard - Qor va qor böroni
+Snow and blizzard and blowing snow - Qor, qor böroni va qor uyurmasi
+Snow and blowing snow - Qor va qor uyurmasi
+Snow at times heavy - Vaqti-vaqti bilan kuçayuvçi qor
+Snow at times heavy and blizzard - Vaqti-vaqti bilan kuçayuvçi qor va qor böroni
+Snow at times heavy and blowing snow - Vaqti-vaqti bilan kuçayuvçi qor va qor uyurmasi
+Snow at times heavy mixed with freezing drizzle - Vaqti-vaqti bilan kuçayuvçi muzlovçi mayda yomğir aralaş qor
+Snow at times heavy mixed with freezing rain - Vaqti-vaqti bilan kuçayuvçi muzlovçi yomğir aralaş qor
+Snow at times heavy mixed with ice pellets - Vaqti-vaqti bilan kuçayuvçi muz donalari aralaş qor
+Snow at times heavy mixed with rain - Vaqti-vaqti bilan kuçayuvçi yomğir aralaş qor
+Snow at times heavy or freezing rain - Vaqti-vaqti bilan kuçayuvçi qor yoki muzlovçi yomğir
+Snow at times heavy or ice pellets - Vaqti-vaqti bilan kuçayuvçi qor yoki muz donalari
+Snow at times heavy or rain - Vaqti-vaqti bilan kuçayuvçi qor yoki yomğir
+Snow mixed with freezing drizzle - Muzlovçi mayda yomğir aralaş qor
+Snow mixed with freezing rain - Muzlovçi yomğir aralaş qor
+Snow mixed with ice pellets - Muz donalari aralaş qor
+Snow mixed with rain - Yomğir aralaş qor
+Snow or freezing drizzle - Qor yoki muzlovçi mayda yomğir
+Snow or freezing rain - Qor yoki muzlovçi yomğir
+Snow or ice pellets - Qor yoki muz donalari
+Snow or rain - Qor yoki yomğir
+Snow squalls - Qorli şiddatli şamol
+Sunny - Quyoşli
+Mainly sunny - Asosan quyoşli
+Sunny with cloudy periods - Quyoşli, vaqti-vaqti bilan bulutli
+Thunderstorms - Momaqaldiroq
+Thunderstorms and possible hail - Momaqaldiroq va döl ehtimoli
+Wet flurries - Yengil höllovçi qor
+Wet flurries at times heavy - Vaqti-vaqti bilan kuçayuvçi yengil höl qor
+Wet flurries at times heavy or rain showers - Vaqti-vaqti bilan kuçayuvçi yengil höl qor yoki jala
+Wet flurries or rain showers - Yengil höl qor yoki jala
+Wet snow - Höl qor
+Wet snow at times heavy - Vaqti-vaqti bilan kuçayuvçi höl qor
+Wet snow at times heavy mixed with rain - Vaqti-vaqti bilan kuçayuvçi yomğir aralaş höl qor
+Wet snow mixed with rain - Yomğir aralaş höl qor
+Wet snow or rain - Höl qor yoki yomğir
+Windy - Şamolli
+Today - Bugun
+Tonight - Bugun tunda
+Data from BBC Weather - BBC Weather maʼlumotlari
+Sat - Şan
+Sun - Yak
+Mon - Duş
+Tue - Seş
+Wed - Çor
+Thu - Pay
+Fri - Jum
+Source: Deutscher Wetterdienst - Manba: Deutscher Wetterdienst
+N/A - N/A
+day - kun
+nite - tunda
+nt - tun
+Trace - Iz miqdorida (Trace)
+Data from Environment and Climate Change Canada - Environment and Climate Change Canada maʼlumotlari
+Data from NOAA National Weather Service - NOAA National Weather Service maʼlumotlari
+ then  - , söngra 
+few clouds - kam bulutli
+overcast - butunlay bulutli
+haze - tutunli xiralik
+fog with icing - muzlama tuman
+light drizzle - yengil mayda yomğir
+heavy drizzle - kuçli mayda yomğir
+freezing drizzle - muzlovçi mayda yomğir
+heavy freezing drizzle - kuçli muzlovçi mayda yomğir
+rain - yomğir
+moderate rain - örtaça yomğir
+light freezing rain - yengil muzlovçi yomğir
+freezing rain - muzlovçi yomğir
+light rain snow - yengil yomğir va qor
+heavy rain snow - kuçli yomğir va qor
+snow - qor
+moderate snow - örtaça qor
+showers - jala
+light snow rain showers - yengil qor-yomğirli jala
+heavy snow rain showers - kuçli qor-yomğirli jala
+snow showers - qisqa qor yoğişi
+light thunderstorm - yengil momaqaldiroq
+heavy thunderstorm - kuçli momaqaldiroq
+n/a - mavjud emas
+%1, %2, %3 - %1, %2, %3
+%1 (%2), %3, %4 - %1 (%2), %3, %4
+Day - Kun
+Night - Tun
+A Few Clouds - Biroz bulutli
+A Few Clouds and Breezy - Biroz bulutli va yengil şabada
+A Few Clouds and Windy - Biroz bulutli va şamolli
+A Few Clouds with Haze - Biroz bulutli va xira tuman
+Blowing Dust - Çang böroni
+Blowing Sand - Qum böroni
+Blowing Snow in Vicinity - Atrofda qor böroni
+Breezy - Yengil şabada
+Clear and Breezy - Oçiq va yengil şabada
+Clear with Haze - Oçiq, xira tuman
+Drizzle Fog - Mayda yomğir, tuman
+Drizzle Fog/Mist - Mayda yomğir, tuman
+Drizzle Ice Pellets - Mayda yomğir, muz donalari
+Drizzle Snow - Mayda yomğir, qor
+Dust/Sand Whirls - Çang yoki qum uyurmalari
+Dust/Sand Whirls in Vicinity - Atrofda çang yoki qum uyurmalari
+Dust Storm - Çang böroni
+Dust Storm in Vicinity - Atrofda çang böroni
+Fair - Oçiq
+Fair and Breezy - Oçiq va yengil şabada
+Fair and Windy - Oçiq va şamolli
+Fair with Haze - Oçiq, xira tuman
+Fog in Vicinity - Atrofda tuman
+Fog/Mist - Tuman yoki yupqa tuman
+Freezing Drizzle - Muzlovçi mayda yomğir
+Freezing Drizzle in Vicinity - Atrofda muzlovçi mayda yomğir
+Freezing Drizzle Rain - Muzlovçi mayda yomğir, yomğir
+Freezing Drizzle Snow - Muzlovçi mayda yomğir, qor
+Freezing Fog - Muzlovçi tuman
+Freezing Fog in Vicinity - Atrofda muzlovçi tuman
+Freezing Rain - Muzlovçi yomğir
+Freezing Rain in Vicinity - Atrofda muzlovçi yomğir
+Freezing Rain Rain - Muzlovçi yomğir, yomğir
+Freezing Rain Snow - Muzlovçi yomğir, qor
+Funnel Cloud in Vicinity - Atrofda voronkasimon bulut
+Hail Showers - Döl aralaş jala
+Heavy Drizzle Fog - Kuçli mayda yomğir, tuman
+Heavy Drizzle Fog/Mist - Kuçli mayda yomğir, tuman
+Heavy Drizzle Ice Pellets - Kuçli mayda yomğir, muz donalari
+Heavy Drizzle Snow - Kuçli mayda yomğir, qor
+Heavy Dust Storm - Kuçli çang böroni
+Heavy Freezing Drizzle - Kuçli muzlovçi mayda yomğir
+Heavy Freezing Drizzle Rain - Kuçli muzlovçi mayda yomğir, yomğir
+Heavy Freezing Drizzle Snow - Kuçli muzlovçi mayda yomğir, qor
+Heavy Freezing Fog - Kuçli muzlovçi tuman
+Heavy Freezing Rain - Kuçli muzlovçi yomğir
+Heavy Freezing Rain Rain - Kuçli muzlovçi yomğir, yomğir
+Heavy Freezing Rain Snow - Kuçli muzlovçi yomğir, qor
+Heavy Ice Pellets - Kuçli muz donalari
+Heavy Ice Pellets Drizzle - Kuçli muz donalari, mayda yomğir
+Heavy Ice Pellets Rain - Kuçli muz donalari, yomğir
+Heavy Rain Fog - Kuçli yomğir, tuman
+Heavy Rain Fog/Mist - Kuçli yomğir, tuman
+Heavy Rain Freezing Drizzle - Kuçli yomğir, muzlovçi mayda yomğir
+Heavy Rain Freezing Rain - Kuçli yomğir, muzlovçi yomğir
+Heavy Rain Ice Pellets - Kuçli yomğir, muz donalari
+Heavy Rain Showers - Kuçli jala
+Heavy Rain Showers Fog/Mist - Kuçli jala, tuman
+Heavy Rain Snow - Kuçli yomğir, qor
+Heavy Sand Storm - Kuçli qum böroni
+Heavy Showers Rain - Kuçli jala
+Heavy Showers Rain Fog/Mist - Kuçli jala, tuman
+Heavy Showers Snow - Kuçli qor jalasi
+Heavy Showers Snow Fog - Kuçli qor jalasi, tuman
+Heavy Showers Snow Fog/Mist - Kuçli qor jalasi, tuman
+Heavy small Hail/Snow Pellets - Kuçli mayda döl yoki qor donalari
+Heavy Snow Blowing Snow - Kuçli qor, qor böroni
+Heavy Snow Fog - Kuçli qor, tuman
+Heavy Snow Fog/Mist - Kuçli qor, tuman
+Heavy Snow Freezing Drizzle - Kuçli qor, muzlovçi mayda yomğir
+Heavy Snow Freezing Rain - Kuçli qor, muzlovçi yomğir
+Heavy Snow Grains - Kuçli qor donalari
+Heavy Snow Low Drifting Snow - Kuçli qor, izğirin
+Heavy Snow Rain - Kuçli qor, yomğir
+Heavy Snow Showers - Kuçli qor jalasi
+Heavy Snow Showers Fog - Kuçli qor jalasi, tuman
+Heavy Snow Showers Fog/Mist - Kuçli qor jalasi, tuman
+Heavy Thunderstorm Rain - Momaqaldiroqli kuçli yomğir
+Heavy Thunderstorm Rain Fog - Momaqaldiroqli kuçli yomğir, tuman
+Heavy Thunderstorm Rain Fog and Windy - Momaqaldiroqli kuçli yomğir, tuman va şamol
+Heavy Thunderstorm Rain Fog/Mist - Momaqaldiroqli kuçli yomğir, tuman
+Heavy Thunderstorm Rain Hail - Momaqaldiroqli kuçli yomğir, döl
+Heavy Thunderstorm Rain Hail Fog - Momaqaldiroqli kuçli yomğir, döl va tuman
+Heavy Thunderstorm Rain Hail Fog/Hail - Momaqaldiroqli kuçli yomğir, döl va tuman
+Heavy Thunderstorm Rain Hail Haze - Momaqaldiroqli kuçli yomğir, döl va xira tuman
+Heavy Thunderstorm Rain Haze - Momaqaldiroqli kuçli yomğir va xira tuman
+Heavy Thunderstorm Rain Small Hail/Snow Pellets - Momaqaldiroqli kuçli yomğir, mayda döl yoki qor donalari
+Heavy Thunderstorm Snow - Momaqaldiroqli kuçli qor
+Ice Pellets Drizzle - Muz donalari, mayda yomğir
+Ice Pellets in Vicinity - Atrofda muz donalari
+Ice Pellets Rain - Muz donalari, yomğir
+Light Drizzle Fog - Yengil mayda yomğir, tuman
+Light Drizzle Fog/Mist - Yengil mayda yomğir, tuman
+Light Drizzle Ice Pellets - Yengil mayda yomğir, muz donalari
+Light Drizzle Snow - Yengil mayda yomğir, qor
+Light Freezing Drizzle Rain - Yengil muzlovçi mayda yomğir, yomğir
+Light Freezing Drizzle Snow - Yengil muzlovçi mayda yomğir, qor
+Light Freezing Fog - Yengil muzlovçi tuman
+Light Freezing Rain Rain - Yengil muzlovçi yomğir, yomğir
+Light Freezing Rain Snow - Yengil muzlovçi yomğir, qor
+Light Ice Pellets - Yengil muz donalari
+Light Ice Pellets Drizzle - Yengil muz donalari, mayda yomğir
+Light Ice Pellets Rain - Yengil muz donalari, yomğir
+Light Rain and Breezy - Yengil yomğir, şabada
+Light Rain Fog - Yengil yomğir, tuman
+Light Rain Fog/Mist - Yengil yomğir, tuman
+Light Rain Freezing Drizzle - Yengil yomğir, muzlovçi mayda yomğir
+Light Rain Freezing Rain - Yengil yomğir, muzlovçi yomğir
+Light Rain Ice Pellets - Yengil yomğir, muz donalari
+Light Rain Showers - Yengil jala
+Light Rain Showers Fog/Mist - Yengil jala, tuman
+Light Rain Snow - Yengil yomğir, qor
+Light Showers Rain - Yengil jala
+Light Showers Rain Fog/Mist - Yengil jala, tuman
+Light Showers Snow - Yengil qor jalasi
+Light Showers Snow Fog - Yengil qor jalasi, tuman
+Light Showers Snow Fog/Mist - Yengil qor jalasi, tuman
+Light Small Hail/Snow Pellets - Yengil mayda döl yoki qor donalari
+Light Snow Blowing Snow - Yengil qor, qor böroni
+Light Snow Blowing Snow Fog/Mist - Yengil qor, qor böroni, tuman
+Light Snow Drizzle - Yengil qor, mayda yomğir
+Light Snow Fog - Yengil qor, tuman
+Light Snow Fog/Mist - Yengil qor, tuman
+Light Snow Freezing Drizzle - Yengil qor, muzlovçi mayda yomğir
+Light Snow Freezing Rain - Yengil qor, muzlovçi yomğir
+Light Snow Grains - Yengil qor donalari
+Light Snow Low Drifting Snow - Yengil qor, yer bağirlab esuvçi qor
+Light Snow Rain - Yengil qor, yomğir
+Light Snow Showers - Yengil qor jalasi
+Light Snow Showers Fog - Yengil qor jalasi, tuman
+Light Snow Showers Fog/Mist - Yengil qor jalasi, tuman
+Light Thunderstorm Rain - Momaqaldiroqli yengil yomğir
+Light Thunderstorm Rain Fog - Momaqaldiroqli yengil yomğir, tuman
+Light Thunderstorm Rain Fog/Mist - Momaqaldiroqli yengil yomğir, tuman
+Light Thunderstorm Rain Hail - Momaqaldiroqli yengil yomğir, döl
+Light Thunderstorm Rain Hail Fog - Momaqaldiroqli yengil yomğir, döl va tuman
+Light Thunderstorm Rain Hail Fog/Mist - Momaqaldiroqli yengil yomğir, döl va tuman
+Light Thunderstorm Rain Hail Haze - Momaqaldiroqli yengil yomğir, döl va xira tuman
+Light Thunderstorm Rain Haze - Momaqaldiroqli yengil yomğir, xira tuman
+Light Thunderstorm Rain Small Hail/Snow Pellets - Momaqaldiroqli yengil yomğir, mayda döl yoki qor donalari
+Light Thunderstorm Snow - Momaqaldiroqli yengil qor
+Low Drifting Dust - Yer bağirlab esuvçi çang
+Low Drifting Sand - Yer bağirlab esuvçi qum
+Low Drifting Snow - Yer bağirlab esuvçi qor
+Mostly Clear - Asosan oçiq
+Mostly Cloudy and Breezy - Asosan bulutli, yengil şabada
+Mostly Cloudy and Windy - Asosan bulutli, şamolli
+Mostly Cloudy with Haze - Asosan bulutli, xira tuman
+Overcast - Yoppasiga bulutli
+Overcast and Breezy - Yoppasiga bulutli, yengil şabada
+Overcast and Windy - Yoppasiga bulutli, şamolli
+Overcast with Haze - Yoppasiga bulutli, xira tuman
+Partial Fog - Baʼzi joylarda tuman
+Partial Fog in Vicinity - Atrofda baʼzi joylarda tuman
+Partly Cloudy and Breezy - Özgaruvçan bulutli, yengil şabada
+Partly Cloudy and Windy - Özgaruvçan bulutli, şamolli
+Partly Cloudy with Haze - Özgaruvçan bulutli, xira tuman
+Patchy Freezing Fog - Töp-töp muzlovçi tuman
+Patches of Fog - Töp-töp tuman
+Patches of Fog in Vicinity - Atrofda töp-töp tuman
+Rain Fog - Yomğir, tuman
+Rain Fog/Mist - Yomğir, tuman
+Rain Freezing Drizzle - Yomğir, muzlovçi mayda yomğir
+Rain Freezing Rain - Yomğir, muzlovçi yomğir
+Rain Ice Pellets - Yomğir, muz donalari
+Rain Showers - Jala
+Rain Showers Fog/Mist - Jala, tuman
+Rain Showers in Vicinity - Atrofda jala
+Rain Showers in Vicinity Fog/Mist - Atrofda jala, tuman
+Rain Snow - Yomğir, qor
+Sand - Qum
+Sand Storm - Qum böroni
+Sand Storm in Vicinity - Atrofda qum böroni
+Shallow Fog in Vicinity - Atrofda yer usti tumani
+Showers Hail - Döl aralaş jala
+Showers Ice Pellets - Muz donalari aralaş jala
+Showers in Vicinity Fog - Atrofda jala, tuman
+Showers in Vicinity Snow - Atrofda qor jalasi
+Showers Rain - Jala
+Showers Rain Fog/Mist - Jala, tuman
+Showers Rain in Vicinity - Atrofda jala
+Showers Rain in Vicinity Fog/Mist - Atrofda jala, tuman
+Showers Snow - Qor jalasi
+Showers Snow Fog - Qor jalasi, tuman
+Showers Snow Fog/Mist - Qor jalasi, tuman
+Small Hail/Snow Pellets - Mayda döl yoki qor donalari
+Snow Blowing Snow - Qor, qor böroni
+Snow Drizzle - Qor, mayda yomğir
+Snow Fog - Qor, tuman
+Snow Fog/Mist - Qor, tuman
+Snow Freezing Drizzle - Qor, muzlovçi mayda yomğir
+Snow Freezing Rain - Qor, muzlovçi yomğir
+Snow Low Drifting Snow - Qor, yer bağirlab esuvçi qor
+Snow Rain - Qor, yomğir
+Snow Showers - Qor jalasi
+Snow Showers Fog - Qor jalasi, tuman
+Snow Showers Fog/Mist - Qor jalasi, tuman
+Snow Showers in Vicinity - Atrofda qor jalasi
+Snow Showers in Vicinity Fog - Atrofda qor jalasi, tuman
+Snow Showers in Vicinity Fog/Mist - Atrofda qor jalasi, tuman
+Thunderstorm Fog - Momaqaldiroq, tuman
+Thunderstorm Hail - Momaqaldiroq, döl
+Thunderstorm Hail Fog - Momaqaldiroq, döl va tuman
+Thunderstorm Haze in Vicinity - Atrofda momaqaldiroq, xira tuman
+Thunderstorm Haze in Vicinity Hail - Atrofda momaqaldiroq, döl, xira tuman
+Thunderstorm Heavy Rain - Momaqaldiroq, kuçli yomğir
+Thunderstorm Heavy Rain Fog - Momaqaldiroq, kuçli yomğir, tuman
+Thunderstorm Heavy Rain Fog/Mist - Momaqaldiroq, kuçli yomğir, tuman
+Thunderstorm Heavy Rain Hail - Momaqaldiroq, kuçli yomğir va döl
+Thunderstorm Heavy Rain Hail Fog - Momaqaldiroq, kuçli yomğir, döl va tuman
+Thunderstorm Heavy Rain Hail Fog/Mist - Momaqaldiroq, kuçli yomğir, döl va tuman
+Thunderstorm Heavy Rain Hail Haze - Momaqaldiroq, kuçli yomğir, döl va xira tuman
+Thunderstorm Heavy Rain Haze - Momaqaldiroq, kuçli yomğir va xira tuman
+Thunderstorm Ice Pellets - Momaqaldiroq, muz donalari
+Thunderstorm in Vicinity - Atrofda momaqaldiroq
+Thunderstorm in Vicinity Fog - Atrofda momaqaldiroq, tuman
+Thunderstorm in Vicinity Fog/Mist - Atrofda momaqaldiroq, tuman
+Thunderstorm in Vicinity Hail - Atrofda momaqaldiroq, döl
+Thunderstorm in Vicinity Hail Haze - Atrofda momaqaldiroq, döl, xira tuman
+Thunderstorm in Vicinity Haze - Atrofda momaqaldiroq, xira tuman
+Thunderstorm Light Rain - Momaqaldiroqli yengil yomğir
+Thunderstorm Light Rain Fog - Momaqaldiroqli yengil yomğir va tuman
+Thunderstorm Light Rain Fog/Mist - Momaqaldiroqli yengil yomğir va tuman
+Thunderstorm Light Rain Hail - Momaqaldiroqli yengil yomğir va döl
+Thunderstorm Light Rain Hail Fog - Momaqaldiroqli yengil yomğir, döl va tuman
+Thunderstorm Light Rain Hail Fog/Mist - Momaqaldiroqli yengil yomğir, döl va tuman
+Thunderstorm Light Rain Hail Haze - Momaqaldiroqli yengil yomğir, döl va xira tuman
+Thunderstorm Light Rain Haze - Momaqaldiroqli yengil yomğir va xira tuman
+Thunderstorm Rain - Momaqaldiroqli yomğir
+Thunderstorm Rain Fog/Mist - Momaqaldiroqli yomğir va tuman
+Thunderstorm Rain Hail Fog/Mist - Momaqaldiroqli yomğir, döl va tuman
+Thunderstorm Rain Small Hail/Snow Pellets - Momaqaldiroqli yomğir, mayda döl yoki qor donalari
+Thunderstorm Showers in Vicinity - Atrofda momaqaldiroqli jala
+Thunderstorm Showers in Vicinity Hail - Atrofda döl bilan momaqaldiroqli jala
+Thunderstorm Small Hail/Snow Pellets - Momaqaldiroq, mayda döl yoki qor donalari
+Thunderstorm Snow - Momaqaldiroqli qor
+Tornado/Water Spout - Tornado yoki suv quyuni
+Windy - Şamolli
+Ice Crystals - Muz kristallari
+Volcanic Ash - Vulqon kuli
+Water Spout - Suv quyuni
+Freezing Spray - Muzlovçi suv zarralari
+Frost - Qirov
+Slight Chance Thunderstorms - Momaqaldiroq ehtimoli kam
+Chance Thunderstorms - Momaqaldiroq ehtimoli bor
+Thunderstorms Likely - Momaqaldiroq ehtimoli yuqori
+Severe Tstms - Kuçli momaqaldiroqlar
+Slight Chance Snow/Sleet - Qor yoki qor aralaş yomğir ehtimoli kam
+Chance Snow/Sleet - Qor yoki qor aralaş yomğir ehtimoli bor
+Snow/Sleet Likely - Qor yoki qor aralaş yomğir ehtimoli yuqori
+Snow/Sleet - Qor yoki qor aralaş yomğir
+Slight Chance Rain/Sleet - Yomğir yoki qor aralaş yomğir ehtimoli kam
+Chance Rain/Sleet - Yomğir yoki qor aralaş yomğir ehtimoli bor
+Rain/Sleet Likely - Yomğir yoki qor aralaş yomğir ehtimoli yuqori
+Rain/Sleet - Yomğir yoki qor aralaş yomğir
+Slight Chance Rain/Freezing Rain - Yomğir yoki muzlovçi yomğir ehtimoli kam
+Chance Rain/Freezing Rain - Yomğir yoki muzlovçi yomğir ehtimoli bor
+Rain/Freezing Rain Likely - Yomğir yoki muzlovçi yomğir ehtimoli yuqori
+Rain/Freezing Rain - Yomğir yoki muzlovçi yomğir
+Wintry Mix Likely - Qor aralaş yomğir ehtimoli yuqori
+Wintry Mix - Qor aralaş yomğir
+Slight Chance Freezing Drizzle - Muzlovçi mayda yomğir ehtimoli kam
+Chance Freezing Drizzle - Muzlovçi mayda yomğir ehtimoli bor
+Freezing Drizzle Likely - Muzlovçi mayda yomğir ehtimoli yuqori
+Freezing Drizzle - Muzlovçi mayda yomğir
+Slight Chance Freezing Rain - Muzlovçi yomğir ehtimoli kam
+Chance Freezing Rain - Muzlovçi yomğir ehtimoli bor
+Freezing Rain Likely - Muzlovçi yomğir ehtimoli yuqori
+Freezing Rain - Muzlovçi yomğir
+Slight Chance Rain/Snow - Yomğir yoki qor ehtimoli kam
+Chance Rain/Snow - Yomğir yoki qor ehtimoli bor
+Rain/Snow Likely - Yomğir yoki qor ehtimoli yuqori
+Rain/Snow - Yomğir yoki qor
+Slight Chance Snow - Qor ehtimoli kam
+Chance Snow - Qor ehtimoli bor
+Snow Likely - Qor ehtimoli yuqori
+Heavy Snow - Kuçli qor
+Slight Chance Flurries - Yengil qor ehtimoli kam
+Chance Flurries - Yengil qor ehtimoli bor
+Flurries Likely - Yengil qor ehtimoli yuqori
+Slight Chance Snow Showers - Qor jalasi ehtimoli kam
+Chance Snow Showers - Qor jalasi ehtimoli bor
+Snow Showers Likely - Qor jalasi ehtimoli yuqori
+Snow Showers - Qor jalasi
+Slight Chance Drizzle - Mayda yomğir ehtimoli kam
+Chance Drizzle - Mayda yomğir ehtimoli bor
+Drizzle Likely - Mayda yomğir ehtimoli yuqori
+Slight Chance Rain - Yomğir ehtimoli kam
+Chance Rain - Yomğir ehtimoli bor
+Rain Likely - Yomğir ehtimoli yuqori
+Heavy Rain - Kuçli yomğir
+Slight Chance Rain Showers - Jala ehtimoli kam
+Chance Rain Showers - Jala ehtimoli bor
+Rain Showers Likely - Jala ehtimoli yuqori
+Rain Showers - Jala
+Sleet - Qor aralaş yomğir
+Freezing Fog - Muzlovçi tuman
+Ice Fog - Muzli tuman
+Haze - Xira tuman
+Blowing Sand - Qum böroni
+Blowing Dust - Çang böroni
+Blowing Snow - Qor böroni
+Dense Fog - Quyuq tuman
+Blustery - Kuçli şamol
+Breezy - Yengil şabada
+Cold - Sovuq
+Hot - Issiq
+Mostly Cloudy - Asosan bulutli
+Partly Cloudy - Özgaruvçan bulutli
+Mostly Sunny - Asosan quyoşli
+Partly Sunny - Qisman quyoşli
+Increasing Clouds - Bulutlar köpayişi
+Becoming Cloudy - Bulutlar köpayişi
+Gradual Clearing - Asta-sekin oçiliş
+Clearing Late - Keçga borib oçiliş
+Decreasing Clouds - Bulutlar kamayişi
+Becoming Sunny - Oçilib quyoş çiqişi
+Mostly Clear - Asosan oçiq
+Showers And Thunderstorms - Jala va momaqaldiroq
+Slight Chance Showers And Thunderstorms - Jala va momaqaldiroq ehtimoli kam
+Chance Showers And Thunderstorms - Jala va momaqaldiroq ehtimoli bor
+Showers And Thunderstorms Likely - Jala va momaqaldiroq ehtimoli yuqori

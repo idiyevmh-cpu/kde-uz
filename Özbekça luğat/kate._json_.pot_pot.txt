@@ -1,0 +1,61 @@
+Source text - Tarjima text
+Bookmarks - Xatçöplar
+Close Except/Like - Bundan taşqari/kabi yopiş
+CMake Completion - CMake avto-töldiriş
+Color Picker - Rang tanlagiç
+Compiler Explorer - Kompilyator tadqiqotçisi
+Deployment - Joylaştiriş (Deployment)
+ESLint - ESLint
+External Tools - Taşqi vositalar
+File System Browser - Fayl tizimi körib çiqiş vositasi
+Documents Tree - Hujjatlar daraxti
+Formatting - Formatlaş
+Kate Debugger - Kate sozlagiçi (Debugger)
+Git Blame - Git Blame
+Git Decorations - Git bezaklari
+Build & Run - Yiğiş va işga tuşiriş
+CTags - CTags
+GPG Plugin - GPG plagini
+SQL Plugin - SQL plagini
+Keyboard Macros - Klaviatura makroslari
+Terminal - Terminal
+LaTeX completion - LaTeX töldiriş
+LSP Client - LSP mijozi
+Open Link - Havolani oçiş
+Document Preview - Hujjatni oldindan köriş
+Project Plugin - Loyiha plagini
+Colored Brackets - Rangli qavslar
+Rainbow CSV - Rangli CSV
+Replicode - Replicode
+Search & Replace - Qidiriş va almaştiriş
+Show Non-Printable Characters - Çop etilmaydigan belgilarni körsatiş
+Scripts & Snippets - Skriptlar va snippetlar
+Symbol Viewer - Belgilar/funksiyalarni köruvçi
+Document Switcher - Hujjatlarni almaştirgiç
+File Templates - Fayl andozalari
+Text Filter - Matn filtri
+XML Validation - XML tekşiruvi (validatsiya)
+XML Completion - XML töldiriş
+Display and navigate bookmarks - Xatçöplarni körsatiş va ular böyiça ötiş
+Code completion for CMake files - CMake fayllari uçun kodni töldiriş
+View generated asm for C/C++ code - C/C++ kodi uçun hosil qilingan assembler kodini köriş
+Upload project files over SFTP and browse the remote host - Loyiha fayllarini SFTP orqali yuklaş va masofaviy serverni köriş
+Runs ESLint on current file - Joriy faylda ESLint dasturini işga tuşiradi
+Displays the open documents in a file tree - Oçiq hujjatlarni daraxtsimon röyxatda körsatadi
+Format using an external tool when the file is saved - Fayl saqlanganda taşqi vosita orqali formatlaş
+Provides debugger integration - Sozlagiç (debugger) integratsiyasini taqdim etadi
+Build, parse output and run applications - Ilovalarni yiğiş, natijalarni tahlil qiliş va işga tuşiriş
+A GPG plugin to decrypt and encrypt text files - Matnli fayllarni şifrlaş va şifrdan çiqariş uçun GPG plagini
+Execute query on SQL databases - SQL maʼlumotlar bazalarida sörovlarni bajariş
+Record and play keyboard macros - Klaviatura makroslarini yozib oliş va ijro etiş
+Language Server Protocol Client - Til serveri protokoli (LSP) mijozi
+Integration with Git and other source control systems - Git va boşqa versiyalar boşqaruvi tizimlari bilan integratsiya
+Colored brackets for readability - Öqişni osonlaştiriş uçun rangli qavslar
+Search and replace in documents, folders, or projects - Hujjatlar, jildlar yoki loyihalarda qidiriş va almaştiriş
+Allows you show non-printable characters - Çop etilmaydigan (yaşirin) belgilarni körsatiş imkonini beradi
+Create or download code snippets and editor scripts - Kod snippetlari va muharrir skriptlarini yaratiş yoki yuklab oliş
+Extract and show reference symbols from source - Manba kodidan funksiya va belgilar röyxatini ajratib körsatiş
+Quick document switching with Alt+Tab behavior - Alt+Tab tartibida hujjatlarni tezkor almaştiriş
+Project and file templates - Loyiha va fayl andozalari
+Process text using terminal commands - Terminal buyruqlari yordamida matnni qayta işlaş
+Validates XML files using xmllint - xmllint yordamida XML fayllarini tekşiradi

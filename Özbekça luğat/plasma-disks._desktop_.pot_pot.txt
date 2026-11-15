@@ -1,0 +1,10 @@
+Source text - Tarjima text
+Plasma SMART - Plasma SMART
+Read SMART Report Details - SMART hisoboti tafsilotlarini öqiş
+Read storage device SMART report to check the device's health - Qurilma holatini tekşiriş uçun SMART hisobotini öqiş
+Device Health - Qurilma salomatligi
+Storage Device Health Monitoring - Saqlaş qurilmasi holati monitoringi
+Device - Qurilma
+Used for notifications about a specific device - Muayyan qurilma haqidagi bildirişnomalar uçun işlatiladi
+Imminent Device Failure - Qurilmaning yaqinlaşib kelayotgan nosozligi
+A device is showing signs of imminent failure - Qurilma yaqinda işdan çiqişi mumkin bölgan belgilarni körsatmoqda

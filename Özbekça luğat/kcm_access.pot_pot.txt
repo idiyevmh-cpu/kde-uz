@@ -1,0 +1,156 @@
+KWin - KWin
+Toggle Invert Effect - Ranglarni teskari qiliş samarasini yoqiş/öçiriş
+Toggle Invert Effect on Window - Oynada ranglarni teskari qiliş samarasini yoqiş/öçiriş
+Move Left - Çapga köçiriş
+Move Right - Öngga köçiriş
+Move Up - Yuqoriga köçiriş
+Move Down - Pastga köçiriş
+Move Mouse to Focus - Siçqonçani fokusga köçiriş
+Move Mouse to Center - Siçqonçani markazga köçiriş
+Could not set gsettings for Orca: "%1" failed - Orca uçun gsettings parametrlarini örnatib bölmadi: "%1" xatolik bilan tugadi
+Error: Could not launch "orca --setup" - Xato: "orca --setup" ni işga tuşirib bölmadi
+Use System Bell - Tizim qönğiroğidan foydalaniş
+Customize system bell - Tizim qönğiroğini moslaştiriş
+Sound file for the Bell - Qönğiroq uçun tovuş fayli
+Use a visual bell instead of a sound - Tovuş örniga vizual qönğiroqdan foydalaniş
+Invert the system colors on the bell - Qönğiroqda tizim ranglarini teskari qiliş
+Color of the Visual Bell - Vizual qönğiroq rangi
+Duration of the Visual Bell - Vizual qönğiroq davomiyligi
+Whether Colorblindness Correction is enabled - Daltonizm (rang ajrata olmaslik) tuzatişi yoqilganligi
+Whether Dwell Clicker is enabled - Kutib bosgiç (Dwell Clicker) yoqilganligi
+Delay Time - Kutiş vaqti
+Dwell Time - Bosib turiş vaqti
+Dwell Color - Kutiş rangi
+Motion Threshold - Harakat bösağasi
+Whether the Invert effect is enabled - Teskari ranglar samarasi yoqilganligi
+Use sticky Keys - Yopişqoq tugmalardan foydalaniş
+Lock the sticky keys - Yopişqoq tugmalarni qulflaş
+Turn sticky keys off when two keys are pressed simultaneously - Ikki tugma bir vaqtda bosilganda yopişqoq tugmalarni öçiriş
+Beep on a sticky key press - Yopişqoq tugma bosilganda signal beriş
+Toggle keys beep - Ötkazgiç tugmalari signali
+Notify when a keyboard modifier is pressed - Klaviatura modifikatori bosilganda xabar beriş
+Use slow keypresses - Sekin tugma bosişlaridan foydalaniş
+Delay for the key press - Tugma bosilişi keçikişi
+Beep on a slow keypress - Sekin tugma bosilganda signal beriş
+Beep on an accepted keypress - Qabul qilingan tugma bosilişida signal beriş
+Beep on a rejected keypress - Rad etilgan tugma bosilişida signal beriş
+Bounce Keys - Sakrovçi tugmalar
+Use a delay for bouncing - Takroriy bosişlar uçun keçikişdan foydalaniş
+Beep if a bounce key event is rejected - Sakrovçi tugma rad etilganda signal beriş
+Use keys to control the mouse - Siçqonçani boşqariş uçun tugmalardan foydalaniş
+Delay for the mouse movement - Siçqonça harakati keçikişi
+Repetition interval for the mouse movement - Siçqonça harakatini takrorlaş oraliği
+Time to hit maximum velocity - Maksimal tezlikka erişiş vaqti
+Maximum Velocity - Maksimal tezlik
+Mouse Key Curve - Siçqonça tugmasi egri çiziği
+Whether Shake Pointer is enabled - Körsatkiçni silkitiş yoqilganligi
+Magnification - Kattalaştiriş
+Whether the Zoom effect is enabled - Kattalaştiriş (Zoom) samarasi yoqilganligi
+Whether the Magnifier effect is enabled - Lupa (Magnifier) samarasi yoqilganligi
+Please choose an audio file - Iltimos, audio faylni tanlang
+ogg, oga, and wav audio files (*.ogg *.oga *.wav) - ogg, oga va wav audio fayllari (*.ogg *.oga *.wav)
+Audible bell: - Tovuşli qönğiroq:
+Enable - Yoqiş
+Custom sound: - Moslaştirilgan tovuş:
+Choose audio file for the system bell - Tizim qönğiroği uçun audio faylni tanlang
+Choose audio file - Audio faylni tanlaş
+Opens dialog - Muloqot oynasini oçadi
+Visual bell: - Vizual qönğiroq:
+Invert screen colors - Ekran ranglarini teskari qiliş
+Flash screen - Ekranni miltillatiş
+Color - Rang
+Duration: - Davomiyligi:
+%1 ms - %1 ms
+ms - ms
+If you have trouble with certain colors on the screen, these filters can change them into other colors. - Agar ekrandagi baʼzi ranglarni ajratişda qiyinçilikka duç kelsangiz, bu filtrlar ularni boşqa ranglarga özgartirişi mumkin.
+Problematic colors: - Muammoli ranglar:
+Red & purple (Protanopia) - Qizil va binafşa (Protanopiya)
+Green & purple (Deuteranopia) - Yaşil va binafşa (Deyteranopiya)
+Yellow, green & purple (Tritanopia) - Sariq, yaşil va binafşa (Tritanopiya)
+All (grayscale mode) - Hammasi (kulrang tuslar rejimi)
+Intensity: - Şiddatlilik:
+Mild - Yengil
+Intense - Kuçli
+Adjusted colors: - Moslaştirilgan ranglar:
+Reds: - Qizil:
+Greens: - Yaşil:
+Blues: - Kök:
+Purples: - Binafşa:
+Click when pointer remains still: - Körsatkiç harakatsiz turganda bosiş:
+Automatically click when pointer remains still for a set amount of time. - Körsatkiç belgilangan vaqt davomida harakatsiz turganda avtomatik ravişda bosing.
+Motion Threshold: - Harakat bösağasi:
+%1 px - %1 px
+px - px
+Delay Time: - Kutiş vaqti:
+Dwell Time: - Bosib turiş vaqti:
+Dwell Color: - Kutiş rangi:
+Invert: - Teskari qiliş:
+Use shortcuts to toggle inverting display and window colors - Displey va oyna ranglarini teskari qilişni almaştiriş uçun tezkor tugmalardan foydalaniş
+Configure Shortcuts… - Tezkor tugmalarni sozlaş…
+Slow keys: - Sekin tugmalar:
+For a key to be accepted, it has to be held until the set amount of time. Useful if you accidentally type more than one key at a time or have difficulty pressing the key you want the first time. - Tugma qabul qilinişi uçun uni belgilangan vaqt davomida bosib turiş kerak. Agar siz adaşib birdaniga bir neçta tugmani bosib yuborsangiz yoki kerakli tugmani birinçi urinişda bosişda qiyinçilikka duç kelsangiz foydalidir.
+Delay: - Keçikiş:
+Ring system bell: - Tizim qönğiroğini çaliş:
+when any key is &pressed - har qanday tugma &bosilganda
+when any key is &accepted - har qanday tugma &qabul qilinganda
+when any key is &rejected - har qanday tugma &rad etilganda
+Bounce keys: - Sakrovçi tugmalar:
+Ignore rapid, repeated keypresses of the same key. Useful if you have hand tremors that cause you to press a key multiple times when you only intend to press once. - Bir xil tugmaning tez-tez va takroriy bosilişiga eʼtibor bermaslik. Agar qöl qaltiraşi tufayli bir marta bosmoqçi bölgan tugmangiz bir neça bor bosilib ketsa juda foydali.
+Ring system bell when rejected - Rad etilganda tizim qönğiroğini çaliş
+Zoom & Magnifier - Kattalaştiriş va Lupa
+System Bell - Tizim qönğiroği
+Modifier Keys - Modifikator tugmalari
+Keyboard Filters - Klaviatura filtrlari
+Mouse Navigation - Siçqonça navigatsiyasi
+Dwell Clicker - Kutib bosgiç (Dwell Clicker)
+Screen Reader - Ekran öquvçi
+Color Blindness Correction - Rang ajrata olmaslikni (daltonizmni) tuzatiş
+Invert - Teskari qiliş
+Shake Pointer - Körsatkiçni silkitiş
+Sticky keys: - Yopişqoq tugmalar:
+Modifier keys like Ctrl, Shift, Alt, and the Meta/Super/Windows key act as though they “stick in place” and no longer need to be held down when typing a keyboard shortcut. - Ctrl, Shift, Alt va Meta/Super/Windows kabi modifikator tugmalari xuddi “öz örniga yopişib qolgandek” işlaydi va klaviatura yorliqlarini yozişda ularni bosib turiş şart bölmaydi.
+Lock sticky keys - Yopişqoq tugmalarni qulflaş
+Pressing a modifier key twice will keep it in active state until pressed again. - Modifikator tugmasini ikki marta bosiş uni qayta bosilgunça faol holatda saqlab turadi.
+Disable when two keys are held down - Ikki tugma bir vaqtda bosib turilganda öçiriş
+Ring system bell when modifier keys are used - Modifikator tugmalari işlatilganda tizim qönğiroğini çaliş
+Feedback: - Fikr-mulohaza / Qayta aloqa:
+Ring system bell when locking keys are used - Qulflaş tugmalari işlatilganda tizim qönğiroğini çaliş
+The locking keys are Caps Lock, Num Lock, and Scroll Lock. - Qulflaş tugmalari: Caps Lock, Num Lock va Scroll Lock.
+Show notification when modifier or locking keys are used - Modifikator yoki qulflaş tugmalari işlatilganda bildirişnoma körsatiş
+Configure Notifications… - Bildirişnomalarni sozlaş…
+Use number pad to move pointer: - Körsatkiçni harakatlantiriş uçun raqamli klaviaturadan foydalaniş:
+The numpad key <shortcut>5</shortcut> functions as a mouse click, toggled by <shortcut>/</shortcut> for middle click, <shortcut>*</shortcut> for right click and <shortcut>NumLock</shortcut> for left click. The keys <shortcut>2</shortcut>, <shortcut>4</shortcut>, <shortcut>6</shortcut>, and <shortcut>8</shortcut> allow for cardinal movement (down, left, right, and up). The keys <shortcut>1</shortcut>, <shortcut>3</shortcut>, <shortcut>7</shortcut>, and <shortcut>9</shortcut> allow for diagonal movement. - Raqamli klaviaturadagi <shortcut>5</shortcut> tugmasi siçqonça bosilişi vazifasini bajaradi, <shortcut>/</shortcut> örta bosiş uçun, <shortcut>*</shortcut> öng bosiş uçun va <shortcut>NumLock</shortcut> çap bosiş uçun xizmat qiladi. <shortcut>2</shortcut>, <shortcut>4</shortcut>, <shortcut>6</shortcut> va <shortcut>8</shortcut> tugmalari asosiy yönalişlarda (pastga, çapga, öngga va yuqoriga) harakatlaniş imkonini beradi. <shortcut>1</shortcut>, <shortcut>3</shortcut>, <shortcut>7</shortcut> va <shortcut>9</shortcut> tugmalari esa diagonal harakatlanişni taʼminlaydi.
+Acceleration delay: - Tezlaniş keçikişi:
+Repeat interval: - Takrorlaş oraliği:
+Acceleration time: - Tezlaniş vaqti:
+Maximum speed: - Maksimal tezlik:
+Pointer acceleration: - Körsatkiç tezlanişi:
+The Orca Screen Reader is not installed - Orca ekran öquvçisi örnatilmagan
+Please install it, then close and reopen this window - Iltimos, uni örnating, söng uşbu oynani yopib qayta oçing
+Enable Screen Reader - Ekran öquvçini yoqiş
+Launch Orca Screen Reader Configuration… - Orca ekran öquvçisi sozlamalarini işga tuşiriş…
+Shake pointer to find it: - Uni topiş uçun körsatkiçni silkiting:
+Normal - Oddiy
+Large - Katta
+Show pixel grid at zoom level: - Kattalaştiriş darajasida piksellar panjarasini körsatiş:
+Pointer tracking: - Körsatkiçni kuzatiş:
+Proportional - Mutanosib
+Zoom area moves in sync with pointer - Kattalaştiriş maydoni körsatkiç bilan sinxron harakatlanadi
+Centered - Markazlaştirilgan
+Pointer stays centered on-screen, except near screen edges - Ekran çetlaridan taşqari körsatkiç ekranning markazida qoladi
+Centered (Strict) - Markazlaştirilgan (Qatʼiy)
+Pointer stays centered on-screen, even near screen edges - Hatto ekran çetlarida ham körsatkiç ekranning markazida qoladi
+Push - Suriş
+Pointer pushes zoom area at screen edges - Körsatkiç ekran çetlarida kattalaştiriş maydonini suradi
+Disabled - Öçirilgan
+Zoom area doesn't follow pointer - Kattalaştiriş maydoni körsatkiç ortidan ergaşmaydi
+Sharpen screen content while zoomed in - Kattalaştirilganda ekran tarkibining aniqligini oşiriş
+Enable text caret tracking - Matn kursorini kuzatişni yoqiş
+Width: - Kengligi:
+Height: - Balandligi:
+Zoom: - Kattalaştiriş (Zoom):
+Full screen - Töliq ekran
+Magnify region - Sohani kattalaştiriş
+Zoom factor: - Kattalaştiriş koeffitsiyenti:
+Scroll gesture modifier keys: - Aylantiriş imo-işorasi modifikator tugmalari:
+Scroll while modifier keys are pressed to zoom - Kattalaştiriş uçun modifikator tugmalari bosilgan holda aylantiring

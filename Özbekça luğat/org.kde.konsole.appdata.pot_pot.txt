@@ -1,0 +1,12 @@
+Source text - Tarjima text
+Konsole - Konsole
+Use the command line interface - Buyruqlar qatori interfeysidan foydalaniş
+Konsole is a terminal to run a command shell. It provides a command line interface for directly controlling your computer. - Konsole — buyruqlar qobiğini işga tuşiriş uçun möljallangan terminal. U kompyuterni töğridan-töğri boşqariş uçun buyruqlar qatori interfeysini taqdim etadi.
+Features: - Xususiyatlari:
+Tabs - Içki varaqlar (tablar)
+Multiple profiles - Bir neçta profillar
+Silence and Activity monitoring - Sukunat va faollikni kuzatib boriş
+Bookmark support - Xatçöplarni qöllab-quvvatlaş
+Searching - Qidiriş
+Saving output - Çiqiş maʼlumotlarini saqlaş
+Konsole being used as a terminal emulator - Konsole terminal emulyatori sifatida işlatilmoqda

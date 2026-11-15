@@ -1,0 +1,12 @@
+General: - &Umumiy
+Show legend - Tuşuntirişni (legendani) körsatiş
+Stacked bars - Ustma-ust ustunlar
+Bar orientation: - Ustun yönalişi:
+Vertical - Vertikal
+Horizontal - Ufq 1
+Axis: - Öq:
+Show Y axis labels - Y öqi yorliqlarini körsatiş
+Show grid lines - Tör çiziqlarini körsatiş
+Automatic data range - Avtomatik maʼlumotlar oraliği
+From: - Kimdan:
+To: - Kimga:

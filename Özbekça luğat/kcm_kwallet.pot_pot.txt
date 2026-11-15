@@ -1,0 +1,21 @@
+Failed to create auth action - Avtorizatsiya yaratiş muvaffaqiyatsiz böldi
+Failed to save settings: Permission denied - Sozlamalarni saqlaş muvaffaqiyatsiz böldi: Ruxsat rad etildi
+Error while authenticating action:
+%1 - Harakatni autentifikatsiya qilişda xato:
+%1
+Enable the KDE wallet subsystem - KDE hamyon subtizimini yoqiş
+Close Behavior - Xatti-harakatni yopiş
+Close wallet when unused for: - Foydalanilmayotganda hamyonni yoping:
+%1 min - %1 daq
+min - min
+Automatic Wallet Selection - Hamyonni avtomatik tanlaş
+Default Wallet: - Yangi hamyon
+New… - Yangi…
+Use different default wallet for local passwords - Mahalliy parollar uçun turli xil standart hamyonlardan foydalaning
+Wallet Manager - Hamyon boşqaruvçisi
+Show icon in system tray - Tizim tregasida ikonani körsating
+Hide system tray icon when last wallet closes - Oxirgi hamyon yopilganda tizim tregidagi ikonani yaşiring
+Secret Service - Maxfiy xizmat
+Use KWallet for Secret Service Interface - Maxfiy xizmat interfeysi uçun KWallet-dan foydalaning
+New Wallet - Yangi hamyon
+Choose a name for the new wallet: - Yangi hamyon uçun nom tanlang:

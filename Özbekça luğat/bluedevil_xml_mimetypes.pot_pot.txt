@@ -1,0 +1,3 @@
+Source text - Tarjima text
+Device - Qurlama
+Service - Xizmat

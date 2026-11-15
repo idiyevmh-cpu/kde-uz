@@ -1,0 +1,8 @@
+Session Management - Seansni boşqariş
+Show Logout Screen - Çiqiş ekranini körsatiş
+Log Out - Tizimdan çiqiş
+Shut Down - Öçiriş
+Reboot - Qayta işga tuşiriş
+Log Out Without Confirmation - Tasdiqlamasdan tizimdan çiqiş
+Shut Down Without Confirmation - Tasdiqlamasdan öçiriş
+Reboot Without Confirmation - Tasdiqlamasdan qayta işga tuşiriş

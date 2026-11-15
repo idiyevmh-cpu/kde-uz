@@ -1,0 +1,7 @@
+Only use external screen - Faqat taşqi ekrandan foydalaniş
+Only use built-in screen - Faqat örnatilgan ekrandan foydalaniş
+Mirror screens - Ekranlarni aks ettiriş
+Extend to left of built-in screen - Örnatilgan ekranning çap tomoniga kengaytiriş
+Extend to right of built-in screen - Örnatilgan ekranning öng tomoniga kengaytiriş
+Leave unchanged - Özgarişsiz qoldiriş
+Built-in Screen - Örnatilgan ekran

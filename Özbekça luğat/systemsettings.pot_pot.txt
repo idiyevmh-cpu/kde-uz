@@ -1,0 +1,40 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+%1 is an external application and has been automatically launched - %1 taşqi ilova bölib, avtomatik ravişda işga tuşirildi
+Relaunch %1 - %1 ni qayta işga tuşiriş
+Dialog - Dialog oynasi
+Info Center - Maʼlumot markazi
+Centralized and convenient overview of system information. - Tizim maʼlumotlarining markazlaşgan va qulay umumiy körinişi.
+(c) 2009, Ben Cooksley - (c) 2009, Ben Cooksley
+System Settings - Tizim moslamalari
+Central configuration center by KDE. - KDE markaziy sozlaş markazi.
+Ben Cooksley - Ben Cooksley
+Maintainer - Taʼminlovçi
+Marco Martin - Marco Martin
+Author - Muallif
+Mathias Soeken - Mathias Soeken
+Developer - Tuzuvçi
+Will Stephenson - Will Stephenson
+Internal module representation, internal module model - Içki modul körinişi, içki modul modeli
+List all possible modules - Barça mumkin bölgan modullarni sanaş
+Configuration module to open - Oçiladigan sozlaş moduli
+Arguments for the module - Modul uçun argumentlar
+The following modules are available: - Quyidagi modullar mavjud:
+No description available - Heç qanday taʼrif mavjud emas
+Reset all current changes to previous values - Barça joriy özgarişlarni oldingi qiymatlarga qaytariş
+Scrollable area - Aylantiriladigan soha
+The current page has unsaved changes.
+Apply the changes or discard them? - Joriy sahifada saqlanmagan özgarişlar bor.
+Özgarişlar qöllansinmi yoki bekor qilinsinmi?
+Apply Settings - Moslamalarni qöllaş
+No items matching your search - Qidiruvingizga mos keladigan elementlar yöq
+Show menu - Menyuni körsatiş
+Plasma - Plasma
+Back - Orqaga
+Highlight Changed Settings - Özgargan sozlamalarni ajratib körsatiş
+Show Inapplicable Pages - Tegişli bölmagan sahifalarni körsatiş
+Report a Bug in the Current Page… - Joriy sahifadagi xato haqida xabar beriş…
+Sidebar - Yon panel
+Most Used - Eng köp işlatilgan
+Finds system settings modules whose names or descriptions match :q: - Nomi yoki tavsifi :q: ga mos keladigan tizim sozlamalari modullarini topadi
+System Information - Tizim haqida maʼlumot

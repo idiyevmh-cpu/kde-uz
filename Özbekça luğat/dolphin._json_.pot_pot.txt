@@ -1,0 +1,7 @@
+Source text - Tarjima text
+Dolphin View - Dolphin körinişi
+Hide - Yarişiriş
+Move to New Folder - Yangi jildga köçiriş
+Set Folder Icon - Jild belgisini tanlaş
+General - Umumiy
+View Modes - Köriniş rejimlari

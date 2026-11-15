@@ -1,0 +1,43 @@
+Remove from Favorites - Saralanganlardan olib taşlaş
+Add to Favorites - Saralanganlarga qöşiş
+On All Activities - Barça faoliyatlarda
+On the Current Activity - Joriy faoliyatda
+Show in Favorites - Saralanganlarda körsatiş
+General - Umumiy
+Icon: - Belgi:
+Choose… - Tanlaş…
+Reset to default icon - Birlamçi belgiga qaytariş
+Show applications as: - Ilovalarni quyidagiça körsatiş:
+Name only - Faqat nomi
+Description only - Faqat tavsifi
+Name (Description) - Nomi (Tavsifi)
+Description (Name) - Tavsifi (Nomi)
+Behavior: - Xatti-harakat:
+Sort applications alphabetically - Ilovalarni alifbo böyiça saralaş
+Flatten sub-menus to a single level - Quyi menyularni bitta darajaga tekislaş
+Show icons on the root level of the menu - Menyu ildiz darajasida belgilarni körsatiş
+Highlight newly-installed applications - Yangi örnatilgan ilovalarni ajratib körsatiş
+Show categories: - Turkumlarni körsatiş:
+Recent applications - Yaqinda işlatilgan ilovalar
+Often used applications - Tez-tez işlatiladigan ilovalar
+Recent files - Yaqinda işlatilgan fayllar
+Often used files - Tez-tez işlatiladigan fayllar
+Recent places - Yaqinda oçilgan joylar
+Often used places - Tez-tez oçiladigan joylar
+Sort items in categories by: - Turkumlardagi elementlarni quyidagiça saralaş:
+Recently used - Yaqinda işlatilgan
+Often used - Tez-tez işlatilgan
+Search: - Qidiruv:
+Expand search to bookmarks, files and emails - Qidiruvni xatçöplar, fayllar va e-poçtalarga kengaytiriş
+Align search results to bottom - Qidiruv natijalarini pastga tekislaş
+Appearance: - Taşqi köriniş:
+Prefer Dark Mode when available - Mavjud bölganda qoronği rejimni afzal köriş
+This feature uses the complementary colors from your colorscheme, which usually feature a dark background. - Bu xususiyat sizning ranglar sxemangizdagi qöşimça ranglardan foydalanadi, ular odatda qoronği fonga ega.
+Favorites - Saralanganlar
+New! - Yangi!
+There is a newly-installed application in this category - Uşbu turkumda yangi örnatilgan ilova mavjud
+Newly-installed application - Yangi örnatilgan ilova
+Open category - Turkumni oçiş
+Launch - Işga tuşiriş
+Edit Applications… - Ilovalarni tahrirlaş…
+No matches - Mos keluvçilar topilmadi

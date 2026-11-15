@@ -1,0 +1,16 @@
+Name of the current icon theme - Joriy belgilar mavzusi nomi
+Unable to create a temporary file. - Vaqtinçalik fayl yaratib bölmadi.
+Unable to download the icon theme archive: %1 - Belgilar mavzusi arxivini yuklab olib bölmadi: %1
+The file is not a valid icon theme archive. - Fayl nişonçalar mavzusining arxivi emas.
+A problem occurred during the installation process; however, most of the themes in the archive have been installed - Örnatiş davomida xato röy berdi. Şunday bölsa ham, arxivdagi mavzulardan köpisi örnatildi
+Theme installed successfully. - Mavzu muvaffakiyatli ornatildi.
+Installing icon themes… - Belgilar mavzulari örnatilmoqda…
+Installing %1 theme… - %1 mavzusi örnatilmoqda…
+Install from File… - Fayldan ornatiş…
+Get New… - Yangilarini oliş…
+Remove icon theme - Belgilar mavzusini olib taşlaş
+Cannot delete the active icon theme - Faol belgilar mavzusini öçirib bölmaydi
+Cannot delete system-installed icon themes - Tizim tomonidan örnatilgan belgilar mavzularini öçirib bölmaydi
+Don’t delete this icon theme - Uşbu belgilar mavzusini öçirmaslik
+Open Theme - Mavzuni oçiş
+Theme Files (*.tar.gz *.tar.bz2) - Mavzu fayllari (*.tar.gz *.tar.bz2)

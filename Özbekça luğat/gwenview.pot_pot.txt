@@ -1,0 +1,465 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Low resource usage mode - Kam resurs sarflaş rejimi
+Enable this option if you do not have a lot of disk space. This will avoid storing thumbnails on disk and will prefer embedded thumbnails of lower quality that are faster to load, if available. - Diskda böş joy kam bölsa, uşbu parametrni yoqing. Bu eskizlarni diskda saqlaşning oldini oladi va tezroq yuklanadigan pastroq sifatli içki eskizlarni (agar mavjud bölsa) afzal köradi.
+Thumbnails: - Eskizlar:
+Squash colors that don't fit within the active color profile's color gamut, leaving other colors untouched - Boşqa ranglarga tegmasdan, faol rang profilining rang qamroviga mos kelmaydigan ranglarni siqiş
+History: - Tarix:
+Relative Colorimetric - Nisbiy kolorimetrik
+Perceptual - Pertseptual (idrok etiladigan)
+Scale all colors equally to fit them within the active color profile's color gamut - Barça ranglarni faol rang profilining rang qamroviga moslaştiriş uçun bir xilda massştablaş
+Rendering intent: - Rang uzatiş usuli:
+Remember folders and URLs - Jildlar va URL manzillarni eslab qoliş
+Enable color management - Ranglarni boşqarişni yoqiş
+When color management is disabled, Gwenview will convert images to the sRGB color space rather than to the color space it detects for the display. This is only appropriate for displays that are calibrated to the sRGB color space or are known to provide an incorrect color profile. - Ranglarni boşqariş öçirilganda, Gwenview tasvirlarni displey uçun aniqlangan rang maydoniga emas, balki sRGB rang maydoniga aylantiradi. Bu faqat sRGB rang maydoniga kalibrlangan yoki notöğri rang profilini taqdim etişi maʼlum bölgan displeylar uçun mos keladi.
+Color management: - Ranglarni boşqariş:
+Sidebar Alignment Spacer - Yon panelni tekislaş oraliği
+View - Köriniş
+Edit Location - Manzilni tahrirlaş
+Sort By - Saralaş:
+Name - Nomi
+Date - Sana
+Size - Hajmi
+Type - Turi
+Rating - Baho
+Descending - Kamayiş tartibida
+Thumbnail Details - Eskiz tafsilotlari
+Filename - Fayl nomi
+Date - Sana
+Image Size - Tasvir ölçami
+File Size - Fayl hajmi
+Rating - Baho
+Show Hidden Files - Yaşirin fayllarni körsatiş
+File - Fayl
+Add Folder to Places - Jildni «Joylar»ga qöşiş
+Selected %1 of %2 (%3) - %2 tadan %1 tasi tanlandi (%3)
+%1 image - %1 ta tasvir
+%1 video - %1 ta video
+%1, %2 - %1, %2
+Add Filter - Filtr qöşiş
+General - Umumiy
+Image View - Tasvirni köriş
+Advanced - Qöşimça
+Copy %1 - Nusxa oliş: %1
+Copy %1 image - %1 ta tasvirdan nusxa oliş
+Copy - Nusxa oliş
+Move %1 - Köçiriş: %1
+Move %1 image - %1 ta tasvirni köçiriş
+Move - Köçiriş
+Link %1 - Havola yaratiş: %1
+Link %1 image - %1 ta tasvirga havola yaratiş
+Link - Havola yaratiş
+Move Here - Şu yerga köçiriş
+Copy Here - Şu yerga nusxa oliş
+Link Here - Şu yerda havola yaratiş
+Cancel - Bekor qiliş
+File Operations - Fayl amallari
+Edit - Tahrirlaş
+Copy To... - Nusxa oliş joyi...
+Move To... - Köçiriş joyi...
+Link To... - Havola yaratiş joyi...
+Rename... - Nomini özgartiriş...
+Trash - Çiqindilar qutisi
+Restore - Qayta tiklaş
+Properties - Xossalar
+Create Folder... - Jild yaratiş...
+Open in New Window - Yangi oynada oçiş
+Open With - ...bilan oçiş
+Open Containing Folder - Joylaşgan jildni oçiş
+Other Application... - Boşqa ilova...
+Name contains - Nomida bor
+Name does not contain - Nomida yöq
+Date >= - Sana >=
+Date = - Sana =
+Date <= - Sana <=
+Rating >= - Baho >=
+Rating = - Baho =
+Rating <= - Baho <=
+Tagged - Teglangan
+Not Tagged - Teglanmagan
+Dimensions >= - Ölçamlari >=
+Dimensions = - Ölçamlari =
+Dimensions <= - Ölçamlari <=
+Height - Balandlik
+Width - Kenglik
+Filter by Name - Nomi böyiça filtrlaş
+Filter by Date - Sanasi böyiça filtrlaş
+Filter by Rating - Bahosi böyiça filtrlaş
+Filter by Tag - Teg böyiça filtrlaş
+Filter by Dimensions - Ölçamlari böyiça filtrlaş
+Slideshow - Slayd-şou
+Interval: - Interval:
+Loop - Takrorlaş (sikl)
+Random - Tasodifiy
+Image Information - Tasvir haqida maʼlumot
+Select Image Information to Display... - Körsatiladigan tasvir maʼlumotlarini tanlaş...
+Thumbnails - Eskizlar
+Show thumbnails - Eskizlarni körsatiş
+Height: - Balandligi:
+,  - , 
+%1 sec - %1 son.
+Configure - Sozlaş
+Configure full screen mode - Töliq ekran rejimini sozlaş
+%1 of %2 - %2 tadan %1
+Videos: - Videolar:
+Show videos - Videolarni körsatiş
+Automatically play - Avtomatik ijro etiş
+Notify after reaching the last image: - Oxirgi tasvirga yetganda xabar beriş:
+Never - Heç qaçon
+Only during slideshows - Faqat slayd-şou vaqtida
+Always - Har doim
+After the last image: - Oxirgi tasvirdan keyin:
+Start over - Boşidan boşlaş
+Fullscreen background: - Töliq ekran orqa foni:
+Dark gray texture - Töq kulrang tekstura
+Black - Qora
+Lossy image save quality: - Yöqotişli tasvirni saqlaş sifati:
+% - %
+The quality level when saving images using lossy image formats such as JPEG, WEBP, AVIF, HEIF, and HEIC. Higher quality increases the file size. - Tasvirlarni JPEG, WEBP, AVIF, HEIF va HEIC kabi yöqotişli formatlarda saqlaşda sifat darajasi. Yuqoriroq sifat fayl hajmini oşiradi.
+Thumbnail actions: - Eskiz amallari:
+All buttons - Barça tugmalar
+Show selection button only - Faqat tanlaş tugmasini körsatiş
+None - Yöq
+Image &quality: - Tasvir &sifati:
+%v% - %v%
+Save Image - Tasvirni saqlaş
+Save using another format - Boşqa formatda saqlaş
+Gwenview cannot save images in '%1' format. - Gwenview tasvirlarni '%1' formatida saqlay olmaydi.
+Gwenview cannot save images as %1. - Gwenview tasvirlarni %1 sifatida saqlay olmaydi.
+<emphasis strong='true'>Saving <filename>%1</filename> failed:</emphasis><nl />%2 - <emphasis strong='true'><filename>%1</filename> faylini saqlaşda xato:</emphasis><nl />%2
+You are now viewing the new document. - Siz hozir yangi hujjatni körmoqdasiz.
+Go back to the original - Asl nusxaga qaytiş
+&Rating - &Baho
+Settings - Sozlamalar
+Main Toolbar - Asosiy asboblar paneli
+Image Information - Tasvir haqida maʼlumot
+Edit - Tahrirlaş
+Rotate Left - Çapga buriş
+Rotate image to the left - Tasvirni çapga buriş
+Rotate Right - Öngga buriş
+Rotate image to the right - Tasvirni öngga buriş
+Mirror - Gorizontal aks ettiriş
+Flip - Vertikal aks ettiriş
+Resize - Ölçamini özgartiriş
+Crop - Qirqiş
+Adjust Colors - Ranglarni sozlaş
+Reduce Red Eye - Qizil köz effektini yöqotiş
+Annotate - Izohlaş (belgilaş)
+Annotate %1 - Izohlaş: %1
+Gwenview cannot edit this kind of image. - Gwenview bu turdagi tasvirni tahrirlay olmaydi.
+Image Operations - Tasvir amallari
+Show transparency with: - Şaffoflikni körsatiş usuli:
+Surrounding background - Atrofdagi orqa fon
+&Checkerboard background - &Şaxmat doskasi foni
+&Solid color background: - &Bir tekis rangli fon:
+Mouse wheel behavior: - Siçqonça ğildiragi harakati:
+Scroll - Aylantiriş
+Browse - Körib çiqiş
+Zoom - Massştablaş (Zoom)
+Zoom mode: - Massştablaş rejimi:
+Autofit each image - Har bir tasvirni avtomatik moslaştiriş
+Keep same zoom and position - Massştab va joylaşuvni saqlab qoliş
+Per image zoom and position - Har bir tasvir uçun alohida massştab va joylaşuv
+Enlarge smaller images - Kiçik tasvirlarni kattalaştiriş
+Animations: - Animatsiyalar:
+OpenGL - OpenGL
+Software - Dasturiy (Software)
+None - Yöq
+<b>Thumbnail Bar</b> - <b>Eskizlar paneli</b>
+Orientation: - Yönaliş:
+Horizontal - Gorizontal
+Vertical - Vertikal
+Row count: - Satrlar soni:
+%1: - %1:
+Show more details... - Köproq tafsilotlarni körsatiş...
+Image Information - Tasvir haqida maʼlumot
+%1 file selected - %1 ta fayl tanlandi
+%1 folder selected - %1 ta jild tanlandi
+%1 and %2 selected - %1 va %2 tanlandi
+%1 folder - %1 ta jild
+%1 file - %1 ta fayl
+Gwenview - Gwenview
+An Image Viewer - Tasvirlarni köriş dasturi
+Start in fullscreen mode - Töliq ekran rejimida işga tuşiriş
+Start in slideshow mode - Slayd-şou rejimida işga tuşiriş
+Start in spotlight mode - Diqqat markazi (spotlight) rejimida işga tuşiriş
+A starting file or folders - Boşlanğiç fayl yoki jildlar
+Clear List - Röyxatni tozalaş
+Reload - Qayta yuklaş
+Replace Location - Manzilni almaştiriş
+Browse - Körib çiqiş
+Browse folders for images - Tasvirlar uçun jildlarni körib çiqiş
+View - Köriniş
+View selected images - Tanlangan tasvirlarni köriş
+Exit Full Screen - Töliq ekrandan çiqiş
+Spotlight Mode - Diqqat markazi rejimi
+Previous - Oldingi
+Go to previous image - Oldingi tasvirga ötiş
+Next - Keyingi
+Go to next image - Keyingi tasvirga ötiş
+First - Birinçi
+Go to first image - Birinçi tasvirga ötiş
+Last - Oxirgi
+Go to last image - Oxirgi tasvirga ötiş
+Start Page - Boş sahifa
+Open the start page - Boş sahifani oçiş
+Sidebar - Yon panel
+Show Editing Tools - Tahrirlaş vositalarini körsatiş
+Share - Ulaşiş
+Error while sharing: %1 - Ulaşişda xatolik: %1
+The shared image link (<a href="%1">%1</a>) has been copied to the clipboard. - Ulaşilgan tasvir havolasi (<a href="%1">%1</a>) vaqtinçalik xotiraga nusxalandi.
+Configure - Sozlaş
+Edit - Tahrirlaş
+Redo - Qayta bajariş
+Undo - Bekor qiliş
+Folders - Jildlar
+Information - Maʼlumot
+Operations - Amallar
+Viewing media - Mediani köriş
+Hide sidebar - Yon panelni yaşiriş
+Show sidebar - Yon panelni körsatiş
+Open Image - Tasvirni oçiş
+Pause Slideshow - Slayd-şouni vaqtinça töxtatiş
+Resume Slideshow - Slayd-şouni davom ettiriş
+Start Slideshow - Slayd-şouni boşlaş
+Save All Changes - Barça özgartirişlarni saqlaş
+Discard Changes - Özgartirişlarni rad etiş
+One image has been modified. - Bitta tasvir özgartirildi.
+If you quit now, your changes will be lost. - Agar hozir çiqsangiz, özgartirişlaringiz yöqoladi.
+This will hide the menu bar completely. You can show it again by typing %1. - Bu menyu panelini butunlay yaşiradi. Uni %1 tugmasini bosib qayta körsatişingiz mumkin.
+Hide menu bar - Menyu panelini yaşiriş
+You reached the first document, what do you want to do? - Siz birinçi hujjatga yetib keldingiz, nima qilmoqçisiz?
+Stay There - Şu yerda qoliş
+Go to the Last Document - Oxirgi hujjatga ötiş
+Go Back to the Document List - Hujjatlar röyxatiga qaytiş
+You reached the last document, what do you want to do? - Siz oxirgi hujjatga yetib keldingiz, nima qilmoqçisiz?
+Go to the First Document - Birinçi hujjatga ötiş
+Rename - Nomini özgartiriş
+Rename <filename>%1</filename> to: - <filename>%1</filename> nomini quyidagiça özgartiriş:
+Rename - Nomini özgartiriş
+Saving... - Saqlanmoqda...
+&Stop - &Töxtatiş
+One document could not be saved: - Bitta hujjatni saqlab bölmadi:
+<filename>%1</filename>: %2 - <filename>%1</filename>: %2
+You have modified many images. To avoid memory problems, you should save your changes. - Siz köplab tasvirlarni özgartirdingiz. Xotira muammolarining oldini oliş uçun özgartirişlarni saqlaşingiz kerak.
+Current image modified - Joriy tasvir özgartirildi
+Previous modified image - Oldingi özgartirilgan tasvir
+Next modified image - Keyingi özgartirilgan tasvir
+One image modified - Bitta tasvir özgartirildi
+Go to first modified image - Birinçi özgartirilgan tasvirga ötiş
+Go to it - Unga ötiş
+Save All - Barçasini saqlaş
+Save all modified images - Barça özgartirilgan tasvirlarni saqlaş
+Edit - Tahrirlaş
+Edit Tags - Teglarni tahrirlaş
+Zero - Nol
+Tag Editor - Teg tahrirlağici
+Previous - Oldingi
+Next - Keyingi
+Rating: - Baho:
+Tags: - Teglar:
+Description - Tavsifi
+Start a Slideshow - Slayd-şouni boşlaş
+Start a Slideshow with selected images - Tanlangan tasvirlar bilan slayd-şouni boşlaş
+Add Folder to Places - Jildni «Joylar»ga qöşiş
+Forget This Folder - Bu jildni unutiş
+Forget All Folders - Barça jildlarni unutiş
+Add Containing Folder to Places - Joylaşgan jildni «Joylar»ga qöşiş
+Forget This File - Bu faylni unutiş
+Forget All Files - Barça fayllarni unutiş
+History has been disabled. - Tarix öçirib qöyilgan.
+Recent Folders - Yaqinda oçilgan jildlar
+Recent Files - Yaqinda oçilgan fayllar
+Places - Joylar
+Tags - Teglar
+Browsing by tags is not available. Make sure Nepomuk is properly installed on your computer. - Teglar böyiça körib çiqiş imkonsiz. Kompyuteringizda Nepomuk töğri örnatilganligiga işonç hosil qiling.
+Synchronize - Sinxronlaştiriş
+Show Thumbnails - Eskizlarni körsatiş
+<para>This toggles a small bar showing all the other images in the current folder. Selecting one of them changes the currently viewed image.</para><para>Select multiple images at the same time to see them side by side.</para><para>The bar can optionally be moved to the right side of the screen and contain multiple rows of images; <link url='%1'>configure these options in the settings</link>.</para> - <para>Bu joriy jilddagi barça boşqa tasvirlarni körsatuvçi kiçik panelni yoqadi yoki öçiradi. Ulardan birini tanlaş hozirda körilayotgan tasvirni özgartiradi.</para><para>Bir vaqtning özida bir neçta tasvirni yonma-yon köriş uçun ularni tanlang.</para><para>Panelni ixtiyoriy ravişda ekranning öng tomoniga köçiriş va bir neçta tasvirlar qatorini öz içiga olişi mumkin; <link url='%1'>bu parametrlarni sozlamalarda moslang</link>.</para>
+Background Color Mode - Orqa fon rangi rejimi
+Discard Changes and Reload - Özgartirişlarni rad etiş va qayta yuklaş
+This image has been modified. Reloading it will discard all your changes. - Bu tasvir özgartirilgan. Uni qayta yuklaş barça özgartirişlaringizni bekor qiladi.
+Show failed files... - Xatolik yuz bergan fayllarni körsatiş...
+Show failed subfolders... - Xatolik yuz bergan quyi jildlarni körsatiş...
+Failed to import %1 document. - %1 ta hujjatni import qilib bölmadi.
+Failed to create %1 destination subfolder. - %1 ta maqsadli quyi jildni yaratib bölmadi.
+Failed to import documents: - Hujjatlarni import qilib bölmadi:
+Failed to create subfolders: - Quyi jildlarni yaratib bölmadi:
+Shooting date - Suratga oliş sanasi
+Shooting time - Suratga oliş vaqti
+Original extension - Asl kengaytma
+Original extension, in lower case - Asl kengaytma, kiçik harflarda
+Original filename - Asl fayl nomi
+Original filename, in lower case - Asl fayl nomi, kiçik harflarda
+One document has been imported. - Bitta hujjat import qilindi.
+One document has been skipped because it had already been imported. - Bitta hujjat allaqaçon import qilinganligi sababli ötkazib yuborildi.
+One of them has been renamed because another document with the same name had already been imported. - Ulardan birining nomi özgartirildi, çunki xuddi şunday nomdagi boşqa hujjat allaqaçon import qilingan edi.
+Delete the imported document from the device? - Import qilingan hujjat qurilmadan öçirilsinmi?
+Delete the skipped document from the device? - Ötkazib yuborilgan hujjat qurilmadan öçirilsinmi?
+Delete the imported or skipped document from the device? - Import qilingan yoki ötkazib yuborilgan hujjat qurilmadan öçirilsinmi?
+Import Finished - Import yakunlandi
+Keep - Qoldiriş
+Failed to delete the document: %2 - Hujjatni öçirib bölmadi: %2
+Retry - Qayta uriniş
+Ignore - Eʼtibor bermaslik
+What do you want to do now? - Endi nima qilmoqçisiz?
+View Imported Documents with Gwenview - Import qilingan hujjatlarni Gwenview orqali köriş
+Import more Documents - Köproq hujjatlarni import qiliş
+Quit - Çiqiş
+Could not create destination folder. - Maqsadli jildni yaratib bölmadi.
+Could not create temporary upload folder. - Vaqtinçalik yuklaş jildini yaratib bölmadi.
+%1: %2 - %1: %2
+Rename documents automatically - Hujjatlar nomini avtomatik özgartiriş
+Rename Format: - Qayta nomlaş formati:
+Preview: - Oldindan köriş:
+<i>Type text or click the items below to customize the format</i> - <i>Formatni moslaştiriş uçun matn kiriting yoki quyidagi elementlarni bosing</i>
+Gwenview Importer - Gwenview import vositasi
+Photo Importer - Fotosuratlar import vositasi
+The device UDI, used to retrieve information about the device (name, icon...) - Qurilma haqida maʼlumot (nomi, nişonça...) oliş uçun işlatiladigan qurilma UDI identifikatori
+Device UDI - Qurilma UDI identifikatori
+Source folder - Manba jildi
+Missing required source folder argument. - Majburiy manba jildi argumenti yetişmayapti.
+Too many arguments. - Argumentlar juda köp.
+Invalid source folder. - Manba jildi notöğri.
+Importing documents... - Hujjatlar import qilinmoqda...
+Support for your camera is not installed. - Kamerangizni qöllab-quvvatlaş moduli örnatilmagan.
+The protocol support library for "%1" is not installed. Error: %2 - "%1" uçun protokolni qöllab-quvvatlaş kutubxonasi örnatilmagan. Xato: %2
+The protocol support library for "%1" is not installed. - "%1" uçun protokolni qöllab-quvvatlaş kutubxonasi örnatilmagan.
+After finishing the installation process, restart this Importer to continue. - Örnatiş jarayoni tugagandan söng, davom etiş uçun uşbu Import vositasini qayta işga tuşiring.
+Launch Discover to install the protocol support library for "%1" - "%1" uçun protokolni qöllab-quvvatlaş kutubxonasini örnatiş maqsadida Discover dasturini işga tuşiriş
+Install Support for this Camera… - Uşbu kamerani qöllab-quvvatlaş modulini örnatiş…
+You need Kamera installed on your system to read from the camera. Click here to launch Discover to install Kamera to enable protocol support for "camera:/" on your system. - Kameradan öqiş uçun tizimingizda Kamera dasturi örnatilgan bölişi kerak. Tizimingizda "camera:/" protokoli qöllab-quvvatlanişini yoqiş va Kamera dasturini örnatiş uçun Discover dasturini işga tuşiriş maqsadida şu yerni bosing.
+Install Protocol Support for "%1"… - "%1" uçun protokolni qöllab-quvvatlaşni örnatiş…
+Click here to launch Discover to install the missing protocol support library to enable the protocol support for "%1:/" on your system. - Tizimingizda "%1:/" protokoli qöllab-quvvatlanişini yoqiş va yetişmayotgan protokolni qöllab-quvvatlaş kutubxonasini örnatiş maqsadida Discover dasturini işga tuşiriş uçun şu yerni bosing.
+Search the Web for How to Install Protocol Support for "%1"… - Internetdan "%1" uçun protokolni qöllab-quvvatlaşni qanday örnatişni qidiriş…
+How to install protocol support for "%1" on Linux - Linuxda "%1" uçun protokolni qöllab-quvvatlaşni qanday örnatiş mumkin
+https://duckduckgo.com/?q=%1 - https://duckduckgo.com/?q=%1
+Import Selected - Tanlanganlarni import qiliş
+Import All - Barçasini import qiliş
+Opening Discover failed.<nl/>Please check if Discover is installed on your system, or use your system's package manager to install "Kamera" package. - Discover dasturini oçişda xatolik yuz berdi.<nl/>Iltimos, tizimingizda Discover örnatilganligini tekşiring yoki "Kamera" paketini örnatiş uçun tizimingizning paketlar boşqaruvçisidan foydalaning.
+Opening Discover failed.<nl/>Please check if Discover is installed on your system, or use your system's package manager to install the protocol support library for "%1". - Discover dasturini oçişda xatolik yuz berdi.<nl/>Iltimos, tizimingizda Discover örnatilganligini tekşiring yoki "%1" uçun protokolni qöllab-quvvatlaş kutubxonasini örnatiş maqsadida tizimingizning paketlar boşqaruvçisidan foydalaning.
+Select the documents to import - Import qilinadigan hujjatlarni tanlang
+Settings... - Sozlamalar...
+Enter the import destination - Import manzilini kiriting
+Listing content of: - Tarkibni köriş:
+Copyright 2000–%1 Gwenview authors - Mualliflik huquqi 2000–%1 Gwenview mualliflari
+Current Maintainer - Joriy kuzatuvçi (Maintainer)
+Developer - Dasturçi
+Adjust Colors - Ranglarni sozlaş
+Brightness: - Yorqinlik:
+Contrast: - Kontrast:
+Gamma: - Gamma:
+Current Image - Joriy tasvir
+Square - Kvadrat
+This Screen - Uşbu ekran
+Landscape - Albom (gorizontal)
+ISO (A4, A3...) - ISO (A4, A3...)
+US Letter - US Letter
+Portrait - Portret (vertikal)
+Advanced settings - Qöşimça sozlamalar
+Aspect ratio: - Tomonlar nisbati:
+Size: - Ölçami:
+Position: - Joylaşuvi:
+Show Gridlines - Tör çiziqlarini körsatiş
+Preserve aspect ratio - Tomonlar nisbatini saqlab qoliş
+Gwenview cannot save this kind of documents. - Gwenview bu turdagi hujjatlarni saqlay olmaydi.
+Gwenview cannot display documents of type %1. Install the kimageformats package to gain support for a wider range of media types. - Gwenview %1 turidagi hujjatlarni körsata olmaydi. Kengroq media turlarini qöllab-quvvatlaş uçun kimageformats paketini örnating.
+Could not open file %1 - %1 faylini oçib bölmadi
+Loading meta information failed. - Meta-maʼlumotlarni yuklaşda xatolik yuz berdi.
+Loading image failed. - Tasvirni yuklaşda xatolik yuz berdi.
+Could not load document %1 - %1 hujjatini yuklab bölmadi
+Could not open file for writing, check that you have the necessary rights in <filename>%1</filename>. - Faylni yoziş uçun oçib bölmadi, <filename>%1</filename> fayliga kerakli huquqlaringiz borligini tekşiring.
+Could not overwrite file, check that you have the necessary rights to write in <filename>%1</filename>. - Faylning ustidan yozib bölmadi, <filename>%1</filename> fayliga yoziş huquqingiz borligini tekşiring.
+Trash - Çiqindilar qutisi
+Deselect - Tanlovni bekor qiliş
+%1x%2 - %1x%2
+%1% - %1%
+Gwenview does not know how to display this kind of document - Gwenview bu turdagi hujjatni qanday körsatişni bilmaydi
+Loading <filename>%1</filename> failed - <filename>%1</filename> faylini yuklaşda xatolik yuz berdi
+Zoom to Fit - Oynaga moslaştiriş
+Fit - Moslaştiriş
+Fit image into the viewing area - Tasvirni köriş maydoniga moslaştiriş
+<para>This fits the image into the available viewing area:<list><item>Images that are bigger than the viewing area are displayed at a smaller size so they fit.</item><item>Images that are smaller than the viewing area are displayed at their normal size. If smaller images should instead use all of the available viewing area, turn on <emphasis>Enlarge smaller images</emphasis> <link url='%2'>in the settings</link>.</item></list></para><para>If "%1" is already enabled, pressing it again will switch it off and the image will be displayed at its normal size instead.</para><para>"%1" is the default zoom mode for images. This can be changed so images are displayed at a previous zoom value instead <link url='%2'>in the settings</link>.</para> - <para>Bu tasvirni mavjud köriş maydoniga moslaştiradi:<list><item>Köriş maydonidan kattaroq tasvirlar mos kelişi uçun kiçikroq ölçamda körsatiladi.</item><item>Köriş maydonidan kiçikroq tasvirlar odatiy ölçamida körsatiladi. Agar kiçikroq tasvirlar mavjud köriş maydonidan töliq foydalanişi kerak bölsa, <link url='%2'>sozlamalarda</link> <emphasis>Kiçik tasvirlarni kattalaştiriş</emphasis> parametrini yoqing.</item></list></para><para>Agar "%1" allaqaçon yoqilgan bölsa, uni qayta bosiş uni öçiradi va tasvir odatiy ölçamida körsatiladi.</para><para>"%1" tasvirlar uçun standart massştablaş rejimidir. Tasvirlar oldingi massştab qiymatida körsatilişi uçun buni <link url='%2'>sozlamalarda</link> özgartiriş mumkin.</para>
+Zoom to fill window by fitting to width or height - Kenglik yoki balandlikka moslaştiriş orqali oynani töldiriş uçun massştablaş
+Fill - Töldiriş
+100% - 100%
+Show Bird's Eye View When Zoomed In - Kattalaştirilganda umumiy köriş oynasini (quş parvozi) körsatiş
+Follow color scheme - Rang sxemasiga amal qiliş
+Light Mode - Yoruğ rejim
+Neutral Mode - Neytral rejim
+Dark Mode - Qoronği rejim
+No document selected - Heç qanday hujjat tanlanmagan
+%1 - %1
+The percentage of memory used by Gwenview before it             warns the user and suggest saving changes. - Gwenview foydalanuvçini ogohlantirişi va özgartirişlarni saqlaşni taklif qilişidan oldin foydalanadigan xotira foizi.
+A list of filename extensions Gwenview should not try to             load. We exclude *.new as well because this is the extension             used for temporary files by KSaveFile. - Gwenview yuklaşga urinmasligi kerak bölgan fayl kengaytmalari röyxati. Biz *.new kengaytmasini ham istisno qilamiz, çunki bu KSaveFile tomonidan vaqtinçalik fayllar uçun işlatiladigan kengaytmadir.
+Defines what happens when going to image B after             having zoomed in on an area of image A.  If set to Autofit,             image B is zoomed out to fit the screen.  If set to KeepSame,             all images share the same zoom and position: image B is set             to the same zoom parameters as image A (and if these are             changed, image A will then be displayed with the updated zoom             and position).  If set to Individual, all images remember             their own zoom and position: image B is initially set to the             same zoom parameters as image A, but will then remember its             own zoom and position (if these are changed, image A will NOT             be displayed with the updated zoom and position). - A tasvirning biror qismini kattalaştirgandan söng B tasvirga ötilganda nima sodir bölişini belgilaydi. Agar Autofit (Avtomatik moslaştiriş) örnatilgan bölsa, B tasvir ekranga moslaşiş uçun kiçraytiriladi. Agar KeepSame (Bir xil saqlaş) örnatilgan bölsa, barça tasvirlar bir xil massştab va joylaşuvga ega böladi: B tasvir A tasvir bilan bir xil massştab parametrlariga örnatiladi (va agar ular özgartirilsa, A tasvir keyin yangilangan massştab va joylaşuv bilan körsatiladi). Agar Individual (Alohida) örnatilgan bölsa, barça tasvirlar öz massştabi va joylaşuvini eslab qoladi: B tasvir dastlab A tasvir bilan bir xil massştab parametrlariga örnatiladi, ammo keyin öz massştabi va joylaşuvini eslab qoladi (agar ular özgartirilsa, A tasvir yangilangan massştab va joylaşuv bilan KÖRSATILMAYDI).
+Defines how colors are rendered when your display             uses an ICC color profile and an image has colors that do not             fit within the profile's color gamut. "Perceptual" will scale             the colors of the entire image so that they all fit within the             display's capabilities. "Relative" will squash only the colors             that cannot be displayed, and leave the other colors alone. - Displeyingiz ICC rang profilidan foydalanganda va tasvirda profilning rang qamroviga mos kelmaydigan ranglar bölganda ranglar qanday uzatilişini belgilaydi. "Perceptual" (Pertseptual) butun tasvir ranglarini displey imkoniyatlariga mos keladigan tarzda massştablaydi. "Relative" (Nisbiy) faqat körsatib bölmaydigan ranglarni siqib çiqaradi va boşqa ranglarni öz holiça qoldiradi.
+Display slide show images in random order - Slayd-şou tasvirlarini tasodifiy tartibda körsatiş
+Show slideshow in fullscreen mode - Slayd-şouni töliq ekran rejimida körsatiş
+Loop on images - Tasvirlarni takroriy aylantiriş (sikl)
+Stop at last image of folder - Jildning oxirgi tasvirida töxtaş
+Interval between images (in seconds) - Tasvirlar orasidagi interval (soniyalarda)
+Restrict crop to image ratio when Advanced Settings disabled - Qöşimça sozlamalar öçirilganda qirqişni tasvir nisbati bilan çelovlaş
+Index representing selected ratio in the Advanced settings combobox - Qöşimça sozlamalar röyxatida tanlangan nisbatni ifodalovçi indeks
+Last used crop ratio width when Advanced Settings enabled - Qöşimça sozlamalar yoqilganda oxirgi işlatilgan qirqiş nisbati kengligi
+Last used crop ratio height when Advanced Settings enabled - Qöşimça sozlamalar yoqilganda oxirgi işlatilgan qirqiş nisbati balandligi
+Last used gridlines visibility when Advanced Settings enabled - Qöşimça sozlamalar yoqilganda tör çiziqlarining oxirgi işlatilgan körinişi
+Last visited: %1 - Oxirgi taşrif: %1
+Close - Yopiş
+Name - Nomi
+File Size - Fayl hajmi
+Date Created - Yaratilgan sana
+Date Modified - Özgartirilgan sana
+Date Accessed - Kirilgan sana
+Path - Yöl
+Image Size - Tasvir ölçami
+Comment - Izoh
+File Type - Fayl turi
+General - Umumiy
+(%1MP) - (%1 MP)
+Property - Xossa
+Value - Qiymat
+Could not open file for writing. - Faylni yoziş uçun oçib bölmadi.
+No data to store. - Saqlaş uçun maʼlumot yöq.
+Print Image - Tasvirni çop etiş
+Image Settings - Tasvir sozlamalari
+Image Position - Tasvir joylaşuvi
+Scaling - Massştablaş
+&No scaling - &Massştablanmasin
+&Fit image to page - Tasvirni sahifaga &moslaştiriş
+&Scale to: - &Massştablaş:
+x - x
+Millimeters - Millimetr
+Centimeters - Santimetr
+Inches - Dyuym
+Keep ratio - Nisbatni saqlaş
+Size: - Ölçami:
+Click on a red eye and choose a size, or double-click to correct instantly. - Qizil köz ustiga bosing va ölçamni tanlang yoki darhol töğrilaş uçun ikki marta bosing.
+Assuming that the image format won't be changed and for lossy images using the value set in 'Lossy image save quality'. - Tasvir formati özgarmaydi deb faraz qilinadi va yöqotişli tasvirlar uçun 'Yöqotişli tasvirni saqlaş sifati'da belgilangan qiymat işlatiladi.
+error - xato
+Resize - Ölçamini özgartiriş
+Resize Image - Tasvir ölçamini özgartiriş
+Estimated new file size: - Taxminiy yangi fayl hajmi:
+New size: - Yangi ölçam:
+ % -  %
+ px -  piks.
+Current file size: - Joriy fayl hajmi:
+Keep aspect ratio - Tomonlar nisbatini saqlab qoliş
+Current size: - Joriy ölçam:
+Assign this tag to all selected images - Uşbu tegni barça tanlangan tasvirlarga biriktiriş
+Add tag - Teg qöşiş
+Loop - Takrorlaş (sikl)
+Random - Tasodifiy
+Toggle selection - Tanlovni almaştiriş
+Full screen - Töliq ekran
+Rotate left - Çapga buriş
+Rotate right - Öngga buriş
+Save - Saqlaş
+Rotate Right - Öngga buriş
+Rotate Left - Çapga buriş
+Mirror - Gorizontal aks ettiriş
+Flip - Vertikal aks ettiriş
+Transform - Şaklini özgartiriş
+Properties - Xossalar
+&File - &Fayl
+&View - &Köriniş

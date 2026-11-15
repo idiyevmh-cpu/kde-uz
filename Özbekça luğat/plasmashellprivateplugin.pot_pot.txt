@@ -1,0 +1,84 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Battery %1 - Batareya %1
+Battery - Batareya
+Lithium Ion - Litiy-ion
+Lithium Polymer - Litiy-polimer
+Lithium Iron Phosphate - Litiy temir fosfat
+Lead Acid - Qörğoşin-kislotali
+Nickel Cadmium - Nikel-kadmiy
+Nickel Metal Hydride - Nikel-metall gidrid
+%1 Battery - %1 batareyasi
+Holidays - Bayramlar
+Events - Voqealar
+Todo - Vazifalar
+Other - Boşqa
+%1 event - %1 ta voqea
+No events - Voqealar yöq
+%1 %2 - %1 %2
+Days - Kunlar
+Months - Oylar
+Years - Yillar
+Previous Month - Oldingi oy
+Previous Year - Oldingi yil
+Previous Decade - Oldingi ön yillik
+Today - Bugun
+Reset calendar to today - Taqvimni bugungi kunga qaytariş
+Next Month - Keyingi oy
+Next Year - Keyingi yil
+Next Decade - Keyingi ön yillik
+Keep Open - Oçiq qoldiriş
+Configure… - Sozlaş…
+Hide On-Screen Keyboard - Ekrandagi klaviaturani yaşiriş
+Show On-Screen Keyboard - Ekrandagi klaviaturani körsatiş
+Switch layout - Terilmani almaştiriş
+Screen lock enabled - Ekranni qulflaş yoqilgan
+Sets whether the screen will be locked after the specified time. - Belgilangan vaqtdan keyin ekran qulflanişini belgilaydi.
+New Session - Yangi seans
+Filters - Filtrlar
+This widget was written for an unknown older version of Plasma and is not compatible with Plasma %1. Please contact the widget's author for an updated version. - Uşbu vidjet Plasmaning nomaʼlum eski versiyasi uçun yozilgan va Plasma %1 bilan mos kelmaydi. Yangilangan versiya uçun vidjet muallifi bilan boğlaning.
+This widget was written for Plasma %1 and is not compatible with Plasma %2. Please contact the widget's author for an updated version. - Uşbu vidjet Plasma %1 uçun yozilgan va Plasma %2 bilan mos kelmaydi. Yangilangan versiya uçun vidjet muallifi bilan boğlaning.
+This widget was written for Plasma %1 and is not compatible with Plasma %2. Please update Plasma in order to use the widget. - Uşbu vidjet Plasma %1 uçun yozilgan va Plasma %2 bilan mos kelmaydi. Vidjetdan foydalaniş uçun Plasmani yangilang.
+This widget was written for Plasma %1 and is not compatible with the older version of Plasma installed on this system. Please update Plasma in order to use the widget. - Uşbu vidjet Plasma %1 uçun yozilgan va tizimda örnatilgan eski Plasma versiyasiga mos kelmaydi. Vidjetdan foydalaniş uçun Plasmani yangilang.
+Accessibility - Maxsus imkoniyatlar
+Application Launchers - Ilovalarni işga tuşirgiçlar
+Astronomy - Astronomiya
+Date and Time - Sana va vaqt
+Development Tools - Dasturlaş vositalari
+Education - Taʼlim
+Environment and Weather - Atrof-muhit va ob-havo
+Examples - Namunalar
+File System - Fayl tizimi
+Fun and Games - Öyin-kulgi va öyinlar
+Graphics - Grafika
+Language - Til
+Mapping - Xaritalaş
+Miscellaneous - Turli xil
+Multimedia - Multimedia
+Online Services - Onlayn xizmatlar
+Personal Information - Şaxsiy maʼlumotlar
+Productivity - Hosildorlik va iş unumdorligi
+System Information - Tizim maʼlumotlari
+Utilities - Yordamçi dasturlar
+Windows and Tasks - Oynalar va vazifalar
+Clipboard - Almaşiş buferi
+Tasks - Vazifalar
+All Widgets - Barça vidjetlar
+Running - Işlayotganlar
+User-installed - Foydalanuvçi tomonidan örnatilgan
+Recently installed - Yaqinda örnatilgan
+Categories: - Turkumlar:
+Download New Plasma Widgets - Yangi Plasma vidjetlarini yuklab oliş
+Install Widget From Local File… - Vidjetni mahalliy fayldan örnatiş…
+Get New Widgets - Yangi vidjetlarni oliş
+Select Plasmoid File - Plasmoid faylini tanlang
+Installing the package %1 failed: %2. - %1 paketini örnatiş muvaffaqiyatsiz böldi: %2.
+Installation Failure - Örnatişda xatolik
+The currently selected time zone is not available for visualization on this map - Hozirda tanlangan vaqt mintaqasi uşbu xaritada tasvirlaş uçun mavjud emas
+Choose… - Tanlaş…
+Region: - Hudud:
+Time zone: - Vaqt mintaqasi:
+Zoom in - Kattalaştiriş
+Zoom out - Kiçraytiriş
+Timezone region selector - Vaqt mintaqasi hududini tanlagiç
+Timezone location selector - Vaqt mintaqasi joylaşuvini tanlagiç

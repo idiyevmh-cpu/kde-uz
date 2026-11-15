@@ -1,0 +1,11 @@
+Source text - Tarjima text
+Breeze - Breeze
+Breeze Window Decoration - Breeze oyna bezagi
+Breeze Widget Style - Breeze vidjet uslubi
+Hanabi - Hanabi
+Window decoration using the Breeze visual style for the Plasma Desktop - Plasma Desktop uçun Breeze vizual uslubidagi oyna bezagi
+Modify the appearance of window decorations - Oyna bezaklarining taşqi körinişini özgartiriş
+Modify the appearance of widgets - Vidjetlarning taşqi körinişini özgartiriş
+breeze,decoration - breeze,bezak,bezaklar
+breeze,widget,style - breeze,vidjet,uslub
+Krystian Zajdel - Krystian Zajdel

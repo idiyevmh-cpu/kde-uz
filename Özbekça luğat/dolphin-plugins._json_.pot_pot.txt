@@ -1,0 +1,8 @@
+Source text - Tarjima text
+Bazaar - Bazaar (versiyalar boşqaruvi)
+Dropbox - Dropbox (bulut xizmati)
+Git - Git (versiyalar boşqaruvi)
+Mercurial - Mercurial
+Makefile Actions - Makefile amallari
+Mount ISO and disk images - ISO va disk obrazlarini ulaş
+Subversion - Subversion (SVN)

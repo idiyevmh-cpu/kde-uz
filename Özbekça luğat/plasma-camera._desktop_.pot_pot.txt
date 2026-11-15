@@ -1,0 +1,3 @@
+Source text - Tarjima text
+Camera - Kamera
+Camera Application - Kamera ilovasi

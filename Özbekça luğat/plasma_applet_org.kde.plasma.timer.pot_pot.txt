@@ -1,0 +1,32 @@
+Pause Timer - Taymerni vaqtinça töxtatiş
+Start Timer - Taymerni boşlaş
+General - Umumiy
+Predefined Timers - Oldindan belgilangan taymerlar
+Display: - Köriniş:
+Show title: - Sarlavhani körsatiş:
+Show remaining time - Qolgan vaqtni körsatiş
+Show seconds - Soniyalarni körsatiş
+Show timer toggle - Taymer tugmaçasini körsatiş
+Show progress bar - Jarayon panelini körsatiş
+On timeout: - Vaqt tugaganda:
+Show notification: - Bildirişnomani körsatiş:
+Timer finished - Taymer tugadi
+Run command: - Buyruqni işga tuşiriş:
+kdialog --msgbox 'Timer finished' - kdialog --msgbox 'Taymer tugadi'
+Add - Qöşiş
+If you add predefined timers here, they will appear in the widget’s context menu. - Agar bu yerda oldindan belgilangan taymerlarni qöşsangiz, ular vidjet kontekst menyusida paydo böladi.
+Apply - Qöllaş
+Cancel - &Bekor qiliş
+Edit - Tahrirlaş
+Delete - Öçiriş
+%1 is running - %1 işlamoqda
+%1 not running - %1 işlamayapti
+%1 of %2 left - %2 dan %1 qoldi
+Use mouse wheel to change digits or choose from predefined timers in the context menu - Raqamlarni özgartiriş uçun siçqonça ğildiragidan foydalaning yoki kontekst menyusidan tanlang
+%1 left of %2 - %2 dan %1 qoldi
+Timer - Taymer
+Timer finished - Taymer tugadi
+&Start (%1) - &Boşlaş (%1)
+&Start - &Boşlaş
+S&top - &Töxtatiş
+&Reset - &Tiklaş

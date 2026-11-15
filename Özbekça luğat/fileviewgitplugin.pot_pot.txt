@@ -1,0 +1,113 @@
+<application>Git</application> Checkout - <application>Git</application> Checkout
+Checkout - Checkout
+Branch: - Tarmoq:
+Tag: - Teg:
+Commit: - Kommit:
+Options - Parametrlar
+Create New Branch:  - Yangi tarmoq yaratiş: 
+Create a new branch based on a selected branch or tag. - Tanlangan tarmoq yoki teg asosida yangi tarmoq yaratiş.
+Force - Majburiy
+Discard local changes. - Mahalliy özgarişlarni bekor qiliş.
+There are no tags in this repository. - Bu omborda teglar yöq.
+Branch Base - Tarmoq bazasi
+Checkout - Checkout
+You must enter a valid name for the new branch first. - Avval yangi tarmoq uçun yaroqli nom kiritişingiz kerak.
+A branch with the name '%1' already exists. - '%1' nomli tarmoq allaqaçon mavjud.
+Branch names may not contain any whitespace. - Tarmoq nomlarida böş joy bölmasligi kerak.
+You must select a valid branch first. - Avval yaroqli tarmoqni tanlaşingiz kerak.
+You must enter a valid commit Id (Sha signature). - Yaroqli kommit ID-sini (Sha imzosini) kiritişingiz kerak.
+branch - tarmoq
+a git repository url or path - git ombori URL manzili yoki yöli
+Recursively clone submodules - Qism modullarni (submodules) rekursiv klonlaş
+Url: - URL:
+Directory: - Jild:
+Branch: - Tarmoq:
+Recursive - Rekursiv
+Clone - Klonlaş
+Choose a clone directory - Klonlaş jildini tanlang
+<application>Git</application> Clone - <application>Git</application> klonlaş
+<application>Git</application> Commit - <application>Git</application> kommit
+Commit - Kommit qiliş
+Commit message - Kommit xabari
+Amend last commit - Oxirgi kommitni töğrilaş (amend)
+There is nothing to amend. - Töğrilaş (amend) uçun heç narsa yöq.
+Sign off - Sign-off (imzo qöyiş)
+Add Signed-off-by line at the end of the commit message. - Kommit xabari oxiriga Signed-off-by qatorini qöşiş.
+You must enter a commit message first. - Avval kommit xabarini kiritişingiz kerak.
+<application>Git</application> Revert - <application>Git</application> qaytariş (revert)
+<application>Git</application> Add - <application>Git</application> qöşiş
+Show Local <application>Git</application> Changes - Mahalliy <application>Git</application> özgarişlarini körsatiş
+<application>Git</application> Restore staged - <application>Git</application> Staged holatini tiklaş
+<application>Git</application> Remove - <application>Git</application> öçiriş
+<application>Git</application> Checkout... - <application>Git</application> Checkout...
+<application>Git</application> Commit... - <application>Git</application> kommit...
+<application>Git</application> Create Tag... - <application>Git</application> teg yaratiş...
+<application>Git</application> Push... - <application>Git</application> Push...
+<application>Git</application> Pull... - <application>Git</application> Pull...
+<application>Git</application> Merge... - <application>Git</application> birlaştiriş...
+<application>Git</application> Clone... - <application>Git</application> klonlaş...
+<application>Git</application> Log... - <application>Git</application> jurnali...
+Adding files to <application>Git</application> repository... - Fayllar <application>Git</application> omboriga qöşilmoqda...
+Adding files to <application>Git</application> repository failed. - Fayllarni <application>Git</application> omboriga qöşiş muvaffaqiyatsiz böldi.
+Added files to <application>Git</application> repository. - Fayllar <application>Git</application> omboriga qöşildi.
+Removing files from <application>Git</application> repository... - Fayllar <application>Git</application> omboridan olib taşlanmoqda...
+Removing files from <application>Git</application> repository failed. - Fayllarni <application>Git</application> omboridan olib taşlaş muvaffaqiyatsiz böldi.
+Removed files from <application>Git</application> repository. - Fayllar <application>Git</application> omboridan olib taşlandi.
+Reverting files from <application>Git</application> repository... - <application>Git</application> omboridagi fayllar asl holiga qaytarilmoqda...
+Reverting files from <application>Git</application> repository failed. - <application>Git</application> omboridagi fayllarni asl holiga qaytariş muvaffaqiyatsiz böldi.
+Reverted files from <application>Git</application> repository. - <application>Git</application> omboridagi fayllar asl holiga qaytarildi.
+<application>Git</application> Log failed. - <application>Git</application> jurnali muvaffaqiyatsiz böldi.
+<application>Git</application> Log - <application>Git</application> jurnali
+Commit - Kommit
+Date - Sana
+Message - Xabar
+Author - Muallif
+Restoring staged files from <application>Git</application> repository... - <application>Git</application> omboridan staged fayllar tiklanmoqda...
+Restoring staged files from <application>Git</application> repository failed. - <application>Git</application> omboridan staged fayllarni tiklaş muvaffaqiyatsiz böldi.
+Restoring staged files from <application>Git</application> repository. - <application>Git</application> omboridan staged fayllar tiklandi.
+<application>Git</application> error starting: %1 - <application>Git</application> işga tuşişida xatolik: %1
+<application>Git</application> clone failed: %1 - <application>Git</application> klonlaş muvaffaqiyatsiz böldi: %1
+<application>Git</application> clone complete. - <application>Git</application> klonlaş yakunlandi.
+<application>Git</application> cloning repository... - <application>Git</application> ombori klonlanmoqda...
+Switched to branch '%1' - '%1' tarmoğiga ötildi
+HEAD is now at %1 - HEAD hozirda %1 da
+Switched to a new branch '%1' - Yangi '%1' tarmoğiga ötildi
+<application>Git</application> Checkout failed. Maybe your working directory is dirty. - <application>Git</application> Checkout muvaffaqiyatsiz böldi. Balki işçi katalogingizda saqlanmagan özgarişlar bordir.
+Successfully created tag '%1' - '%1' tegi muvaffaqiyatli yaratildi
+<application>Git</application> tag creation failed. A tag with the name '%1' already exists. - <application>Git</application> tegini yaratiş muvaffaqiyatsiz böldi. '%1' nomli teg allaqaçon mavjud.
+<application>Git</application> tag creation failed. - <application>Git</application> teg yaratiş muvaffaqiyatsiz böldi.
+Pushing branch %1 to %2:%3 failed. - %1 tarmoğini %2:%3 ga yuboriş (push) muvaffaqiyatsiz böldi.
+Pushed branch %1 to %2:%3. - %1 tarmoği %2:%3 ga yuborildi (push).
+Pushing branch %1 to %2:%3... - %1 tarmoği %2:%3 ga yuborilmoqda (push)...
+Pulling branch %1 from %2 failed. - %1 tarmoğini %2 dan tortib oliş (pull) muvaffaqiyatsiz böldi.
+Pulled branch %1 from %2 successfully. - %1 tarmoği %2 dan muvaffaqiyatli tortib olindi (pull).
+Pulling branch %1 from %2... - %1 tarmoği %2 dan tortib olinmoqda (pull)...
+Branch is already up-to-date. - Tarmoq allaqaçon eng sönggi holatda.
+Merge conflicts occurred. Fix them and commit the result. - Birlaştiriş ziddiyatlari (merge conflicts) yuz berdi. Ularni bartaraf eting va natijani kommit qiling.
+Dialog height - Muloqot oynasi balandligi
+Dialog width - Muloqot oynasi kengligi
+<application>Git</application> Pull - <application>Git</application> tortib oliş (pull)
+Pull - Tortib oliş (pull)
+Source - Manba
+Remote: - Masofaviy ombor (remote):
+Remote branch: - Masofaviy tarmoq:
+<application>Git</application> Push - <application>Git</application> yuboriş (push)
+Push - Yuboriş (push)
+Destination - Manzil
+Branches - Tarmoqlar
+Local Branch: - Mahalliy tarmoq:
+Remote Branch: - Masofaviy tarmoq:
+Force with lease - Ehtiyotkor majburlaş (force with lease)
+Proceed even if the remote branch is not an ancestor of the local branch provided there were no changes in the remote branch since the last fetch. - Oxirgi olingan (fetch) vaqtdan beri masofaviy tarmoqda heç qanday özgariş bölmasa, masofaviy tarmoq mahalliy tarmoqning ajdodi bölmasa ham davom etiş.
+No remotes defined. - Masofaviy omborlar (remotes) belgilanmagan.
+Push New Branch - Yangi tarmoqni yuboriş (push)
+<application>Git</application> Create Tag - <application>Git</application> teg yaratiş
+Create Tag - Teg yaratiş
+Tag Information - Teg maʼlumoti
+Tag Name: - Teg nomi:
+Tag Message: - Teg xabari:
+Attach to - Biriktiriş
+Branch: - Tarmoq:
+You must enter a tag name first. - Avval teg nomini kiritişingiz kerak.
+Tag names may not contain any whitespace. - Teg nomlarida böş joy bölmasligi kerak.
+A tag named '%1' already exists. - '%1' nomli teg allaqaçon mavjud.

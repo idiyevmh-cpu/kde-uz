@@ -1,0 +1,14 @@
+Source text - Tarjima text
+How many months keep the activity history - Faoliyat tarixini neça oy saqlaş kerak
+Forever - Doimiy (Har doim)
+Forget the last hour - Sönggi bir soatni unutiş
+Forget the last two hours - Sönggi ikki soatni unutiş
+Forget a day - Bir kunlikni unutiş
+Forget everything - Barçasini tozalaş (unutiş)
+Cleared the activity history. - Faoliyat tarixi tozalandi.
+Keep history: - Tarixni saqlaş:
+Clear History - Tarixni tozalaş
+For all applications - Barça ilovalar uçun
+Do not remember - Eslab qolmaslik
+Only for specific applications: - Faqat tanlangan ilovalar uçun:
+Remember opened documents: - Oçilgan hujjatlarni eslab qoliş:

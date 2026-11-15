@@ -1,0 +1,22 @@
+XML Tools - XML asboblari
+&Insert Element... - &Element kiritiş...
+&Close Element - Elementni &yopiş
+Assign Meta &DTD... - Meta &DTD tayinlaş...
+Assign Meta DTD in XML Format - XML formatida Meta DTD tayinlaş
+The current file has been identified as a document of type "%1". The meta DTD for this document type will now be loaded. - Joriy fayl "%1" turidagi hujjat sifatida aniqlandi. Uşbu hujjat turi uçun meta DTD yuklanadi.
+Loading XML Meta DTD - XML Meta DTD yuklanmoqda
+The file '%1' could not be opened. The server returned an error. - '%1' faylini oçib bölmadi. Server xato qaytardi.
+XML Plugin Error - XML plagini xatosi
+XML entities - XML mohiyatlari (entities)
+XML attribute values - XML atribut qiymatlari
+XML attributes - XML atributlari
+XML elements - XML elementlari
+Insert XML Element - XML elementini kiritiş
+Enter XML tag name and attributes ("<", ">" and closing tag will be supplied): - XML teg nomi va atributlarini kiriting ("<", ">" va yopuvçi teg avtomatik qöyiladi):
+The file '%1' could not be parsed. Please check that the file is well-formed XML. - '%1' faylini tahlil qilib bölmadi. Iltimos, fayl töğri tuzilgan XML ekanligini tekşiring.
+The file '%1' is not in the expected format. Please check that the file is of this type:
+-//Norman Walsh//DTD DTDParse V2.0//EN
+You can produce such files with dtdparse. See the Kate Plugin documentation for more information. - '%1' fayli kutilgan formatda emas.
+Analyzing meta DTD... - Meta DTD tahlil qilinmoqda...
+Cancel - &Bekor qiliş
+&XML - &XML

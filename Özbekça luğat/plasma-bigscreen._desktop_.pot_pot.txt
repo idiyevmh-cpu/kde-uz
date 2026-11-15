@@ -1,0 +1,9 @@
+Source text - Tarjima text
+Plasma Bigscreen - Plasma Bigscreen (Katta ekran)
+Switch into a Plasma Bigscreen session - Plasma Bigscreen seansiga ötiş
+Plasma Bigscreen by KDE - KDE tomonidan taqdim etilgan Plasma Bigscreen
+Plasma Bigscreen (Development) - Plasma Bigscreen (Işlab çiqiş versiyasi)
+Plasma Bigscreen Input Handler - Plasma Bigscreen kiritiş boşqaruvçisi
+Plasma Bigscreen Link Redirector - Plasma Bigscreen havolalarni yönaltiruvçi
+Settings - Sozlamalar
+UVC Viewer - UVC köruvçi

@@ -1,0 +1,19 @@
+Source text - Tarjima text
+Plasma Setup - Plasma tizimini sozlaş
+Run the initial system setup for KDE - KDE uçun dastlabki tizim sozlaşini işga tuşiriş
+Create User - Foydalanuvçi yaratiş
+Create the initial user account - Dastlabki foydalanuvçi hisobini yaratiş
+Create Completion Flag File - Sozlaş yakunlanganligi belgisi faylini yaratiş
+Write the /etc/plasma-setup-done marker to prevent rerunning setup - Sozlaş qayta işga tuşmasligi uçun /etc/plasma-setup-done belgisini yoziş
+Create New User Autostart Hook - Yangi foydalanuvçi avto-işga tuşiriş xizmatini yaratiş
+Create an autostart hook for the newly created user - Yangi yaratilgan foydalanuvçi uçun avtomatik işga tuşiriş qoidasini yaratiş
+Remove Autologin - Avtomatik kirişni olib taşlaş
+Remove Display Manager autologin configuration - Displey menejerining avtomatik kiriş sozlamalarini olib taşlaş
+Set New User Global Theme - Yangi foydalanuvçi global mavzusini örnatiş
+Set the global theme for the new user - Yangi foydalanuvçi uçun global mavzuni belgilaş
+Set New User Display Scaling - Yangi foydalanuvçi displey masştabini örnatiş
+Set display scaling for the new user - Yangi foydalanuvçi uçun displey masştabini belgilaş
+Set New User Home Directory Ownership - Yangi foydalanuvçi uy jildi egaligini belgilaş
+Set ownership of the new users home directory to the newly created user - Yangi yaratilgan foydalanuvçiga uning uy jildi egalik huquqini biriktiriş
+Set New User Temporary Autologin - Yangi foydalanuvçi vaqtinçalik avtomatik kirişini sozlaş
+Set display manager temporary autologin configuration for the newly created user - Yangi foydalanuvçi uçun displey menejerida vaqtinçalik avtomatik kirişni sozlaş

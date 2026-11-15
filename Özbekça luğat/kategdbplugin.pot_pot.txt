@@ -1,0 +1,142 @@
+A debugging session is on course. Please, use re-run or stop the current session. - Nosozliklarni tuzatiş seansi davom etmoqda. Qayta işga tuşiring yoki töxtating.
+Line Breakpoints - Qator töxtaş nuqtalari
+Function Breakpoints - Funksiya töxtaş nuqtalari
+Exception Breakpoints - Istisno töxtaş nuqtalari
+verified - tekşirildi
+pending - kutilmoqda
+Add Function Breakpoint… - Funksiya töxtaş nuqtasini qöşiş…
+Clear All Function Breakpoints - Barça funksiya töxtaş nuqtalarini tozalaş
+Remove Breakpoint - Töxtaş nuqtasini olib taşlaş
+Breakpoint - Töxtaş nuqtasi
+line %1 already has a breakpoint - %1 qatorida allaqaçon töxtaş nuqtasi bor
+No breakpoints set - Töxtaş nuqtalari belgilanmagan
+Add Function Breakpoint - Funksiya töxtaş nuqtasini qöşiş
+Function name: - Funksiya nomi:
+Add new target - Yangi nişon qöşiş
+Copy target - Nişondan nusxa oliş
+Delete target - Nişonni öçiriş
+Reload launch.json targets - launch.json nişonlarini qayta yuklaş
+Executable: - Bajariluvçi fayl:
+Working Directory: - Işçi jild:
+Process Id: - Jarayon ID-si:
+Arguments: - Argumentlar:
+Keep focus - Fokusni saqlab qoliş
+Keep the focus on the command line - Fokusni buyruqlar satrida saqlab qoliş
+Redirect IO - IO-ni yönaltiriş
+Redirect the debugged programs IO to a separate tab - Dastur IO-sini alohida varaqqa yönaltiriş
+No executable target set - Bajariluvçi nişon belgilanmagan
+Invalid process id - Yaroqsiz jarayon ID-si
+Target %1 - Nişon %1
+Select Executable - Bajariluvçi faylni tanlang
+Select Working Directory - Işçi jildni tanlang
+the incompatible server did not honor the specification - mos kelmaydigan server spetsifikatsiyaga amal qilmadi
+DAP backend '%1' failed - DAP bekendi '%1' muvaffaqiyatsiz böldi
+program terminated - dastur töxtatildi
+Failed to terminate. Forcing shutdown... - Tugatib bölmadi. Majburiy töxtatilmoqda...
+requesting disconnection - uziliş söralmoqda
+requesting shutdown - töxtatiş söralmoqda
+DAP backend: %1 - DAP bekendi: %1
+stopped (%1). - töxtatildi (%1).
+Active thread: %1 (all threads stopped). - Faol oqim: %1 (barça oqimlar töxtatildi).
+Active thread: %1. - Faol oqim: %1.
+Breakpoint(s) reached: - Töxtaş nuqta(lar)iga yetildi:
+(continued) thread %1 - %1 oqim davom ettirildi
+all threads continued - barça oqimlar davom ettirildi
+(running) - (işlamoqda)
+*** connection with server closed *** - *** server bilan aloqa uzildi ***
+program exited with code %1 - dastur çiqiş kodi %1 bilan yakunlandi
+*** waiting for user actions *** - *** foydalanuvçi amallari kutilmoqda ***
+error on response: %1 - javobda xatolik: %1
+important - muhim
+telemetry - telemetriya
+debugging process [%1] %2 - nosozliklar tuzatilayotgan jarayon [%1] %2
+debugging process %1 - nosozliklar tuzatilayotgan jarayon %1
+Start method: %1 - Boşlaş usuli: %1
+thread %1 - oqim %1
+breakpoint set - töxtaş nuqtasi örnatildi
+(%1) breakpoint - (%1) töxtaş nuqtasi
+<not evaluated> - <hisoblanmagan>
+server capabilities - server imkoniyatlari
+supported - qöllab-quvvatlanadi
+unsupported - qöllab-quvvatlanmaydi
+conditional breakpoints - şartli töxtaş nuqtalari
+function breakpoints - funksiya töxtaş nuqtalari
+hit conditional breakpoints - yetib borilgan şartli töxtaş nuqtalari
+log points - jurnal nuqtalari
+modules request - modullar sörovi
+goto targets request - nişonlarga ötiş sörovi
+terminate request - töxtatiş sörovi
+terminate debuggee - tuzatilayotgan dasturni töxtatiş
+exception breakpoint filters - istisno töxtaş nuqtasi filtrlari
+syntax error: expression not found - sintaksis xatosi: ifoda topilmadi
+syntax error: %1 - sintaksis xatosi: %1
+invalid line: %1 - yaroqsiz qator: %1
+file not specified: %1 - fayl körsatilmadi: %1
+invalid thread id: %1 - yaroqsiz oqim id: %1
+thread id not specified: %1 - oqim id körsatilmadi: %1
+Available commands: - Mavjud buyruqlar:
+conditional breakpoints are not supported by the server - şartli töxtaş nuqtalari server tomonidan qöllab-quvvatlanmaydi
+hit conditional breakpoints are not supported by the server - yetib borilgan şartli töxtaş nuqtalari server tomonidan qöllab-quvvatlanmaydi
+Current thread:  - Joriy oqim: 
+none - yöq
+Current frame:  - Joriy freym: 
+Session state:  - Seans holati: 
+initializing - initsializatsiya qilinmoqda
+running - işlamoqda
+stopped - töxtatildi
+terminated - töxtatildi
+disconnected - uzildi
+command not found - buyruq topilmadi
+missing thread id - oqim id yetişmayapti
+Current frame [%3]: %1:%2 (%4) - Joriy freym [%3]: %1:%2 (%4)
+Debugger - Sozlagiç (Debugger)
+Failed to parse .vscode/launch.json at %1.  - %1 da .vscode/launch.json tahlil qilinmadi. 
+ at %1:%2 -  %1:%2 da
+type - Turi
+indexed items - indekslangan elementlar
+named items - nomlangan elementlar
+Loading... - Yuklanmoqda...
+Symbol - Belgi
+Type - Turi
+Value - Qiymat
+Copy Symbol - Belgidan nusxa oliş
+Copy Value - Qiymatdan nusxa oliş
+Kate Debug - Kate Nosozliklarni tuzatiş
+Debug View - Nosozliklarni tuzatiş körinişi
+Debug - Nosozliklarni tuzatiş
+Locals and Stack - Mahalliy özgaruvçilar va Stek
+Breakpoints - Töxtaş nuqtalari
+<title>Could not open file:</title><nl/>%1 - <title>Faylni oçib bölmadi:</title><nl/>%1
+Targets - Nişonlar
+Start Debugging - Nosozliklarni tuzatişni boşlaş
+Kill / Stop Debugging - Tugatiş / Tuzatişni töxtatiş
+Continue - Davom etiş
+Toggle Breakpoint / Break - Töxtaş nuqtasini yoqiş/öçiriş
+Clear All Breakpoints - Barça töxtaş nuqtalarini tozalaş
+Step In - Içiga qadam (Step In)
+Step Over - Ustidan qadam (Step Over)
+Step Out - Taşqariga qadam (Step Out)
+Run To Cursor - Kursor turgan joygaça bajariş
+Restart Debugging - Nosozliklarni tuzatişni qayta boşlaş
+Clear Output - Çiqişni tozalaş
+Hot Reload - Tezkor qayta yuklaş (Hot Reload)
+Hot Restart - Tezkor qayta işga tuşiriş (Hot Restart)
+Enable Hot Reload on Save - Saqlaşda Hot Reload-ni yoqiş
+Move PC - Dastur hisoblagiçini (PC) köçiriş
+Print Value - Qiymatni çop etiş
+Error: %1 - Xato: %1
+Insert breakpoint - Töxtaş nuqtasini kiritiş
+Toggle breakpoint - Töxtaş nuqtasini yoqiş/öçiriş
+Execution point - Ijro nuqtasi
+Debug Output - Nosozliklarni tuzatiş çiqişi
+Settings - Moslamalar
+IO - IO
+Nr - Nr
+Function - Funksiya
+Location - Joylaşuv
+Thread %1 - Oqim %1
+Copy Stack Trace - Stek izidan nusxa oliş
+Open Location - Joylaşuvni oçiş
+Copy Location - Joylaşuvdan nusxa oliş
+&Debug - &Nosozliklarni tuzatiş
+Debug Plugin - Nosozliklarni tuzatiş plagini

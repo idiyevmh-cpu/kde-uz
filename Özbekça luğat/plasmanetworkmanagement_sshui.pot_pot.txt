@@ -1,0 +1,26 @@
+Use custom gateway port: - Maxsus şlyuz portidan foydalaniş:
+Use custom tunnel Maximum Transmission Unit (MTU): - Maxsus tunnel MTU-dan foydalaniş:
+Extra SSH options: - Qöşimça SSH parametrlari:
+Remote device number: - Masofaviy qurilma raqami:
+Use a TAP device - TAP qurilmasidan foydalaniş
+Remote username - Masofaviy foydalanuvçi nomi
+Do not replace default route - Standart marşrutni almaştirmaslik
+SSH VPN - SSH VPN
+Password:  - Parol: 
+General - Umumiy
+Gateway: - Şlyuz:
+Network Settings - Tarmoqning moslamalari
+Remote IP Address: - Masofaviy IP manzil:
+Local IP Address: - Mahalliy IP manzil:
+Netmask: - Tarmoq niqobi (Netmask):
+IPv6 Network Settings - IPv6 tarmoq sozlamalari
+Use IPv6 - IPv6 dan foydalaniş
+Prefix: - Prefiks:
+Authentication - Tasdiqlaş
+Password: - Parol:
+SSH Key File: - SSH kalit fayli:
+Type: - Tur:
+SSH Agent - SSH Agent
+Password - Parol
+Key authentication - Kalit orqali autentifikatsiya
+Advanced… - Kengaytirilgan…

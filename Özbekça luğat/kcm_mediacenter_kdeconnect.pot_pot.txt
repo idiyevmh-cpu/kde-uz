@@ -1,0 +1,14 @@
+This device is paired - Uşbu qurilma juftlangan
+Unpair - Juftlikni bekor qiliş
+Plugin Settings - Plagin sozlamalari
+This device is requesting to be paired - Uşbu qurilma juftlaşni söramoqda
+Accept - Qabul qiliş
+Reject - Rad etiş
+This device is not paired - Uşbu qurilma juftlanmagan
+Pairing request sent - Juftlaş sörovi yuborildi
+Pair - Juftlaş
+This device is not reachable - Uşbu qurilma bilan boğlanib bölmaydi
+KDE Connect - KDE Connect
+No devices found - Qurilmalar topilmadi
+Devices - Qurilmalar
+Plugin Settings for %1  - %1 uçun plagin sozlamalari 

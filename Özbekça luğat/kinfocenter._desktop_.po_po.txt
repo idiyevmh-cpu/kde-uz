@@ -1,0 +1,14 @@
+Source text - Tarjima text
+Basic Information - Asosiy maʼlumotlar
+Devices - Qurilmalar
+Graphics - Grafika
+Lost And Found - Yöqolgan va topilganlar
+Network - Tarmoq
+Desktop Management Interface - Iş stoli boşqaruvi interfeysi (DMI)
+Memory Information - Xotira haqida maʼlumot
+Read memory information from system's Desktop Management Interface (DMI) - Tizimning DMI interfeysidan xotira maʼlumotlarini öqiş
+System Information - Tizim maʼlumotlari
+Read system information from system's Desktop Management Interface (DMI) - Tizimning DMI interfeysidan tizim axborotini öqiş
+Info Center - Tizim axborot markazi
+Learn about the system's hardware and status - Tizimning apparat taʼminoti va holati haqida bilib oling
+kinfocenter - tizimaxborotmarkazi;maʼlumot;apparat;

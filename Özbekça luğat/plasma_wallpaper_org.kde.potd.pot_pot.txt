@@ -1,0 +1,33 @@
+Positioning: - Joylaşuvi:
+Scaled and cropped - Masştablangan va qirqilgan
+Scaled - Masştablangan
+Scaled, keep proportions - Masştablangan, nisbatni saqlagan holda
+Centered - Markazda
+Tiled - Koşinlangan
+Background color: - Orqa fon rangi:
+Select Background Color - Fon rangini tanlang
+Provider: - Provayder:
+This wallpaper provider does not filter out images that may be sensitive or objectionable. Use caution if these images will be displayed in public. - Uşbu fon rasmi provayderi nozik yoki nojöya bölişi mumkin bölgan tasvirlarni filtrlamaydi. Agar bu tasvirlar jamoat joylarida körsatilsa, ehtiyot böling.
+Update when using metered network connection - Trafik çegaralangan tarmoqdan foydalanilganda yangilaş
+Today's picture: - Bugungi rasm:
+Title: - Sarlavha:
+Author: - Muallif:
+Open Containing Folder - Rasm joylaşgan jildni oçiş
+Open the destination folder where the wallpaper image was saved. - Fon rasmi saqlangan manzil jildini oçing.
+Open Wallpaper Image - Fon rasmini oçiş
+About “%1” - “%1” haqida
+About This Image - Uşbu rasm haqida
+Today's picture - Bugungi rasm
+Loading - Yuklanmoqda
+Unavailable - Mavjud emas
+%1 Author: %2. Right-click on the image to see more actions. - %1 Muallif: %2. Köproq amallarni köriş uçun rasm ustiga siçqonçaning öng tugmasini bosing.
+The wallpaper is being fetched from the Internet. - Fon rasmi internetdan olinmoqda.
+Failed to fetch the wallpaper from the Internet. - Fon rasmini internetdan olib bölmadi.
+Save Image as… - Rasmni saqlaş…
+Save today's picture to local disk - Bugungi rasmni mahalliy diskka saqlaş
+Open Link in Browser… - Havolani brauzerda oçiş…
+Open the website of today's picture in the default browser - Bugungi rasmning veb-saytini standart brauzerda oçiş
+Save Today's Picture - Bugungi rasmni saqlaş
+JPEG image (*.jpeg *.jpg *.jpe) - JPEG rasmi (*.jpeg *.jpg *.jpe)
+The image was not saved. - Rasm saqlanmadi.
+The image was saved as <a href="%1">%2</a> - Rasm <a href="%1">%2</a> sifatida saqlandi

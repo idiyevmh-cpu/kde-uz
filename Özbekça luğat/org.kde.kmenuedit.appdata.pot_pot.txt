@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Menu Editor - Menyu tahrirçisi
+Edit how applications are presented in app launchers - Dasturlarning işga tuşiriş menyusida aks etişini sozlaş
+KDE Menu Edit lets you edit how your apps are presented in application launchers, such as Plasma's Application Launcher widget. - KDE Menu Edit sizga ilovalaringiz Plasma'ning ilovalarni işga tuşiruvçi vidjeti kabi menyularda qanday joylaşişi va körinişini tahrirlaş imkonini beradi.

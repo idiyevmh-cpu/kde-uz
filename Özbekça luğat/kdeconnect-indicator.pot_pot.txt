@@ -1,0 +1,30 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Browse device - Qurilmani körib çiqiş
+Send clipboard - Vaqtinçalik xotirani yuboriş
+Ring device - Qurilmani jiringlatiş
+Send files - Fayllarni yuboriş
+SMS Messages… - SMS xabarlar…
+Run command - Buyruqni işga tuşiriş
+Add commands - Buyruqlar qöşiş
+KDE Connect - KDE Connect
+Cannot connect to DBus
+KDE Connect will quit - DBus bilan boğlanib bölmadi
+KDE Connect yopiladi
+Cannot find kdeconnectd - kdeconnectd topilmadi
+KDE Connect Indicator - KDE Connect indikatori
+KDE Connect Indicator tool - KDE Connect indikatori vositasi
+© 2016–2025 KDE Connect Team - © 2016–2025 KDE Connect jamoasi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez
+Albert Vaca Cintora - Albert Vaca Cintora
+Open app - Ilovani oçiş
+Pairing requests - Juftlaş sörovlari
+Pair - Juftlaş
+Reject - Rad etiş
+Quit - Çiqiş
+%1 device connected - %1 ta qurilma ulangan
+No Battery - Batareya yöq
+Battery: %1% (Charging) - Batareya: %1% (Quvvatlanmoqda)
+Battery: %1% - Batareya: %1%
+No Cellular Connectivity - Uyali aloqa yöq
+%1  | ~%2% - %1  | ~%2%

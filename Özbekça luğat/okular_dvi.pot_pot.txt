@@ -1,0 +1,82 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+<qt>This DVI file refers to external graphic files which are not in PostScript format, and cannot be handled by the <em>dvips</em> program that Okular uses internally to print or to export to PostScript. The functionality that you require is therefore unavailable in this version of Okular.</qt> - <qt>Uşbu DVI fayli PostScript formatida bölmagan taşqi grafik fayllarga murojaat qiladi va Okular çop etiş yoki PostScript-ga eksport qiliş uçun içki foydalanadigan <em>dvips</em> dasturi tomonidan qayta işlana olmaydi. Şuning uçun siz talab qilgan funksiya Okular-ning uşbu versiyasida mavjud emas.</qt>
+<qt><p>Okular could not locate the program <em>dvips</em> on your computer. That program is essential for the export function to work.</p><p>Hint to the perplexed system administrator: Okular uses the PATH environment variable when looking for programs.</p></qt> - <qt><p>Okular kompyuteringizda <em>dvips</em> dasturini topa olmadi. Uşbu dastur eksport funksiyasi işlaşi uçun juda muhimdir.</p><p>Tizim maʼmuri uçun maslahat: Okular dasturlarni qidirişda PATH muhit özgaruvçisidan foydalanadi.</p></qt>
+<qt>The external program 'dvips', which was used to export the file, reported an error. You might wish to look at the <strong>document info dialog</strong> which you will find in the File-Menu for a precise error report.</qt> - <qt>Faylni eksport qiliş uçun işlatilgan 'dvips' taşqi dasturi xatolik haqida xabar berdi. Aniq xatolik hisobotini köriş uçun Fayl menyusidagi <strong>hujjat maʼlumotlari muloqot oynasiga</strong> qaraşingiz mumkin.</qt>
+The DVI file does not start with the preamble. - DVI fayli muqaddima (preamble) bilan boşlanmagan.
+The DVI file contains the wrong version of DVI output for this program. Hint: If you use the typesetting system Omega, you have to use a special program, such as oxdvi. - DVI fayli uşbu dastur uçun notöğri DVI çiqiş versiyasini öz içiga oladi. Maslahat: Agar siz Omega harf teriş tizimidan foydalansangiz, oxdvi kabi maxsus dasturdan foydalanişingiz kerak.
+The DVI file is badly corrupted. Okular was not able to find the postamble. - DVI fayli jiddiy şikastlangan. Okular yakuniy qismni (postamble) topa olmadi.
+The postamble does not begin with the POST command. - Yakuniy qism (postamble) POST buyruği bilan boşlanmagan.
+The postamble contained a command other than FNTDEF. - Yakuniy qismda (postamble) FNTDEF dan boşqa buyruq mavjud.
+The page %1 does not start with the BOP command. - %1-sahifa BOP buyruği bilan boşlanmagan.
+<qt><p>The external program <strong>pdf2ps</strong> could not be started. As a result, the PDF-file %1 could not be converted to PostScript. Some graphic elements in your document will therefore not be displayed.</p><p><b>Possible reason:</b> The program <strong>pdf2ps</strong> may not be installed on your system, or cannot be found in the current search path.</p><p><b>What you can do:</b> The program <strong>pdf2ps</strong> is normally contained in distributions of the ghostscript PostScript interpreter system. If ghostscript is not installed on your system, you could install it now. If you are sure that ghostscript is installed, try to use <strong>pdf2ps</strong> from the command line to check if it really works.</p><p><em>PATH:</em> %2</p></qt> - <qt><p><strong>pdf2ps</strong> taşqi dasturini işga tuşirib bölmadi. Natijada, %1 PDF faylini PostScript formatiga ötkazib bölmadi. Şu sababli hujjatingizdagi baʼzi grafik elementlar körsatilmaydi.</p><p><b>Ehtimoliy sabab:</b> <strong>pdf2ps</strong> dasturi tizimingizda örnatilmagan bölişi yoki joriy qidiruv yölida topilmasligi mumkin.</p><p><b>Nima qiliş mumkin:</b> <strong>pdf2ps</strong> dasturi odatda ghostscript PostScript interpretator tizimi distributivlarida böladi. Agar tizimingizda ghostscript örnatilmagan bölsa, uni hozir örnatişingiz mumkin. Agar ghostscript örnatilganiga işonçingiz komil bölsa, haqiqatan ham işlaşini tekşiriş uçun buyruq qatoridan <strong>pdf2ps</strong> ni işlatib köring.</p><p><em>PATH:</em> %2</p></qt>
+<qt><p>The PDF-file %1 could not be converted to PostScript. Some graphic elements in your document will therefore not be displayed.</p><p><b>Possible reason:</b> The file %1 might be broken, or might not be a PDF-file at all. This is the output of the <strong>pdf2ps</strong> program that Okular used:</p><p><strong>%2</strong></p></qt> - <qt><p>%1 PDF faylini PostScript formatiga ötkazib bölmadi. Şu sababli hujjatingizdagi baʼzi grafik elementlar körsatilmaydi.</p><p><b>Ehtimoliy sabab:</b> %1 fayli buzuq bölişi yoki umuman PDF fayl bölmasligi mumkin. Okular foydalangan <strong>pdf2ps</strong> dasturining çiqişi:</p><p><strong>%2</strong></p></qt>
+File corruption. %1 - Fayl şikastlangan. %1
+Not all PostScript files could be embedded into your document. %1 - Barça PostScript fayllarini hujjatingizga biriktirib bölmadi. %1
+All external PostScript files were embedded into your document. - Barça taşqi PostScript fayllari hujjatingizga biriktirildi.
+The specified file '%1' does not exist. - Körsatilgan '%1' fayli mavjud emas.
+You have asked Okular to locate the place in the DVI file which corresponds to line %1 in the TeX-file %2. It seems, however, that the DVI file does not contain the necessary source file information.  - Siz Okular-dan %2 TeX faylidagi %1-qatorga mos keladigan DVI faylidagi joyni topişni söradingiz. Biroq, DVI faylida zarur manba fayl maʼlumotlari mavjud emas körinadi. 
+Okular was not able to locate the place in the DVI file which corresponds to line %1 in the TeX-file %2. - Okular %2 TeX faylidagi %1-qatorga mos keladigan DVI faylidagi joyni topa olmadi.
+The DVI code set a character of an unknown font. - DVI kodi nomaʼlum şrift belgisini örnatdi.
+The DVI code referred to font #%1, which was not previously defined. - DVI kodi avval aniqlanmagan #%1 şriftiga murojaat qildi.
+The stack was not empty when the EOP command was encountered. - EOP buyruği uçraganda stek böş emas edi.
+The stack was empty when a POP command was encountered. - POP buyruği uçraganda stek böş edi.
+The DVI code referred to a font which was not previously defined. - DVI kodi avval aniqlanmagan şriftga murojaat qildi.
+The DVI file contains an invalid special command. - DVI faylida yaroqsiz maxsus buyruq mavjud.
+An illegal command was encountered. - Noqonuniy buyruq uçradi.
+The unknown op-code %1 was encountered. - Nomaʼlum %1 op-kodi uçradi.
+Embedding %1 - %1 biriktirilmoqda
+Page %1: The PDF file <strong>%2</strong> could not be converted to PostScript.<br> - %1-sahifa: <strong>%2</strong> PDF faylini PostScript formatiga ötkazib bölmadi.<br>
+Page %1: The PostScript file <strong>%2</strong> could not be found.<br> - %1-sahifa: <strong>%2</strong> PostScript fayli topilmadi.<br>
+The papersize data '%1' could not be parsed. - '%1' qoğoz ölçami maʼlumotlarini tahlil qilib bölmadi.
+<qt><p>Okular was not able to locate all the font files which are necessary to display the current DVI file. Your document might be unreadable.</p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt> - <qt><p>Okular joriy DVI faylini körsatiş uçun zarur bölgan barça şrift fayllarini topa olmadi. Hujjatingiz öqib bölmaydigan holatda bölişi mumkin.</p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>
+<qt><p>There were problems running <em>kpsewhich</em>. As a result, some font files could not be located, and your document might be unreadable.<br/>Possible reason: the <em>kpsewhich</em> program is perhaps not installed on your system, or it cannot be found in the current search path.</p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt> - <qt><p><em>kpsewhich</em> dasturini işga tuşirişda muammolar yuz berdi. Natijada, baʼzi şrift fayllari topilmadi va hujjatingiz öqib bölmaydigan holatda bölişi mumkin.<br/>Ehtimoliy sabab: <em>kpsewhich</em> dasturi tizimingizda örnatilmagan yoki joriy qidiruv yölida topilmadi.</p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>
+<qt>The font generation by <em>kpsewhich</em> was aborted (exit code %1, error %2). As a result, some font files could not be located, and your document might be unreadable.</qt> - <qt><em>kpsewhich</em> tomonidan şrift yaratiş töxtatildi (çiqiş kodi %1, xato %2). Natijada, baʼzi şrift fayllari topilmadi va hujjatingiz öqib bölmaydigan holatda bölişi mumkin.</qt>
+Currently generating %1 at %2 dpi… - Hozirda %1 %2 dpi aniqlikda yaratilmoqda…
+Generator/Date - Yaratuvçi/Sana
+Font file not found - Şrift fayli topilmadi
+The version of Ghostview that is installed on this computer does not contain any of the Ghostview device drivers that are known to Okular. PostScript support has therefore been turned off in Okular. - Uşbu kompyuterda örnatilgan Ghostview versiyasida Okular-ga maʼlum bölgan Ghostview qurilma drayverlari mavjud emas. Şuning uçun Okular-da PostScript qöllab-quvvatlaşi öçirildi.
+That makes 25 errors. Further error messages will not be printed. - Bu 25 ta xatoni taşkil etadi. Keyingi xato xabarlari çop etilmaydi.
+Error in DVIfile '%1', page %2. Color pop command issued when the color stack is empty. - '%1' DVI faylida xato, %2-sahifa. Rang steki böş bölganda rang pop buyruği berildi.
+Malformed parameter in the epsf special command.
+Expected a float to follow %1 in %2 - epsf maxsus buyruğida buzuq parametr.
+%2 dagi %1 dan keyin suzuvçi nuqtali son (float) kutilgan edi
+File not found: 
+ %1 - Fayl topilmadi: 
+ %1
+Error in DVIfile '%1', page %2. Could not interpret angle in text rotation special. - '%1' DVI faylida xato, %2-sahifa. Matnni aylantiriş maxsus buyruğidagi burçakni talqin qilib bölmadi.
+The special command '%1' is not implemented. - '%1' maxsus buyruği amalga oşirilmagan.
+The font file %1 could be opened and read, but its font format is unsupported. - %1 şrift fayli oçildi va öqildi, lekin uning şrift formati qöllab-quvvatlanmaydi.
+The font file %1 is broken, or it could not be opened or read. - %1 şrift fayli buzuq yoki uni oçib va öqib bölmadi.
+FreeType reported an error when setting the character size for font file %1. - %1 şrift fayli uçun belgi ölçamini örnatişda FreeType xatolik haqida xabar berdi.
+FreeType is unable to load glyph #%1 from font file %2. - FreeType %2 şrift faylidan #%1 glifini yuklay olmadi.
+FreeType is unable to render glyph #%1 from font file %2. - FreeType %2 şrift faylidan #%1 glifini tasvirlay (render qila) olmadi.
+Glyph #%1 is empty. - #%1 glifi böş.
+Glyph #%1 from font file %2 is empty. - %2 şrift faylidagi #%1 glifi böş.
+FreeType is unable to load metric for glyph #%1 from font file %2. - FreeType %2 şrift faylidan #%1 glifi uçun metrikalarni yuklay olmadi.
+Cannot open font file %1. - %1 şrift faylini oçib bölmadi.
+TexFont_PK::operator[]: Character %1 not defined in font %2 - TexFont_PK::operator[]: %1 belgisi %2 şriftida aniqlanmagan
+Unexpected %1 in PK file %2 - %2 PK faylida kutilmagan %1
+The character %1 is too large in file %2 - %2 faylidagi %1 belgisi juda katta
+Wrong number of bits stored:  char. %1, font %2 - Saqlangan bitlar soni notöğri: belgi %1, şrift %2
+Bad pk file (%1), too many bits - Yaroqsiz pk fayli (%1), bitlar juda köp
+Font has non-square aspect ratio  - Şrift kvadrat bölmagan tomonlar nisbatiga ega 
+Cannot find font %1, file %2. - %1 şrifti, %2 fayli topilmadi.
+Checksum mismatch for font file %1 - %1 şrift fayli uçun nazorat summasi mos kelmadi
+Cannot recognize format for font file %1 - %1 şrift faylining formatini aniqlab bölmadi
+Fatal error.
+
+ - Halokatli xato.
+
+
+
+
+This probably means that either you found a bug in Okular,
+or that the DVI file, or auxiliary files (such as font files, 
+or virtual font files) were really badly broken.
+Okular will abort after this message. If you believe that you 
+found a bug, or that Okular should behave better in this situation
+please report the problem. - 
+
+Bu Okular-da xatolik topganingizni yoki DVI fayli yoxud yordamçi fayllar (masalan, şrift fayllari yoki virtual şrift fayllari) jiddiy şikastlanganini anglatadi. Uşbu xabardan keyin Okular işini töxtatadi. Agar xatolik topdim deb hisoblasangiz yoki Okular bu holatda yaxşiroq işlaşi kerak deb öylasangiz, iltimos, muammo haqida xabar bering.
+Wrong command byte found in VF macro list: %1 - VF makroslar röyxatida notöğri buyruq bayti topildi: %1

@@ -1,0 +1,294 @@
+Select branch to checkout. Press 'Esc' to cancel. - Ötiş (checkout) uçun tarmoqni tanlang. Bekor qiliş uçun 'Esc' tugmasini bosing.
+Branch %1 checked out - %1 tarmoğiga ötildi
+Failed to checkout to branch %1, Error: %2 - %1 tarmoğiga ötiş muvaffaqiyatsiz tugadi, Xato: %2
+Enter new branch name. Press 'Esc' to cancel. - Yangi tarmoq nomini kiriting. Bekor qiliş uçun 'Esc' tugmasini bosing.
+Select branch to checkout from. Press 'Esc' to cancel. - Qaysi tarmoqdan ajratib olişni tanlang. Bekor qiliş uçun 'Esc' tugmasini bosing.
+Checked out to new branch: %1 - Yangi tarmoqqa ötildi: %1
+Failed to create new branch. Error "%1" - Yangi tarmoq yaratib bölmadi. Xato "%1"
+Branch - Tarmoq
+Last Activity - Oxirgi faollik
+Last Commit - Oxirgi kommit (qayd)
+Delete - Öçiriş
+Are you sure you want to delete the selected branch? - Haqiqatan ham tanlangan tarmoqni öçirmoqçimisiz?
+Select Branch... - Tarmoqni tanlaş...
+Git - Git
+Create New Branch - Yangi tarmoq yaratiş
+Create New Branch From... - ...asosida yangi tarmoq yaratiş...
+Back - Orqaga
+HEAD at commit %1 - HEAD %1 kommitida
+HEAD is at this tag %1 - HEAD uşbu %1 tegida
+Active branch: %1 - Faol tarmoq: %1
+Detect Service - Xizmatni aniqlaş
+Map Git remote hosts to their Forgejo, GitHub, or GitLab website. The remote host is taken from the clone URL; the website URL is used to open repository links in a browser. - Git masofaviy xostlarini ularning Forgejo, GitHub yoki GitLab veb-saytiga boğlang. Masofaviy xost klonlaş URL manzilidan olinadi; veb-sayt URL manzili esa brauzerda ombor (repozitoriy) havolalarini oçiş uçun işlatiladi.
+Git Remote Host - Git masofaviy xosti
+Hosting Service - Xosting xizmati
+Website URL - Veb-sayt URL manzili
+Host from the Git clone URL, optionally followed by its SSH port - Git klonlaş URL manzilidagi xost, ixtiyoriy ravişda uning SSH porti bilan
+Forgejo, GitHub, or GitLab software running on the server - Serverda işlayotgan Forgejo, GitHub yoki GitLab dasturiy taʼminoti
+HTTP or HTTPS address used to open repository links in a web browser - Veb-brauzerda ombor (repozitoriy) havolalarini oçiş uçun işlatiladigan HTTP yoki HTTPS manzil
+Add Mapping - Moslik qöşiş
+Remove Selected Mapping - Tanlangan moslikni olib taşlaş
+Try to identify Forgejo, GitHub, or GitLab from the selected mapping's website URL - Tanlangan moslikning veb-sayt URL manzilidan Forgejo, GitHub yoki GitLab ekanligini aniqlaşga uriniş
+The hosting service in row %1 is invalid. - %1-qatordagi xosting xizmati notöğri.
+The Git remote host or website URL in row %1 is invalid. - %1-qatordagi Git masofaviy xosti yoki veb-sayt URL manzili notöğri.
+git.example.com or git.example.com:2222 - git.example.com yoki git.example.com:2222
+https://git.example.com - https://git.example.com
+Select a mapping to detect its hosting service. - Xosting xizmatini aniqlaş uçun moslikni tanlang.
+Enter a valid HTTP or HTTPS website URL before detecting the hosting service. - Xosting xizmatini aniqlaşdan oldin yaroqli HTTP yoki HTTPS veb-sayt URL manzilini kiriting.
+Detecting… - Aniqlanmoqda…
+Detected %1. - %1 aniqlandi.
+The mapping changed; the detection result was ignored. - Moslik özgartirildi; aniqlaş natijasi eʼtiborsiz qoldirildi.
+Service could not be detected; select it manually. - Xizmatni aniqlab bölmadi; uni qölda tanlang.
+ ‣ Modified -  ‣ Özgartirilgan
+ ‣ Untracked -  ‣ Kuzatilmaydigan
+ ‣ Renamed -  ‣ Nomi özgartirilgan
+ ‣ Deleted -  ‣ Öçirilgan
+ ‣ Added -  ‣ Qöşilgan
+ ‣ Copied -  ‣ Nusxalangan
+ ‣ Ignored -  ‣ Eʼtiborsiz qoldirilgan
+ ‣ Conflicted -  ‣ Ziddiyatli
+Commit Changes - Özgarişlarni qayd etiş (Commit)
+Commit - Qayd etiş (Commit)
+Cancel - Bekor qiliş
+Write commit message... - Kommit xabarini yozing...
+Extended commit description... - Kommitning kengaytirilgan tavsifi...
+Sign off - Imzolaş (Sign-off)
+Amend - Tuzatiş (Amend)
+Amend Last Commit - Oxirgi kommitni tuzatiş (Amend)
+Amending Commit - Kommit tuzatilmoqda
+%1 / 52 - %1 / 52
+<span style="color:%1;">%2</span> / 52 - <span style="color:%1;">%2</span> / 52
+Staged - Tayyorlangan (Staged)
+Untracked - Kuzatilmaydigan
+Conflict - Ziddiyat (konflikt)
+Modified - Özgartirilgan
+Git Push - Git ga yuboriş (Push)
+Git Pull - Git dan oliş (Pull)
+Cancel Operation - Amalni bekor qiliş
+ canceled. -  bekor qilindi.
+Refresh git status - Git holatini yangilaş
+Filter… - Filtrlaş…
+Failed to find .git directory for '%1', things may not work correctly - '%1' uçun .git jildi topilmadi, baʼzi narsalar töğri işlamasligi mumkin
+ error: %1 -  xato: %1
+"%1" executed successfully: %2 - "%1" muvaffaqiyatli bajarildi: %2
+Failed to stage file. Error: - Faylni indeksga qöşib (stage) bölmadi. Xato:
+Failed to unstage file. Error: - Faylni indeksdan çiqarib (unstage) bölmadi. Xato:
+Failed to discard changes. Error: - Özgarişlarni rad etib bölmadi. Xato:
+Failed to remove. Error: - Öçirib bölmadi. Xato:
+Failed to open file at HEAD: %1 - HEAD dagi faylni oçib bölmadi: %1
+Failed to get Diff of file: %1 - Fayl farqlarini (Diff) olib bölmadi: %1
+Failed to commit: %1 - Kommit qilib bölmadi: %1
+Changes committed successfully. - Özgarişlar muvaffaqiyatli qayd etildi (kommit qilindi).
+Nothing to commit. Please stage your changes first. - Qayd etiş uçun heç narsa yöq. Iltimos, avval özgarişlarni tayyorlang (stage qiling).
+Commit message cannot be empty. - Kommit xabari böş bölişi mumkin emas.
+No diff for %1...%2 - %1...%2 uçun farqlar yöq
+Failed to compare %1...%2 - %1...%2 ni soliştirib bölmadi
+Failed to get numstat when diffing %1...%2 - %1...%2 farqlarini aniqlaşda raqamli statistikani (numstat) olib bölmadi
+Refresh - Yangilaş
+Checkout Branch - Tarmoqqa ötiş (Checkout)
+Delete Branch - Tarmoqni öçiriş
+Compare Branch with... - Tarmoqni ... bilan soliştiriş
+Show Commit - Kommitni körsatiş
+Show Last Commit - Oxirgi kommitni körsatiş
+Open Commit... - Kommitni oçiş...
+Stash - Vaqtinça yaşiriş (Stash)
+Show history - Tarixni körsatiş
+Pop Last Stash - Oxirgi stashni qöllab öçiriş (Pop)
+Pop Stash - Stashni qöllab öçiriş (Pop)
+Apply Last Stash - Oxirgi stashni qöllaş
+Stash (Keep Staged) - Stashga oliş (indeksdagilarni qoldiriş)
+Stash (Include Untracked) - Stashga oliş (kuzatilmaydiganlarni qöşib)
+Apply Stash - Stashni qöllaş
+Drop Stash - Stashni öçiriş (Drop)
+Show Stash - Stashni körsatiş
+Show Stash Diff - Stash farqlarini körsatiş
+Stage All - Barçasini indeksga qöşiş (Stage All)
+Remove All - Barçasini olib taşlaş
+Discard All - Barçasini rad etiş
+Open .gitignore - .gitignore faylini oçiş
+Show Diff - Farqlarni (Diff) körsatiş
+Are you sure you want to discard all changes? - Haqiqatan ham barça özgarişlarni rad etmoqçimisiz?
+Are you sure you want to remove these files? - Haqiqatan ham uşbu fayllarni olib taşlamoqçimisiz?
+Open File - Faylni oçiş
+Unstage File - Faylni indeksdan çiqariş (Unstage)
+Stage File - Faylni indeksga qöşiş (Stage)
+Remove - Olib taşlaş
+Discard - Rad etiş
+Show in External Git Diff Tool - Taşqi Git farqlarni köriş vositasida körsatiş
+Open at HEAD - HEAD holatida oçiş
+Show History - Tarixni körsatiş
+Are you sure you want to discard the changes in this file? - Haqiqatan ham uşbu fayldagi özgarişlarni rad etmoqçimisiz?
+Are you sure you want to remove this file? - Haqiqatan ham uşbu faylni olib taşlamoqçimisiz?
+Unstage All - Barçasini indeksdan çiqariş (Unstage All)
+Unstage Selected Files - Tanlangan fayllarni indeksdan çiqariş
+Stage Selected Files - Tanlangan fayllarni indeksga qöşiş
+Discard Selected Files - Tanlangan fayllardagi özgarişlarni rad etiş
+Remove Selected Files - Tanlangan fayllarni olib taşlaş
+Are you sure you want to discard the changes? - Haqiqatan ham özgarişlarni rad etmoqçimisiz?
+Are you sure you want to remove these untracked changes? - Haqiqatan ham uşbu kuzatilmaydigan özgarişlarni olib taşlamoqçimisiz?
+(Modified) - (Özgartirilgan)
+(Staged) - (Tayyorlangan / Staged)
+Error - Xato
+'%1' is not a valid file name. - '%1' yaroqli fayl nomi emas.
+A file named '%1' already exists. - '%1' nomli fayl allaqaçon mavjud.
+Failed to rename '%1' to '%2': %3 - '%1' nomini '%2' ga özgartirib bölmadi: %3
+Malformed JSON file '%1': %2 - Notöğri formatdagi JSON fayli '%1': %2
+Project - Loyiha
+<untracked> - <kuzatilmaydigan>
+Project Completion - Loyiha böyiça avtotöldiriş
+General - Umumiy
+Autoload Repositories && Build Trees - Repozitoriylar va yiğiş daraxtlarini avtomatik yuklaş
+Project plugin is able to autoload repository working copies and build trees when there is no .kateproject file defined yet. - Loyiha plagini hali .kateproject fayli aniqlanmagan bölganda repozitoriy işçi nusxalarini va yiğiş daraxtlarini avtomatik yuklay oladi.
+&Git - &Git
+&Subversion - &Subversion
+&Mercurial - &Mercurial
+&Fossil - &Fossil
+&CMake - &CMake
+Directory Listing - Jild tarkibi
+When directory listing is enabled, autoloaded repository projects show all files instead of only VCS-tracked files. - Jild tarkibini körsatiş yoqilganda, avtomatik yuklangan repozitoriy loyihalarida faqat versiyalarni nazorat qiliş tizimi (VCS) tomonidan kuzatiladigan fayllar emas, balki barça fayllar körsatiladi.
+Include files untracked by repository - Repozitoriy tomonidan kuzatilmaydigan fayllarni qöşiş
+Show all files in the project directory including files not tracked by the version control system, such as those excluded via .gitignore. - Loyiha jildidagi barça fayllarni, şuningdek versiyalarni nazorat qiliş tizimi tomonidan kuzatilmaydigan (masalan, .gitignore orqali istisno qilingan) fayllarni ham körsatiş.
+Show hidden files in non-VCS projects - VCS bölmagan loyihalarda yaşirin fayllarni körsatiş
+Show hidden files (dotfiles) in the project file tree for projects not loaded using version control. - Versiyalarni nazorat qiliş tizimi yordamida yuklanmagan loyihalar uçun loyiha fayllar daraxtida yaşirin fayllarni (nuqta bilan boşlanuvçi fayllarni) körsatiş.
+Session Behavior - Seans xatti-harakati
+Session settings for projects - Loyihalar uçun seans sozlamalari
+Restore Open Projects - Oçiq loyihalarni tiklaş
+Project Index - Loyiha indeksi
+Project ctags index settings - Loyiha ctags indeksi sozlamalari
+Enable indexing - Indekslaşni yoqiş
+Directory for index files - Indeks fayllari uçun jild
+The system temporary directory is used if not specified, which may overflow for very large repositories - Agar körsatilmagan bölsa, tizimning vaqtinçalik jildi işlatiladi, bu esa juda katta repozitoriylar uçun tölib ketişi mumkin
+Cross-Project Functionality - Loyihalararo funksionallik
+Project plugin is able to perform some operations across multiple projects - Loyiha plagini bir neçta loyihalar böylab baʼzi amallarni bajara oladi
+Cross-Project Completion - Loyihalararo avtotöldiriş
+Cross-Project Goto Symbol - Boşqa loyihadagi belgiga (symbol) ötiş
+Window Title - Oyna sarlavhasi
+Prefix window title with project name - Oyna sarlavhasi oldidan loyiha nomini qöşiş
+Show the current project's name before the existing window title. - Mavjud oyna sarlavhasi oldidan joriy loyiha nomini körsatiş.
+Git - Git
+Single click action in the git status view - Git holati körinişida bir marta bosiş amali
+No Action - Amal yöq
+Open file - Faylni oçiş
+Stage / Unstage - Indeksga qöşiş / çiqariş (Stage / Unstage)
+Double click action in the git status view - Git holati körinişida ikki marta bosiş amali
+Git Hosting - Git xostingi
+Projects - Loyihalar
+Projects Properties - Loyihalar xossalari
+Terminal - Terminal
+Terminal (Project) - Terminal (Loyiha)
+Terminal (Base) - Terminal (Asosiy)
+Terminal (Build) - Terminal (Yiğiş)
+Code Index - Kod indeksi
+Code Analysis - Kod tahlili
+Notes - Eslatmalar
+Start Analysis... - Tahlilni boşlaş...
+Code Analysis - %1 - Kod tahlili - %1
+'%1' is not installed on your system, %2.<br/><br/>%3. The tool will be run on all project files which match this list of file extensions:<br/><b>%4</b> - '%1' tizimingizda örnatilmagan, %2.<br/><br/>%3. Vosita quyidagi fayl kengaytmalari röyxatiga mos keladigan barça loyiha fayllarida işga tuşiriladi:<br/><b>%4</b>
+Using %1 installed at: %2.<br/><br/>%3. The tool will be run on all project files which match this list of file extensions:<br/><b>%4</b> - %2 manzilida örnatilgan %1 işlatilmoqda.<br/><br/>%3. Vosita quyidagi fayl kengaytmalari röyxatiga mos keladigan barça loyiha fayllarida işga tuşiriladi:<br/><b>%4</b>
+CodeAnalysis - Kod tahlili
+[%1]Analysis on %2 file finished. - [%1] %2 ta fayl tahlili yakunlandi.
+Analysis failed with exit code %1, Error: %2 - Tahlil %1 çiqiş kodi bilan muvaffaqiyatsiz tugadi, Xato: %2
+Name - Nomi
+Kind - Turi
+File - Fayl
+Line - Qator
+Search - Qidiruv
+The index could not be created. Please install 'ctags'. - Indeksni yaratib bölmadi. Iltimos, 'ctags' dasturini örnating.
+Indexing is not enabled - Indekslaş yoqilmagan
+Confirm project closing: %1 - Loyihani yopişni tasdiqlang: %1
+Do you want to close the project %1 and the related %2 open documents? - %1 loyihasini va unga tegişli %2 ta oçiq hujjatni yopişni xohlaysizmi?
+Full path to current project excluding the file name. - Fayl nomini hisobga olmaganda joriy loyihaga töliq yöl.
+Full path to current project excluding the file name, with native path separator (backslash on Windows). - Fayl nomini hisobga olmaganda, operatsion tizimga xos yöl ajratuvçisi (Windows da teskari çiziq) bilan joriy loyihaga töliq yöl.
+File path relative to the project directory - Loyiha jildiga nisbatan fayl yöli
+Project Manager - Loyihalar boşqaruvçisi
+Current Project - Joriy loyiha
+Open projects list - Oçiq loyihalar röyxati
+Reload project - Loyihani qayta yuklaş
+Close project - Loyihani yopiş
+Open &Folder... - &Jildni oçiş...
+Project TODOs - Loyiha vazifalari (TODO)
+Activate Previous Project - Oldingi loyihani faollaştiriş
+Activate Next Project - Keyingi loyihani faollaştiriş
+Lookup - Qidiriş
+Close Project - Loyihani yopiş
+Close All Projects - Barça loyihalarni yopiş
+Close Orphaned Projects - Yetim (mavjud bölmagan) loyihalarni yopiş
+Reload Project - Loyihani qayta yuklaş
+Reload All Projects - Barça loyihalarni qayta yuklaş
+Checkout Git Branch - Git tarmoğiga ötiş (Checkout)
+Lookup: %1 - Qidiriş: %1
+Goto: %1 - Ötiş: %1
+Git Hosting - Git xostingi
+Open on Git Hosting Service - Git xosting xizmatida oçiş
+Copy Git Hosting Link - Git xosting havolasini nusxalaş
+Projects Index - Loyihalar indeksi
+Detecting Git hosting service… - Git xosting xizmati aniqlanmoqda…
+Open on %1 - %1 da oçiş
+Copy %1 Link - %1 havolasini nusxalaş
+Choose a directory - Jildni tanlang
+Enter name: - Nomini kiriting:
+Copy Location - Manzilni nusxalaş
+New File… - Yangi fayl…
+New Folder… - Yangi jild…
+&Rename - &Nomini özgartiriş
+Properties - Xossalar
+Open With - ...bilan oçiş
+Open Internal Terminal Here - Bu yerda içki terminalni oçiş
+Open External Terminal Here - Bu yerda taşqi terminalni oçiş
+&Open Containing Folder - Joylaşgan &jildni oçiş
+Show Git History - Git tarixini körsatiş
+New File - Yangi fayl
+New Folder - Yangi jild
+The file already exists - Fayl allaqaçon mavjud
+Failed to create file: %1, Error: %2 - Faylni yaratib bölmadi: %1, Xato: %2
+The directory already exists - Jild allaqaçon mavjud
+Failed to create dir: %1 - Jildni yaratib bölmadi: %1
+Unable to find directory: %1 - Jild topilmadi: %1
+Invalid regex pattern in exclude_patterns %1 - exclude_patterns %1 içida notöğri muntazam ifoda (regex) andozasi
+Unable to load %1 based project because either %1 is not installed or it wasn't found in PATH environment variable. Please install %1 or alternatively disable the option 'Autoload Repositories && Build Trees' in project settings. - %1 asosidagi loyihani yuklab bölmadi, çunki %1 örnatilmagan yoki PATH muhit özgaruvçisida topilmadi. Iltimos, %1 ni örnating yoki loyiha sozlamalarida 'Repozitoriylar va yiğiş daraxtlarini avtomatik yuklaş' parametrini öçiring.
+Execute a command in the active project's terminal. - Faol loyiha terminalida buyruqni bajariş.
+No cmd provided - Buyruq körsatilmagan
+Project Command - Loyiha buyruği
+Stash message (optional). Enter to confirm, Esc to leave. - Stash xabari (ixtiyoriy). Tasdiqlaş uçun Enter, çiqiş uçun Esc tugmasini bosing.
+Type to filter, Enter to pop stash, Esc to leave. - Filtrlaş uçun yozing, stashni qöllaş uçun Enter, çiqiş uçun Esc tugmasini bosing.
+Failed to run git: %1 - Git ni işga tuşirib bölmadi: %1
+Failed to stash changes %1 - Özgarişlarni stashga olib bölmadi: %1
+Changes stashed successfully. - Özgarişlar muvaffaqiyatli stashga olindi.
+Loading... - Yuklanmoqda...
+Failed to get stash list. Error:  - Stash röyxatini olib bölmadi. Xato: 
+Failed to apply stash. Error:  - Stashni qöllab bölmadi. Xato: 
+Failed to drop stash. Error:  - Stashni öçirib bölmadi. Xato: 
+Failed to pop stash. Error:  - Stashni qöllab öçirib (pop) bölmadi. Xato: 
+Stash applied successfully. - Stash muvaffaqiyatli qöllandi.
+Stash dropped successfully. - Stash muvaffaqiyatli öçirildi.
+Stash popped successfully. - Stash muvaffaqiyatli qöllandi va öçirildi.
+Show stash failed. Error:  - Stashni körsatib bölmadi. Xato: 
+Diff - stash - Farqlar (Diff) - stash
+Clazy (Qt/C++) - Clazy (Qt/C++)
+Clazy is a static analysis tool for Qt/C++ code - Clazy — Qt/C++ kodi uçun statik tahlil vositasi
+Please install 'clazy' - Iltimos, 'clazy' dasturini örnating
+Clazy - Current File - Clazy - Joriy fayl
+clang-tidy is a clang-based C++ “linter” tool - clang-tidy — clang asosidagi C++ “linter” vositasi
+Clippy (Rust) - Clippy (Rust)
+Clippy is a static analysis tool for Rust code - Clippy — Rust kodi uçun statik tahlil vositasi
+Please install 'cargo' - Iltimos, 'cargo' dasturini örnating
+Cppcheck (C++) - Cppcheck (C++)
+Cppcheck is a static analysis tool for C/C++ code - Cppcheck — C/C++ kodi uçun statik tahlil vositasi
+Please install 'cppcheck' - Iltimos, 'cppcheck' dasturini örnating
+ESLint - ESLint
+ESLint is a static analysis tool & style guide enforcer for JavaScript/Typescript code - ESLint — JavaScript/TypeScript kodi uçun statik tahlil va uslub qoidalarini tekşiriş vositasi
+Please install 'eslint' - Iltimos, 'eslint' dasturini örnating
+Flake8 (Python) - Flake8 (Python)
+Flake8: Your Tool For Style Guide Enforcement for Python - Flake8: Python uçun uslub qoidalarini tekşiriş vositangiz
+Please install 'flake8' - Iltimos, 'flake8' dasturini örnating
+Ruff (Python) - Ruff (Python)
+An extremely fast Python linter - Juda tez işlaydigan Python linteri
+Ruff is not installed. Please use your package manager to install it. See https://docs.astral.sh/ruff/installation/ - Ruff örnatilmagan. Iltimos, uni örnatiş uçun paketlar boşqaruvçisidan foydalaning. Qarang: https://docs.astral.sh/ruff/installation/
+ShellCheck (sh/bash) - ShellCheck (sh/bash)
+ShellCheck is a static analysis and linting tool for sh/bash scripts - ShellCheck — sh/bash skriptlari uçun statik tahlil va linting vositasi
+Please install ShellCheck (see https://www.shellcheck.net) - Iltimos, ShellCheck dasturini örnating (qarang: https://www.shellcheck.net)
+Html Tidy - Html Tidy
+Runs html tidy on current file - Joriy faylda html tidy vositasini işga tuşiradi
+Html tidy is not installed. Please use your package manager to install it. See https://www.html-tidy.org/ - Html tidy örnatilmagan. Iltimos, uni örnatiş uçun paketlar boşqaruvçisidan foydalaning. Qarang: https://www.html-tidy.org/
+&Projects - &Loyihalar
+Project Plugin - Loyiha plagini

@@ -1,0 +1,63 @@
+Button mouseover transition - Tugma ustiga borgandagi ötiş
+Configure window buttons' mouseover highlight animation - Oyna tugmalarining siçqonça borgandagi animatsiyasini sozlaş
+Window active state change transitions - Oyna faolligi özgarişidagi ötişlar
+Configure fading between window shadow and glow when window's active state is changed - Oyna faolligi özgarganda soya va jilo orasidagi sönişni sozlaş
+New Exception - Oxygen Settings - Yangi istisno - Oxygen sozlamalari
+Edit Exception - Oxygen Settings - Istisnoni tahrirlaş - Oxygen sozlamalari
+Question - Oxygen Settings - Savol - Oxygen sozlamalari
+Remove selected exception? - Tanlangan istisno olib taşlansinmi?
+Remove - Olib taşlaş
+Warning - Oxygen Settings - Ogohlantiriş - Oxygen sozlamalari
+Regular Expression syntax is incorrect - Muntazam ifoda (Regular Expression) sintaksisi notöğri
+Exception Type - Istisno turi
+Regular Expression - Muntazam ifoda (Regular Expression)
+Window Title - Oyna sarlavhasi
+Window Class Name - Oyna sinfi nomi
+Enable/disable this exception - Uşbu istisnoni yoqiş/öçiriş
+General - Umumiy
+Tiny - &Juda kiçik
+Small - &Kiçik
+Normal - Oddiy
+Large - K&atta
+Very Large - Juda katta
+Tit&le alignment: - Sar&lavha tekislanişi:
+Left - Çapga
+Center - Markazda
+Center (Full Width) - Markazda (töliq kenglikda)
+Right - Öngga
+B&utton size: - T&ugma ölçami:
+Allow resizing maximized windows from window edges - Kattalaştirilgan oynalar ölçamini oyna çetlaridan özgartirişga ruxsat beriş
+Use the same colors for title bar and window content - Sarlavha paneli va oyna tarkibi uçun bir xil ranglardan foydalaniş
+Draw titlebar background gradient - Sarlavha paneli fon gradientini çiziş
+Animations - Animatsiya
+Shadows - Soya
+Active Window Glow - Faol oyna jilosi (nur taratişi)
+Window Drop-Down Shadow - Oynaning pastga tuşuvçi soyasi
+Window-Specific Overrides - Maxsus oynalar uçun bekor qilişlar
+Dialog - Dialog oynasi
+Information about Selected Window - Tanlangan oyna haqida maʼlumot
+Class:  - Sinf: 
+Title:  - Sarlavha: 
+Window Property Selection - Oyna xususiyatini tanlaş
+Use window class (whole application) - Oyna sinfidan foydalaniş (butun ilova)
+Use window title - Oyna sarlavhasidan foydalaniş
+Window Identification - Oynani identifikatsiya qiliş
+&Matching window property:  - &Mos keluvçi oyna xususiyati: 
+Regular expression &to match:  - Mos keluvçi &muntazam ifoda: 
+Detect Window Properties - Oynaning xossalarini aniqlaş
+Decoration Options - Bezakning parametrlari
+Border size: - Çegara ölçami:
+Hide window title bar - Oyna sarlavha panelini yaşiriş
+No Border - Çegarasiz
+No Side Borders - Yon çegaralarsiz
+Tiny - &Juda kiçik
+Normal - Oddiy
+Large - K&atta
+Very Large - Juda katta
+Huge - &Bahaybat
+Very Huge - Juda bahaybat
+Oversized - Haddan taşqari katta
+Move Up - Yuqoriga köçiriş
+Move Down - Pastga köçiriş
+Add - Qöşiş
+Edit - Tahrirlaş

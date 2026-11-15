@@ -1,0 +1,33 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Icon Explorer - Nişonçalar tadqiqotçisi
+Start with category - Toifa bilan boşlaş
+category - toifa
+Start full-screen - Töliq ekranda boşlaş
+Run in icon-picker mode - Nişonça tanlaş rejimida işga tuşiriş
+Open with External Program - Taşqi dastur orqali oçiş
+Open Containing Folder - Joylaşgan jildni oçiş
+Insert Name - Nomni kiritiş
+Copy Name to Clipboard - Nomni vaqtinçalik xotiraga nusxalaş
+Icon name copied to clipboard - Nişonça nomi vaqtinçalik xotiraga nusxalandi
+Take Screenshot… - Skrinşot oliş…
+Breeze Colors - Breeze ranglari
+Breeze Dark Colors - Breeze Dark ranglari
+Breeze (Normal) and Breeze Dark - Breeze (Oddiy) va Breeze Dark
+Active Color Scheme - Faol rang sxemasi
+View in Other Icon Themes - Boşqa nişonça mavzularida köriş
+Other versions of %1 - %1 ning boşqa talqinlari
+File - Fayl
+Export Montage with Color Scheme… - Rang sxemasi bilan montajni eksport qiliş…
+Breeze (Normal) - Breeze (Oddiy)
+Breeze Dark - Breeze Dark
+Quit - Çiqiş
+View - Köriniş
+Zoom In - Kattalaştiriş
+Zoom Out - Kiçiklaştiriş
+File name: - Fayl nomi:
+Category: - Toifa:
+Scalable: - Masştablanadigan:
+yes - ha
+no - yöq
+Color scheme: - Rang sxemasi:

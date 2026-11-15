@@ -1,0 +1,1 @@
+'%1' needs a password to be accessed. Please enter a password. - '%1' ga kiriş uçun parol kerak. Iltimos, parolni kiriting.

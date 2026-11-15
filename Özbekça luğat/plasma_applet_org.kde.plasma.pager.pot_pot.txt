@@ -1,0 +1,24 @@
+Source text - Tarjima text
+General - Umumiy
+Show window outlines - Oyna konturlarini körsatiş
+Show application icons on window outlines - Oyna konturlarida ilovalar belgilarini körsatiş
+Show only current screen - Faqat joriy ekranni körsatiş
+Navigation wraps around - Doiraviy ötiş (navigatsiya)
+Layout: - Joylaşuv:
+Default - Standart
+Horizontal - Gorizontal
+Vertical - Vertikal
+Text display: - Matnni körsatiş:
+No text - Matnsiz
+Activity number - Faoliyat raqami
+Desktop number - Iş stoli raqami
+Activity name - Faoliyat nomi
+Desktop name - Iş stoli nomi
+Shows the desktop - Iş stolini körsatiş
+Desktop %1 - Iş stoli %1
+Switch to %1 - %1 ga ötiş
+Show Activity Manager - Faoliyatlar boşqaruvçisini körsatiş
+Add Virtual Desktop - Virtual iş stolini qöşiş
+Remove Virtual Desktop - Virtual iş stolini olib taşlaş
+&Configure Activities… - &Faoliyatlarni sozlaş…
+Configure Virtual Desktops… - Virtual iş stollarini sozlaş…

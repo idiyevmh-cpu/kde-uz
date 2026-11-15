@@ -1,0 +1,38 @@
+Point-to-Point - Point-to-Point
+Authentication - Tasdiqlaş
+Allow following authentication methods: - Quyidagi autentifikatsiya usullariga ruxsat beriş:
+PAP - PAP
+CHAP - CHAP
+MSÇap - MSChap
+MSÇapv2 - MSChapv2
+EAP - EAP
+Use Microsoft Point-to-Point Encryption - Microsoft Point-to-Point Encryption (MPPE) dan foydalaniş
+Use MPPE Encryption - MPPE şifrlaşidan foydalaniş
+Crypto: - Kripto:
+Any - Har qanday
+128 bit - 128 bit
+40 bit - 40 bit
+Use stateful encryption - Holatli şifrlaşdan foydalaniş
+Compression - Siqiş
+Allow BSD compression - BSD siqilişiga ruxsat beriş
+Allow Deflate compression - Deflate siqilişiga ruxsat beriş
+Allow TCP header compression - TCP sarlavhalarini siqişga ruxsat beriş
+Echo - Exo
+Send PPP echo packets  - PPP echo paketlarini yuboriş 
+Misc - Har xil
+Use custom unit number: - Maxsus birlik raqamidan foydalaniş:
+Proxy - Proksi
+General - Umumiy
+Address: - Manzil:
+Port: - Port:
+Credentials - Hisob maʼlumotlari
+Username: - Foydalanuvçi:
+Password: - Parol:
+SSH VPN - SSH VPN
+Password:  - Parol: 
+Gateway: - Şlyuz:
+Advanced… - Kengaytirilgan…
+Optional - Qöşimça
+NT Domain: - NT domeni:
+CA Certificate: - CA sertifikati:
+Ignore certificate warnings - Sertifikat ogohlantirişlarini eʼtiborsiz qoldiriş

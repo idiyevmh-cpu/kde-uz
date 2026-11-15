@@ -1,0 +1,3 @@
+PackageKit backend - PackageKit bekendi
+Integrates distribution applications into Discover - Distributiv ilovalarini Discover-ga integratsiya qiladi
+Aleix Pol Gonzalez - Aleix Pol Gonzalez

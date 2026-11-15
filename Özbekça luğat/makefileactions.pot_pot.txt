@@ -1,0 +1,15 @@
+Make '%1'%2. - '%1'%2 ni tuziş (make).
+Makefile Actions - Makefile amallari
+An error occurred while making target '%1'. - '%1' nişonini tuziş vaqtida xatolik yuz berdi.
+Running process for '%1' successfully stopped. - '%1' uçun işlayotgan jarayon muvaffaqiyatli töxtatildi.
+An error occurred trying to make target '%1'. - '%1' nişonini tuzişga urinişda xatolik yuz berdi.
+&Make… - &Tuziş (Make)…
+Only trusted files can be used by the Makefile Actions plugin. - Makefile Actions plagini orqali faqat işonçli fayllardan foydalaniş mumkin.
+Trusted file — uncheck to remove trust - Işonçli fayl — işonçni bekor qiliş uçun belgini olib taşlang
+Untrusted file — check to trust - Işonçsiz fayl — işoniş uçun belgilang
+Dolphin Makefile Plugin - Dolphin Makefile plagini
+<b>Are you sure you can trust this file?</b><br>Trusted files may execute arbitrary code on context-menu invocation. - <b>Uşbu faylga işonişingizga işonçingiz komilmi?</b><br>Işonçli fayllar kontekst menyusidan çaqirilganda ixtiyoriy kodni bajarişi mumkin.
+Open a terminal window - Terminal oynasini oçiş
+Open a new terminal window to see the output of making the chosen target. - Tanlangan nişonni tuziş çiqişini köriş uçun yangi terminal oynasini oçing.
+Cancel running process (%1) - Işlayotgan jarayonni bekor qiliş (%1)
+Interrupt the currently running process (%1). - Işlayotgan jarayonni töxtatiş (%1).

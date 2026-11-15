@@ -1,0 +1,56 @@
+All - Hammasi
+All - Hammasi
+Folder - Jild
+Search applications… - Ilovalarni qidiriş…
+All Apps - Barça ilovalar
+Categories - Turkumlar
+General - Umumiy
+This widget was not found. - Uşbu vidjet topilmadi.
+Configure… - Sozlaş…
+Options - Parametrlar
+Widget Options - Vidjet variantlari
+Remove widget - Vidjetni olib taşlaş
+Configure widget - Vidjetni sozlaş
+Remove - Olib taşlaş
+App info - Ilova haqida
+Release to configure, drag to move - Sozlaş uçun qöyib yuboring, köçiriş uçun suring
+Confirm Folder Deletion - Jildni öçirişni tasdiqlaş
+Are you sure you want to delete this folder? - Haqiqatan ham bu jildni öçirmoqçimisiz?
+Widgets - Vidjetlar
+Get New Widgets… - Yangi vidjetlarni oliş…
+Get New Widgets… - Yangi vidjetlarni oliş…
+Icons - Nişonçalar
+Application - Dastur
+Number of rows - Qatorlar soni
+Number of columns - Ustunlar soni
+Size of icons on homescreen - Boş ekrandagi nişonçalar ölçami
+The rows and columns will swap depending on the screen rotation. - Ekran burilişiga qarab qatorlar va ustunlar örni almaşadi.
+Homescreen - Boş ekran
+Show labels on homescreen - Boş ekranda yorliqlarni körsatiş
+Show labels in favorites bar - Sevimlilar panelida yorliqlarni körsatiş
+Lock layout - Joylaşuvni qulflaş
+Page transition effect - Sahifa ötiş effekti
+Slide - Suriliş (Slide)
+Cube - Kub
+Fade - Söniş
+Stack - Stek
+Rotation - Buriş
+Double tap to lock device - Qurilmani qulflaş uçun ikki marta bosing
+Favorites Bar - Sevimlilar paneli
+Show background - Fonni körsatiş
+Wallpaper - Fon rasmi
+Wallpaper blur effect - Fon rasmini xiralaştiriş effekti
+None - Yöq
+Simple - Oddiy
+Full - Töliq
+Export layout - Joylaşuvni eksport qiliş
+Import layout - Joylaşuvni import qiliş
+Export layout to - Joylaşuvni quyidagiga eksport qiliş
+Import layout from - Joylaşuvni quyidagidan import qiliş
+Export Status - Eksport holati
+Failed to export to %1 - %1 ga eksport qilib bölmadi
+Homescreen layout exported successfully to %1 - Boş ekran joylaşuvi %1 ga muvaffaqiyatli eksport qilindi
+Confirm Import - Importni tasdiqlaş
+This will overwrite your existing homescreen layout! - Bu mavjud boş ekran joylaşuvingizni qayta yozadi!
+Wallpapers - Fon rasmlari
+Settings - Moslamalar

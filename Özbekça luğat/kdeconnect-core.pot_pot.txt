@@ -1,0 +1,33 @@
+Couldn't find an available port - Mavjud port topilmadi
+Failed to send packet to %1 - %1 ga paket yuborib bölmadi
+Timeout waiting for receiver to connect - Qabul qiluvçining ulanişini kutiş vaqti tugadi
+Sending to %1 - %1 ga yuborilmoqda
+File - Fayl
+Could not open source file: %1 - Manba faylini oçib bölmadi: %1
+Device clocks are out of sync - Qurilma soatlari sinxron emas
+Canceled by other peer - Boşqa tomon tomonidan bekor qilindi
+%1: Device not reachable - %1: Qurilma bilan boğlanib bölmaydi
+Device not reachable - Qurilma bilan boğlanib bölmaydi
+Cancelled by user - Foydalanuvçi tomonidan bekor qilindi
+Timed out - Vaqt tugadi
+Pairing is not in progress - Juftlaş jarayoni ketmayapti
+Receiving file - Fayl qabul qilinmoqda
+Source - Manba
+Destination - Manzil
+SHA256 fingerprint of your device certificate is: %1
+ - Qurilmangiz sertifikatining SHA256 barmoq izi: %1
+
+SHA256 fingerprint of remote device certificate is: %1
+ - Masofaviy qurilma sertifikatining SHA256 barmoq izi: %1
+
+Protocol version: %1
+ - Protokol talqini: %1
+
+Filename already present - Fayl nomi allaqaçon mavjud
+Could not create destination file: %1 - Möljaldagi faylni yaratib bölmadi: %1
+Received incomplete file from: %1 - %1 dan çala fayl qabul qilindi
+KDE Connect failed to start - KDE Connect işga tuşmadi
+Could not generate the private key. - Maxfiy kalitni yaratib bölmadi.
+Could not store private key file: %1 - Maxfiy kalit faylini saqlab bölmadi: %1
+Could not generate the device certificate. - Qurilma sertifikatini yaratib bölmadi.
+Could not store certificate file: %1 - Sertifikat faylini saqlab bölmadi: %1

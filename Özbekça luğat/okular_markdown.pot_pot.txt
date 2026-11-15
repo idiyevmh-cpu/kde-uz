@@ -1,0 +1,7 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Failed to open the document - Hujjatni oçib bölmadi
+Failed to compile the Markdown document. - Markdown hujjatini kompilyatsiya qilib bölmadi.
+Enable SmartyPants formatting - SmartyPants formatlaşni yoqiş
+Markdown - Markdown
+Markdown Backend Configuration - Markdown bekendi sozlamalari

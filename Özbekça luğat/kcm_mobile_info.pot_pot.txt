@@ -1,0 +1,16 @@
+System Information - Tizim haqida maʼlumot
+Copy - Nusxa oliş
+Operating System - Operatsion tizim
+Webpage - Veb-sahifa
+Software - Dasturiy taʼminot
+KDE Plasma Version - KDE Plasma versiyasi
+KDE Frameworks Version - KDE Frameworks versiyasi
+Qt Version - Qt versiyasi
+Kernel Version - Yadro (Kernel) versiyasi
+OS Type - OT turi
+%1-bit - %1-bit
+Hardware - Asbob-uskunalar
+Processor - Protsessor
+Memory - Xotira
+%1 of RAM - %1 operativ xotira (RAM)
+Unknown - Nomaʼlum

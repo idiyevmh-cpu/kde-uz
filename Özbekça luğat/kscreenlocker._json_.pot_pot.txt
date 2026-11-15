@@ -1,0 +1,3 @@
+lock,resume,screensaver,screenlock,locking,block,blocking,password,sleep,close lid,lock automatically,screen lock appearance,screen lock theme,screen lock wallpaper,lockscreen,lock screen - qulflaş,davom ettiriş,ekran saqlovçi,ekranni qulflaş,bloklaş,parol,kutiş rejimi,qopqoqni yopiş,avtomatik qulflaş,qulflaş ekrani mavzusi,qulflaş ekrani fon rasmi
+Screen Locking - Ekranni qulflaş
+Configure screen locking - Ekranni qulflaşni sozlaş

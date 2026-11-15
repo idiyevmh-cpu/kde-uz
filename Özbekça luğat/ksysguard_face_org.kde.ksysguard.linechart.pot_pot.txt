@@ -1,0 +1,13 @@
+Appearance - Taşqi köriniş
+Show legend - Tuşuntirişni (legendani) körsatiş
+Stacked charts - Ustma-ust diagrammalar
+Smooth lines - Silliq çiziqlar
+Show grid lines - Tör çiziqlarini körsatiş
+Show Y axis labels - Y öqi yorliqlarini körsatiş
+Opacity of area below line: - Çiziq ostidagi maydonning şaffofligi:
+Data Ranges - Maʼlumotlar oraliği
+Automatic Y data range - Y öqi böyiça avtomatik maʼlumotlar oraliği
+From (Y): - Qayerdan (Y):
+To (Y): - Qayergaça (Y):
+History to show: - Körsatiladigan tarix:
+second - soniya

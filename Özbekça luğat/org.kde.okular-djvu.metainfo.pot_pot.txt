@@ -1,0 +1,2 @@
+DjVu Documents - DjVu hujjatlari
+Adds support for reading DjVu documents - DjVu hujjatlarini öqişni qöllab-quvvatlaydi

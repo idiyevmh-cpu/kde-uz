@@ -1,0 +1,31 @@
+Source text - Tarjima text
+View Updates - Yangilanişlarni köriş
+Security updates available - Xavfsizlik yangilanişlari mavjud
+Updates available - Yangilanişlar mavjud
+System up to date - Tizim eng sönggi holatda
+System will install updates when restarted - Tizim qayta işga tuşirilganda yangilanişlarni örnatadi
+Offline - Oflayn
+Applying unattended updates… - Avtonom yangilanişlar qöllanilmoqda…
+Restart is required - Qayta işga tuşiriş talab qilinadi
+The system needs to be restarted for the updates to take effect. - Yangilanişlar kuçga kirişi uçun tizimni qayta işga tuşiriş zarur.
+Update and Restart - Yangilaş va qayta işga tuşiriş
+Update and Shut Down - Yangilaş va öçiriş
+Upgrade available - Yirik yangilaniş mavjud
+%1 is now available. - %1 endi mavjud.
+Upgrade - Yangilaş (Upgrade)
+Discover Notifier - Discover bildirişnomasi
+System update status notifier - Tizim yangilanişlari holati bildirişnomasi
+© 2010-2025 Plasma Development Team - © 2010-2025 Plasma dasturçilar jamoasi
+Your names - Ismingiz
+Your emails - Emailingiz
+Replace an existing instance - Mavjud nusxani almaştiriş
+Do not show the notifier - Bildirişnoma körsatilmasin
+hidden - yarişirilgan
+Updates - Yangilanişlar
+Open Discover… - Discover dasturini oçiş…
+Start Update - Yangilaşni boşlaş
+Refresh… - Yangilaş…
+Install Updates and Restart… - Yangilanişlarni örnatiş va qayta işga tuşiriş…
+Install Updates and Shut Down… - Yangilanişlarni örnatiş va öçiriş…
+Restart to apply installed updates - Örnatilgan yangilanişlarni qöllaş uçun qayta işga tuşiring
+Click to restart the system - Tizimni qayta işga tuşiriş uçun bosing

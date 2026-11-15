@@ -1,0 +1,41 @@
+Other… - Boşqa…
+Select default archive manager - Birlamçi arxiv boşqaruvçisini tanlang
+Select default browser - Birlamçi brauzerni tanlang
+Select default calendar application - Birlamçi taqvim ilovasini tanlang
+Select default e-mail client - Birlamçi e-poçta mijozini tanlang
+Select default file manager - Birlamçi fayl boşqaruvçisini tanlang
+Select default map - Birlamçi xaritani tanlang
+Select default image viewer - Birlamçi rasm köruvçini tanlang
+Select default music player - Birlamçi musiqa pleyerini tanlang
+Select default PDF viewer - Birlamçi PDF köruvçini tanlang
+Select default dialer application - Birlamçi qönğiroq ilovasini tanlang
+Select default terminal emulator - Birlamçi terminal emulyatorini tanlang
+Select default text editor - Birlamçi matn tahrirlovçisini tanlang
+Select default video player - Birlamçi video pleyerni tanlang
+Details - Tafsilotlar
+This application can also open these file types: - Uşbu ilova uşbu fayl turlarini ham oçişi mumkin:
+%1 (Currently opens in %2) - %1 (Ayni paytda %2 dasturida oçiladi)
+Open All in %1 - Hammasini %1 ilovasida oçiş
+This application does not advertise support for the following file types, but may be able to open them anyway: - Uşbu ilova quyidagi fayl turlarini qöllab-quvvatlaşini eʼlon qilmaydi, lekin baribir ularni oçişi mumkin:
+Force All to Open in %1 - Hammasini %1 ilovasida oçişga majburlaş
+Configure Manually… - Qölda sozlaş…
+’%1’ seems to not support the following mimetypes associated with this kind of application: %2 - ’%1’ bunday ilova turi bilan boğliq bölgan quyidagi MIME turlarini qöllab-quvvatlamaydiganga öxşaydi: %2
+This application may not be able to open all file types. - Uşbu ilova barça fayl turlarini oça olmasligi mumkin.
+View Details - Tafsilotlarni köriş
+Internet - Internet
+Web browser: - Veb-brauzer:
+Email client: - E-poçta mijozi:
+Calendar: - Taqvim:
+Phone Numbers: - Telefon raqamlari:
+Multimedia - Multimedia
+Image viewer: - Rasm köruvçi:
+Music player: - Musiqa pleyeri:
+Video player: - Video pleyer:
+Documents - Hujjatlar
+Text editor: - Matn tahrirlovçisi:
+PDF viewer: - PDF köruvçi:
+Utilities - Yordamçi dasturlar
+File manager: - Fayl boşqaruvçisi:
+Terminal emulator: - Terminal emulyatori:
+Archive manager: - Arxiv boşqaruvçisi:
+Map: - Xarita:

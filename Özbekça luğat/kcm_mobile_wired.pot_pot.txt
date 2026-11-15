@@ -1,0 +1,17 @@
+Invalid input. - Notöğri kiriş.
+Connection Info for "%1" - "%1" uçun ulaniş maʼlumoti
+Transfer Rates - Uzatiş tezligi
+Connected, ↓ %1/s, ↑ %2/s - Ulangan, ↓ %1/s, ↑ %2/s
+Connection Details - Ulaniş tafsilotlari
+Wired Network Connections - Simli tarmoq ulanişlari
+No wired connection available. - Simli aloqa mavjud emas.
+Add New Connection - Yangi ulaniş qöşiş
+Save - Saqlaş
+IP Settings - IP sozlamalari
+Method -  Usuli 
+Automatic - Avtomatik
+Manual - Qölbola
+IP Address - Manzili (URL)
+Gateway - Şlyuz
+Network prefix length - Tarmoq prefiksi uzunligi
+DNS - DNS

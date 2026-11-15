@@ -1,0 +1,5 @@
+[General]
+LangCode=uz
+PotBaseDir=../../l10n-templates/trunk6/messages
+ProjectID=KDE Uzbek (trunk6)
+TargetLangCode=uz

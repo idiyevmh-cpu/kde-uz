@@ -1,0 +1,41 @@
+Show toolbar - Asboblar panelini körsatiş
+Confirm ending processes - Jarayonlarni töxtatişni tasdiqlaş
+By default show: - Standart holatda körsatiş:
+Own processes - Öz jarayonlari
+User processes - Foydalanuvçi jarayonlari
+System processes - Tizim jarayonlari
+All processes - Barça jarayonlar
+Search - Qidiriş
+End Process - Jarayonni tugatiş
+Display as List - Röyxat şaklida körsatiş
+Display as Tree - Daraxt şaklida körsatiş
+Show: %1 - Körsatiş: %1
+Own Processes - Öz jarayonlari
+User Processes - Foydalanuvçi jarayonlari
+System Processes - Tizim jarayonlari
+All Processes - Barça jarayonlar
+Configure Columns… - Ustunlarni sozlaş…
+Set priority… - Ustuvorlikni örnatiş…
+Set affinity… - Moslikni (affinity) örnatiş…
+Send Signal - &Signal jönatiş
+Suspend (STOP) - Töxtatib turiş (STOP)
+Continue (CONT) - Davom ettiriş (CONT)
+Hangup (HUP) - Aloqani uziş (HUP)
+Interrupt (INT) - Töxtatiş (INT)
+Terminate (TERM) - Tugatiş (TERM)
+Kill (KILL) - Tugatiş (KILL)
+User 1 (USR1) - Foydalanuvçi 1 (USR1)
+User 2 (USR2) - Foydalanuvçi 2 (USR2)
+Copy Current Column - Joriy ustunni nusxalaş
+End Process - Jarayonni tugatiş
+Hide - &Bekitiş
+Configure Columns… - Ustunlarni sozlaş…
+Forcibly End Process - Jarayonni majburan tugatiş
+End Process - Jarayonni tugatiş
+Forcibly End Process - Jarayonni majburan tugatiş
+End Process - Jarayonni tugatiş
+Forcibly end (SIGKILL) this process? Unsaved work may be lost. - Uşbu jarayon majburan tugatilsinmi (SIGKILL)? Saqlanmagan maʼlumotlar yöqolişi mumkin.
+End this process? Unsaved work may be lost. - Uşbu jarayon tugatilsinmi? Saqlanmagan maʼlumotlar yöqolişi mumkin.
+Process ID %1, owned by %2 - Jarayon ID %1, egasi %2
+Allow “%1” (Process ID %2) to run on: - “%1” (Jarayon IDsi %2) ga quyidagilarda işlaşga ruxsat beriş:
+Allow %1 process to run on: - %1 jarayoniga quyidagilarda işlaşga ruxsat beriş:

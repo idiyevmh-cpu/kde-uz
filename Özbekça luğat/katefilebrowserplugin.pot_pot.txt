@@ -1,0 +1,17 @@
+Search - Fayl
+Enter a name filter to limit which files are displayed. - Körsatiladigan fayllarni çeklaş uçun nom filtrini kiriting.
+Open With - ...bilan &oçiş
+&Other... - &Boşqa...
+You are trying to open 1 file, are you sure? - Siz 1 ta faylni oçmoqçisiz, işonçingiz komilmi?
+Open All Files - Faylni oçiş
+Bookmarks - Xatçöplar
+Current Document Folder - Joriy hujjat jildi
+Options - Xkb parametrlari
+Automatically synchronize with current document - Joriy hujjat bilan avtomatik sinxronlaş
+Highlight current file - Joriy faylni ajratib körsatiş
+Toolbar - Asboblar paneli
+A&vailable actions: - &Mavjud bölgan amallar:
+S&elected actions: - Tan&langan amallar:
+Filesystem Browser - Fayl-brauzeri
+Filesystem Browser Settings - Fayl tizimi brauzeri sozlamalari
+Filesystem - Fayl tizimi

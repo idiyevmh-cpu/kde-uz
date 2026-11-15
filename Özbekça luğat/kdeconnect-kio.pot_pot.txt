@@ -1,0 +1,9 @@
+No such device: %0 - Bunday qurilma yöq: %0
+%0 is not paired - %0 juftlanmagan
+%0 is not connected - %0 ulanmagan
+%0 has no Remote Filesystem plugin - %0 da Masofaviy fayl tizimi plagini yöq
+Listing devices… - Qurilmalar sanalmoqda…
+Accessing device… - Qurilmaga ulanilmoqda…
+Could not contact background service. - Orqa fon xizmati bilan boğlanib bölmadi.
+KDE Connect - KDE Connect
+Failed to get mount point: %1 - Ulaniş nuqtasini olib bölmadi: %1

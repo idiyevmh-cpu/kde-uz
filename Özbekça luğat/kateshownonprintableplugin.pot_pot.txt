@@ -1,0 +1,2 @@
+Show Non-Printable Characters - Çop etilmaydigan belgilarni körsatiş
+Toggle Show Non-Printable Characters - Çop etilmaydigan belgilarni körsatişni almaştiriş

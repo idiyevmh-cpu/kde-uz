@@ -1,0 +1,13 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+Unable to change NTP settings - NTP sozlamalarini özgartirib bölmadi
+Permission to change NTP setting denied - NTP sozlamasini özgartiriş uçun ruxsat berilmadi
+Unable to set current time - Joriy vaqtni örnatib bölmadi
+Permission to change date and time setting denied - Sana va vaqt sozlamalarini özgartiriş uçun ruxsat rad etildi
+Unable to set time zone - Vaqt mintaqasini örnatib bölmadi
+Permission to change time zone denied - Vaqt mintaqasini özgartiriş ruxsati rad etildi
+Set date and time automatically - Sana va vaqtni avtomatik ravişda belgilaş
+Set Time - Vaqtni sozlaş
+Set Date - Sanani sozlaş
+Time Zone - Vaqt mintaqasi

@@ -1,0 +1,6 @@
+Source text - Tarjima text
+The '%1' key combination is registered by application %2 for action %3. - '%1' tugmalar birikmasi %2 ilovasi tomonidan %3 amali uçun röyxatga olingan.
+In context '%1' for action '%2' - '%1' kontekstida '%2' amali uçun
+The '%1' key combination is registered by application %2. - '%1' tugmalar birikmasi %2 ilovasi tomonidan röyxatdan ötkazilgan.
+Conflict With Registered Global Shortcut - Röyxatga olingan global tezkor tugma bilan töqnaşuv (ziddiyat)
+Reassign - Qayta tayinlaş

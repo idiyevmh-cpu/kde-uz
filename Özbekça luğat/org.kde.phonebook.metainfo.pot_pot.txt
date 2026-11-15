@@ -1,0 +1,19 @@
+Source text - Tarjima text
+Phonebook - Kontaktlar daftari
+View and edit contacts - Kontaktlarni köriş va tahrirlaş
+KDE Community - KDE hamjamiyati
+Convergent contact management application for both desktop and mobile devices. - Kompyuter va mobil qurilmalar uçun moslaştirilgan kontaktlarni boşqariş ilovasi.
+It provides a central place for starting conversations. Depending on the information available about a contact, respective actions are displayed. - Suhbatlarni boşlaş uçun yagona qulay markaz. Kontakt haqidagi maʼlumotlarga qarab, tegişli amallar körsatiladi.
+Features - Xususiyatlari
+Add contacts - Kontaktlarni qöşiş
+Remove contacts - Kontaktlarni öçiriş
+Import vCard files - vCard fayllarini import qiliş
+Contact overview - Kontakt haqida umumiy maʼlumot
+Make app remember state on desktop - Ilovaning iş stolidagi holatini eslab qoliş
+Do not highlight first contact in list when opening - Oçilganda röyxatdagi birinçi kontaktni ajratib körsatmaslik
+Add missing input method hints for contact entries - Kontakt yozuvlari uçun yetişmayotgan kiritiş usuli maslahatlarini qöşiş
+Internal improvements - Içki yaxşilanişlar
+Re-add support for calling/texting multiple numbers - Bir neçta raqamlarga qönğiroq qiliş/SMS yuboriş imkoniyatini qaytariş
+Remove call action from contacts list - Kontaktlar röyxatidan qönğiroq amalini olib taşlaş
+Consistently use Phonebook instead of Phone Book - Doimiy ravişda Phonebook atamasidan foydalaniş
+Scrolling performance improvements - Varaqlaş (skrolling) tezligini oşiriş

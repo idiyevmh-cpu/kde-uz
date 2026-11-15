@@ -1,0 +1,10 @@
+Source text - Tarjima text
+Your names - Ismingiz
+Your emails - Emailingiz
+Logout canceled by '%1' - Çiqiş '%1' tomonidan bekor qilindi
+Session is exiting - Seans yakunlanmoqda
+No write access to '%1'. - '%1' ga yoziş huquqi yöq.
+No read access to '%1'. - '%1' dan öqiş huquqi yöq.
+Plasma is unable to start. - Plasma işga tuşa olmayapti.
+Restores the saved user session if available - Agar mavjud bölsa, saqlangan foydalanuvçi seansini tiklaydi
+Also allow remote connections - Masofaviy ulanişlarga ham ruxsat beriş

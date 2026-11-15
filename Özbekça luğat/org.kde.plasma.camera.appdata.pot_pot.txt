@@ -1,0 +1,5 @@
+Source text - Tarjima text
+Plasma Camera - Plasma Kamera
+Take photos and videos - Foto va video oliş
+Camera Application for Plasma Mobile. - Plasma Mobile uçun kamera ilovasi.
+It supports different resolutions, different white balance modes and switching between different camera devices. - U turli aniqlik ölçamlari, oq rang balansi rejimlari va turli kameralar örtasida almaşişni qöllab-quvvatlaydi.

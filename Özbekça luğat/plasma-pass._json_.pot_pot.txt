@@ -1,0 +1,4 @@
+Source text - Tarjima text
+Plasma Pass - Plasma Pass
+Access passwords from the 'pass' password manager - 'pass' parollar menejeridan parollarga kiriş
+Daniel Vrátil - Daniel Vrátil

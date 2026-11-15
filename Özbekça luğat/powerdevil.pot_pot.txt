@@ -1,0 +1,58 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Power Management - Quvvat boşqaruvi
+Turn Off Screen - Ekranni öçiriş
+Suspend - Töxtatib turiş
+Hibernate - Gipernatsiya
+Power Off - Öçiriş
+Power Down - Quvvatni öçiriş
+Increase Keyboard Brightness - Klaviatura yorqinligini oşiriş
+Decrease Keyboard Brightness - Klaviatura yorqinligini kamaytiriş
+Toggle Keyboard Backlight - Klaviaturaning orqa nurini yoqiş/öçiriş
+Switch Power Profile - Quvvat profilini almaştiriş
+Built-in Screen - Örnatilgan ekran
+%1 %2 - %1 %2
+KDE Power Management System - KDE quvvat boşqaruvi tizimi
+PowerDevil, an advanced, modular and lightweight power management daemon - PowerDevil — ilğor, modulli va yengil quvvat boşqaruvi demoni
+© 2015–2019 Kai Uwe Broulik - © 2015–2019 Kai Uwe Broulik
+Kai Uwe Broulik - Kai Uwe Broulik
+Maintainer - Taʼminotçi
+Dario Freddi - Dario Freddi
+Previous maintainer - Oldingi taʼminotçi
+Replace an existing instance - Mavjud nusxani almaştiriş
+Activity Manager - Faoliyatlar boşqaruvçisi
+This activity's policies prevent the system from going to sleep - Uşbu faoliyat qoidalari tizimning kutiş rejimiga ötişiga tösqinlik qiladi
+This activity's policies prevent screen power management - Uşbu faoliyat qoidalari ekranning quvvat boşqaruviga tösqinlik qiladi
+Extra Battery Added - Qöşimça batareya qöşildi
+The system will no longer go to sleep. - Tizim endi kutiş rejimiga ötmaydi.
+Device Battery Low (%1% Remaining) - Qurilma batareyasi kam (%1% qoldi)
+The battery in “%1” is running low. Please recharge the battery. - “%1” dagi batareya quvvati kam qoldi. Iltimos, batareyani quvvatlang.
+The battery in “%1” is running low. - “%1” dagi batareya quvvati kam qoldi.
+Mouse Battery Low (%1% Remaining) - Siçqonça batareyasi kam (%1% qoldi)
+Keyboard Battery Low (%1% Remaining) - Klaviatura batareyasi kam (%1% qoldi)
+Phone Battery Low (%1% Remaining) - Telefon batareyasi kam (%1% qoldi)
+Bluetooth Device Battery Low (%1% Remaining) - Bluetooth qurilmasi batareyasi kam (%1% qoldi)
+Ensure that the power cord is plugged in all the way and provides enough power. - Quvvat kabeli töliq ulanganligiga va yetarli quvvat bilan taʼminlayotganligiga işonç hosil qiling.
+Plug in the power cord. - Quvvat kabelini ulang.
+The system will shut down in 60 seconds. - Tizim 60 soniyadan keyin öçadi.
+Shut Down Now - Hozir öçiriş
+The system will hibernate in 60 seconds. - Tizim 60 soniyadan keyin gipernatsiyaga ötadi.
+Hibernate Now - Hozir gipernatsiyaga ötiş
+The system will go to sleep in 60 seconds. - Tizim 60 soniyadan keyin kutiş rejimiga ötadi.
+Sleep Now - Hozir kutiş rejimiga ötiş
+Please save your work. - Iltimos, işingizni saqlang.
+Cancel - Bekor qiliş
+Battery Low (%1% Remaining) - Batareya quvvati kam (%1% qoldi)
+Battery Critical (%1% Remaining) - Batareya quvvati juda kam (%1% qoldi)
+Power Cord Plugged In - Quvvat kabeli ulandi
+The computer will no longer go to sleep. - Kompyuter endi kutiş rejimiga ötmaydi.
+Running on AC Power - Tarmoq quvvatida işlamoqda
+The power cord has been plugged in. - Quvvat kabeli ulandi.
+Running on Battery Power - Batareya quvvatida işlamoqda
+The power cord has been unplugged. - Quvvat kabeli uzildi.
+Charging Complete - Quvvatlaş yakunlandi
+Battery now fully charged. - Batareya endi töliq quvvatlandi.
+Increase Screen Brightness - Ekran yorqinligini oşiriş
+Increase Screen Brightness by 1% - Ekran yorqinligini 1% ga oşiriş
+Decrease Screen Brightness - Ekran yorqinligini kamaytiriş
+Decrease Screen Brightness by 1% - Ekran yorqinligini 1% ga kamaytiriş

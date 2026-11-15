@@ -1,0 +1,3 @@
+Start Kate (no arguments) - Kate-ni boşlaş (argumentsiz)
+New Kate Session - Yangi Kate seansi
+Built-in - Örnatilgan

@@ -1,0 +1,124 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+An entry by the name '%1' already exists. Would you like to continue? - '%1' nomli maʼlumot allaqaçon mavjud. Davom etişni istaysizmi?
+A folder by the name '%1' already exists.  What would you like to do? - '%1' nomli jild allaqaçon mavjud. Nima qilişni istaysiz?
+Replace - Almaştiriş
+Folders - Jildlar
+An unexpected error occurred trying to drop the item - Tortib taşlaşda kutilmagan xato röy berdi
+An unexpected error occurred trying to drop the entry - Tortib taşlaşda kutilmagan xato röy berdi
+An unexpected error occurred trying to delete the original folder, but the folder has been copied successfully - Asl jildni olib taşlaşda xato röy berdi, lekin jilddan nusxa muvaffaqiyatli olindi
+&Replace - &Almaştiriş
+Replace &All - Ha&mmasini almaştiriş
+&Skip - Ö&tkazib yuboriş
+Skip A&ll - Hammasini ötka&zib yuboriş
+Search - Qidiriş
+&Show values - &Qiymatlarni körsating
+&New Folder... - &Yangi jild...
+&Delete Folder - Ji&ldni öçiriş
+&Import XML... - XML'ni &import qiliş
+&Export as XML... - XML sifatida &eksport qiliş...
+&Copy - &Nusxa oliş
+&New... - &Yangi
+&Rename - &Nomini özgartiriş
+&Delete - Fayllarni öçiriş
+Always show contents - Tarkibini &körsatiş
+Always hide contents - Tarkibini &bekitiş
+Passwords - Maxfiy sözlar
+Maps - Xaritalar
+Binary Data - Binar maʼlumotlar
+Unknown - Nomaʼlum
+Are you sure you wish to delete the folder '%1' from the wallet? - Rostdan hamyondan '%1' nomli jildni öçirişni istaysizmi?
+Error deleting folder. - Jildni öçirişda xato röy berdi.
+New Folder - Yangi jild
+Please choose a name for the new folder: - Iltimos yangi jild uçun nom tanlang:
+Sorry, that folder name is in use. Try again? - Uzr, jild nomi allaqaçon foydalanişda. Boşqadan urinib körişni istaysizmi?
+Try Again - Urinib köriş
+Do Not Try - Urinib körilmasin
+Error saving entry. Error code: %1 - Yozuvni saqlaşda xato röy berdi. Xato kodi: %1
+The contents of the current item has changed.
+Do you want to save changes? - Joriy elementning mazmuni özgardi.
+Özgartirişlarni saqlaşni xohlaysizmi?
+Password: %1 - Maxfiy söz: %1
+Name-Value Map: %1 - Nom-Qiymat Xaritasi: %1
+Binary Data: %1 - Binar maʼlumotlar: %1
+New Entry - Yangi yozuv
+Please choose a name for the new entry: - Iltimos yangi yozuv uçun nom tanlang:
+Sorry, that entry already exists. Try again? - Uzr, uşbu yozuv allaqaçon mavjud. Boşqadan urinib körişni istaysizmi?
+An unexpected error occurred trying to add the new entry - Yangi yozuv qöşilayotganda kutilmagan xato röy berdi.
+An unexpected error occurred trying to rename the entry - Yozuvning nomi özgartirilayotganda kutilmagan xato röy berdi.
+Are you sure you wish to delete the item '%1'? - Rostdan '%1' yozuvni öçirişni istaysizmi?
+An unexpected error occurred trying to delete the entry - Yozuv öçirilayotganda kutilmagan xato röy berdi.
+Unable to open the requested wallet. - Söralgan hamyonni oçib bölmadi.
+Unable to access XML file '<b>%1</b>'. - '<b>%1</b>' XML fayliga murojaat qilib bölmadi.
+Error reading XML file '<b>%1</b>' for input. - '<b>%1</b>' XML faylni öqişda xato röy berdi.
+Error: XML file does not contain a wallet. - Xato: XML fayli tarkibida hamyon mavjud emas.
+Folder '<b>%1</b>' already contains an entry '<b>%2</b>'.  Do you wish to replace it? - '<b>%1</b>' jildida '<b>%2</b>' yozuvi allaqaçon mavjud. Uni almaştirişni istaysizmi?
+Unable to store to '<b>%1</b>'. - '<b>%1</b>' hamyoniga murojaat qilib bölmadi.
+The KDE Wallet system is not enabled. Do you want me to enable it? If not, the KWalletManager will quit as it cannot work without reading the wallets. - KDE Wallet tizimi yoqilmagan. Uni yoqişimni xohlaysizmi? Agar yöq bölsa, walletlarni öqimasdan işlay olmasligi sababli KWalletManager çiqib ketadi.
+Wallet - Hamyon
+No wallets open. - Oçiq hamyonlar yöq.
+A wallet is open. - Hamyon oçiq.
+&New Wallet... - &Yangi hamyon...
+&Delete Wallet... - &Hamyonni öçiriş
+Export as encrypted - Şifrlangan holda eksport
+&Import encrypted - &Şifrlangan import
+Configure &Wallet... - Hamyonni &moslaş
+Close &All Wallets - &Barça hamyonlarni yopiş
+Unable to close wallet cleanly. It is probably in use by other applications. Do you wish to force it closed? - Hamyonni yopib bölmayapti. Ehtimol u boşqa ilovalar tomonidan işlatilmoqda. Uni majburan yopmoqçimisiz?
+Force Closure - Majburiy yopiş
+Do Not Force - Majburiy yopilmasin
+Unable to force the wallet closed. Error code was %1. - Hamyonni majburiy yopib bölmadi. Xato kodi: %1.
+Error opening wallet %1. - '%1' qopçiğini oçişda xato röy berdi.
+Please choose a name for the new wallet: - Iltimos yangi hamyon uçun nom tanlang:
+New Wallet - Yangi hamyon
+Empty name is not supported. Please select a new one. - Böş nom qöllab-quvvatlanmaydi. Iltimos, yangi birini tanlang.
+Create new wallet - Yangi hamyon yarating
+Sorry, that wallet already exists. Try a new name? - Uzr, bunday hamyon allaqaçon mavjud. Boşqadan urinib körişni istaysizmi?
+Try New - Urinib köriş
+Are you sure you wish to delete the wallet '%1'? - Rostdan '%1' qopçiğini öçirişni istaysizmi?
+Unable to delete the wallet. Error code was %1. - Kopçiqni öçirib bölmadi. Xato kodi: %1.
+File name - Fayl nomi
+Tar archive (*.tar) - Tar arxiv (*.tar)
+Failed to open file for writing - Yoziş uçun faylni oçiş mumkin bölmadi
+Select file - Faylni tanlaş
+Failed to open file - Fayllarni oçiş muvaffaqiyatsiz böldi
+Wallet named %1 already exists, Operation aborted - %1 nomli hamyon allaqaçon mavjud, amaliyot bekor qilindi
+Failed to copy files - Fayllarni nusxalaş muvaffaqiyatsiz böldi
+Ignore unsaved changes? - Saqlanmagan özgarişlarni eʼtiborsiz qoldiriş?
+Ignore - Eʼtibor berilmasin
+&File - &Fayl
+&Settings - Mos&lamalar
+&Help - &Yordam
+An error occurred when connecting to the KWallet service:<nl/>%1 - KWallet xizmatiga ulanayotganda xato yuz berdi:<nl/>%1
+&Open... - &Oçiş...
+Change &Password... - &Parolni özgartiriş...
+Key - Kalit
+Value - Qiymat
+Delete Entry - Yozuvni öçiriş
+&New Entry - &Yangi kiritiş
+Wallet Manager - Hamyon boşqaruvçisi
+KDE Wallet Management Tool - KDE uçun hamyon boşqariş dasturi
+Copyright ©2013–2017, KWallet Manager authors - Mualliflik huquqi ©2013–2017, KWallet Manager mualliflari
+Valentin Rusu - Valentin Rusu
+Former Maintainer, user interface refactoring - Sobiq texnik qöllab-quvvatlovçi, foydalanuvçi interfeysini qayta işlaş
+George Staikos - (C) 2004, Jorj Staykos (George Staikos)
+Original author and former maintainer - Muallif va taʼminlovçi
+Michael Leupold - Maykl Lyupold
+Developer and former maintainer - Muallif va taʼminlovçi
+Isaac Clerencia - Isaak Clerensiya
+Developer - Tuzuvçi
+Ignored, for compatibility - Moslik uçun eʼtiborsiz qoldirildi
+For use by kwalletd only - Faqat kwalletd qöllaşi uçun
+A wallet name - hamyonning nomi
+Revoke Authorization - Ruxsatni bekor qiliş
+&Close - Yo&piş
+The '%1' wallet is currently open. - '%1' hamyoni hozirda oçiq.
+The wallet is currently closed. - Hozirda hamyon yopiq.
+KSqueezedTextLabel - KSqueezedTextLabel
+Open... - Oçiş...
+Change Password... - Parolni özgartiriş...
+Hide &Contents - Tarkibini &bekitiş
+Co&py - &Nusxalaş
+Show &Contents - Tarkibini & körsatiş
+&Undo - &Bekor qiliş
+&Save - &Saqlaş

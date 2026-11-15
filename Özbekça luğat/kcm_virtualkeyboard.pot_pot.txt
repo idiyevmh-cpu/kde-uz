@@ -1,0 +1,6 @@
+None - Yöq
+Do not use any virtual keyboard - Heç qanday virtual klaviaturadan foydalanmaslik
+Show Virtual Keyboard: - Virtual klaviaturani körsatiş:
+Never - Heç qaçon
+With Touch and Tablet - Sensorli ekran va planşet bilan
+With Touch, Tablet, and Mouse - Sensorli ekran, planşet va siçqonça bilan

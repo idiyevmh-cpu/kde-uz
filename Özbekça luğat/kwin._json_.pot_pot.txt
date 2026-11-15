@@ -1,0 +1,157 @@
+Animations - Animatsiyalar
+Window Decorations - Oyna bezaklari
+Virtual Desktops - Virtual iş stollari
+Desktop Effects - Iş stoli effektlari
+Window Behavior - Oyna xatti-harakati
+Window Rules - Oyna qoidalari
+Screen Edges - Ekran çetlari
+Touchscreen Gestures - Sensorli ekran imo-işoralari
+KWin Scripts - KWin skriptlari
+Task Switching - Vazifalarni almaştiriş
+Virtual Keyboard - Virtual klaviatura
+Legacy X11 App Support - Eski X11 ilovalarini qöllab-quvvatlaş
+Blend Changes - Özgarişlarni uyğunlaştiriş
+Blur - Xiralaştiriş (Blur)
+Colorblindness Correction - Daltonizmni tuzatiş
+Color Picker - Rang tanlagiç
+Desktop Change OSD - Iş stoli özgarişi OSD ekrani
+Dialog Parent - Ota-ona muloqot oynasi
+Dim Inactive - Nofaollarni xiralaştiriş
+Dim Screen for Administrator Mode - Administrator rejimi uçun ekranni xiralaştiriş
+Dwell Clicker - Kutib bosgiç (Dwell Clicker)
+Eye on Screen - Ekrandagi köz
+Fade - Söniş
+Fade Windows - Oynalarning sönişi
+Fading Popups - Sönuvçi qalqib çiquvçi oynalar
+Fall Apart - Parçalaniş
+Freeze Display - Displeyni muzlatiş
+Full Screen - Töliq ekran
+Glide - Sirpaniş
+Hide Cursor - Kursorni yaşiriş
+Highlight Window - Oynani ajratib körsatiş
+Invert - Teskari qiliş
+KScreen - KScreen
+Login - Tizimga kiriş
+Logout - Tizimdan çiqiş
+Magic Lamp - Sehrli çiroq
+Magnifier - Lupa (Magnifier)
+Maximize - Kattalaştiriş
+Minimize All - Hammasini qayiriş
+Mouse Click Animation - Siçqonça bosilişi animatsiyasi
+Mouse Mark - Siçqonça bilan çiziş
+Output Locator - Çiqiş joylaşuvini aniqlagiç
+Overview - Umumiy köriniş
+Scale - Masştablaş
+Screen Edge - Ekran çeti
+Screen Transform - Ekranni özgartiriş
+Session Quit - Seansdan çiqiş
+Shake Cursor - Kursorni silkitiş
+Sheet - Varaq
+Show Compositing - Kompozitsiyani körsatiş
+Show FPS - FPS ni körsatiş
+Show Paint - Çizişni körsatiş
+Slide Back - Orqaga suriş
+Slide - Suriş
+Sliding notifications - Suriluvçi bildirişnomalar
+Sliding popups - Suriluvçi qalqib çiquvçi oynalar
+Squash - Siqiş
+Startup Feedback - Işga tuşiriş qayta aloqasi
+Synchronize Skip Switcher with Taskbar - Vazifalar panelidan çiqarib taşlanganlarni almaştirgiç bilan sinxronlaş
+System Bell - Tizim qönğiroği
+Thumbnail Aside - Eskiz çetda
+Tiling Editor - Koşinlaş muharriri
+Touch Points - Tegiş nuqtalari
+Track Mouse - Siçqonçani kuzatiş
+Translucency - Yarim şaffoflik
+Video Wall - Video devori
+Window Aperture - Oyna diafragmasi
+Present Windows - Oynalarni namoyiş qiliş
+Wobbly Windows - Tebranuvçi oynalar
+Zoom - Kattalaştiriş (Zoom)
+Thumbnail Grid - Eskizlar katagi
+Configure animation speed and style - Animatsiya tezligi va uslubini sozlaş
+Configure window titlebars and borders - Oyna sarlavha panellari va çegaralarini sozlaş
+Configure navigation, number and layout of virtual desktops - Virtual iş stollari navigatsiyasi, soni va tartibini sozlaş
+Configure compositor settings for desktop effects - Iş stoli effektlari uçun kompozitor sozlamalarini sozlaş
+Configure window actions and behavior - Oyna amallari va xatti-harakatini sozlaş
+Individual Window Behavior - Alohida oynalar xatti-harakati
+Configure active screen corners and edges - Faol ekran burçaklari va çetlarini sozlaş
+Configure touch screen swipe gestures - Sensorli ekran suriş imo-işoralarini sozlaş
+Manage KWin scripts - KWin skriptlarini boşqariş
+Navigation Through Windows - Oynalar böylab navigatsiya
+Select which virtual keyboard to use - Qaysi virtual klaviaturadan foydalanişni tanlang
+Select which keys will be globally available to legacy X11 apps - Eski X11 ilovalari uçun qaysi tugmalar global mavjud bölişini tanlang
+Animates system style changes - Tizim uslubi özgarişlarini animatsiya qiladi
+Blurs the background behind semi-transparent windows - Yarim şaffof oynalar ortidagi fonni xiralaştiradi
+Enhances color perception for color blindness - Daltonizm uçun rang idrokini yaxşilaydi
+Supports picking a color - Rang tanlaşni qöllab-quvvatlaydi
+An on screen display indicating the desktop change - Iş stoli özgarişini körsatuvçi ekrandagi bildirişnoma (OSD)
+Darkens the parent window of the currently active dialog - Hozirda faol muloqot oynasining ota-ona oynasini qoraytiradi
+Darken inactive windows - Nofaol oynalarni qoraytiriş
+Darkens the entire screen when requesting root privileges - Root huquqlari söralganda butun ekranni qoraytiradi
+Automatically performs a mouse click when the user keeps the cursor still for a set amount of time - Foydalanuvçi kursorni belgilangan vaqt davomida harakatsiz uşlab turganda siçqonça bosilişini avtomatik bajaradi
+Suck windows into the desktop - Oynalarni iş stoliga sörib oladi
+Fade between virtual desktops when switching - Almaştirişda virtual iş stollari örtasida söniş
+Make windows fade in and out when they are shown or hidden - Körsatilganda yoki yaşirilganda oynalarni asta-sekin paydo böladigan va sönadigan qiliş
+Fade popups in and out - Qalqib çiquvçi oynalarni asta-sekin paydo böladigan va sönadigan qiliş
+Closed windows fall into pieces - Yopilgan oynalar bölaklarga bölinib ketadi
+Desaturate windows of unresponsive (frozen) applications - Javob bermayotgan (qotib qolgan) ilovalar oynalari rangini töyintirmaslik
+Stretch windows going to and leaving full screen mode - Töliq ekran rejimiga ötganda va undan çiqqanda oynalarni çöziş
+Glide windows as they appear or disappear - Paydo bölganda yoki yöqolganda oynalarni sirpantiriş
+Hide mouse cursor on inactivity or keyboard input - Harakatsizlikda yoki klaviatura orqali kiritilganda siçqonça kursorini yaşiriş
+Highlight the appropriate window when hovering over taskbar entries - Vazifalar paneli elementlari ustiga borganda tegişli oynani ajratib körsatiş
+Inverts the color of the desktop and windows; activated with a keyboard shortcut - Iş stoli va oynalar rangini teskari qiladi; klaviatura tezkor tugmasi bilan faollaştiriladi
+Helper Effect for KScreen - KScreen uçun yordamçi effekt
+Fade to the desktop when logging in - Tizimga kirişda iş stoliga asta-sekin ötiş
+Fade to the logout screen - Çiqiş ekraniga asta-sekin ötiş
+Simulate a magic lamp when minimizing windows - Oynalarni qayirganda sehrli çiroq effektini simulyatsiya qiliş
+Magnify the section of the screen that is near the mouse cursor; activated with a keyboard shortcut - Siçqonça kursi yaqinidagi ekran qismini kattalaştiradi; klaviatura tezkor tugmasi bilan faollaştiriladi
+Stretch windows when they are maximized or restored - Oynalar kattalaştirilganda yoki tiklanganda ularni çöziş
+Adds a shortcut to minimize and restore all windows - Barça oynalarni qayiriş va tiklaş uçun tezkor tugma qöşadi
+Creates an animation whenever a mouse button is clicked. This is useful for screenrecordings/presentations. Activated with a keyboard shortcut - Siçqonça tugmasi bosilganda animatsiya yaratadi. Bu ekran yozuvlari/taqdimotlar uçun foydalidir. Klaviatura tezkor tugmasi bilan faollaştiriladi
+Allows you to draw lines on the desktop; activated with a keyboard shortcut - Iş stolida çiziqlar çiziş imkonini beradi; klaviatura tezkor tugmasi bilan faollaştiriladi
+Show screen names - Ekran nomlarini körsatiş
+Allows you to overview virtual desktops and windows; activated with a keyboard shortcut - Virtual iş stollari va oynalarni közdan keçiriş imkonini beradi; klaviatura tezkor tugmasi bilan faollaştiriladi
+Make windows scale in and out when they are shown or hidden - Oynalar körsatilganda yoki yaşirilganda ularni masştablaştiriş
+Highlights screen edges and corners that trigger actions when touched as the cursor approaches them - Körsatkiç yaqinlaşganda tegilganda amallarni işga tuşiruvçi ekran çetlari va burçaklarini ajratib körsatadi
+Animates display transformations - Displey özgarişlarini animatsiya qiladi
+Keep the desktop background alive during logout until the end - Çiqiş paytida iş stoli fonini oxirigaça faol saqlaş
+Makes the cursor larger when the pointer is quickly moved back and forth - Körsatkiç tezda oldinga va orqaga harakatlantirilganda kursorni kattalaştiradi
+Make modal dialogs smoothly fly in and out when they are shown or hidden - Modal muloqot oynalari körsatilganda yoki yaşirilganda silliq uçib kirişi va çiqişini taʼminlaş
+Display if compositing is active - Kompozitsiya faol ekanligini körsatiş
+Display KWin's performance in the corner of the screen - Ekran burçagida KWin unumdorligini körsatiş
+Highlight areas of the desktop that have been recently updated; activated with a keyboard shortcut - Yaqinda yangilangan iş stoli sohalarini ajratib körsatiş; klaviatura tezkor tugmasi bilan faollaştiriladi
+Slide back windows when another window is raised - Boşqa oyna kötarilganda oynalarni orqaga suriş
+Slide between virtual desktops when switching - Almaştirişda virtual iş stollari örtasida suriş
+Slide Plasma notifications in and out - Plasma bildirişnomalarini surib çiqariş va kiritiş
+Slide Plasma popups in and out - Plasma qalqib çiquvçi oynalarini surib çiqariş va kiritiş
+Squash windows when they are minimized - Oynalar qayirilganda ularni siqiş
+Helper effect for startup feedback - Işga tuşiriş qayta aloqasi uçun yordamçi effekt
+Hides all windows marked as Skip Taskbar to be also excluded from window switchers (e.g. Alt+Tab) - Vazifalar panelini ötkazib yuboriş sifatida belgilangan barça oynalarni oyna almaştirgiçlardan (masalan, Alt+Tab) ham çiqarib taşlaş
+Provides the bell - Qönğiroqni taʼminlaydi
+Display window thumbnails on the edge of the screen; activated with a keyboard shortcut - Ekran çetida oyna eskizlarini körsatiş; klaviatura tezkor tugmasi bilan faollaştiriladi
+Editor for the tiling areas - Koşinlaş sohalari uçun muharrir
+Visualize touch points - Tegiş nuqtalarini vizuallaştiriş
+Display a mouse cursor locating effect; activated with a keyboard shortcut - Siçqonça kursorini aniqlaş effektini körsatiş; klaviatura tezkor tugmasi bilan faollaştiriladi
+Make windows translucent under different conditions - Turli şaroitlarda oynalarni yarim şaffof qiliş
+Spans fullscreen video player over all attached screens to create a Video Wall - Video devorini yaratiş uçun töliq ekranli video pleyerni barça ulangan ekranlar böylab çözadi
+Move windows into screen corners - Oynalarni ekran burçaklariga köçiriş
+Zoom out until all opened windows can be displayed side-by-side - Barça oçiq oynalar yonma-yon körsatilgunça kiçraytiriş
+Deform windows while they are moving - Oynalar harakatlanayotganda ularni deformatsiya qiliş
+Magnify the entire desktop; activated with a keyboard shortcut - Butun iş stolini kattalaştiradi; klaviatura tezkor tugmasi bilan faollaştiriladi
+A window switcher layout using a small grid of thumbnails - Eskizlarning kiçik katagidan foydalanadigan oyna almaştirgiç tartibi
+Martin Gräßlin - Martin Gräßlin
+Rivo Laks, Martin Gräßlin - Rivo Laks, Martin Gräßlin
+Martin Flöser, Vlad Zahorodnii - Martin Flöser, Vlad Zahorodnii
+Thomas Lübking - Thomas Lübking
+Lucas Murray, Martin Gräßlin - Lucas Murray, Martin Gräßlin
+Philip Falkner, Martin Gräßlin - Philip Falkner, Martin Gräßlin
+Vlad Zahorodnii - Vlad Zahorodnii
+Kai Uwe Broulik - Kai Uwe Broulik
+Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin - Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin
+Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin, Marco Martin - Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin, Marco Martin
+David Redondo - David Redondo
+David Edmundson - David Edmundson
+Rivo Laks, Vlad Zahorodnii - Rivo Laks, Vlad Zahorodnii
+Luboš Luňák, Martin Gräßlin - Luboš Luňák, Martin Gräßlin
+Chris Holland - Chris Holland

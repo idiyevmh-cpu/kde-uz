@@ -1,0 +1,18 @@
+Shift - Shift
+Ctrl - Ctrl
+Alt - Alt
+Meta - Meta
+Super - Tovuş
+Hyper - Turi
+AltGr - Alt
+Num Lock - NumLock
+Caps Lock - CapsLock
+Scroll Lock - ScrollLock
+Left Button - Çap tugma
+Right Button - Öng tugma
+Middle Button - Örta tugma
+First X Button - Birinçi X tugmasi
+Second X Button - Ikkinçi X tugmasi
+Pressed - Bosilgan
+Latched - Qulflangan (latched)
+Locked - Qulflangan

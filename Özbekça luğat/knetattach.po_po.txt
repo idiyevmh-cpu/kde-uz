@@ -1,0 +1,31 @@
+Your names - Mashrab Quvatov
+Your emails - kmashrab@uni-bremen.de
+Enter a name for this <i>WebFolder</i> as well as a server address, port and folder path to use and press the <b>Save & Connect</b> button. - <i>Veb-jildi</i> uçun nom, serverning manzili, port va jildning yölini kiriting va <b>Saqlaş va ulaniş</b> tugmasini bosing.
+Enter a name for this <i>Secure shell connection</i> as well as a server address, port and folder path to use and press the <b>Save & Connect</b> button. - <i>SSH orqali aloqa</i> uçun nom, serverning manzili, port va jildning yölini kiriting va <b>Saqlaş va ulaniş</b> tugmasini bosing.
+Enter a name for this <i>File Transfer Protocol connection</i> as well as a server address and folder path to use and press the <b>Save & Connect</b> button. - <i>FTP orqali aloqa</i> uçun nom, serverning manzili va jildning yölini kiriting va <b>Saqlaş va ulaniş</b> tugmasini bosing.
+Enter a name for this <i>Microsoft Windows network drive</i> as well as a server address and folder path to use and press the <b>Save & Connect</b> button. - <i>Microsoft Windows tarmoq jildi</i> uçun nom, serverning manzili va jildning yölini kiriting va <b>Saqlaş va ulaniş</b> tugmasini bosing.
+Unable to connect to server.  Please check your settings and try again. - Serverga ulanib bölmadi. Iltimos moslamalarni tekşiring va yana urinib köring.
+Save && C&onnect - Saqlaş va &ulaniş
+C&onnect - U&laniş
+Network Folder Wizard - Tarmoq jildi böyiça yordamçi
+Add Network Folder - Tarmoq jildini qöşiş
+Select the type of network folder you wish to connect to and press the Next button. - Ulanmoqçi bölgan tarmoq jildini tanlang va <b>Keyingi</b> tugmasini bosing.
+&Recent connection: - &Oxirgi aloqa:
+&WebFolder (webdav) - &Veb-jildi (Webdav)
+&Secure shell (ssh) - &SSH
+FT&P - FT&P
+&Microsoft® Windows® network drive - Microsoft® Windows® &tarmoği
+Network Folder Information - Tarmoq jildi haqida maʼlumot
+&Name: - &Nomi:
+&User: - &Foydalanuvçi:
+Se&rver: - S&erver:
+&Port: - &Port:
+&Protocol: - &Protokol:
+&Folder: - &Jild:
+Encoding: - Kodlaş usuli:
+Cr&eate an icon for this remote folder - Uşbu jild uçun &nişonça yaratiş
+&Use encryption - Şifrlaşdan &foydalaniş
+KDE Network Wizard - KDE tarmoq yordamçisi
+(c) 2004 George Staikos - (C) 2004, Jorj Staykos (George Staikos)
+George Staikos - (C) 2004, Jorj Staykos (George Staikos)
+Primary author and maintainer - Muallif va taʼminlovçi

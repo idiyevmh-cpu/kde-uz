@@ -1,0 +1,10 @@
+Source text - Tarjima text
+Uncomplicated Firewall - Soddalaştirilgan brandmauer (UFW)
+Query Firewall - Brandmauer holatini söraş
+Query firewall status - Brandmauer holatini tekşiriş
+View Firewall Logs - Brandmauer jurnallarini köriş
+View firewall logs - Brandmauer jurnallarini körib çiqiş
+Modify Firewall - Brandmauerni özgartiriş
+Modify firewall settings - Brandmauer parametrlarini özgartiriş
+Query Applications - Ilovalarni söraş
+Query the automatic application block list - Ilovalarning avtomatik bloklaş röyxatini tekşiriş

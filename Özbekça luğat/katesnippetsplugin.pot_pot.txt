@@ -1,0 +1,60 @@
+Your names - Ismingiz
+Your emails - Emailingiz
+Edit Snippet Repository %1 - %1 snippetlar omborini tahrirlaş
+Create New Snippet Repository - Yangi snippetlar omborini yaratiş
+<i>leave empty for general purpose snippets</i> - <i>umumiy maqsadli snippetlar uçun böş qoldiring</i>
+Name: - Nomi:
+Namespace: - Nomlar fazosi (Namespace):
+&License: - &Litsenziya:
+&Authors: - Muallif:
+&File types: - &Fayl turi:
+A short name for the repository - Ombor uçun qisqa nom
+Prefix to show in code completion - Kodni töldirişda körsatiladigan prefiks
+Text to insert into the document (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-template">handbook</a> for special fields). - Hujjatga kiritiladigan matn.
+JavaScript code to evaluate (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-script">handbook</a> for details). - Bajariladigan JavaScript kodi.
+Text template - Matn şabloni
+Script - Skript
+JavaScript functions shared between all snippets in this repository (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-library">handbook</a>). - Uşbu ombordagi barça snippetlar örtasida umumiy bölgan JavaScript funksiyalari (tafsilotlar uçun <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-library">qöllanmaga</a> qarang).
+Optional description to show in tooltips. You may use basic HTML formatting. - Maslahat oynalarida körsatiladigan ixtiyoriy taʼrif. Oddiy HTML formatlaşdan foydalaniş mumkin.
+Edit Snippet %1 in %2 - %2 dagi %1 snippetini tahrirlaş
+Create New Snippet in Repository %1 - %1 omborida yangi snippet yaratiş
+Snippet names with spaces may not work well in completions - Böş joyli snippet nomlari töldirişda töğri işlamasligi mumkin
+The snippet contains unsaved changes. Do you want to discard all changes? - Snippetda saqlanmagan özgarişlar bor. Barça özgarişlar bekor qilinsinmi?
+Warning - Unsaved Changes - Ogohlantiriş - Saqlanmagan özgarişlar
+Continue editing - Tahrirlaşni davom ettiriş
+Name to be shown in the completion list (required) - Töldiriş röyxatida körsatiladigan nom (majburiy)
+Snippet Mode: - Snippet rejimi:
+Keyboard shortcut: - Klaviatura yorliği:
+&Snippet - &Snippet
+S&cript Library - S&kriptlar kutubxonasi
+Description - Taʼrifi
+Test this snippet - Uşbu snippetni sinaş
+%1 snippets - %1 ta snippet
+Snippets - Snippetlar
+Create Snippet - Snippet yaratiş
+<empty snippet> - <böş snippet>
+insert snippet %1 - %1 snippetini kiritiş
+Kate needs to be compiled against KTExtEditor version 6.15.0 or higher, to use this type of snippet. - Uşbu turdagi snippetdan foydalaniş uçun Kate KTExtEditor 6.15.0 yoki undan yuqori talqini bilan kompilyatsiya qilingan bölişi kerak.
+<empty repository> - <böş ombor>
+You have edited a snippet repository file not located in your personal directory; as such, a copy of the original file has been created within your personal data directory. - Siz şaxsiy jildingizda bölmagan snippetlar ombori faylini tahrirladingiz; şuning uçun şaxsiy jildingizda nusxasi yaratildi.
+Output file '%1' could not be opened for writing - '%1' çiqiş faylini yoziş uçun oçib bölmadi
+Cannot open snippet repository %1. - %1 snippetlar omborini oçib bölmadi.
+<qt>The error <b>%4</b><br /> has been detected in the file %1 at %2/%3</qt> - <qt><b>%4</b> xatosi<br /> %1 faylida %2/%3 da aniqlandi</qt>
+Invalid XML snippet file: %1 - Yaroqsiz XML snippet fayli: %1
+Repository is disabled, the contained snippets will not be shown during code-completion. - Ombor öçirilgan, undagi snippetlar kodni töldiriş vaqtida körsatilmaydi.
+Applies to all filetypes - Barça fayl turlariga qöllaniladi
+Applies to the following filetypes: %1 - Quyidagi fayl turlariga qöllaniladi: %1
+Add Repository - Ombor qöşiş
+Edit Repository - Omborni tahrirlaş
+Remove Repository - Omborni olib taşlaş
+Add Snippet - Snippet qöşiş
+Edit Snippet - Snippetni tahrirlaş
+Remove Snippet - Snippetni olib taşlaş
+Get New Snippets - Yangi snippetlarni oliş
+Snippet: %1 - Snippet: %1
+Repository: %1 - Ombor: %1
+Do you really want to delete the snippet "%1"? - Haqiqatan ham "%1" snippetini öçirmoqçimisiz?
+Do you really want to delete the repository "%1" with all its snippets? - Haqiqatan ham "%1" omborini barça snippetlari bilan öçirmoqçimisiz?
+Define filter here - Filtrni şu yerda belgilang
+Filter... - Filtrlaş...
+&Tools - &Vositalar

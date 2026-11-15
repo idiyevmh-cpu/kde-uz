@@ -1,0 +1,40 @@
+Terminal - Terminal
+&Pipe to Terminal - &Terminalga ötkaziş (pipe)
+S&ynchronize Terminal with Current Document - Terminalni joriy hujjat bilan &sinxronlaş
+Run Current Document - Joriy hujjatni işga tuşiriş
+S&how Terminal Panel - Terminal panelini &körsatiş
+&Focus Terminal Panel - &Terminal paneliga fokus beriş
+&Split Terminal Vertically - &Terminalni vertikal böliş
+&Split Terminal Horizontally - &Terminalni gorizontal böliş
+&New Terminal Tab - &Yangi terminal varaği
+Konsole not installed. Please install konsole to be able to use the terminal. - Konsole örnatilmagan. Terminaldan foydalaniş uçun konsole-ni örnating.
+Do you really want to pipe the text to the console? This will execute any contained commands with your user rights. - Haqiqatan ham matnni konsolga ötkazişni xohlaysizmi?
+Pipe to Terminal? - Terminalga ötkazilsinmi?
+Pipe to Terminal - Terminalga ötkaziş
+Not a local file: '%1' - Mahalliy fayl emas: '%1'
+Do you really want to Run the document ?
+This will execute the following command,
+with your user rights, in the terminal:
+'%1' - Haqiqatan ham hujjatni işga tuşirişni xohlaysizmi?
+Bu quyidagi buyruqni bajaradi:
+'%1'
+Run in Terminal? - Terminalda işga tuşirilsinmi?
+Run - Işga tuşiriş
+&Hide Terminal Panel - &Terminal panelini yaşiriş
+Defocus Terminal Panel - Terminal panelidan fokusni oliş
+Focus Terminal Panel - Terminal paneliga fokus beriş
+Terminal Synchronization Mode - Terminal sinxronlaş rejimi
+&Don't synchronize terminal tab with current document - &Terminal varağini joriy hujjat bilan sinxronlamaslik
+&Automatically synchronize the current terminal tab with the current document when possible - &Iloji boriça joriy terminal varağini joriy hujjat bilan avtomatik sinxronlaş
+&Automatically create a terminal tab for the directory of the current document and switch to it - &Joriy hujjat jildi uçun avtomatik ravişda terminal varağini yaratiş va unga ötiş
+Run in terminal - &Terminalda bajariş
+&Remove extension - &Kengaytmani olib taşlaş
+Prefix: - &Prefiks matni:
+&Show warning next time - &Keyingi safar ogohlantirişni körsatiş
+The next time '%1' is executed, make sure a warning window will pop up, displaying the command to be sent to terminal, for review. - Keyingi safar '%1' bajarilganda, tekşiriş uçun terminalga yuboriladigan buyruqni körsatuvçi ogohlantiriş oynasi çiqişini taʼminlang.
+Set &EDITOR environment variable to 'kate -b' - &EDITOR muhit özgaruvçisini 'kate -b' ga örnatiş
+Important: The document has to be closed to make the console application continue - Muhim: Konsol ilovasi davom etişi uçun hujjat yopilişi kerak
+Hide Konsole on pressing 'Esc' - 'Esc' bosilganda Konsole-ni yaşiriş
+This may cause issues with terminal apps that use Esc key, for e.g., vim. Add these apps in the input below (Comma separated list) - Bu Esc tugmasidan foydalanadigan terminal ilovalarida (masalan, vim) muammolar keltirib çiqarişi mumkin.
+Terminal Settings - Terminal sozlamalari
+&Tools - &Vositalar

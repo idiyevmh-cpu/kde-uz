@@ -1,0 +1,21 @@
+Your names - Ismingiz
+Your emails - E-poçtangiz
+Desktop %1 - Iş stoli %1
+There was an error connecting to the compositor. - Kompozitorga ulanişda xatolik yuz berdi.
+There was an error saving the settings to the compositor. - Sozlamalarni kompozitorga saqlaşda xatolik yuz berdi.
+There was an error requesting information from the compositor. - Kompozitordan maʼlumot söraşda xatolik yuz berdi.
+Rows: - Qatorlar:
+Add Desktop - Iş stolini qöşiş
+Rename - Nomini özgartiriş
+Remove - Olib taşlaş
+Apply new name - Yangi nomni qöllaş
+Cancel rename - Nom özgartirişni bekor qiliş
+Virtual desktops have been changed outside this settings application. Saving now will overwrite the changes. - Virtual iş stollari uşbu sozlamalar ilovasidan taşqarida özgartirilgan. Hozir saqlaş özgarişlarni qayta yozib yuboradi.
+Row %1 - %1-qator
+Options: - Parametrlar:
+Navigation wraps around - Navigatsiya aylanma tarzda işlaydi
+Switch desktops independently for each screen - Har bir ekran uçun iş stollarini mustaqil almaştiriş
+Show animation when switching: - Almaştirişda animatsiyani körsatiş:
+Show on-screen display when switching: - Almaştirişda ekrandagi bildirişnomani (OSD) körsatiş:
+%1 ms - %1 ms
+Show desktop layout indicators - Iş stoli tartibi körsatkiçlarini körsatiş

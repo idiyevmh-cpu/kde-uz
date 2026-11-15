@@ -1,0 +1,8 @@
+Not Committed Yet - Hali kommit qilinmagan
+ %1: %2  -  %1: %2 
+ %1: %2: %3  -  %1: %2: %3 
+Git Blame - Git Blame
+Show Git Blame Details - Git Blame tafsilotlarini körsatiş
+Toggle Git Blame Details - Git Blame tafsilotlarini almaştiriş
+Git blame, show commit failed. - Git blame, kommitni körsatib bölmadi.
+&Tools - &Vositalar

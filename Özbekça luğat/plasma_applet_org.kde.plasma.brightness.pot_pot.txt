@@ -1,0 +1,62 @@
+Off - Öçiq
+Low - Past
+Medium - Örtaça
+High - Yuqori
+On - Yoniq
+%1% - %1%
+Brightness - Yorqinlik
+100% - 100%
+Display Brightness - %1 - Displey yorqinligi - %1
+Dark Mode - Qoronği rejim
+Configure… - Sozlaş…
+Switch to %1 - %1 ga almaştiriş
+Follow accent color - Urguli rangga ergaşiş
+Brightness & Color - Yorqinlik va rang
+Screen brightness at %1% - Ekran yorqinligi: %1%
+Brightness of %1 at %2% - %1 yorqinligi: %2%
+Keyboard brightness at %1% - Klaviatura yorqinligi: %1%
+Night Light at day color temperature - Kunduzgi rang haroratidagi tungi çiroq
+Night Light at night color temperature - Tungi rang haroratidagi tungi çiroq
+Night Light in morning transition (complete by %1) - Ertalabki ötişdagi tungi çiroq (%1 gaça yakunlanadi)
+Night Light in evening transition (complete by %1) - Keçki ötişdagi tungi çiroq (%1 gaça yakunlanadi)
+Night Light is temporarily active until manually disabled - Tungi çiroq qölda öçirilgunça vaqtinça faol
+Night Light is temporarily active until %1 - Tungi çiroq %1 gaça vaqtinça faol
+Night Light is temporarily inactive until manually resumed - Tungi çiroq qölda davom ettirilgunça vaqtinça nofaol
+Night Light is temporarily inactive until %1 - Tungi çiroq %1 gaça vaqtinça nofaol
+Night Light evening transition scheduled for %1 - Tungi çiroqning keçki ötişi %1 ga rejalaştirilgan
+Night Light morning transition scheduled for %1 - Tungi çiroqning ertalabki ötişi %1 ga rejalaştirilgan
+Scroll to adjust screen brightness - Ekran yorqinligini sozlaş uçun aylantiring
+Middle-click to resume normal Night Light operation - Tungi çiroqning odatiy işlaşini davom ettiriş uçun siçqonçaning örta tugmasini bosing
+Middle-click to deactivate Night Light - Tungi çiroqni öçiriş uçun siçqonçaning örta tugmasini bosing
+Middle-click to activate Night Light - Tungi çiroqni yoqiş uçun siçqonçaning örta tugmasini bosing
+Middle-click to temporarily activate Night Light - Tungi çiroqni vaqtinça yoqiş uçun siçqonçaning örta tugmasini bosing
+Middle-click to temporarily deactivate Night Light - Tungi çiroqni vaqtinça öçiriş uçun siçqonçaning örta tugmasini bosing
+Configure Night Light… - Tungi çiroqni sozlaş…
+&Configure Power Management… - Quvvat boşqaruvini &sozlaş…
+Suspended - Töxtatib turilgan
+Paused - Pauzada
+Not enabled - Yoqilmagan
+Not running - Işlamayapti
+Morning Transition - Ertalabki ötiş
+Evening Transition - Keçki ötiş
+Day - Kun
+Night - Tun
+%1K - %1K
+Suspend - Töxtatib turiş
+Activate - Faollaştiriş
+For 1 hour - 1 soat davomida
+Until this morning - Bugun ertalabgaça
+Until tomorrow morning - Ertaga ertalabgaça
+Until manually disabled - Qölda öçirilgunça
+Until this evening - Bugun keçqurungaça
+Until tomorrow evening - Ertaga keçqurungaça
+Until manually resumed - Qölda davom ettirilgunça
+Activated until manually disabled - Qölda öçirilgunça faollaştirilgan
+Activated until: %1 - Faollaştirilgan vaqti: %1 gaça
+Suspended until manually resumed - Qölda davom ettirilgunça töxtatib turilgan
+Suspended until: %1 - Töxtatib turilgan vaqti: %1 gaça
+Tomorrow at %1 - Ertaga %1 da
+Keyboard Backlight - Klaviaturaning orqa nuri
+Keyboard Color - Klaviatura rangi
+Night Light - Tungi çiroq
+Theme - Mavzu

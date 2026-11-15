@@ -1,0 +1,53 @@
+# SPDX-FileCopyrightText: 2026 Mirzobek İdiyev <info@idiyev.uz>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-10-25 00:58+0000\n"
+"PO-Revision-Date: 2026-11-15 21:30+0500\n"
+"Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
+"Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uz\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 26.08.3\n"
+
+#: src/dolphinpartactions.desktop:9
+msgctxt "Name"
+msgid "Icons"
+msgstr "Belgilar"
+
+#: src/dolphinpartactions.desktop:77
+msgctxt "Name"
+msgid "Compact"
+msgstr "Ixçam"
+
+#: src/dolphinpartactions.desktop:141
+msgctxt "Name"
+msgid "Details"
+msgstr "Tafsilotlar"
+
+#: src/org.kde.dolphin.desktop:2
+msgctxt "Name"
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: src/org.kde.dolphin.desktop:71
+msgctxt "GenericName"
+msgid "File Manager"
+msgstr "Fayl boşqaruvçisi"
+
+#: src/org.kde.dolphin.desktop:135
+msgctxt "Comment"
+msgid "Manage your files"
+msgstr "Fayllaringizni boşqaring"
+
+#: src/org.kde.dolphin.desktop:184
+msgctxt "Keywords"
+msgid ""
+"files;file management;file browsing;samba;network shares;Explorer;Finder;"
+msgstr ""
+"fayllar;fayllarni boşqariş;fayllarni köriş;samba;tarmoq ulaşuvi;tadqiqotchi;to"
+"puvchi;"

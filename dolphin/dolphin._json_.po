@@ -1,0 +1,45 @@
+# SPDX-FileCopyrightText: 2026 Mirzobek İdiyev <info@idiyev.uz>
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 12:02+0000\n"
+"PO-Revision-Date: 2026-11-15 21:31+0500\n"
+"Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
+"Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uz\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 26.08.3\n"
+
+#: src/dolphinpart.json.in
+msgctxt "Name"
+msgid "Dolphin View"
+msgstr "Dolphin körinişi"
+
+#: src/itemactions/hidefileitemaction.json
+msgctxt "Name"
+msgid "Hide"
+msgstr "Yaşiriş"
+
+#: src/itemactions/movetonewfolderitemaction.json
+msgctxt "Name"
+msgid "Move to New Folder"
+msgstr "Yangi jildga köçiriş"
+
+#: src/itemactions/setfoldericonitemaction.json
+msgctxt "Name"
+msgid "Set Folder Icon"
+msgstr "Jild belgisini tanlaş"
+
+#: src/settings/kcm/kcmdolphingeneral.json
+msgctxt "Name"
+msgid "General"
+msgstr "Umumiy"
+
+#: src/settings/kcm/kcmdolphinviewmodes.json
+msgctxt "Name"
+msgid "View Modes"
+msgstr "Köriniş rejimlari"

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-11-14 01:07+0000\n"
-"PO-Revision-Date: 2026-11-15 23:19+0500\n"
+"PO-Revision-Date: 2026-11-17 15:02+0500\n"
 "Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
 "Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
 "Language: uz\n"
@@ -756,24 +756,26 @@ msgid ""
 "If the view has been split, this will pop the view in focus out into a new "
 "window."
 msgstr ""
+"Agar köriniş bölingan bölsa, bu fokusdagi körinişni yangi "
+"oynaga çiqaradi."
 
 #: dolphinmainwindow.cpp:2088
 #, kde-format
 msgctxt "@action:intoolbar Stash"
 msgid "Stash"
-msgstr ""
+msgstr "Vaqtinça joylaş"
 
 #: dolphinmainwindow.cpp:2089
 #, kde-format
 msgctxt "@info"
 msgid "Opens the stash virtual directory in a split window"
-msgstr ""
+msgstr "Vaqtinça joylaş virtual jildini bölingan oynada oçadi"
 
 #: dolphinmainwindow.cpp:2098
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Refresh view"
-msgstr ""
+msgstr "Körinişni yangilaş"
 
 #: dolphinmainwindow.cpp:2100
 #, kde-kuit-format
@@ -784,30 +786,35 @@ msgid ""
 "newly-updated view of the files and folders contained here.</para><para>If "
 "the view is split, this refreshes the one that is currently in focus.</para>"
 msgstr ""
+"<para>Bu jild körinişini yangilaydi.</para> "
+"<para>Agar uşbu jild tarkibi özgargan bölsa, yangilaş uşbu jildni qayta "
+"tekşirib çiqadi va bu yerdagi fayl hamda jildlarning yangilangan "
+"körinişini körsatadi.</para><para>Agar köriniş bölingan bölsa, "
+"bu hozirda fokusda bölganini yangilaydi.</para>"
 
 #: dolphinmainwindow.cpp:2107
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Stop"
-msgstr ""
+msgstr "Töxtatiş"
 
 #: dolphinmainwindow.cpp:2108
 #, kde-format
 msgctxt "@info"
 msgid "Stop loading"
-msgstr ""
+msgstr "Yuklaşni töxtatiş"
 
 #: dolphinmainwindow.cpp:2109
 #, kde-format
 msgctxt "@info"
 msgid "This stops the loading of the contents of the current folder."
-msgstr ""
+msgstr "u joriy jild tarkibini yuklaşni töxtatadi."
 
 #: dolphinmainwindow.cpp:2114
 #, kde-format
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Editable Location"
-msgstr ""
+msgstr "Tahrirlanadigan manzil"
 
 #: dolphinmainwindow.cpp:2116
 #, kde-kuit-format
@@ -818,12 +825,18 @@ msgid ""
 "editing by clicking to the right of the location and switch back by "
 "confirming the edited location."
 msgstr ""
+"Bu özmoqçi bölgan manzilingizni bevosita kiritişingiz uçun "
+"<emphasis>Manzil panelini</emphasis> "
+"tahrirlanadigan holatga ötkazadi. "
+"<nl/>Şuningdek, manzilning öng tomoniga bosiş orqali "
+"tahrirlaşga ötişingiz va tahrirlangan manzilni tasdiqlaş orqali "
+"orqaga qaytişingiz mumkin."
 
 #: dolphinmainwindow.cpp:2124
 #, kde-format
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Replace Location"
-msgstr ""
+msgstr "Manzilni almaştiriş"
 
 #: dolphinmainwindow.cpp:2129
 #, kde-kuit-format
@@ -832,18 +845,20 @@ msgid ""
 "This switches to editing the location and selects it so you can quickly "
 "enter a different location."
 msgstr ""
+"Bu manzilni tahrirlaşga ötadi va boşqa manzilni tezda kiritişingiz uçun "
+"uni tanlaydi."
 
 #: dolphinmainwindow.cpp:2159
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Undo close tab"
-msgstr ""
+msgstr "Yopilgan tabni tiklaş"
 
 #: dolphinmainwindow.cpp:2160
 #, kde-format
 msgctxt "@info:whatsthis undo close tab"
 msgid "This returns you to the previously closed tab."
-msgstr ""
+msgstr "Bu sizni oldin yopilgan tabga qaytaradi."
 
 #: dolphinmainwindow.cpp:2168
 #, kde-kuit-format
@@ -855,6 +870,13 @@ msgid ""
 "<filename>Trash</filename>. <nl/>Any changes that cannot be undone will ask "
 "for your confirmation beforehand."
 msgstr ""
+"Bu fayl yoki jildlarga kiritgan oxirgi özgartirişingizni bekor qiladi.<nl/> "
+"Bunday özgartirişlarga ularni <interface>yaratiş</interface>, "
+"<interface>nomini özgartiriş</interface> va boşqa joyga yoki "
+"<filename>Çiqindilar qutisiga</filename> <interface>köçiriş</interface> kiradi"
+". "
+"<nl/>Bekor qilib bölmaydigan har qanday özgartirişlar oldindan "
+"tasdiqlaşingizni söraydi."
 
 #: dolphinmainwindow.cpp:2178
 #, kde-kuit-format
@@ -866,6 +888,13 @@ msgid ""
 "the <filename>Trash</filename>.<nl/>Any changes that cannot be undone will "
 "ask for your confirmation beforehand."
 msgstr ""
+"Bu siz bekor qilgan oxirgi özgartirişni qayta bajaradi. "
+"<nl/>Bunday özgartirişlarga fayl yoki jildlarni <interface>yaratiş</interface>"
+", "
+" <interface>nomini özgartiriş</interface> va boşqa joyga yoki "
+" <filename>Çiqindilar qutisiga</filename> <interface>köçiriş</interface> "
+" kiradi.<nl/>Bekor qilib bölmaydigan har qanday özgartirişlar oldindan "
+" tasdiqlaşingizni söraydi."
 
 #: dolphinmainwindow.cpp:2207
 #, kde-kuit-format
@@ -875,18 +904,21 @@ msgid ""
 "their own <filename>Home</filename> that contains their personal files, as "
 "well as hidden folders for their applications' data and configuration files."
 msgstr ""
+"<filename>Uy</filename> jildingizga ötiş.<nl/>Har bir foydalanuvçi hisobi "
+"şaxsiy fayllari hamda dasturlarining maʼlumotlari va sozlama fayllari uçun "
+"yaşirin jildlarni öz içiga olgan öz <filename>Uy</filename> jildiga ega."
 
 #: dolphinmainwindow.cpp:2214
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Compare Files"
-msgstr ""
+msgstr "Fayllarni soliştiriş"
 
 #: dolphinmainwindow.cpp:2220
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Manage Disk Space Usage"
-msgstr ""
+msgstr "Disk maydonidan foydalanişni boşqariş"
 
 #: dolphinmainwindow.cpp:2228
 #, kde-kuit-format
@@ -896,12 +928,15 @@ msgid ""
 "para><para>Use <emphasis>More Search Tools</emphasis> menu to configure it.</"
 "para>"
 msgstr ""
+"<para>Bu körilayotgan manzil uçun afzal körilgan qidiruv vositasini oçadi. "
+"</para><para>Uni sozlaş uçun <emphasis>Boşqa qidiruv vositalari</emphasis> "
+"menyusidan foydalaning.</para>"
 
 #: dolphinmainwindow.cpp:2242
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal"
-msgstr ""
+msgstr "Terminalni oçiş"
 
 #: dolphinmainwindow.cpp:2244
 #, kde-kuit-format
@@ -911,13 +946,16 @@ msgid ""
 "location.</para><para>To learn more about terminals use the help features in "
 "the terminal application.</para>"
 msgstr ""
+"<para>Bu körilayotgan manzil uçun <emphasis>terminal</emphasis> dasturini "
+" oçadi.</para><para>Terminallar haqida köproq maʼlumot oliş uçun terminal "
+" dasturidagi yordam imkoniyatlaridan foydalaning.</para>"
 
 #. i18n: "Here" refers to the location(s) of the currently selected item(s) or the currently viewed location if nothing is selected.
 #: dolphinmainwindow.cpp:2252
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal Here"
-msgstr ""
+msgstr "Terminalni şu yerda oçiş"
 
 #: dolphinmainwindow.cpp:2254
 #, kde-kuit-format
@@ -927,12 +965,16 @@ msgid ""
 "items' locations.</para><para>To learn more about terminals use the help "
 "features in the terminal application.</para>"
 msgstr ""
+"<para>Bu tanlangan elementlarning manzillari uçun "
+"<emphasis>terminal</emphasis> dasturlarini oçadi.</para> "
+"<para>Terminallar haqida köproq maʼlumot oliş uçun terminal "
+"dasturidagi yordam imkoniyatlaridan foydalaning.</para>"
 
 #: dolphinmainwindow.cpp:2262
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Bookmarks"
-msgstr ""
+msgstr "&Xatçöplar"
 
 #: dolphinmainwindow.cpp:2272
 #, kde-kuit-format
@@ -945,72 +987,79 @@ msgid ""
 "offer.</para><para>The %1 button is simpler and small which makes triggering "
 "advanced actions more time consuming.</para>"
 msgstr ""
+"<para>Bu <emphasis>Menyu paneli</emphasis> va "
+"<interface>%1</interface> tugmasi orasida almaşadi. "
+"Ikkalasi ham deyarli bir xil amallar va sozlaş parametrlarini öz içiga oladi. "
+"</para><para>Menyu paneli köproq joy egallaydi, ammo dastur taqdim "
+"etadigan barça amallarga tez va tartibli kiriş imkonini beradi.</para> "
+"<para>%1 tugmasi soddaroq va kiçikroq bölib, "
+"bu qöşimça amallarni işga tuşirişga köproq vaqt ketişiga olib keladi.</para>"
 
 #: dolphinmainwindow.cpp:2297
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Tab %1"
-msgstr ""
+msgstr "%1-tabga ötiş"
 
 #: dolphinmainwindow.cpp:2310
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Last Tab"
-msgstr ""
+msgstr "Oxirgi tab"
 
 #: dolphinmainwindow.cpp:2311
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Last Tab"
-msgstr ""
+msgstr "Oxirgi tabga ötiş"
 
 #: dolphinmainwindow.cpp:2317
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next Tab"
-msgstr ""
+msgstr "Keyingi tab"
 
 #: dolphinmainwindow.cpp:2318
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Next Tab"
-msgstr ""
+msgstr "Keyingi tabga ötiş"
 
 #: dolphinmainwindow.cpp:2324
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous Tab"
-msgstr ""
+msgstr "Oldingi tab"
 
 #: dolphinmainwindow.cpp:2325
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Previous Tab"
-msgstr ""
+msgstr "Oldingi tabga ötiş"
 
 #: dolphinmainwindow.cpp:2332
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Target"
-msgstr ""
+msgstr "Möljalni körsatiş"
 
 #: dolphinmainwindow.cpp:2338
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in New Tab"
-msgstr ""
+msgstr "Yangi tabda oçiş"
 
 #: dolphinmainwindow.cpp:2343
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in New Tabs"
-msgstr ""
+msgstr "Yangi tablarda oçiş"
 
 #: dolphinmainwindow.cpp:2348
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in New Window"
-msgstr ""
+msgstr "Yangi oynada oçiş"
 
 #: dolphinmainwindow.cpp:2353 panels/places/placespanel.cpp:45
 #: tests/placespaneltest.cpp:125 tests/placespaneltest.cpp:147
@@ -1018,24 +1067,24 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in Split View"
-msgstr ""
+msgstr "Bölingan körinişda oçiş"
 
 #: dolphinmainwindow.cpp:2365
 #, kde-format
 msgid "&Window Color Scheme"
-msgstr ""
+msgstr "&Oyna rang sxemasi"
 
 #: dolphinmainwindow.cpp:2378
 #, kde-format
 msgctxt "@action:inmenu Panels"
 msgid "Unlock Panels"
-msgstr ""
+msgstr "Panellarni qulfdan çiqariş"
 
 #: dolphinmainwindow.cpp:2380
 #, kde-format
 msgctxt "@action:inmenu Panels"
 msgid "Lock Panels"
-msgstr ""
+msgstr "Panellarni qulflaş"
 
 #: dolphinmainwindow.cpp:2383
 #, kde-kuit-format
@@ -1046,12 +1095,17 @@ msgid ""
 "other side of the window and have a close button.<nl/>Locked panels are "
 "embedded more cleanly."
 msgstr ""
+"Bu panellarni <emphasis>qulflangan</emphasis> yoki "
+"<emphasis>qulfdan çiqarilgan</emphasis> holatga ötkazadi. "
+"<nl/>Qulfdan çiqarilgan panellarni oynaning boşqa tomoniga "
+"sudrab ötkaziş mumkin va ularda yopiş tugmasi böladi. "
+"<nl/>Qulflangan panellar esa tartibliroq joylaştiriladi."
 
 #: dolphinmainwindow.cpp:2392
 #, kde-format
 msgctxt "@title:window"
 msgid "Information"
-msgstr ""
+msgstr "Maʼlumot"
 
 #: dolphinmainwindow.cpp:2415
 #, kde-kuit-format
@@ -1060,6 +1114,9 @@ msgid ""
 "<para>To show or hide panels like this go to <interface>Menu|Panels</"
 "interface> or <interface>View|Panels</interface>.</para>"
 msgstr ""
+"<para>Bunday panellarni körsatiş yoki yaşiriş uçun "
+"<interface>Menyu|Panellar</interface> yoki <interface> "
+"Köriniş|Panellar</interface> bölimiga öting.</para>"
 
 #: dolphinmainwindow.cpp:2422
 #, kde-kuit-format
@@ -1071,6 +1128,12 @@ msgid ""
 "Otherwise it informs you about the currently viewed folder.<nl/>For single "
 "items a preview of their contents is provided.</para>"
 msgstr ""
+"<para> Bu oynaning öng tomonidagi <emphasis>maʼlumot</emphasis> "
+"panelini yoqadi yoki öçiradi.</para><para>Panel siçqonça kursori ustiga "
+"olib borilgan elementlar yoki tanlangan elementlar haqida batafsil "
+"maʼlumot beradi. Aks holda u joriy körilayotgan jild haqida maʼlumot beradi. "
+"<nl/>Yagona elementlar uçun ularning tarkibini oldindan köriş "
+"imkoniyati taqdim etiladi.</para>"
 
 #: dolphinmainwindow.cpp:2430
 #, kde-kuit-format
@@ -1082,12 +1145,19 @@ msgid ""
 "contents is provided.</para><para>You can configure which and how details "
 "are given here by right-clicking.</para>"
 msgstr ""
+"<para>Uşbu panel siçqonça kursori ustiga olib borilgan elementlar yoki "
+"tanlangan elementlar haqida batafsil maʼlumot beradi. "
+"Aks holda u joriy körilayotgan jild haqida maʼlumot beradi. "
+"<nl/>Yagona elementlar uçun ularning tarkibini oldindan köriş imkoniyati "
+"taqdim etiladi.</para><para>Bu yerda qaysi tafsilotlar va qanday "
+"körsatilişini siçqonçaning öng tugmasini bosiş orqali sozlaşingiz mumkin.</par"
+"a>"
 
 #: dolphinmainwindow.cpp:2439
 #, kde-format
 msgctxt "@title:window"
 msgid "Folders"
-msgstr ""
+msgstr "Jild"
 
 #: dolphinmainwindow.cpp:2460
 #, kde-kuit-format
@@ -1097,6 +1167,10 @@ msgid ""
 "window.<nl/><nl/>It shows the folders of the <emphasis>file system</"
 "emphasis> in a <emphasis>tree view</emphasis>."
 msgstr ""
+"Bu oynaning çap tomonidagi <emphasis>jildlar</emphasis> "
+"panelini yoqadi yoki öçiradi.<nl/><nl/>U <emphasis> "
+"fayl tizimi</emphasis> jildlarini <emphasis>daraxtsimon körinişda</emphasis> "
+"körsatadi."
 
 #: dolphinmainwindow.cpp:2465
 #, kde-kuit-format
@@ -1107,12 +1181,17 @@ msgid ""
 "Click the arrow to the left of a folder to see its subfolders. This allows "
 "quick switching between any folders.</para>"
 msgstr ""
+"<para>Uşbu panel <emphasis>fayl tizimi</emphasis> jildlarini <emphasis> "
+"daraxtsimon körinişda</emphasis> körsatadi.</para><para>Jildga ötiş uçun "
+"uning ustiga bosing. Jildning qism jildlarini köriş uçun uning çap tomonidagi "
+"körsatkiçni bosing. Bu istalgan jildlar orasida tez almaşiş imkonini beradi.</"
+"para>"
 
 #: dolphinmainwindow.cpp:2475
 #, kde-format
 msgctxt "@title:window Shell terminal"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: dolphinmainwindow.cpp:2501
 #, kde-kuit-format
@@ -1125,6 +1204,13 @@ msgid ""
 "learn more about terminals use the help features in a standalone terminal "
 "application like Konsole.</para>"
 msgstr ""
+"<para>Bu oynaning pastki qismidagi <emphasis>terminal</emphasis> "
+"panelini yoqadi yoki öçiradi.<nl/>Terminaldagi manzil har doim jild "
+"körinişiga mos keladi, şuning uçun har ikkalasi yordamida harakatlanişingiz "
+"mumkin.</para><para>Terminal paneli oddiy kompyuterdan foydalaniş uçun "
+"zarur emas, ammo murakkab vazifalar uçun foydali bölişi mumkin. "
+"Terminallar haqida köproq maʼlumot oliş uçun Konsole kabi alohida "
+"terminal dasturidagi yordam imkoniyatlaridan foydalaning.</para>"
 
 #: dolphinmainwindow.cpp:2509
 #, kde-kuit-format
@@ -1137,24 +1223,30 @@ msgid ""
 "about terminals use the help features in a standalone terminal application "
 "like Konsole.</para>"
 msgstr ""
+"<para>Bu <emphasis>terminal</emphasis> paneli. U oddiy terminal kabi işlaydi, "
+"ammo jild körinişi manziliga mos keladi, şuning uçun har ikkalasi yordamida ha"
+"rakatlanişingiz mumkin.</para><para>Terminal paneli oddiy kompyuterdan foydala"
+"niş uçun zarur emas, ammo murakkab vazifalar uçun foydali bölişi mumkin. Termi"
+"nallar haqida köproq maʼlumot oliş uçun Konsole kabi alohida terminal dasturid"
+"agi yordam imkoniyatlaridan foydalaning.</para>"
 
 #: dolphinmainwindow.cpp:2519 dolphinmainwindow.cpp:3209
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Focus Terminal Panel"
-msgstr ""
+msgstr "Terminal paneliga fokus beriş"
 
 #: dolphinmainwindow.cpp:2520
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move keyboard focus to and from the Terminal panel."
-msgstr ""
+msgstr "Klaviatura fokusini Terminal paneliga va undan boşqa joyga ötkaziş."
 
 #: dolphinmainwindow.cpp:2526
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Follow Directory Switch"
-msgstr ""
+msgstr "Jild almaşişini kuzatiş"
 
 #: dolphinmainwindow.cpp:2528
 #, kde-format
@@ -1163,18 +1255,20 @@ msgid ""
 "Determines if current working directory must be kept in sync with terminal "
 "whenever directory is changed."
 msgstr ""
+"Jild har safar özgarganda joriy işçi jild terminal bilan sinxronlaştirilişi ke"
+"rakligini belgilaydi."
 
 #: dolphinmainwindow.cpp:2544
 #, kde-format
 msgctxt "@title:window"
 msgid "Places"
-msgstr ""
+msgstr "Joylar"
 
 #: dolphinmainwindow.cpp:2572
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Show Hidden Places"
-msgstr ""
+msgstr "Yaşirin joylarni körsatiş"
 
 #: dolphinmainwindow.cpp:2576
 #, kde-format
@@ -1184,6 +1278,9 @@ msgid ""
 "will appear semi-transparent and allow you to uncheck their \"Hide\" "
 "property."
 msgstr ""
+"Bu joylar panelidagi yaşirilgan barça joylarni körsatadi. "
+"Ular yarim şaffof körinadi va ularning \"Yaşiriş\" xossasidan "
+"belgini olib taşlaş imkonini beradi."
 
 #: dolphinmainwindow.cpp:2588
 #, kde-kuit-format
@@ -1195,6 +1292,11 @@ msgid ""
 "also contains sections to find recently saved files or files of a certain "
 "type.</para>"
 msgstr ""
+"<para>Bu oynaning çap tomonidagi <emphasis>joylar</emphasis> panelini "
+"yoqadi yoki öçiradi.</para><para>U xatçöpga qöşilgan manzillarga ötiş "
+"hamda kompyuterga yoki tarmoqqa ulangan disk va axborot taşuvçilarga "
+"kiriş imkonini beradi. Şuningdek, u yaqinda saqlangan fayllarni yoki maʼlum "
+"turdagi fayllarni topiş bölimlarini öz içiga oladi.</para>"
 
 #: dolphinmainwindow.cpp:2595
 #, kde-kuit-format
@@ -1210,24 +1312,35 @@ msgid ""
 "empty space on this panel and select <interface>Show Hidden Places</"
 "interface> to display it again.</para>"
 msgstr ""
+"<para>Bu <emphasis>Joylar</emphasis> paneli. U xatçöpga qöşilgan "
+"manzillarga ötiş hamda kompyuterga yoki tarmoqqa ulangan disk va "
+"axborot taşuvçilarga kiriş imkonini beradi. Şuningdek, u yaqinda "
+"saqlangan fayllarni yoki maʼlum turdagi fayllarni topiş bölimlarini öz "
+"içiga oladi.</para><para>U yerga ötiş uçun yozuv ustiga bosing. "
+"Istalgan yozuvni yangi tabda yoki yangi oynada oçiş uçun esa "
+"siçqonçaning öng tugmasi bilan bosing.</para><para>Jildlarni "
+"uşbu panelga sudrab taşlaş orqali yangi yozuvlarni qöşiş mumkin. "
+"Istalgan bölim yoki yozuvni yaşiriş uçun ustiga öng tugmani bosing. "
+"Uni qayta körsatiş uçun uşbu paneldagi böş joyga öng tugmani bosing "
+"va <interface>Yaşirin joylarni körsatiş</interface> bandini tanlang.</para>"
 
 #: dolphinmainwindow.cpp:2609 dolphinmainwindow.cpp:3227
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Focus Places Panel"
-msgstr ""
+msgstr "Joylar paneliga fokus beriş"
 
 #: dolphinmainwindow.cpp:2610
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move keyboard focus to and from the Places panel."
-msgstr ""
+msgstr "Klaviatura fokusini Joylar paneliga va undan boşqa joyga ötkaziş."
 
 #: dolphinmainwindow.cpp:2616
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Panels"
-msgstr ""
+msgstr "Panellarni körsatiş"
 
 #: dolphinmainwindow.cpp:2707
 #, kde-format
@@ -1235,6 +1348,8 @@ msgctxt "@info"
 msgid ""
 "Cannot rename: You do not have permission to rename items in this folder."
 msgstr ""
+"omini özgartirib bölmadi: Sizda uşbu jilddagi elementlarning nomini "
+"özgartiriş huquqi yöq."
 
 #: dolphinmainwindow.cpp:2710 dolphinmainwindow.cpp:2727
 #, kde-format
@@ -1242,12 +1357,13 @@ msgctxt "@info"
 msgid ""
 "Cannot delete: You do not have permission to remove items from this folder."
 msgstr ""
+"Öçirib bölmadi: Sizda uşbu jilddan elementlarni olib taşlaş huquqi yöq."
 
 #: dolphinmainwindow.cpp:2712
 #, kde-format
 msgctxt "@info"
 msgid "Cannot cut: You do not have permission to move items from this folder."
-msgstr ""
+msgstr "Kesib bölmadi: Sizda uşbu jilddan elementlarni köçiriş huquqi yöq."
 
 #: dolphinmainwindow.cpp:2717
 #, kde-format
@@ -1256,30 +1372,36 @@ msgid ""
 "Cannot duplicate here: You do not have permission to create items in this "
 "folder."
 msgstr ""
+"Bu yerda nusxalab bölmadi: Sizda uşbu jildda elementlar yaratiş "
+"huquqi yöq."
 
 #: dolphinmainwindow.cpp:2739
 #, kde-format
 msgctxt "@info"
 msgid "Cannot copy to other view: No files selected."
-msgstr ""
+msgstr "Boşqa körinişga nusxalab bölmadi: Heç qanday fayl tanlanmagan."
 
 #: dolphinmainwindow.cpp:2741
 #, kde-format
 msgctxt "@info"
 msgid "Cannot move to other view: No files selected."
-msgstr ""
+msgstr "Boşqa körinişga köçirib bölmadi: Heç qanday fayl tanlanmagan."
 
 #: dolphinmainwindow.cpp:2760
 #, kde-format
 msgctxt "@info"
 msgid "Cannot copy to other view: The other view already contains these items."
 msgstr ""
+"Boşqa körinişga nusxalab bölmadi: Boşqa körinişda uşbu elementlar "
+"allaqaçon mavjud."
 
 #: dolphinmainwindow.cpp:2763
 #, kde-format
 msgctxt "@info"
 msgid "Cannot move to other view: The other view already contains these items."
 msgstr ""
+"Boşqa körinişga köçirib bölmadi: Boşqa körinişda uşbu elementlar "
+"allaqaçon mavjud."
 
 #: dolphinmainwindow.cpp:2768
 #, kde-format
@@ -1288,6 +1410,7 @@ msgid ""
 "Cannot copy to other view: You do not have permission to write into the "
 "destination folder."
 msgstr ""
+"Boşqa körinişga nusxalab bölmadi: Sizda maqsadli jildga yoziş huquqi yöq."
 
 #: dolphinmainwindow.cpp:2772
 #, kde-format
@@ -1296,6 +1419,7 @@ msgid ""
 "Cannot move to other view: You do not have permission to write into the "
 "destination folder."
 msgstr ""
+"Boşqa körinişga köçirib bölmadi: Sizda maqsadli jildga yoziş huquqi yöq."
 
 #: dolphinmainwindow.cpp:2778
 #, kde-format
@@ -1304,6 +1428,8 @@ msgid ""
 "Cannot move to other view: You do not have permission to move items from "
 "this folder."
 msgstr ""
+"Boşqa körinişga köçirib bölmadi: Sizda uşbu jilddan elementlarni "
+"köçiriş huquqi yöq."
 
 #: dolphinmainwindow.cpp:2805
 #, kde-kuit-format
@@ -1315,108 +1441,114 @@ msgid ""
 "directory that contains all data connected to this computer—the "
 "<emphasis>root directory</emphasis>.</para>"
 msgstr ""
+"<para>Joriy körilayotgan jildni öz içiga olgan jildga ötiş.</para> "
+"<para>Barça fayl va jildlar iyerarxik "
+"<emphasis>fayl tizimida</emphasis> taşkil etilgan. "
+"Uşbu iyerarxiyaning eng yuqori qismida uşbu kompyuterga "
+"ulangan barça maʼlumotlarni öz içiga oluvçi katalog — "
+"<emphasis>ildiz katalogi (root)</emphasis> joylaşgan.</para>"
 
 #: dolphinmainwindow.cpp:2906 dolphinmainwindow.cpp:2927
 #, kde-format
 msgctxt "@action:intoolbar Close left view"
 msgid "Close"
-msgstr ""
+msgstr "Yopiş"
 
 #: dolphinmainwindow.cpp:2907 dolphinmainwindow.cpp:2928
 #, kde-format
 msgctxt "@action Split view name in configuration dialogs"
 msgid "Split View: Close Left Pane"
-msgstr ""
+msgstr "Bölingan köriniş: Çap panelni yopiş"
 
 #: dolphinmainwindow.cpp:2908 dolphinmainwindow.cpp:2929
 #, kde-format
 msgctxt "@info View refer here to split view"
 msgid "Close Left View"
-msgstr ""
+msgstr "Çap körinişni yopiş"
 
 #: dolphinmainwindow.cpp:2910 dolphinmainwindow.cpp:2931
 #, kde-format
 msgctxt "@action:inmenu View refer here to split view"
 msgid "Close Left View"
-msgstr ""
+msgstr "Çap körinişni yopiş"
 
 #: dolphinmainwindow.cpp:2912 dolphinmainwindow.cpp:2933
 #, kde-format
 msgctxt "@action:intoolbar Move left split view to a new window"
 msgid "Pop out Left View"
-msgstr ""
+msgstr "Çap körinişni yangi oynaga çiqariş"
 
 #: dolphinmainwindow.cpp:2913 dolphinmainwindow.cpp:2934
 #, kde-format
 msgctxt "@info View refer here to split view"
 msgid "Move left split view to a new window"
-msgstr ""
+msgstr "Çap bölingan körinişni yangi oynaga köçiriş"
 
 #: dolphinmainwindow.cpp:2915 dolphinmainwindow.cpp:2936
 #: dolphinmainwindow.cpp:2947
 #, kde-format
 msgctxt "@action:intoolbar Close right view"
 msgid "Close"
-msgstr ""
+msgstr "Yopiş"
 
 #: dolphinmainwindow.cpp:2916 dolphinmainwindow.cpp:2937
 #: dolphinmainwindow.cpp:2948
 #, kde-format
 msgctxt "@action Split view name in configuration dialogs"
 msgid "Split View: Close Right Pane"
-msgstr ""
+msgstr "Bölingan köriniş: Öng panelni yopiş"
 
 #: dolphinmainwindow.cpp:2917 dolphinmainwindow.cpp:2938
 #: dolphinmainwindow.cpp:2949
 #, kde-format
 msgctxt "@info View refer here to split view"
 msgid "Close Right View"
-msgstr ""
+msgstr "Öng körinişni yopiş"
 
 #: dolphinmainwindow.cpp:2919 dolphinmainwindow.cpp:2940
 #: dolphinmainwindow.cpp:2951
 #, kde-format
 msgctxt "@action:inmenu View refer here to split view"
 msgid "Close Right View"
-msgstr ""
+msgstr "Öng körinişni yopiş"
 
 #: dolphinmainwindow.cpp:2921 dolphinmainwindow.cpp:2942
 #: dolphinmainwindow.cpp:2953
 #, kde-format
 msgctxt "@action:intoolbar Move right split view to a new window"
 msgid "Pop out Right View"
-msgstr ""
+msgstr "Öng körinişni yangi oynaga çiqariş"
 
 #: dolphinmainwindow.cpp:2922 dolphinmainwindow.cpp:2943
 #: dolphinmainwindow.cpp:2954
 #, kde-format
 msgctxt "@info View refer here to split view"
 msgid "Move right split view to a new window"
-msgstr ""
+msgstr "Öng bölingan körinişni yangi oynaga köçiriş"
 
 #: dolphinmainwindow.cpp:2969
 #, kde-format
 msgctxt "@action:intoolbar Split view"
 msgid "Split"
-msgstr ""
+msgstr "Böliş"
 
 #: dolphinmainwindow.cpp:2970
 #, kde-format
 msgctxt "@action Split view name in configuration dialogs"
 msgid "Split View"
-msgstr ""
+msgstr "Oynani böliş"
 
 #: dolphinmainwindow.cpp:2972
 #, kde-format
 msgctxt "@info"
 msgid "Split view"
-msgstr ""
+msgstr "Oynani böliş"
 
 #: dolphinmainwindow.cpp:2974
 #, kde-format
 msgctxt "@action:intoolbar Move view in focus to a new window"
 msgid "Pop out"
-msgstr ""
+msgstr "Yangi oynaga çiqariş"
 
 #: dolphinmainwindow.cpp:3035
 #, kde-kuit-format
@@ -1429,6 +1561,14 @@ msgid ""
 "become available through a <interface>Menu</interface> button on the "
 "<emphasis>Toolbar</emphasis>.</para>"
 msgstr ""
+"<para>Bu <emphasis>Menyu paneli</emphasis>. U buyruqlar va sozlaş "
+"parametrlariga kiriş imkonini beradi. Uşbu paneldagi istalgan "
+"menyuning tarkibini köriş uçun uning ustiga siçqonçaning çap "
+"tugmasini bosing.</para><para>Menyu panelini <interface> "
+"Sozlamalar|Menyu panelini körsatiş</interface> bandidan "
+"belgini olib taşlaş orqali yaşiriş mumkin. Şunda uning tarkibining "
+"katta qismi <emphasis>Asboblar panelidagi</emphasis> "
+"<interface>Menyu</interface> tugmasi orqali mavjud böladi.</para>"
 
 #: dolphinmainwindow.cpp:3042
 #, kde-kuit-format
@@ -1443,6 +1583,17 @@ msgid ""
 "style of its buttons can also be changed in the right-click menu. Right-"
 "click a button if you want to show or hide its text.</para>"
 msgstr ""
+"<para>Bu <emphasis>Asboblar paneli</emphasis>. U tez-tez işlatiladigan "
+"amallarga tezkor kiriş imkonini beradi.</para><para>Uni keng "
+"miqyosda moslaştiriş mumkin. <interface>Menyu</interface> yoki "
+"<interface>Menyu panelida</interface> körgan barça elementlaringizni "
+"Asboblar paneliga joylaştiriş mumkin. Buning uçun uning ustiga "
+"siçqonçaning öng tugmasini bosib,"
+"<interface>Asboblar panelini sozlaş…</interface> bandini tanlang "
+"yoki uşbu amalni <interface>menyu</interface> içidan toping. "
+"</para><para>Panelning joylaşuvi va tugmalarining uslubini ham "
+"öng tugma menyusida özgartiriş mumkin. Agar tugma matnini körsatiş "
+"yoki yaşirişni xohlasangiz, tugma ustiga öng tugmani bosing.</para>"
 
 #: dolphinmainwindow.cpp:3054
 #, kde-kuit-format
@@ -1460,6 +1611,20 @@ msgid ""
 "here</link> instead. This will open a page from the <emphasis>Handbook</"
 "emphasis> that covers the basics.</para>"
 msgstr ""
+"<para>Bu yerda yuqoridagi <interface>Manzil panelida</interface> "
+"körsatilgan manzildagi <emphasis>jildlar</emphasis> va <emphasis> "
+"fayllarni</emphasis> körişingiz mumkin. Bu maydon siz foydalanmoqçi "
+"bölgan fayllarga ötadigan dasturning markaziy qismidir. "
+"</para><para>Uşbu dastur bilan batafsil va umumiy tanişiş uçun "
+"<link url='https://userbase.kde.org/Dolphin/File_Management#Introduction_to_Do"
+"lphin'> "
+"bu yerga bosing</link>. Bu <emphasis>KDE UserBase Wiki</emphasis> "
+"dan kiriş maqolasini oçadi. "
+"</para><para>Uşbu <emphasis>körinişning</emphasis> barça xususiyatlarining "
+"qisqaça tuşuntirişlari uçun esa <link url='help:/dolphin/dolphin-view.html'>bu"
+" yerga bosing</link>. "
+"Bu <emphasis>Qöllanmadan</emphasis> asosiy maʼlumotlarni "
+"qamrab olgan sahifani oçadi.</para>"
 
 #: dolphinmainwindow.cpp:3070
 #, kde-kuit-format
@@ -1470,6 +1635,10 @@ msgid ""
 "when they are pressed simultaneously. All commands in this application can "
 "be triggered this way.</para>"
 msgstr ""
+"<para>Bu <emphasis>klaviatura tugmalar birikmalari</emphasis> "
+"röyxatini körsatuvçi oynani oçadi.<nl/>U yerda bir vaqtning özida bosilganda "
+"amalni işga tuşiradigan tugmalar birikmalarini sozlaşingiz mumkin. "
+"Uşbu dasturdagi barça buyruqlarni şu tarzda işga tuşiriş mumkin.</para>"
 
 #: dolphinmainwindow.cpp:3076
 #, kde-kuit-format
@@ -1479,6 +1648,10 @@ msgid ""
 "the <emphasis>Toolbar</emphasis>.</para><para>All items you see in the "
 "<interface>Menu</interface> can also be placed on the Toolbar.</para>"
 msgstr ""
+"<para>Bu <emphasis>Asboblar panelida</emphasis> qaysi tugmalar "
+"paydo bölişini özgartirişingiz mumkin bölgan oynani oçadi. "
+"</para><para><interface>Menyuda</interface> körgan barça "
+"elementlaringizni Asboblar paneliga ham joylaştiriş mumkin.</para>"
 
 #: dolphinmainwindow.cpp:3080
 #, kde-kuit-format
@@ -1489,6 +1662,10 @@ msgid ""
 "<emphasis>Configuring Dolphin</emphasis> in <interface>Help|Dolphin "
 "Handbook</interface>."
 msgstr ""
+"Bu uşbu dastur uçun köplab sozlamalarni özgartirişingiz mumkin "
+"bölgan oynani oçadi. Turli sozlamalarning tuşuntirişi uçun "
+" <interface>Yordam|Dolphin qöllanmasi</interface>dagi "
+"<emphasis>Dolphin dasturini sozlaş</emphasis> bobiga öting."
 
 #. i18n: If the external link isn't available in your language it might make
 #. sense to state the external link's language in brackets to not
@@ -1505,6 +1682,14 @@ msgid ""
 "emphasis> <link url='https://userbase.kde.org/Dolphin/File_Management'>click "
 "here</link>. It will open the dedicated page in the KDE UserBase Wiki.</para>"
 msgstr ""
+"<para>Bu uşbu dastur uçun Qöllanmani oçadi. "
+"U <emphasis>Dolphin</emphasis>ning har bir qismi uçun "
+"tuşuntirişlarni taqdim etadi. "
+"</para><para>Agar <emphasis>Dolphin</emphasis>ning turli imkoniyatlari "
+"bilan batafsilroq tanişmoqçi bölsangiz, "
+"<link url='https://userbase.kde.org/Dolphin/File_Management'>bu yerga bosing <"
+"/link>. "
+"U KDE UserBase Wiki-dagi maxsus sahifani oçadi.</para>"
 
 #: dolphinmainwindow.cpp:3105
 #, kde-kuit-format
@@ -1519,6 +1704,18 @@ msgid ""
 "link>.</para><para>The \"What's this?\" help is missing in most other "
 "windows so don't get too used to this.</para>"
 msgstr ""
+"<para>Bu siz hozir foydalanayotgan yordam xususiyatini çaqiradigan tugma! "
+"Uni bosing, söngra uşbu dasturning istalgan qismi haqida "
+"\"Bu nima?\" deb söraş uçun uning ustiga bosing. "
+"Agar biror joy uçun yordam mavjud bölmasa, siçqonça kursori öz "
+"körinişini özgartiradi. "
+"</para><para>Yordam olişning yana ikkita usuli mavjud: <link url='help:/dolphi"
+"n/index.html'> Dolphin qöllanmasi</link> va "
+"<link url='https://userbase.kde.org/Dolphin/File_Management'>KDE UserBase Wiki"
+"</link>. "
+"</para><para>\"Bu nima?\" yordami aksariyat boşqa oynalarda mavjud emas, şunin"
+"g "
+"uçun bunga juda örganib qolmang.</para>"
 
 #: dolphinmainwindow.cpp:3116
 #, kde-kuit-format
@@ -1530,6 +1727,13 @@ msgid ""
 "effective as possible <link url='https://community.kde.org/Get_Involved/"
 "Bug_Reporting'>click here</link>.</para>"
 msgstr ""
+"<para>Bu uşbu dasturdagi yoki boşqa KDE dasturiy taʼminotidagi xatolar "
+"va kamçiliklar haqida xabar beriş böyiça sizga yöriqnoma körsatadigan "
+"oynani oçadi.</para><para>Yuqori sifatli xato hisobotlari juda qadrlanadi. "
+"Xato haqidagi hisobotingizni qanday qilib imkon qadar samarali qilişni "
+"örganiş uçun <link url='https://community.kde.org/Get_Involved/Bug_Reporting'>"
+"bu yerga bosing</link>. "
+"</para>"
 
 #: dolphinmainwindow.cpp:3125
 #, kde-kuit-format
@@ -1544,6 +1748,18 @@ msgid ""
 "para><para><emphasis>KDE e.V.</emphasis> is the non-profit organization "
 "behind the KDE community.</para>"
 msgstr ""
+"<para>Bu uşbu dastur va <emphasis>KDE</emphasis> hamjamiyatining "
+"boşqa köplab loyihalari ustida davom etayotgan işlarni qöllab-quvvatlaş "
+"uçun xayriya qilişingiz mumkin bölgan <emphasis>veb-sahifani</emphasis> oçadi."
+" "
+"</para><para>Xayriya qiliş KDE va uning loyihalarini samarali "
+"qöllab-quvvatlaşning eng oson va tez usulidir. KDE loyihalari bepul taqdim eti"
+"ladi, "
+"şuning uçun xayriyangiz serverlar, iştirokçilar uçraşuvlari va hokazolar kabi "
+"mablağ "
+"talab qiladigan narsalarni qoplaş uçun zarur. "
+"</para><para><emphasis>KDE e.V.</emphasis> — KDE hamjamiyati ortidagi notijora"
+"t taşkilotdir.</para>"
 
 #: dolphinmainwindow.cpp:3138
 #, kde-kuit-format
@@ -1553,6 +1769,9 @@ msgid ""
 "even set secondary languages which will be used if texts are not available "
 "in your preferred language."
 msgstr ""
+"Buning yordamida uşbu dastur işlatadigan tilni özgartirişingiz mumkin. "
+"<nl/>Hatto afzal körgan tilingizda matnlar mavjud bölmaganda "
+"işlatiladigan ikkilamçi tillarni ham belgilaşingiz mumkin."
 
 #: dolphinmainwindow.cpp:3143
 #, kde-kuit-format
@@ -1561,6 +1780,8 @@ msgid ""
 "This opens a window that informs you about the version, license, used "
 "libraries and maintainers of this application."
 msgstr ""
+"Bu sizga uşbu dasturning versiyasi, litsenziyasi, işlatilgan "
+"kutubxonalari va taʼminotçilari haqida maʼlumot beruvçi oynani oçadi."
 
 #: dolphinmainwindow.cpp:3148
 #, kde-kuit-format
@@ -1571,71 +1792,77 @@ msgid ""
 "this application but don't know about KDE or want to see a cute dragon have "
 "a look!"
 msgstr ""
+"Bu <emphasis>KDE</emphasis> haqida maʼlumotga ega oynani oçadi. "
+"KDE hamjamiyati — uşbu erkin dasturiy taʼminot ortida turgan insonlardir. "
+"<nl/>Agar uşbu dasturdan foydalaniş sizga yoqsa, lekin KDE haqida "
+"bilmasangiz yoki yoqimtoy ajdarhoni körişni xohlasangiz, bir nazar taşlang!"
 
 #: dolphinmainwindow.cpp:3203 dolphinmainwindow.cpp:3214
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Defocus Terminal Panel"
-msgstr ""
+msgstr "Terminal panelidan fokusni oliş"
 
 #: dolphinmainwindow.cpp:3221
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Defocus Terminal Panel"
-msgstr ""
+msgstr "Terminal panelidan fokusni oliş"
 
 #: dolphinmainwindow.cpp:3232
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Defocus Places Panel"
-msgstr ""
+msgstr "Joylar panelidan fokusni oliş"
 
 #: dolphinnavigatorswidgetaction.cpp:230
 #, kde-format
 msgid "Enter server URL (e.g. smb://[ip address])"
-msgstr ""
+msgstr "Server URL manzilini kiriting (masalan, smb://[ip manzil])"
 
 #: dolphinnavigatorswidgetaction.cpp:257
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
-msgstr ""
+msgstr "Çiqindilar qutisini böşatiş"
 
 #: dolphinnavigatorswidgetaction.cpp:258
 #, kde-format
 msgid "Empties Trash to create free space"
-msgstr ""
+msgstr "Böş joy yaratiş uçun Çiqindilar qutisini böşatadi"
 
 #: dolphinnavigatorswidgetaction.cpp:292
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Network Folder"
-msgstr ""
+msgstr "Tarmoq jildini qöşiş"
 
 #: dolphinnavigatorswidgetaction.cpp:323
 #, kde-format
 msgctxt "@action:button"
 msgid "Open KDE Connect"
-msgstr ""
+msgstr "KDE Connect ni oçiş"
 
 #: dolphinnavigatorswidgetaction.cpp:360
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Location Bar"
 msgid_plural "Location Bars"
-msgstr[0] ""
+msgstr[0] "Manzil panellari..."
 
 #: dolphinpackageinstaller.cpp:46
 #, kde-format
 msgctxt "@info:shell about system packages"
 msgid "Could not find package %1."
-msgstr ""
+msgstr "%1 paketi topilmadi."
 
 #: dolphinpackageinstaller.cpp:89
 #, kde-format
 msgctxt "@info %1 is error code"
 msgid "Installation exited without reporting success. (%1)"
 msgstr ""
+"Örnatiş muvaffaqiyatli yakunlangani haqida xabar "
+"bermasdan çiqdi. (%1)"
 
 #: dolphinpackageinstaller.cpp:108
 #, kde-kuit-format
@@ -1646,208 +1873,215 @@ msgid ""
 "Installing <application>%1</application> failed: %2 (%3)<nl/>Please try "
 "installing <application>%1</application> manually instead."
 msgstr ""
+"<application>%1</application> dasturini örnatiş muvaffaqiyatsiz "
+"tugadi: %2 (%3)<nl/>Buning örniga <application>%1</application> "
+"dasturini qölda örnatişga urinib köring."
 
 #: dolphinpart.cpp:159
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type…"
-msgstr ""
+msgstr "Fayl turini &Tahrirlaş…"
 
 #: dolphinpart.cpp:163
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Select Items Matching…"
-msgstr ""
+msgstr "Mos keluvçi elementlarni tanlaş…"
 
 #: dolphinpart.cpp:168
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Unselect Items Matching…"
-msgstr ""
+msgstr "Mos keluvçi elementlardan tanlovni olib taşlaş…"
 
 #: dolphinpart.cpp:174
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Unselect All"
-msgstr ""
+msgstr "Barçasidan tanlovni olib taşlaş"
 
 #: dolphinpart.cpp:189
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "App&lications"
-msgstr ""
+msgstr "Dastur&lar"
 
 #: dolphinpart.cpp:190
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "&Network Folders"
-msgstr ""
+msgstr "&Tarmoq jildlari"
 
 #: dolphinpart.cpp:191
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "Trash"
-msgstr ""
+msgstr "Çiqindilar qutisi"
 
 #: dolphinpart.cpp:194
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "Autostart"
-msgstr ""
+msgstr "Avto-işga tuşiriş"
 
 #: dolphinpart.cpp:200
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Find File…"
-msgstr ""
+msgstr "Faylni topiş…"
 
 #: dolphinpart.cpp:206
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open &Terminal"
-msgstr ""
+msgstr "&Terminalni Oçiş"
 
 #: dolphinpart.cpp:458
 #, kde-format
 msgctxt "@title:window"
 msgid "Select"
-msgstr ""
+msgstr "Tanlaş"
 
 #: dolphinpart.cpp:458
 #, kde-format
 msgid "Select all items matching this pattern:"
 msgstr ""
+"Uşbu namunaga mos keluvçi barça "
+"elementlarni tanlaş:"
 
 #: dolphinpart.cpp:463
 #, kde-format
 msgctxt "@title:window"
 msgid "Unselect"
-msgstr ""
+msgstr "Tanlovni olib taşlaş"
 
 #: dolphinpart.cpp:463
 #, kde-format
 msgid "Unselect all items matching this pattern:"
 msgstr ""
+"Uşbu namunaga mos keluvçi barça elementlardan "
+"tanlovni olib taşlaş:"
 
 #. i18n: ectx: Menu (edit)
 #: dolphinpart.rc:5
 #, kde-format
 msgid "&Edit"
-msgstr ""
+msgstr "&Tahrirlaş"
 
 #. i18n: ectx: Menu (selection)
 #: dolphinpart.rc:15
 #, kde-format
 msgctxt "@title:menu"
 msgid "Selection"
-msgstr ""
+msgstr "Tanlov"
 
 #. i18n: ectx: Menu (view)
 #: dolphinpart.rc:24
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "&Köriniş"
 
 #. i18n: ectx: Menu (go)
 #: dolphinpart.rc:34
 #, kde-format
 msgid "&Go"
-msgstr ""
+msgstr "Ö&tiş"
 
 #. i18n: ectx: Menu (tools)
 #: dolphinpart.rc:42
 #, kde-format
 msgctxt "@title:menu"
 msgid "Tools"
-msgstr ""
+msgstr "Vositalar"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: dolphinpart.rc:52
 #, kde-format
 msgctxt "@title:menu"
 msgid "Dolphin Toolbar"
-msgstr ""
+msgstr "Dolphin Asboblar paneli"
 
 #: dolphinrecenttabsmenu.cpp:18
 #, kde-format
 msgid "Recently Closed Tabs"
-msgstr ""
+msgstr "Yaqinda yopilgan Tablar"
 
 #: dolphinrecenttabsmenu.cpp:23
 #, kde-format
 msgid "Empty Recently Closed Tabs"
-msgstr ""
+msgstr "Yaqinda yopilgan tablar röyxatini böşatiş"
 
 #: dolphintabbar.cpp:362
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "New Tab"
-msgstr ""
+msgstr "Yangi tab"
 
 #: dolphintabbar.cpp:363
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Tab"
-msgstr ""
+msgstr "Tabni ajratiş"
 
 #: dolphintabbar.cpp:367
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Unpin Tab"
-msgstr ""
+msgstr "Tabni qadoqdan çiqariş"
 
 #: dolphintabbar.cpp:369
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Pin Tab"
-msgstr ""
+msgstr "Tabni qadaş"
 
 #: dolphintabbar.cpp:372
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rename Tab"
-msgstr ""
+msgstr "Tabni Qayta nomlaş"
 
 #: dolphintabbar.cpp:374
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Other Tabs"
-msgstr ""
+msgstr "Boşqa tablarni yopiş"
 
 #: dolphintabbar.cpp:375
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tabs to the Left"
-msgstr ""
+msgstr "Çapdagi tablarni yopiş"
 
 #: dolphintabbar.cpp:377
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tabs to the Right"
-msgstr ""
+msgstr "Öngdagi tablarni yopiş"
 
 #: dolphintabbar.cpp:379
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tab"
-msgstr ""
+msgstr "Tabni yopiş"
 
 #: dolphintabbar.cpp:408
 #, kde-format
 msgctxt "@title:window for text input"
 msgid "Rename Tab"
-msgstr ""
+msgstr "Tabni Qayta nomlaş"
 
 #: dolphintabbar.cpp:409
 #, kde-format
 msgid "New tab name:"
-msgstr ""
+msgstr "Yangi tab nomi:"
 
 #: dolphintabbar.cpp:472
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Open a new tab"
-msgstr ""
+msgstr "Yangi tab oçiş"
 
 #. i18n: This accessible name will be announced any time the user moves keyboard focus e.g. from the toolbar or the places panel towards the main working
 #. area of Dolphin. It gives structure. This container does not only contain the main view but also the status bar, the search panel, filter, and selection
@@ -1856,7 +2090,7 @@ msgstr ""
 #, kde-format
 msgctxt "accessible name of Dolphin's view container"
 msgid "Location View"
-msgstr ""
+msgstr "Manzil körinişi"
 
 #. i18n: %1 is the primary view and %2 the secondary view. For left to right languages the primary view is on the left so we also want it to be on the
 #. left in the tab name. In right to left languages the primary view would be on the right so the tab name should match.
@@ -1864,7 +2098,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab Active primary view | (Inactive secondary view)"
 msgid "%1 | (%2)"
-msgstr ""
+msgstr "%1 | (%2)"
 
 #. i18n: %1 is the primary view and %2 the secondary view. For left to right languages the primary view is on the left so we also want it to be on the
 #. left in the tab name. In right to left languages the primary view would be on the right so the tab name should match.
@@ -1872,21 +2106,21 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab (Inactive primary view) | Active secondary view"
 msgid "(%1) | %2"
-msgstr ""
+msgstr "(%1) | %2"
 
 #. i18n: ectx: Menu (location_bar)
 #: dolphinui.rc:64 dolphinuiforphones.rc:64
 #, kde-format
 msgctxt "@title:menu"
 msgid "Location Bar"
-msgstr ""
+msgstr "Manzil paneli"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: dolphinui.rc:111 dolphinuiforphones.rc:111
 #, kde-format
 msgctxt "@title:menu"
 msgid "Main Toolbar"
-msgstr ""
+msgstr "Asosiy asboblar paneli"
 
 #: dolphinurlnavigator.cpp:39
 #, kde-kuit-format
@@ -1902,59 +2136,71 @@ msgid ""
 "url='help:/dolphin/location-bar.html'>click here</link>. This will open the "
 "dedicated page in the Handbook.</para>"
 msgstr ""
+"<para>Bu quyida körsatilgan fayl va jildlarning joylaşuvini tavsiflaydi. "
+"</para><para>Joriy körilayotgan jildning nomini eng öng tomonda "
+"öqiş mumkin. Uning çap tomonida esa uni öz içiga olgan jildning nomi "
+"joylaşgan. Butun satr joriy manzilga eltuvçi <emphasis>yöl</emphasis> "
+"deb ataladi, çunki uşbu jildlarga çapdan öngga qarab ergaşiş şu yerga "
+"olib keladi.</para><para>Bu interaktiv yöl kutilganidan köra köproq "
+"imkoniyatlarga ega. Manzil panelining asosiy va qöşimça xususiyatlari "
+"haqida köproq maʼlumot oliş uçun <link url='help:/dolphin/location-bar.html'>b"
+"u yerga bosing</link>. Bu Qöllanmadagi maxsus sahifani oçadi.</para>"
 
 #: dolphinurlnavigator.cpp:57
 #, kde-format
 msgctxt "@info:tooltip of a 'locked' symbol in url navigator"
 msgid "This folder is not writable for you."
-msgstr ""
+msgstr "Uşbu jildga yoziş huquqingiz yöq."
 
 #: dolphinviewcontainer.cpp:107
 #, kde-format
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr ""
+"Dolphin dasturini root sifatida işga tuşiriş xavfli bölişi mumkin. "
+"Iltimos, ehtiyot böling."
 
 #: dolphinviewcontainer.cpp:236
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder…"
-msgstr ""
+msgstr "Jild yuklanmoqda…"
 
 #: dolphinviewcontainer.cpp:239
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting…"
-msgstr ""
+msgstr "Saralaş:"
 
 #: dolphinviewcontainer.cpp:805
 #, kde-format
 msgctxt "@info"
 msgid "Searching…"
-msgstr ""
+msgstr "Qidirmoqda..."
 
 #: dolphinviewcontainer.cpp:825
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
-msgstr ""
+msgstr "Heç qanday element topilmadi."
 
 #: dolphinviewcontainer.cpp:859
 #, kde-format
 msgctxt "@action"
 msgid "Open as File"
-msgstr ""
+msgstr "Fayl sifatida oçiş"
 
 #: dolphinviewcontainer.cpp:876
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Trying to open a file as a folder: <filename>%1</filename>"
-msgstr ""
+msgstr "Faylni jild sifatida oçişga uriniş: <filename>%1</filename>"
 
 #: dolphinviewcontainer.cpp:1118
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr ""
+"Dolphin veb-sahifalarni qöllab-quvvatlamaydi, veb-brauzer işga tuşirildi"
 
 #: dolphinviewcontainer.cpp:1121
 #, kde-format
@@ -1962,274 +2208,276 @@ msgctxt "@info:status"
 msgid ""
 "Protocol not supported by Dolphin, default application has been launched"
 msgstr ""
+"Protokol Dolphin tomonidan qöllab-quvvatlanmaydi, "
+"andoza dastur işga tuşirildi"
 
 #: dolphinviewcontainer.cpp:1128
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol '%1'"
-msgstr ""
+msgstr "Notöğri protokol '%1'"
 
 #: dolphinviewcontainer.cpp:1130
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
-msgstr ""
+msgstr "Notöğri protokol "
 
 #: dolphinviewcontainer.cpp:1237
 #, kde-format
 msgctxt "@info"
 msgid "Authorization required to enter this folder."
-msgstr ""
+msgstr "Uşbu jildga kiriş uçun avtorizatsiya talab qilinadi."
 
 #: dolphinviewcontainer.cpp:1242
 #, kde-format
 msgctxt "@action"
 msgid "Create missing folder"
-msgstr ""
+msgstr "Mavjud bölmagan jildni yaratiş"
 
 #: dolphinviewcontainer.cpp:1259
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Create the folder at this path and open it"
-msgstr ""
+msgstr "Uşbu yölda jildni yaratiş va uni oçiş"
 
 #: dolphinviewcontainer.cpp:1262
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "You do not have permission to create the folder"
-msgstr ""
+msgstr "Sizda jildni yaratiş huquqi yöq"
 
 #: dolphinviewcontainer.cpp:1286
 #, kde-format
 msgctxt "@action:button"
 msgid "Open with %1"
-msgstr ""
+msgstr " %1 Bilan oçiş"
 
 #: dolphinviewcontainer.cpp:1332 dolphinviewcontainer.cpp:1335
 #, kde-kuit-format
 msgid ""
 "Current location changed, <filename>%1</filename> is no longer accessible."
-msgstr ""
+msgstr "Joriy manzil özgardi, <filename>%1</filename> endi mavjud emas."
 
 #: filterbar/filterbar.cpp:36
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Keep Filter When Changing Folders"
-msgstr ""
+msgstr "Jildlarni özgartirganda filtrni saqlab qoliş"
 
 #: filterbar/filterbar.cpp:43
 #, kde-format
 msgid "Filter…"
-msgstr ""
+msgstr "Filtr..."
 
 #: filterbar/filterbar.cpp:51
 #, kde-format
 msgid "Invalid expression"
-msgstr ""
+msgstr "Notöğri ifoda"
 
 #: filterbar/filterbar.cpp:60
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Match case"
-msgstr ""
+msgstr "Katta-kiçik harfni inobatga oliş"
 
 #: filterbar/filterbar.cpp:66
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Plain Text"
-msgstr ""
+msgstr "Oddiy matn"
 
 #: filterbar/filterbar.cpp:67
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Glob Pattern"
-msgstr ""
+msgstr "Glob naqşi"
 
 #: filterbar/filterbar.cpp:68
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Regular Expression"
-msgstr ""
+msgstr "Muntazam ifoda"
 
 #: filterbar/filterbar.cpp:78
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Hide Filter Bar"
-msgstr ""
+msgstr "Filtr panelini yaşiriş"
 
 #: itemactions/hidefileitemaction.cpp:113
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Hide"
-msgstr ""
+msgstr "Yaşiriş"
 
 #: itemactions/hidefileitemaction.cpp:132
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Unhide"
-msgstr ""
+msgstr "Yaşirmaslik"
 
 #: itemactions/movetonewfolderitemaction.cpp:51
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to New Folder…"
-msgstr ""
+msgstr "Yangi jildga köçiriş…"
 
 #: itemactions/setfoldericonitemaction.cpp:164
 #, kde-format
 msgctxt "@action open a submenu with additional entries"
 msgid "Other"
-msgstr ""
+msgstr "Boşqa"
 
 #: itemactions/setfoldericonitemaction.cpp:165
 #, kde-format
 msgctxt "@label"
 msgid "Other folder icon options"
-msgstr ""
+msgstr "Boşqa jild nişonçasi parametrlari"
 
 #: itemactions/setfoldericonitemaction.cpp:200
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Red"
-msgstr ""
+msgstr "Qizil"
 
 #: itemactions/setfoldericonitemaction.cpp:201
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Yellow"
-msgstr ""
+msgstr "Sariq"
 
 #: itemactions/setfoldericonitemaction.cpp:202
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Orange"
-msgstr ""
+msgstr "Sabzirang"
 
 #: itemactions/setfoldericonitemaction.cpp:203
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Green"
-msgstr ""
+msgstr "Yaşil"
 
 #: itemactions/setfoldericonitemaction.cpp:204
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Cyan"
-msgstr ""
+msgstr "Moviy"
 
 #: itemactions/setfoldericonitemaction.cpp:206
 #, kde-format
 msgctxt "@label: as in default folder icon"
 msgid "Default"
-msgstr ""
+msgstr "Standart"
 
 #: itemactions/setfoldericonitemaction.cpp:208
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Blue"
-msgstr ""
+msgstr "Kök"
 
 #: itemactions/setfoldericonitemaction.cpp:209
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Violet"
-msgstr ""
+msgstr "Binafşa"
 
 #: itemactions/setfoldericonitemaction.cpp:210
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Brown"
-msgstr ""
+msgstr "Jigarrang"
 
 #: itemactions/setfoldericonitemaction.cpp:211
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Grey"
-msgstr ""
+msgstr "Kulrang"
 
 #: itemactions/setfoldericonitemaction.cpp:214
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Bookmark"
-msgstr ""
+msgstr "Xatçöp"
 
 #: itemactions/setfoldericonitemaction.cpp:215
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Cloud"
-msgstr ""
+msgstr "Bulut"
 
 #: itemactions/setfoldericonitemaction.cpp:216
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Development"
-msgstr ""
+msgstr "Dasturlaş"
 
 #: itemactions/setfoldericonitemaction.cpp:217
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Games"
-msgstr ""
+msgstr "Öyinlar"
 
 #: itemactions/setfoldericonitemaction.cpp:218
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Mail"
-msgstr ""
+msgstr "Xat"
 
 #: itemactions/setfoldericonitemaction.cpp:219
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Music"
-msgstr ""
+msgstr "Musiqa"
 
 #: itemactions/setfoldericonitemaction.cpp:220
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Print"
-msgstr ""
+msgstr "Çop etiş"
 
 #: itemactions/setfoldericonitemaction.cpp:221
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Compressed"
-msgstr ""
+msgstr "Siqilgan"
 
 #: itemactions/setfoldericonitemaction.cpp:222
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Temporary"
-msgstr ""
+msgstr "Vaqtinçalik"
 
 #: itemactions/setfoldericonitemaction.cpp:223
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Important"
-msgstr ""
+msgstr "Muhim"
 
 #: itemactions/setfoldericonitemaction.cpp:250
 #, kde-format
 msgctxt "@label %1 is a folder icon name (Red, Music...) etc"
 msgid "Set folder icon to %1"
-msgstr ""
+msgstr "Jild nişonçasini %1 qilib belgilaş"
 
 #: kitemviews/accessibility/kitemlistdelegateaccessible.cpp:142
 #, kde-format
 msgctxt "@info"
 msgid "hidden"
-msgstr ""
+msgstr "yaşirin"
 
 #: kitemviews/accessibility/kitemlistdelegateaccessible.cpp:164
 #, kde-format
 msgctxt "@info enumeration saying this is a link to $1, %1 is mimeType"
 msgid ", link to %1 at %2"
-msgstr ""
+msgstr "%2 manzilidagi %1 ga havola"
 
 #: kitemviews/accessibility/kitemlistdelegateaccessible.cpp:166
 #, kde-format
 msgctxt "@info enumeration, %1 is mimeType"
 msgid ", %1"
-msgstr ""
+msgstr ", %1"
 
 #. i18n: The text starts with a comma because multiple occurrences of this text can follow after each others as an enumeration.
 #. Normally it would make sense to have a colon between property and value to make the relation between the property and its property value
@@ -2241,7 +2489,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info accessibility enumeration, %1 is property, %2 is value"
 msgid ", %1 %2"
-msgstr ""
+msgstr ", %1 %2"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:268
 #, kde-format
@@ -2249,19 +2497,19 @@ msgctxt ""
 "@info 1 states that the folder is empty and sometimes why, 2 is the full "
 "filesystem path"
 msgid "%1 at location %2"
-msgstr ""
+msgstr "%2 manzilidagi %1"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:284
 #, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in a grid layout in selection mode in location %1"
-msgstr ""
+msgstr "%1 manzilida tanlaş rejimida jadval körinişida"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:286
 #, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in a grid layout in location %1"
-msgstr ""
+msgstr "%1 manzilida jadval körinişida"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:290
 #, kde-format
@@ -2270,64 +2518,65 @@ msgid "%1 selected item in a grid layout in selection mode in location %2"
 msgid_plural ""
 "%1 selected items in a grid layout in selection mode in location %2"
 msgstr[0] ""
+"%2 manzilida tanlaş rejimida jadval körinişida %1 ta element tanlangan"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:296
 #, kde-format
 msgctxt "@info accessibility, 2 is path"
 msgid "%1 selected item in a grid layout in location %2"
 msgid_plural "%1 selected items in a grid layout in location %2"
-msgstr[0] ""
+msgstr[0] "%2 manzilida jadval körinişida %1 ta element tanlangan"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:307
 #, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in selection mode in location %1"
-msgstr ""
+msgstr "%1 manzilida tanlaş rejimida"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:309
 #, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in location %1"
-msgstr ""
+msgstr "%1 manzilida"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:313
 #, kde-format
 msgctxt "@info accessibility, 2 is path"
 msgid "%1 selected item in selection mode in location %2"
 msgid_plural "%1 selected items in selection mode in location %2"
-msgstr[0] ""
+msgstr[0] "%2 manzilida tanlaş rejimida %1 ta element tanlangan"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:319
 #, kde-format
 msgctxt "@info accessibility, 2 is path"
 msgid "%1 selected item in location %2"
 msgid_plural "%1 selected items in location %2"
-msgstr[0] ""
+msgstr[0] "%2 manzilida %1 ta element tanlangan"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:519
 #, kde-format
 msgctxt "accessibility announcement"
 msgid "Selection mode enabled"
-msgstr ""
+msgstr "Tanlaş rejimi yoqildi"
 
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:520
 #, kde-format
 msgctxt "accessibility announcement"
 msgid "Selection mode disabled"
-msgstr ""
+msgstr "Tanlaş rejimi öçirildi"
 
 #: kitemviews/kfileitemlisttostring.cpp:22
 #, kde-format
 msgctxt "Textual representation of a file. %1 is the name of the file/folder."
 msgid "\"%1\""
-msgstr ""
+msgstr "\"%1\""
 
 #: kitemviews/kfileitemlisttostring.cpp:26
 #, kde-format
 msgctxt ""
 "Textual representation of two files. %1 and %2 are names of files/folders."
 msgid "\"%1\" and \"%2\""
-msgstr ""
+msgstr "\"%1\" and \"%2\""
 
 #: kitemviews/kfileitemlisttostring.cpp:32
 #, kde-format
@@ -2335,7 +2584,7 @@ msgctxt ""
 "Textual representation of three files. %1, %2 and %3 are names of files/"
 "folders."
 msgid "\"%1\", \"%2\" and \"%3\""
-msgstr ""
+msgstr "\"%1\", \"%2\" and \"%3\""
 
 #: kitemviews/kfileitemlisttostring.cpp:39
 #, kde-format
@@ -2343,7 +2592,7 @@ msgctxt ""
 "Textual representation of four files. %1, %2, %3 and %4 are names of files/"
 "folders."
 msgid "\"%1\", \"%2\", \"%3\" and \"%4\""
-msgstr ""
+msgstr "\"%1\", \"%2\", \"%3\" and \"%4\""
 
 #: kitemviews/kfileitemlisttostring.cpp:47
 #, kde-format
@@ -2351,14 +2600,14 @@ msgctxt ""
 "Textual representation of five files. %1, %2, %3, %4 and %5 are names of "
 "files/folders."
 msgid "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
-msgstr ""
+msgstr "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
 
 #: kitemviews/kfileitemlisttostring.cpp:67
 #, kde-format
 msgctxt "Textual representation of selected files. %1 is the number of files."
 msgid "One Selected File"
 msgid_plural "%1 Selected Files"
-msgstr[0] ""
+msgstr[0] "%1 Tanlangan fayllar"
 
 #: kitemviews/kfileitemlisttostring.cpp:70
 #, kde-format
@@ -2366,7 +2615,7 @@ msgctxt ""
 "Textual representation of selected folders. %1 is the number of folders."
 msgid "One Selected Folder"
 msgid_plural "%1 Selected Folders"
-msgstr[0] ""
+msgstr[0] "%1 Tanlangan jildlar"
 
 #: kitemviews/kfileitemlisttostring.cpp:73
 #, kde-format
@@ -2375,21 +2624,21 @@ msgctxt ""
 "folders."
 msgid "One Selected Item"
 msgid_plural "%1 Selected Items"
-msgstr[0] ""
+msgstr[0] "%1 Tanlangan elementlar"
 
 #: kitemviews/kfileitemlisttostring.cpp:84
 #, kde-format
 msgctxt "Textual representation of files. %1 is the number of files."
 msgid "One File"
 msgid_plural "%1 Files"
-msgstr[0] ""
+msgstr[0] "%1 Fayllar"
 
 #: kitemviews/kfileitemlisttostring.cpp:86
 #, kde-format
 msgctxt "Textual representation of folders. %1 is the number of folders."
 msgid "One Folder"
 msgid_plural "%1 Folders"
-msgstr[0] ""
+msgstr[0] "%1 Jildlar"
 
 #: kitemviews/kfileitemlisttostring.cpp:88
 #, kde-format
@@ -2397,20 +2646,20 @@ msgctxt ""
 "Textual representation of fileitems. %1 is the number of files/folders."
 msgid "One Item"
 msgid_plural "%1 Items"
-msgstr[0] ""
+msgstr[0] "%1 ta elementlar"
 
 #: kitemviews/kfileitemlistwidget.cpp:74
 #, kde-format
 msgctxt "@item:intable"
 msgid "%1 item"
 msgid_plural "%1 items"
-msgstr[0] ""
+msgstr[0] "%1 ta element"
 
 #: kitemviews/kfileitemlistwidget.cpp:100
 #, kde-format
 msgctxt "width × height"
 msgid "%1 × %2"
-msgstr ""
+msgstr "%1 × %2"
 
 #: kitemviews/kfileitemmodel.cpp:1320
 #, kde-format
@@ -2419,6 +2668,8 @@ msgid ""
 "File Search is disabled. Enable it in System Settings to see this "
 "information."
 msgstr ""
+"Fayl qidiruvi öçirilgan. Bu maʼlumotni köriş uçun "
+"Tizim sozlamalaridan uni yoqing."
 
 #: kitemviews/kfileitemmodel.cpp:1323
 #, kde-format
@@ -2427,6 +2678,9 @@ msgid ""
 "File Search indexes only file names. Enable indexing of file content in "
 "System Settings to see this information."
 msgstr ""
+"Fayl qidiruvi faqat fayl nomlarini indekslaydi. "
+"Bu maʼlumotni köriş uçun Tizim sozlamalarida fayl "
+"tarkibini indekslaşni yoqing."
 
 #: kitemviews/kfileitemmodel.cpp:1326
 #, kde-format
@@ -2446,31 +2700,31 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group Groups that start with a digit"
 msgid "0 - 9"
-msgstr ""
+msgstr "0 - 9"
 
 #: kitemviews/kfileitemmodel.cpp:2857
 #, kde-format
 msgctxt "@title:group"
 msgid "Others"
-msgstr ""
+msgstr "Boşqalar"
 
 #: kitemviews/kfileitemmodel.cpp:2889
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Folders"
-msgstr ""
+msgstr "Jildlar"
 
 #: kitemviews/kfileitemmodel.cpp:2897
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Small"
-msgstr ""
+msgstr "Kiçik"
 
 #: kitemviews/kfileitemmodel.cpp:2899
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Medium"
-msgstr ""
+msgstr "Örtaça"
 
 #: kitemviews/kfileitemmodel.cpp:2901
 #, kde-format
@@ -2482,26 +2736,26 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Today"
-msgstr ""
+msgstr "Bugun"
 
 #: kitemviews/kfileitemmodel.cpp:2950
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Yesterday"
-msgstr ""
+msgstr "Keça"
 
 #: kitemviews/kfileitemmodel.cpp:2953
 #, kde-format
 msgctxt "@title:group Date: The week day name: dddd"
 msgid "dddd"
-msgstr ""
+msgstr "kkkk"
 
 #: kitemviews/kfileitemmodel.cpp:2957
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"dddd\"with context @title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:2962
 #, kde-format
@@ -2543,7 +2797,7 @@ msgctxt ""
 "Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" with "
 "context @title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3006
 #, kde-format
@@ -2551,7 +2805,7 @@ msgctxt ""
 "@title:group Date: The week day name: dddd, MMMM is full month name in "
 "current locale, and yyyy is full year number."
 msgid "dddd (MMMM, yyyy)"
-msgstr ""
+msgstr "kkkk (OOOO, yyyy)"
 
 #: kitemviews/kfileitemmodel.cpp:3010
 #, kde-format
@@ -2559,7 +2813,7 @@ msgctxt ""
 "Can be used to script translation of \"dddd (MMMM, yyyy)\" with context "
 "@title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3018
 #, kde-format
@@ -2577,7 +2831,7 @@ msgctxt ""
 "Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" with "
 "context @title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3039
 #, kde-format
@@ -2595,7 +2849,7 @@ msgctxt ""
 "Can be used to script translation of \"'Two Weeks Ago' (MMMM, yyyy)\" with "
 "context @title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3060
 #, kde-format
@@ -2613,7 +2867,7 @@ msgctxt ""
 "Can be used to script translation of \"'Three Weeks Ago' (MMMM, yyyy)\" with "
 "context @title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3081
 #, kde-format
@@ -2631,7 +2885,7 @@ msgctxt ""
 "Can be used to script translation of \"'Earlier on' MMMM, yyyy\" with "
 "context @title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3102
 #, kde-format
@@ -2639,7 +2893,7 @@ msgctxt ""
 "@title:group The month and year: MMMM is full month name in current locale, "
 "and yyyy is full year number"
 msgid "MMMM, yyyy"
-msgstr ""
+msgstr "OOOO, yyyy"
 
 #: kitemviews/kfileitemmodel.cpp:3106
 #, kde-format
@@ -2647,7 +2901,7 @@ msgctxt ""
 "Can be used to script translation of \"MMMM, yyyy\" with context "
 "@title:group Date"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: kitemviews/kfileitemmodel.cpp:3146 kitemviews/kfileitemmodel.cpp:3159
 #: kitemviews/kfileitemmodel.cpp:3172
@@ -2686,17 +2940,17 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3275
 msgctxt "@label"
 msgid "Name"
-msgstr ""
+msgstr "Nomi"
 
 #: kitemviews/kfileitemmodel.cpp:3276
 msgctxt "@label"
 msgid "Size"
-msgstr ""
+msgstr "Hajmi"
 
 #: kitemviews/kfileitemmodel.cpp:3277
 msgctxt "@label"
 msgid "Modified"
-msgstr ""
+msgstr "Özgartirilgan"
 
 #: kitemviews/kfileitemmodel.cpp:3277 kitemviews/kfileitemmodel.cpp:3278
 #: kitemviews/kfileitemmodel.cpp:3279
@@ -2707,7 +2961,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3278
 msgctxt "@label"
 msgid "Created"
-msgstr ""
+msgstr "Yaratilgan"
 
 #: kitemviews/kfileitemmodel.cpp:3279
 msgctxt "@label"
@@ -2717,34 +2971,34 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3280
 msgctxt "@label"
 msgid "Type"
-msgstr ""
+msgstr "Turi"
 
 #: kitemviews/kfileitemmodel.cpp:3281
 msgctxt "@label"
 msgid "Rating"
-msgstr ""
+msgstr "Baholaş"
 
 #: kitemviews/kfileitemmodel.cpp:3282
 msgctxt "@label"
 msgid "Tags"
-msgstr ""
+msgstr "Teg"
 
 #: kitemviews/kfileitemmodel.cpp:3283
 msgctxt "@label"
 msgid "Comment"
-msgstr ""
+msgstr "Izoh"
 
 #: kitemviews/kfileitemmodel.cpp:3284
 msgctxt "@label"
 msgid "Title"
-msgstr ""
+msgstr "Sarlavha"
 
 #: kitemviews/kfileitemmodel.cpp:3284 kitemviews/kfileitemmodel.cpp:3285
 #: kitemviews/kfileitemmodel.cpp:3286 kitemviews/kfileitemmodel.cpp:3287
 #: kitemviews/kfileitemmodel.cpp:3288 kitemviews/kfileitemmodel.cpp:3289
 msgctxt "@label"
 msgid "Document"
-msgstr ""
+msgstr "Hujjat"
 
 #: kitemviews/kfileitemmodel.cpp:3285
 msgctxt "@label"
@@ -2759,7 +3013,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3287
 msgctxt "@label"
 msgid "Page Count"
-msgstr ""
+msgstr "Sahifa soni"
 
 #: kitemviews/kfileitemmodel.cpp:3288
 msgctxt "@label"
@@ -2781,27 +3035,27 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3294
 msgctxt "@label"
 msgid "Image"
-msgstr ""
+msgstr "Rasm"
 
 #: kitemviews/kfileitemmodel.cpp:3291 kitemviews/kfileitemmodel.cpp:3307
 msgctxt "@label width x height"
 msgid "Dimensions"
-msgstr ""
+msgstr "Ölçamlar"
 
 #: kitemviews/kfileitemmodel.cpp:3292 kitemviews/kfileitemmodel.cpp:3310
 msgctxt "@label"
 msgid "Height"
-msgstr ""
+msgstr "Balandlik"
 
 #: kitemviews/kfileitemmodel.cpp:3293
 msgctxt "@label"
 msgid "Orientation"
-msgstr ""
+msgstr "Yönaliş"
 
 #: kitemviews/kfileitemmodel.cpp:3294 kitemviews/kfileitemmodel.cpp:3313
 msgctxt "@label"
 msgid "Width"
-msgstr ""
+msgstr "Kenglik"
 
 #: kitemviews/kfileitemmodel.cpp:3295
 msgctxt "@label"
@@ -2814,7 +3068,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3301 kitemviews/kfileitemmodel.cpp:3302
 msgctxt "@label"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: kitemviews/kfileitemmodel.cpp:3296
 msgctxt "@label"
@@ -2834,7 +3088,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3299 kitemviews/kfileitemmodel.cpp:3308
 msgctxt "@label"
 msgid "Duration"
-msgstr ""
+msgstr "Davomiyligi"
 
 #: kitemviews/kfileitemmodel.cpp:3300
 msgctxt "@label"
@@ -2864,7 +3118,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3313
 msgctxt "@label"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: kitemviews/kfileitemmodel.cpp:3306
 msgctxt "@label"
@@ -2879,17 +3133,17 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3311
 msgctxt "@label"
 msgid "Pixel Format"
-msgstr ""
+msgstr "Piksel Formatlaş"
 
 #: kitemviews/kfileitemmodel.cpp:3312
 msgctxt "@label"
 msgid "Video Codec"
-msgstr ""
+msgstr "Video kodeklar"
 
 #: kitemviews/kfileitemmodel.cpp:3314
 msgctxt "@label"
 msgid "Path"
-msgstr ""
+msgstr "Yöl"
 
 #: kitemviews/kfileitemmodel.cpp:3314 kitemviews/kfileitemmodel.cpp:3315
 #: kitemviews/kfileitemmodel.cpp:3316 kitemviews/kfileitemmodel.cpp:3317
@@ -2898,7 +3152,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3322
 msgctxt "@label"
 msgid "Other"
-msgstr ""
+msgstr "Boşqa"
 
 #: kitemviews/kfileitemmodel.cpp:3315
 msgctxt "@label"
@@ -2928,7 +3182,7 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3320
 msgctxt "@label"
 msgid "Permissions"
-msgstr ""
+msgstr "Ruxsatlar"
 
 #: kitemviews/kfileitemmodel.cpp:3320
 msgctxt "@tooltip"
@@ -2940,12 +3194,12 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:3321
 msgctxt "@label"
 msgid "Owner"
-msgstr ""
+msgstr "Egasi"
 
 #: kitemviews/kfileitemmodel.cpp:3322
 msgctxt "@label"
 msgid "User Group"
-msgstr ""
+msgstr "Foydalanuvçi Guruhi"
 
 #: kitemviews/kfileitemmodel.cpp:3423
 #, kde-format
@@ -2978,19 +3232,19 @@ msgstr ""
 #: main.cpp:133
 #, kde-format
 msgid "Dolphin"
-msgstr ""
+msgstr "Dolphin"
 
 #: main.cpp:135
 #, kde-format
 msgctxt "@title"
 msgid "File Manager"
-msgstr ""
+msgstr "Fayl boşqaruvçisi"
 
 #: main.cpp:137
 #, kde-format
 msgctxt "@info:credit"
 msgid "© 2006–%1 The Dolphin Developers"
-msgstr ""
+msgstr "© 2006–%1 Dolphin Dasturçilari"
 
 #: main.cpp:139
 #, kde-format
@@ -3068,14 +3322,14 @@ msgstr ""
 #, kde-format
 msgctxt "@info:credit"
 msgid "Sebastian Trüg"
-msgstr ""
+msgstr "Savartian Trag"
 
 #: main.cpp:157 main.cpp:158 main.cpp:159 main.cpp:160 main.cpp:161
 #: main.cpp:162 main.cpp:163
 #, kde-format
 msgctxt "@info:credit"
 msgid "Developer"
-msgstr ""
+msgstr "Dasturçi"
 
 #: main.cpp:158
 #, kde-format
@@ -3093,7 +3347,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:credit"
 msgid "Rafael Fernández López"
-msgstr ""
+msgstr "Rafael Fernandez Lopez"
 
 #: main.cpp:161
 #, kde-format
@@ -3111,13 +3365,13 @@ msgstr ""
 #, kde-format
 msgctxt "@info:credit"
 msgid "Max Blazejak"
-msgstr ""
+msgstr "Max Blazejak"
 
 #: main.cpp:164
 #, kde-format
 msgctxt "@info:credit"
 msgid "Michael Austin"
-msgstr ""
+msgstr "Maykl Austin"
 
 #: main.cpp:164 main.cpp:165
 #, kde-format
@@ -3129,7 +3383,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:credit"
 msgid "Yuma Kakei"
-msgstr ""
+msgstr "Yuma Kakei"
 
 #: main.cpp:176
 #, kde-format
@@ -3189,37 +3443,37 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Cut"
-msgstr ""
+msgstr "Kesiş"
 
 #: panels/folders/treeviewcontextmenu.cpp:52
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy"
-msgstr ""
+msgstr "Nusxa oliş"
 
 #: panels/folders/treeviewcontextmenu.cpp:68
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rename…"
-msgstr ""
+msgstr " Qayta nomlaş"
 
 #: panels/folders/treeviewcontextmenu.cpp:81
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Trash"
-msgstr ""
+msgstr "Çiqindilar qutisiga köçiriş"
 
 #: panels/folders/treeviewcontextmenu.cpp:91
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Delete"
-msgstr ""
+msgstr "Öçiriş"
 
 #: panels/folders/treeviewcontextmenu.cpp:101
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Hidden Files"
-msgstr ""
+msgstr "Yaşirin fayllarni körsatiş"
 
 #: panels/folders/treeviewcontextmenu.cpp:111
 #, kde-format
@@ -3237,7 +3491,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Properties"
-msgstr ""
+msgstr "Xossalar"
 
 #. i18n: ectx: label, entry (previewsShown), group (InformationPanel)
 #: panels/information/dolphin_informationpanelsettings.kcfg:10
@@ -3267,7 +3521,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Preview"
-msgstr ""
+msgstr "Oldindan köriş"
 
 #: panels/information/informationpanel.cpp:160
 #, kde-format
@@ -3285,7 +3539,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure…"
-msgstr ""
+msgstr "Sozlaş..."
 
 #: panels/information/informationpanel.cpp:176
 #, kde-format
@@ -3309,12 +3563,12 @@ msgstr[0] ""
 #: panels/information/mediawidget.cpp:269
 #, kde-format
 msgid "play"
-msgstr ""
+msgstr "Ijro etiş"
 
 #: panels/information/mediawidget.cpp:275
 #, kde-format
 msgid "pause"
-msgstr ""
+msgstr "vaqtinça töxtatiş"
 
 #. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
 #: panels/places/dolphin_placespanelsettings.kcfg:11
@@ -3344,7 +3598,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button for changing search options"
 msgid "Filter"
-msgstr ""
+msgstr "Filtr"
 
 #: search/bar.cpp:88
 #, kde-format
@@ -3422,13 +3676,13 @@ msgstr ""
 #: search/dolphin_searchsettings.kcfg:10
 #, kde-format
 msgid "Location"
-msgstr ""
+msgstr "Manzil"
 
 #. i18n: ectx: label, entry (What), group (Search)
 #: search/dolphin_searchsettings.kcfg:14
 #, kde-format
 msgid "What"
-msgstr ""
+msgstr "Nima"
 
 #. i18n: ectx: label, entry (SearchTool), group (Search)
 #: search/dolphin_searchsettings.kcfg:18
@@ -3522,7 +3776,7 @@ msgstr ""
 msgctxt ""
 "@title of a search results page with items matching pre-defined conditions"
 msgid "Search results"
-msgstr ""
+msgstr "Qidiruv natijalari"
 
 #. i18n: Localized name for the Filenamesearch search tool for use in user interfaces.
 #: search/popup.cpp:47
@@ -3540,13 +3794,13 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "Search in:"
-msgstr ""
+msgstr "dan Qidiriş..."
 
 #: search/popup.cpp:77
 #, kde-format
 msgctxt "@option:radio Search in:"
 msgid "File names"
-msgstr ""
+msgstr "Fayl nomi"
 
 #: search/popup.cpp:112
 #, kde-format
@@ -3581,7 +3835,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group for filtering files based on their type"
 msgid "File Type:"
-msgstr ""
+msgstr "Fayl turi:"
 
 #: search/popup.cpp:216
 #, kde-format
@@ -3593,13 +3847,13 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group for selecting a minimum rating of search results"
 msgid "Rating:"
-msgstr ""
+msgstr "Baholaş:"
 
 #: search/popup.cpp:233
 #, kde-format
 msgctxt "@title:group for selecting required tags for search results"
 msgid "Tags:"
-msgstr ""
+msgstr "Teglar:"
 
 #: search/popup.cpp:251
 #, kde-format
@@ -3629,7 +3883,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info make a warning paragraph bold before other paragraphs"
 msgid "<b>%1</b>"
-msgstr ""
+msgstr "<b>%1</b>"
 
 #: search/popup.cpp:295
 #, kde-kuit-format
@@ -3664,7 +3918,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button 1 is KFind app name"
 msgid "Open %1"
-msgstr ""
+msgstr "%1 ni oçiş"
 
 #: search/popup.cpp:332
 #, kde-format
@@ -3730,20 +3984,20 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox 5 star rating, has a star icon in front"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: search/selectors/tagsselector.cpp:191
 #, kde-format
 msgctxt ""
 "list separator for file tags e.g. all images tagged 'family & party & 2025'"
 msgid " && "
-msgstr ""
+msgstr " && "
 
 #: search/selectors/tagsselector.cpp:194
 #, kde-format
 msgctxt "@action:button Required tags for search results: None"
 msgid "None"
-msgstr ""
+msgstr "Yöq"
 
 #: selectionmode/bottombarcontentscontainer.cpp:168
 #, kde-format
@@ -3800,7 +4054,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel"
-msgstr ""
+msgstr "Bekor qiliş"
 
 #: selectionmode/bottombarcontentscontainer.cpp:302
 #, kde-format
@@ -3945,7 +4199,7 @@ msgstr[0] ""
 msgctxt "@action"
 msgid "Duplicate %2"
 msgid_plural "Duplicate %2"
-msgstr[0] ""
+msgstr[0] "Nusxasini yaratiş %2"
 
 #. i18n: A more elaborate and clearly worded version of the Trash action
 #. %2 is a textual representation of the currently selected files or folders. This can be the name of
@@ -3969,7 +4223,7 @@ msgstr[0] ""
 msgctxt "@action"
 msgid "Rename %2"
 msgid_plural "Rename %2"
-msgstr[0] ""
+msgstr[0] "%2 ni Qayta nomlaş"
 
 #: selectionmode/topbar.cpp:30
 #, kde-format
@@ -4016,7 +4270,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Search…"
-msgstr ""
+msgstr "Qidiriş..."
 
 #: settings/contextmenu/contextmenusettingspage.cpp:68
 #, kde-format
@@ -4028,13 +4282,13 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Shortcuts…"
-msgstr ""
+msgstr "Tezkor tugmalar..."
 
 #: settings/contextmenu/contextmenusettingspage.cpp:234
 #, kde-format
 msgctxt "@option:check"
 msgid "Delete"
-msgstr ""
+msgstr "Öçiriş"
 
 #: settings/contextmenu/contextmenusettingspage.cpp:237
 #: settings/contextmenu/contextmenusettingspage.cpp:244
@@ -4054,7 +4308,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "%1: %2"
-msgstr ""
+msgstr "%1: %2"
 
 #. i18n: ectx: label, entry (UseSystemFont), group (IconsMode)
 #. i18n: ectx: label, entry (UseSystemFont), group (ColumnsMode)
@@ -4078,7 +4332,7 @@ msgstr ""
 #: settings/dolphin_iconsmodesettings.kcfg:19
 #, kde-format
 msgid "Icon size"
-msgstr ""
+msgstr "Belgi ölçami"
 
 #. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
 #. i18n: ectx: label, entry (PreviewSize), group (ColumnsMode)
@@ -4293,7 +4547,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Version"
-msgstr ""
+msgstr "Versiya"
 
 #. i18n: ectx: whatsthis, entry (Version), group (Dolphin)
 #: settings/dolphin_directoryviewpropertysettings.kcfg:20
@@ -4323,7 +4577,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Zoom Level"
-msgstr ""
+msgstr "Masştab boşqiçi"
 
 #. i18n: ectx: whatsthis, entry (ZoomLevel), group (Dolphin)
 #: settings/dolphin_directoryviewpropertysettings.kcfg:32
@@ -4463,7 +4717,7 @@ msgstr ""
 #: settings/dolphin_generalsettings.kcfg:19
 #, kde-format
 msgid "Select Action"
-msgstr ""
+msgstr "Amal Tanlaş"
 
 #. i18n: ectx: label, entry (DoubleClickViewCustomAction), group (General)
 #: settings/dolphin_generalsettings.kcfg:23
@@ -4642,7 +4896,7 @@ msgstr ""
 #: settings/dolphin_generalsettings.kcfg:148
 #, kde-format
 msgid "Statusbar"
-msgstr ""
+msgstr "Holat paneli"
 
 #. i18n: ectx: label, entry (ShowZoomSlider), group (General)
 #: settings/dolphin_generalsettings.kcfg:153
@@ -4728,31 +4982,31 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure"
-msgstr ""
+msgstr "Sozlaş"
 
 #: settings/dolphinsettingsdialog.cpp:46
 #, kde-format
 msgctxt "@title:group Interface settings"
 msgid "Interface"
-msgstr ""
+msgstr "Interfeys"
 
 #: settings/dolphinsettingsdialog.cpp:52
 #, kde-format
 msgctxt "@title:group"
 msgid "View"
-msgstr ""
+msgstr "Köriniş"
 
 #: settings/dolphinsettingsdialog.cpp:70
 #, kde-format
 msgctxt "@title:group"
 msgid "Context Menu"
-msgstr ""
+msgstr "Kontekst menyu"
 
 #: settings/dolphinsettingsdialog.cpp:80
 #, kde-format
 msgctxt "@title:group"
 msgid "Trash"
-msgstr ""
+msgstr "Çiqindilar qutisi"
 
 #: settings/dolphinsettingsdialog.cpp:90
 #, kde-format
@@ -4769,7 +5023,7 @@ msgstr ""
 #: settings/dolphinsettingsdialog.cpp:169
 #, kde-format
 msgid "Warning"
-msgstr ""
+msgstr "Ogohlantiriş"
 
 #: settings/interface/confirmationssettingspage.cpp:55
 #, kde-format
@@ -4862,7 +5116,7 @@ msgstr ""
 #: settings/interface/confirmationssettingspage.cpp:82
 #, kde-format
 msgid "Run script"
-msgstr ""
+msgstr "Skriptni Işga tuşiriş"
 
 #: settings/interface/folderstabssettingspage.cpp:53
 #, kde-format
@@ -4923,7 +5177,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Window:"
-msgstr ""
+msgstr "Oyna:"
 
 #: settings/interface/folderstabssettingspage.cpp:115
 #, kde-format
@@ -5022,7 +5276,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "Split view: "
-msgstr ""
+msgstr "Oynani böliş:"
 
 #: settings/interface/folderstabssettingspage.cpp:165
 #, kde-format
@@ -5049,20 +5303,20 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab Previews settings"
 msgid "Previews"
-msgstr ""
+msgstr "Oldindan körişlar"
 
 #: settings/interface/interfacesettingspage.cpp:44
 #: settings/kcm/kcmdolphingeneral.cpp:49
 #, kde-format
 msgctxt "@title:tab Confirmations settings"
 msgid "Confirmations"
-msgstr ""
+msgstr "Tasdiqlaş"
 
 #: settings/interface/interfacesettingspage.cpp:49
 #, kde-format
 msgctxt "@title:tab Panels settings"
 msgid "Panels"
-msgstr ""
+msgstr "Panellar"
 
 #: settings/interface/interfacesettingspage.cpp:54
 #, kde-format
@@ -5175,7 +5429,7 @@ msgstr ""
 #, kde-format
 msgctxt "Mebibytes; used as a suffix in a spinbox showing e.g. '3 MiB'"
 msgid " MiB"
-msgstr ""
+msgstr " MiB"
 
 #: settings/interface/previewssettingspage.cpp:71
 #, kde-format
@@ -5187,7 +5441,7 @@ msgstr ""
 #, kde-format
 msgctxt "e.g. 'Show previews for [no file]'"
 msgid "no file"
-msgstr ""
+msgstr "fayl yöq"
 
 #: settings/interface/previewssettingspage.cpp:91
 #, kde-format
@@ -5221,7 +5475,7 @@ msgstr ""
 #, kde-format
 msgctxt "@option:radio"
 msgid "Small"
-msgstr ""
+msgstr "Kiçik"
 
 #: settings/interface/statusandlocationbarssettingspage.cpp:44
 #, kde-format
@@ -5239,13 +5493,13 @@ msgstr ""
 #, kde-format
 msgctxt "@option:check"
 msgid "Disabled"
-msgstr ""
+msgstr "Öçirilgan"
 
 #: settings/interface/statusandlocationbarssettingspage.cpp:52
 #, kde-format
 msgctxt "@title:group"
 msgid "Status Bar:"
-msgstr ""
+msgstr "Holat paneli:"
 
 #: settings/interface/statusandlocationbarssettingspage.cpp:69
 #, kde-format
@@ -5275,21 +5529,21 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab"
 msgid "Icons"
-msgstr ""
+msgstr "Belgilar"
 
 #: settings/kcm/kcmdolphinviewmodes.cpp:43
 #: settings/viewmodes/viewsettingspage.cpp:48
 #, kde-format
 msgctxt "@title:tab"
 msgid "Compact"
-msgstr ""
+msgstr "Ixçam"
 
 #: settings/kcm/kcmdolphinviewmodes.cpp:48
 #: settings/viewmodes/viewsettingspage.cpp:53
 #, kde-format
 msgctxt "@title:tab"
 msgid "Details"
-msgstr ""
+msgstr "Tafsilotlar"
 
 #: settings/viewmodes/contentdisplaytab.cpp:39
 #, kde-format
@@ -5409,7 +5663,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox Font"
 msgid "System Font"
-msgstr ""
+msgstr "Tizim Şriftlari"
 
 #: settings/viewmodes/dolphinfontrequester.cpp:29
 #, kde-format
@@ -5421,7 +5675,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button Choose font"
 msgid "Choose…"
-msgstr ""
+msgstr "Tanlaş..."
 
 #: settings/viewmodes/generalviewsettingspage.cpp:35
 #, kde-format
@@ -5481,7 +5735,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "Browsing: "
-msgstr ""
+msgstr "Körib çiqiş:"
 
 #: settings/viewmodes/generalviewsettingspage.cpp:74
 #, kde-format
@@ -5563,7 +5817,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "Background: "
-msgstr ""
+msgstr "Orqa fon:"
 
 #: settings/viewmodes/generalviewsettingspage.cpp:172
 #, kde-format
@@ -5590,7 +5844,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab General View settings"
 msgid "General"
-msgstr ""
+msgstr "Umumiy"
 
 #: settings/viewmodes/viewsettingspage.cpp:38
 #, kde-format
@@ -5602,7 +5856,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab"
 msgid "Columns"
-msgstr ""
+msgstr "Ustun"
 
 #: settings/viewmodes/viewsettingstab.cpp:55
 #, kde-format
@@ -5632,13 +5886,13 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Small"
-msgstr ""
+msgstr "Kiçik"
 
 #: settings/viewmodes/viewsettingstab.cpp:85
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Medium"
-msgstr ""
+msgstr "Örtaça"
 
 #: settings/viewmodes/viewsettingstab.cpp:86
 #, kde-format
@@ -5650,7 +5904,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Huge"
-msgstr ""
+msgstr "Ulkan"
 
 #: settings/viewmodes/viewsettingstab.cpp:88
 #, kde-format
@@ -5662,37 +5916,37 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "Unlimited"
-msgstr ""
+msgstr "Çeksiz"
 
 #: settings/viewmodes/viewsettingstab.cpp:92
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: settings/viewmodes/viewsettingstab.cpp:93
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: settings/viewmodes/viewsettingstab.cpp:94
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: settings/viewmodes/viewsettingstab.cpp:95
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: settings/viewmodes/viewsettingstab.cpp:96
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: settings/viewmodes/viewsettingstab.cpp:97
 #, kde-format
@@ -5704,7 +5958,7 @@ msgstr ""
 #, kde-format
 msgctxt "@option:check Icons view item spacing"
 msgid "Compact"
-msgstr ""
+msgstr "Ixçam"
 
 #: settings/viewmodes/viewsettingstab.cpp:100
 #, kde-format
@@ -5716,25 +5970,25 @@ msgstr ""
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Spacing:"
-msgstr ""
+msgstr "Oraliq masofa:"
 
 #: settings/viewmodes/viewsettingstab.cpp:106
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Unlimited"
-msgstr ""
+msgstr "Çeksiz"
 
 #: settings/viewmodes/viewsettingstab.cpp:107
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Small"
-msgstr ""
+msgstr "Kiçik"
 
 #: settings/viewmodes/viewsettingstab.cpp:108
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Medium"
-msgstr ""
+msgstr "Örtaça"
 
 #: settings/viewmodes/viewsettingstab.cpp:109
 #, kde-format
@@ -5815,37 +6069,37 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Icons"
-msgstr ""
+msgstr "Belgilar"
 
 #: settings/viewpropertiesdialog.cpp:69
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Compact"
-msgstr ""
+msgstr "Ixçam"
 
 #: settings/viewpropertiesdialog.cpp:70
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Details"
-msgstr ""
+msgstr "Tafsilotlar"
 
 #: settings/viewpropertiesdialog.cpp:71
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Columns"
-msgstr ""
+msgstr "Ustun"
 
 #: settings/viewpropertiesdialog.cpp:74
 #, kde-format
 msgctxt "@item:inlistbox Sort"
 msgid "Ascending"
-msgstr ""
+msgstr "Köpayiş tartibida"
 
 #: settings/viewpropertiesdialog.cpp:75
 #, kde-format
 msgctxt "@item:inlistbox Sort"
 msgid "Descending"
-msgstr ""
+msgstr "Kamayiş tartibida"
 
 #: settings/viewpropertiesdialog.cpp:83
 #, kde-format
@@ -5898,7 +6152,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Sorting:"
-msgstr ""
+msgstr "Saralaş:"
 
 #: settings/viewpropertiesdialog.cpp:140
 #, kde-format
@@ -6025,12 +6279,12 @@ msgstr ""
 #, kde-format
 msgctxt "Used as a noun, i.e. 'Here is the zoom level:'"
 msgid "Zoom:"
-msgstr ""
+msgstr "Masştab:"
 
 #: statusbar/dolphinstatusbar.cpp:72
 #, kde-format
 msgid "Zoom"
-msgstr ""
+msgstr "Masştab"
 
 #: statusbar/dolphinstatusbar.cpp:73
 #, kde-format
@@ -6041,13 +6295,13 @@ msgstr ""
 #: statusbar/dolphinstatusbar.cpp:94
 #, kde-format
 msgid "Stop"
-msgstr ""
+msgstr "Töxtatiş"
 
 #: statusbar/dolphinstatusbar.cpp:96
 #, kde-format
 msgctxt "@tooltip"
 msgid "Stop loading"
-msgstr ""
+msgstr "Yuklaşni töxtatiş"
 
 #: statusbar/dolphinstatusbar.cpp:155
 #, kde-kuit-format
@@ -6091,7 +6345,7 @@ msgstr ""
 #: trash/dolphintrash.cpp:83
 #, kde-format
 msgid "Trash Emptied"
-msgstr ""
+msgstr "Çiqindilar qutisi böşatildi"
 
 #: trash/dolphintrash.cpp:84
 #, kde-format
@@ -6102,7 +6356,7 @@ msgstr ""
 #, kde-format
 msgctxt "name of kuserfeedback data source provided by dolphin"
 msgid "Places"
-msgstr ""
+msgstr "Joylar"
 
 #: userfeedback/placesdatasource.cpp:31
 #, kde-format
@@ -6114,7 +6368,7 @@ msgstr ""
 #, kde-format
 msgctxt "name of kuserfeedback data source provided by dolphin"
 msgid "Settings"
-msgstr ""
+msgstr "Sozlamalar"
 
 #: userfeedback/settingsdatasource.cpp:29
 #, kde-format
@@ -6125,7 +6379,7 @@ msgstr ""
 #: views/dolphincolumnpane.cpp:72 views/dolphinview.cpp:3009
 #, kde-format
 msgid "Loading…"
-msgstr ""
+msgstr "Yuklanmoqda..."
 
 #: views/dolphincolumnpane.cpp:243 views/dolphinview.cpp:3101
 #, kde-format
@@ -6140,12 +6394,12 @@ msgstr ""
 #: views/dolphinremoteencoding.cpp:89
 #, kde-format
 msgid "Default"
-msgstr ""
+msgstr "Standart"
 
 #: views/dolphinremoteencoding.cpp:98
 #, kde-format
 msgid "Reload"
-msgstr ""
+msgstr "Qayta yuklaş"
 
 #: views/dolphinview.cpp:790
 #, kde-format
@@ -6179,13 +6433,13 @@ msgstr[0] ""
 #, kde-format
 msgctxt "@info:status folders, files (size)"
 msgid "%1, %2 (%3)"
-msgstr ""
+msgstr "%1, %2 (%3)"
 
 #: views/dolphinview.cpp:800
 #, kde-format
 msgctxt "@info:status files (size)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: views/dolphinview.cpp:804
 #, kde-format
@@ -6246,7 +6500,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Rename and Hide"
-msgstr ""
+msgstr "Qayta nomlaş va Yaşiriş"
 
 #: views/dolphinview.cpp:2485
 #, kde-format
@@ -6276,7 +6530,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Rename"
-msgstr ""
+msgstr "Qayta nomlaş"
 
 #: views/dolphinview.cpp:2520
 #, kde-format
@@ -6327,7 +6581,7 @@ msgstr ""
 #: views/dolphinview.cpp:3050
 #, kde-format
 msgid "Trash is empty"
-msgstr ""
+msgstr "Çiqindilar qutisi böş"
 
 #: views/dolphinview.cpp:3053
 #, kde-format
@@ -6443,7 +6697,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Properties"
-msgstr ""
+msgstr "Xossalar"
 
 #: views/dolphinviewactionhandler.cpp:161
 #, kde-kuit-format
@@ -6471,13 +6725,13 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Move to Trash…"
-msgstr ""
+msgstr "Çiqindilar qutisiga köçiriş..."
 
 #: views/dolphinviewactionhandler.cpp:181
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Delete…"
-msgstr ""
+msgstr "Öçiriş..."
 
 #: views/dolphinviewactionhandler.cpp:182
 #, kde-format
@@ -6561,7 +6815,7 @@ msgstr ""
 #: views/dolphinviewactionhandler.cpp:262
 #, kde-format
 msgid "Zoom To Default"
-msgstr ""
+msgstr "Standart Masştab"
 
 #: views/dolphinviewactionhandler.cpp:263
 #, kde-format
@@ -6600,7 +6854,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:intable, Heading of a list of fields and sorting options"
 msgid "Sorting"
-msgstr ""
+msgstr "Saralaş"
 
 #: views/dolphinviewactionhandler.cpp:289
 #, kde-format
@@ -6612,13 +6866,13 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Hidden Files Last"
-msgstr ""
+msgstr "Yaşirin fayllar..."
 
 #: views/dolphinviewactionhandler.cpp:301
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Sort By"
-msgstr ""
+msgstr "Saralaş"
 
 #: views/dolphinviewactionhandler.cpp:334
 #, kde-format
@@ -6636,7 +6890,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:intable, Heading of a list of fields and grouping options"
 msgid "Grouping"
-msgstr ""
+msgstr "Guruhlaş"
 
 #: views/dolphinviewactionhandler.cpp:353
 #, kde-format
@@ -6656,7 +6910,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Group By"
 msgid "None"
-msgstr ""
+msgstr "Yöq"
 
 #: views/dolphinviewactionhandler.cpp:373
 #, kde-format
@@ -6668,7 +6922,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Hidden Files"
-msgstr ""
+msgstr "Yaşirin fayllarni körsatiş"
 
 #: views/dolphinviewactionhandler.cpp:390
 #, kde-kuit-format
@@ -6727,7 +6981,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Icons"
-msgstr ""
+msgstr "Belgilar"
 
 #: views/dolphinviewactionhandler.cpp:809
 #, kde-format
@@ -6739,7 +6993,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Compact"
-msgstr ""
+msgstr "Ixçam"
 
 #: views/dolphinviewactionhandler.cpp:820
 #, kde-format
@@ -6751,7 +7005,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Details"
-msgstr ""
+msgstr "Tafsilotlar"
 
 #: views/dolphinviewactionhandler.cpp:831
 #, kde-format
@@ -6763,7 +7017,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Columns"
-msgstr ""
+msgstr "Ustun"
 
 #: views/dolphinviewactionhandler.cpp:842
 #, kde-format
@@ -6775,13 +7029,13 @@ msgstr ""
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
-msgstr ""
+msgstr "Z-A"
 
 #: views/dolphinviewactionhandler.cpp:866
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 #: views/dolphinviewactionhandler.cpp:868
 #, kde-format
@@ -6793,19 +7047,19 @@ msgstr ""
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
-msgstr ""
+msgstr "Avval Kiçiklar"
 
 #: views/dolphinviewactionhandler.cpp:871
 #, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
-msgstr ""
+msgstr "Avval yangilari"
 
 #: views/dolphinviewactionhandler.cpp:872
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
-msgstr ""
+msgstr "Avval eskilari"
 
 #: views/dolphinviewactionhandler.cpp:874
 #, kde-format
@@ -6823,13 +7077,13 @@ msgstr ""
 #, kde-format
 msgctxt "Sort descending"
 msgid "Descending"
-msgstr ""
+msgstr "Kamayiş tartibida"
 
 #: views/dolphinviewactionhandler.cpp:878
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Köpayiş tartibida"
 
 #: views/dolphinviewactionhandler.cpp:981
 #, kde-format
@@ -6868,10 +7122,10 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Zoom"
-msgstr ""
+msgstr "Masştab"
 
 #: views/zoomwidgetaction.cpp:69
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Zoom"
-msgstr ""
+msgstr "Masştab"

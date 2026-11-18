@@ -1,0 +1,103 @@
+# SPDX-FileCopyrightText: 2026 Mirzobek İdiyev <info@idiyev.uz>
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-11-17 11:54+0000\n"
+"PO-Revision-Date: 2026-11-17 15:15+0500\n"
+"Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
+"Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uz\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 26.08.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.dolphin.appdata.xml:10
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#. (itstool) path: component/summary
+#: org.kde.dolphin.appdata.xml:11
+msgid "Manage your files"
+msgstr "Fayllaringizni boşqaring"
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:13
+msgid ""
+"Dolphin is KDE's file manager that lets you navigate and browse the contents o"
+"f your hard drives, USB sticks, SD cards, and more. Creating, moving, or delet"
+"ing files and folders is simple and fast."
+msgstr ""
+"Dolphin — bu qattiq disklar, USB fleşkalar, SD kartalar va boşqa vositalar tar"
+"kibini köriş imkonini beruvçi KDE fayl boşqaruvçisi. Fayllar va jildlarni yara"
+"tiş, köçiriş yoki öçiriş oson hamda tez bajariladi."
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:14
+msgid ""
+"Dolphin contains plenty of productivity features that will save you time. The "
+"multiple tabs and split view features allow navigating multiple folders at the"
+" same time, and you can easily drag and drop files between views to move or co"
+"py them. Dolphin's right-click menu provides with many quick actions that let "
+"you compress, share, and duplicate files, among many other things. You can als"
+"o add your own custom actions."
+msgstr ""
+"Dolphin vaqtingizni tejaydigan köplab qulayliklarni öz içiga olgan. Bir neçta "
+"içki varaqlar (tab) va oynani bölib köriş funksiyalari bir vaqtning özida bir "
+"neçta jildlar böyiça harakatlaniş imkonini beradi hamda siz fayllarni nusxalaş"
+" yoki köçiriş uçun sudrab ötirişingiz mumkin. Siçqonçaning öng tugma menyusi f"
+"ayllarni siqiş, ulaşiş, nusxalaş kabi tezkor amallarni taqdim etadi. Şuningdek"
+", öz amallaringizni ham qöşişingiz mumkin."
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:15
+msgid ""
+"Dolphin is very lightweight, but at the same time, you can adapt it to your sp"
+"ecific needs. This means that you can carry out your file management exactly t"
+"he way you want to. Dolphin supports three different view modes: a classic gri"
+"d view of all the files, a more detailed view, and a tree view. You can also c"
+"onfigure most of Dolphin's behavior."
+msgstr ""
+"Dolphin juda yengil işlaydi, ammo şu bilan birga uni ehtiyojlaringizga moslab "
+"olişingiz mumkin. Bu esa fayllarni özingiz xohlagandek boşqarişingizni anglata"
+"di. Dolphin uç xil köriniş rejimini qöllab-quvvatlaydi: klassik katakçali köri"
+"niş, batafsil jadval körinişi va daraxtsimon köriniş."
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:16
+msgid ""
+"Dolphin can display files and folders from many Internet cloud services and ot"
+"her remote machines as if they were right there on your desktop."
+msgstr ""
+"Dolphin internetdagi bulut xizmatlari va boşqa masofaviy kompyuterlardagi fayl"
+"larni xuddi öz kompyuteringizdadek körsata oladi."
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:17
+msgid ""
+"Dolphin also comes with an integrated terminal that allows you to run commands"
+" on the current folder. You can extend the capabilities of Dolphin even furthe"
+"r with powerful plugins to adapt it to your workflow. You can use the git inte"
+"gration plugin to interact with git repositories, or the Nextcloud plugin to s"
+"ynchronize your files online, and much more."
+msgstr ""
+"Şuningdek, Dolphin joriy jildda buyruqlarni bajariş imkonini beruvçi örnatilga"
+"n terminalga ega. Git plaginlari orqali repozitoriylar bilan işlaş yoki Nextcl"
+"oud plagini orqali fayllarni onlayn sinxronlaş imkoniyatlari mavjud."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:26
+msgid "File management in Dolphin"
+msgstr "Dolphinda fayllarni boşqariş"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:30
+msgid "Embedded Terminal in Dolphin"
+msgstr "Dolphindagi örnatilgan terminal"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:34
+msgid "Dolphin lets you configure your file manager exactly how you want"
+msgstr "Dolphin fayl boşqaruvçisini töliq özingizga moslaş imkonini beradi"

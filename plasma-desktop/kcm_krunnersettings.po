@@ -1,0 +1,90 @@
+# Copyright (C) 2026 This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# SPDX-FileCopyrightText: 2026 Mirzobek İdiyev <info@idiyev.uz>
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-03-19 00:48+0000\n"
+"PO-Revision-Date: 2026-11-18 11:27+0500\n"
+"Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
+"Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 26.08.3\n"
+
+#: ui/main.qml:31
+#, kde-format
+msgctxt "@title:group prefix for radiobutton group"
+msgid "Position on screen:"
+msgstr "Ekrandagi örni:"
+
+#: ui/main.qml:35
+#, kde-format
+msgctxt "@option:check Position on top of screen"
+msgid "Top"
+msgstr "Yuqori"
+
+#: ui/main.qml:42
+#, kde-format
+msgctxt "@option:check Position in center of screen"
+msgid "Center"
+msgstr "Markaz"
+
+#: ui/main.qml:55
+#, kde-format
+msgctxt "@title:group prefix for radiobutton group"
+msgid "History:"
+msgstr "Tari:"
+
+#: ui/main.qml:58
+#, kde-format
+msgctxt "@option:radio History is disabled"
+msgid "Disabled"
+msgstr "Öçirilgan"
+
+#: ui/main.qml:63
+#, kde-format
+msgctxt "@option:radio The thing being enabled is search history"
+msgid "Enable suggestions"
+msgstr "Takliflarni yoqiş"
+
+#: ui/main.qml:68
+#, kde-format
+msgctxt "@option:radio The thing being enabled is search history"
+msgid "Enable auto-complete"
+msgstr "Avtomatik töldirişni yoqiş"
+
+#: ui/main.qml:76
+#, kde-format
+msgctxt "@action:button"
+msgid "Clear History…"
+msgstr "Tarixni tozalaş…"
+
+#: ui/main.qml:99
+#, kde-format
+msgctxt "@item:inmenu delete krunner history for all activities"
+msgid "For all activities"
+msgstr "Barça faoliyatlar uçun"
+
+#: ui/main.qml:111
+#, kde-format
+msgctxt "@item:inmenu delete krunner history for this activity"
+msgid "For activity \"%1\""
+msgstr "\"%1\" faoliyati uçun"
+
+#: ui/main.qml:128
+#, kde-format
+msgctxt "@label"
+msgid "Plugins:"
+msgstr "Plaginlar:"
+
+#: ui/main.qml:132
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure Enabled Search Plugins…"
+msgstr "Yoqilgan qidiruv plaginlarini sozlaş…"

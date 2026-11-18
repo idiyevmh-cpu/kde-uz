@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-10-13 00:48+0000\n"
-"PO-Revision-Date: 2026-11-18 12:34+0500\n"
+"PO-Revision-Date: 2026-11-18 16:31+0500\n"
 "Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
 "Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
 "Language: uz\n"
@@ -55,30 +55,32 @@ msgstr "Böş joy haqidagi bildirişnoma yoqilganmi."
 #, kde-format
 msgid "Enable low disk space warning"
 msgstr ""
+"Diskda böş joy kamligi haqidagi "
+"ogohlantirişni yoqiş"
 
 #. i18n: ectx: property (text), widget (QLabel, label_minimumSpace)
 #: freespacenotifier_prefs_base.ui:27
 #, kde-format
 msgid "Warn when free space is below:"
-msgstr ""
+msgstr "Böş joy bundan kam bölganda ogohlantiriş:"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_minimumSpace)
 #: freespacenotifier_prefs_base.ui:37
 #, kde-format
 msgid " MiB"
-msgstr ""
+msgstr " MiB"
 
 #. i18n: ectx: property (text), widget (QLabel, label_minimumSpacePercentage)
 #: freespacenotifier_prefs_base.ui:44
 #, kde-format
 msgid "And when free space is under:"
-msgstr ""
+msgstr "Va böş joy bundan kam bölganda:"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_minimumSpacePercentage)
 #: freespacenotifier_prefs_base.ui:54
 #, no-c-format, kde-format
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #. i18n: ectx: property (text), widget (QLabel, label_info)
 #: freespacenotifier_prefs_base.ui:67
@@ -87,6 +89,8 @@ msgid ""
 "The system will notify you if the free space drops below the specified MiB "
 "and the specified percentage of available space."
 msgstr ""
+"Agar böş joy körsatilgan MiB va mavjud böş joyning körsatilgan "
+"foizidan kamaysa, tizim sizni ogohlantiradi."
 
 #: module.cpp:122
 #, kde-format
@@ -94,6 +98,8 @@ msgid ""
 "Your %1 partition is running out of disk space; %2 MiB of space remaining "
 "(%3%)."
 msgstr ""
+"Sizning %1 bölimingizda disk joyi tugamoqda; %2 MiB joy qoldi "
+"(%3%)"
 
 #: module.cpp:124
 #, kde-format
@@ -101,6 +107,8 @@ msgid ""
 "Your Root partition is running out of disk space; %1 MiB of space remaining "
 "(%2%)."
 msgstr ""
+"Sizning asosiy (Root) bölimingizda disk joyi tugamoqda; "
+"%1 MiB joy qoldi (%2%)."
 
 #: module.cpp:126
 #, kde-format
@@ -108,6 +116,8 @@ msgid ""
 "Your Home folder is running out of disk space; %1 MiB of space remaining "
 "(%2%)."
 msgstr ""
+"Sizning Uy (Home) jildingizda disk joyi tugamoqda; "
+"%1 MiB joy qoldi (%2%)."
 
 #: module.cpp:152
 #, kde-format

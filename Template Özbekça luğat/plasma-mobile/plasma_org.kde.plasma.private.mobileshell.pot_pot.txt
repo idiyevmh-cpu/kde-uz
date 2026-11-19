@@ -1,4 +1,4 @@
-Open with %1 - Bilan oçiş
+Open with %1 - %1 bilan oçiş
 Open with… - Bilan oçiş…
 Open Containing Folder - Öz içiga olgan jildni oçiş
 &Copy - &Nusxa oliş

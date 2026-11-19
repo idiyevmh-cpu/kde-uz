@@ -25,7 +25,7 @@ KDE Archiving tool - KDE arxivlaş vositasi
 Elvis Angelaccio - Elvis Angelaccio
 Maintainer - Taʼminotçi
 Ragnar Thomsen - Ragnar Thomsen
-Maintainer, KF5 port - Taʼminotçi, KF5 ga ötkağizuvçi
+Maintainer, KF5 port - Taʼminotçi, KF5 ga ötkazuvçi
 Raphael Kubo da Costa - Raphael Kubo da Costa
 Former Maintainer - Oldingi taʼminotçi
 Harald Hvaal - Harald Hvaal
@@ -48,7 +48,7 @@ Andrew Smith - Andrew Smith
 bkisofs code - bkisofs kodi
 URLs to open. - Oçiladigan URL manzillar.
 Show a dialog for specifying the options for the operation (extract/add) - Amal (ajratib oliş/qöşiş) parametrlarini körsatiş uçun muloqot oynasini çiqariş
-Destination folder to extract to. Defaults to current path if not specified. - Ajratib olinadigan manzil jildi. Körsatilmasa, joriy yöl ishlatiladi.
+Destination folder to extract to. Defaults to current path if not specified. - Ajratib olinadigan manzil jildi. Körsatilmasa, joriy yöl işlatiladi.
 Open destination folder after extraction. - Ajratib olingandan söng manzil jildini oçiş.
 Query the user for an archive filename and add specified files to it. Quit when finished. - Foydalanuvçidan arxiv fayli nomini söraş va körsatilgan fayllarni unga qöşiş. Tugaganda dasturdan çiqiş.
 Add the specified files to 'filename'. Create archive if it does not exist. Quit when finished. - Körsatilgan fayllarni 'filename' arxiviga qöşiş. Arxiv mavjud bölmasa, uni yaratiş. Tugaganda dasturdan çiqiş.
@@ -56,7 +56,7 @@ Change the current dir to the first entry and add all other entries relative to 
 Automatically choose a filename, with the selected suffix (for example rar, tar.gz, zip or any other supported types) - Tanlangan kengaytma (masalan, rar, tar.gz, zip yoki qöllab-quvvatlanadigan boşqa turlar) bilan fayl nomini avtomatik tanlaş
 Use the batch interface instead of the usual dialog. This option is implied if more than one url is specified. - Oddiy muloqot oynasi örniga paketli interfeysdan foydalaniş. Bittadan ortiq URL körsatilganda bu parametr öz-özidan qöllaniladi.
 The destination argument will be set to the path of the first file supplied. - Manzil argumenti sifatida berilgan birinçi faylning yöli olinadi.
-Archive contents will be read, and if detected to not be a single folder or a single file archive, a subfolder with the name of the archive will be created. - Arxiv tarkibi öqiladi va agar u bitta jild yoki bitta fayldan iborat emasligi aniqlansa, arxiv nomi bilan ichki jild yaratiladi.
+Archive contents will be read, and if detected to not be a single folder or a single file archive, a subfolder with the name of the archive will be created. - Arxiv tarkibi öqiladi va agar u bitta jild yoki bitta fayldan iborat emasligi aniqlansa, arxiv nomi bilan içki jild yaratiladi.
 List supported MIME types. - Qöllab-quvvatlanadigan MIME turlarini röyxatlaş.
 Unable to find Ark's KPart component, please check your installation. - Ark'ning KPart komponenti topilmadi, iltimos, dastur töğri örnatilganini tekşiring.
 Sidebar - Yon panel
@@ -69,7 +69,7 @@ Create New Archive - Yangi arxiv yaratiş
 Welcome to %1 - %1 dasturiga xuş kelibsiz
 No recent files - Yaqinda oçilgan fayllar yöq
 Copy &Location - &Manzilidan nusxa oliş
-&Open Containing Folder - &Joylashgan jildini oçiş
+&Open Containing Folder - &Joylaşgan jildini oçiş
 &Remove - &Olib taşlaş
 Welcome - Xuş kelibsiz
 Open Archive… - Arxivni oçiş…
@@ -77,7 +77,7 @@ New Archive - Yangi arxiv
 Clear Recent Files - Yaqinda oçilgan fayllar röyxatini tozalaş
 Recent Files - Yaqinda oçilgan fayllar
 Help - Yordam
-Visit homepage - Bosh sahifaga ötiş
+Visit homepage - Boş sahifaga ötiş
 Read handbook - Qöllanmani öqiş
 Show on startup - Işga tuşganda körsatiş
 Close Welcome Page - Xuş kelibsiz sahifasini yopiş
@@ -156,7 +156,7 @@ All &files - Barça &fayllar
 Open destination folder after extraction - Ajratib olingandan söng manzil jildini oçiş
 Close Ark after extraction - Ajratib olingandan söng Ark dasturini yopiş
 Preserve paths when extracting - Ajratib olişda yöllarni saqlab qoliş
-Whether to check by default the extraction into subfolder checkbox in the Extraction Dialog, when the archive has more than one top-level entry. - Arxivda bittadan ortiq yuqori darajali element bölganda, ajratib oliş muloqot oynasidagi «Içki jildga ajratib oliş» katakçasi birlamçi ravishda belgilansinmi.
+Whether to check by default the extraction into subfolder checkbox in the Extraction Dialog, when the archive has more than one top-level entry. - Arxivda bittadan ortiq yuqori darajali element bölganda, ajratib oliş muloqot oynasidagi «Içki jildga ajratib oliş» katakçasi birlamçi ravişda belgilansinmi.
 Extract to a subfolder if the archive has more than one top-level entry - Agar arxivda bittadan ortiq yuqori darajali element bölsa, içki jildga ajratib oliş
 When clicking a file in an archive or pressing the Return key: - Arxivdagi fayl ustiga bosilganda yoki Enter tugmasi bosilganda:
 Pre&view the file with internal previewer - Faylni &içki köruvçi yordamida köriş
@@ -202,9 +202,9 @@ Unpacked size: - Yoyilgan hajmi:
 Packed size: - Siqilgan hajmi:
 Compression ratio: - Siqiş nisbati:
 Last modified: - Oxirgi özgartirilgan:
-MD5 hash: - MD5 xesh:
-SHA-1 hash: - SHA-1 xesh:
-SHA-256 hash: - SHA-256 xesh:
+MD5 hash: - MD5 xeş:
+SHA-1 hash: - SHA-1 xeş:
+SHA-256 hash: - SHA-256 xeş:
 Multi-volume: - Köp qismli:
 Compression method(s): - Siqiş usul(lar)i:
 File Already Exists - Fayl allaqaçon mavjud

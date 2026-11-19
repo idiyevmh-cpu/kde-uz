@@ -16,7 +16,7 @@ One checked - Bitta belgilangan
 <b><i>One match (%2) found in open files</i></b> - <b><i>Oçiq fayllarda bitta moslik (%2) topildi</i></b>
 <b><i>One match (%3) found in folder %2</i></b> - <b><i>%2 jildida bitta moslik (%3) topildi</i></b>
 <b><i>One match (%4) found in project %2 (%3)</i></b> - <b><i>%2 (%3) loyihasida bitta moslik (%4) topildi</i></b>
-<b><i>One match (%3) found in all open projects (common parent: %2)</i></b> - <b><i>Barça oçiq loyihalarda bitta moslik (%3) topildi</i></b>
+<b><i>One match (%3) found in all open projects (common parent: %2)</i></b> - <b><i>Barça oçiq loyihalarda bitta moslik (%3) topildi (umumiy asosiy jild: %2)</i></b>
 Generating file list: ...%1 - Fayllar röyxati yaratilmoqda: ...%1
 One match found, searching: ...%2 - Bitta moslik topildi, qidirilmoqda: ...%2
 One match found, searching: %2 - Bitta moslik topildi, qidirilmoqda: %2
@@ -24,7 +24,7 @@ One match (%2) found in file - Faylda bitta moslik (%2) topildi
 One match (%2) found in open files - Oçiq fayllarda bitta moslik (%2) topildi
 One match (%3) found in folder %2 - %2 jildida bitta moslik (%3) topildi
 One match (%4) found in project %2 (%3) - %2 (%3) loyihasida bitta moslik (%4) topildi
-One match (%3) found in all open projects (common parent: %2) - Barça oçiq loyihalarda bitta moslik (%3) topildi
+One match (%3) found in all open projects (common parent: %2) - Barça oçiq loyihalarda bitta moslik (%3) topildi (umumiy asosiy jild: %2)
 Filter… - Filtrlaş…
 Search in current tab; press and hold Ctrl to search in a new tab. - Joriy varaqda qidiriş; yangi varaqda qidiriş uçun Ctrl tugmasini bosib turing.
 Search - Qidiriş
@@ -32,7 +32,7 @@ Replace Checked - Belgilanganlarni almaştiriş
 Next - Oldinga
 Stop - Töxtatiş
 Match case - Katta-kiçik harfni inobatga oliş
-<html><head/><body><p>Enable regular expressions. Find help for regex syntax by using the buttons in the search and replace text fields.</p></body></html> - <html><head/><body><p>Muntazam ifodalarni (regex) yoqiş.</p></body></html>
+<html><head/><body><p>Enable regular expressions. Find help for regex syntax by using the buttons in the search and replace text fields.</p></body></html> - <html><head/><body><p>Muntazam ifodalarni (regex) yoqiş. Qidiriş va almaştiriş matn maydonlaridagi tugmalar yordamida regex sintaksisi böyiça yordam oling.</p></body></html>
 Expand results - Natijalarni yoyiş
 ... - ...
 Replace - Almaştiriş

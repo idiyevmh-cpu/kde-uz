@@ -18,7 +18,7 @@ Agar fayl mavjud bölmasa, yangi maʼlumotlar bazasi yaratiladi.
 Database files - Maʼlumotlar bazasi fayllari
 All files - Barça fayllar
 Path: - Yöl:
-Unable to connect to database.<nl/><message>%1</message> - Maʼlumotlar bazasiga ulanib bölmadi: <message>%1</message>
+Unable to connect to database.<nl/><message>%1</message> - Maʼlumotlar bazasiga ulanib bölmadi.<nl/><message>%1</message>
 Connection Name - Ulaniş nomi
 Enter a unique connection name - Noyob ulaniş nomini kiriting
 Connection name: - Ulaniş nomi:

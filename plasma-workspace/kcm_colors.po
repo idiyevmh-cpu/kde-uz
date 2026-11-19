@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-11-10 00:59+0000\n"
-"PO-Revision-Date: 2026-11-18 17:37+0500\n"
+"PO-Revision-Date: 2026-11-18 17:57+0500\n"
 "Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
 "Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
 "Language: uz\n"
@@ -120,7 +120,7 @@ msgstr "KCM kodi (bu yerda qayta işlatilgan)"
 #: editor/kcolorschemeeditor.cpp:29
 #, kde-format
 msgid "Matthew Woehlke"
-msgstr "Metyu Sholki"
+msgstr "Metyu Şolki"
 
 #: editor/kcolorschemeeditor.cpp:33
 #, kde-format

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-11-08 03:00+0000\n"
-"PO-Revision-Date: 2026-11-18 11:21+0500\n"
+"PO-Revision-Date: 2026-11-18 18:46+0500\n"
 "Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
 "Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
 "Language: uz\n"
@@ -45,7 +45,7 @@ msgstr "Almaşiş buferi tarkibidan KRunner sörovi sifatida foydalaniş"
 #: main.cpp:65
 #, kde-format
 msgid "Start KRunner in the background, don't show it."
-msgstr "KRunner-ni fon rejimida işga tushiring, körinmasin."
+msgstr "KRunner-ni fon rejimida işga tuşiring, körinmasin."
 
 #: main.cpp:66
 #, kde-format
@@ -81,7 +81,7 @@ msgstr "Foydalaniş böyiça yordamni körsating"
 #: qml/RunCommand.qml:130
 #, kde-format
 msgid "Showing only results from %1"
-msgstr "Faqat %1 natijalar körsatilmoqda"
+msgstr "Faqat %1 dan natijalar körsatilmoqda"
 
 #: qml/RunCommand.qml:145
 #, kde-format

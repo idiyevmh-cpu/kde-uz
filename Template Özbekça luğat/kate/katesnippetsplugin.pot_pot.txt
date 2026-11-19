@@ -10,8 +10,8 @@ Namespace: - Nomlar fazosi (Namespace):
 &File types: - &Fayl turi:
 A short name for the repository - Ombor uçun qisqa nom
 Prefix to show in code completion - Kodni töldirişda körsatiladigan prefiks
-Text to insert into the document (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-template">handbook</a> for special fields). - Hujjatga kiritiladigan matn.
-JavaScript code to evaluate (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-script">handbook</a> for details). - Bajariladigan JavaScript kodi.
+Text to insert into the document (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-template">handbook</a> for special fields). - Hujjatga kiritiladigan matn (maxsus maydonlar uçun <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-template">qöllanmaga</a> qarang).
+JavaScript code to evaluate (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-script">handbook</a> for details). - Bajariladigan JavaScript kodi (tafsilotlar uçun <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-script">qöllanmaga</a> qarang).
 Text template - Matn şabloni
 Script - Skript
 JavaScript functions shared between all snippets in this repository (see the <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-library">handbook</a>). - Uşbu ombordagi barça snippetlar örtasida umumiy bölgan JavaScript funksiyalari (tafsilotlar uçun <a href="help:/kate/kate-application-plugin-snippets.html#snippet-input-library">qöllanmaga</a> qarang).

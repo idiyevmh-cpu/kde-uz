@@ -12,7 +12,7 @@ Behavior - Xususiyatlar
 Automatically log in: - Avtomatik kiriş:
 as user: - foydalanuvçi sifatida:
 with session - seans bilan
-Auto-login does not support unlocking your KDE Wallet automatically, so it will ask you to unlock it every time you log in.<nl/><nl/>To avoid this, you can change the wallet to have a blank password. Note that this is insecure and should only be done in a trusted environment. - Avtomatik kiriş KDE hamyonini avtomatik oçişni qöllab-quvvatlamaydi.
+Auto-login does not support unlocking your KDE Wallet automatically, so it will ask you to unlock it every time you log in.<nl/><nl/>To avoid this, you can change the wallet to have a blank password. Note that this is insecure and should only be done in a trusted environment. - Avtomatik kiriş KDE hamyonini avtomatik qulfdan çiqarişni qöllab-quvvatlamaydi, şuning uçun har safar tizimga kirganingizda uni qulfdan çiqarişni söraydi.<nl/><nl/>Buning oldini oliş uçun hamyon parolini böş qilib özgartirişingiz mumkin. Eʼtibor bering, bu xavfsiz emas va faqat işonçli muhitda qilinişi kerak.
 Open KDE Wallet Settings - KDE Hamyon sozlamalarini oçiş
 Log in again immediately after logging off - Çiqilgandan keyin darhol qayta kiriş
 Minimum user UID: - Foydalanuvçining minimal UID-si:

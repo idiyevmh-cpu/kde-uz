@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-11-13 01:07+0000\n"
-"PO-Revision-Date: 2026-11-18 11:22+0500\n"
+"PO-Revision-Date: 2026-11-18 18:29+0500\n"
 "Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
 "Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "Python KRunner Plagin (Qt6)"
 #: templates/runner6python/runnerpy.kdevtemplate:46
 msgctxt "Comment"
 msgid "Template for a KRunner Python Plugin using D-Bus"
-msgstr "D-Bus yordamida KRunner Python plaginasi uçun şablon"
+msgstr "D-Bus yordamida KRunner Python plagini uçun şablon"
 
 #: templates/runner6/runner.kdevtemplate:3
 msgctxt "Name"
@@ -32,4 +32,4 @@ msgstr "C++ (Qt6)"
 #: templates/runner6/runner.kdevtemplate:47
 msgctxt "Comment"
 msgid "Plasma Runner Template. A plasma runner template"
-msgstr "Plasma yuguruvçi şabloni. Plazma yuguruvçi şabloni"
+msgstr "Plasma yuguruvçi şabloni. Plasma yuguruvçi şabloni"

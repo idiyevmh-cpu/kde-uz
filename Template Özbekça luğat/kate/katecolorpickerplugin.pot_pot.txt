@@ -1,6 +1,6 @@
 Show preview for known color names - Maʼlum rang nomlari uçun körib çiqişni körsatiş
 Also show the color picker for known color names (e.g. skyblue).
-See https://www.w3.org/TR/css-color-4/#named-colors for the list of colors. - Maʼlum rang nomlari uçun ham rang tanlagiçni körsatiş (masalan skyblue).
+See https://www.w3.org/TR/css-color-4/#named-colors for the list of colors. - Maʼlum rang nomlari uçun ham rang tanlagiçni körsatiş (masalan, skyblue). Ranglar röyxati uçun https://www.w3.org/TR/css-color-4/#named-colors manziliga qarang.
 Place preview after text color - Oldindan körişni matn rangidan keyin joylaştiriş
 Hex color matching - Ön oltilik rang mosligi
 12 digits (#RRRRGGGGBBBB) - 12 ta raqam (#RRRRGGGGBBBB)

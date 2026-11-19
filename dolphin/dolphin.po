@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-11-14 01:07+0000\n"
-"PO-Revision-Date: 2026-11-18 10:53+0500\n"
+"PO-Revision-Date: 2026-11-18 18:07+0500\n"
 "Last-Translator: Mirzobek İdiyev <info@idiyev.uz>\n"
 "Language-Team: Uzbek <kde-i18n-doc@kde.org>\n"
 "Language: uz\n"
@@ -325,7 +325,7 @@ msgstr "Afzal körilgan qidiruv vositasini oçiş"
 #, kde-format
 msgid "Are you sure you want to open 1 terminal window?"
 msgid_plural "Are you sure you want to open %1 terminal windows?"
-msgstr[0] "Haqiqatan ham 1 ta terminal oynasini oçmoqçimisiz?"
+msgstr[0] "Haqiqatan ham %1 terminal oynasini oçmoqçimisiz?"
 
 #: dolphinmainwindow.cpp:1437
 #, kde-format
@@ -644,8 +644,8 @@ msgid ""
 "bar</emphasis>. There you can enter search terms and specify settings to "
 "find the items you are looking for.</para>"
 msgstr ""
-"para>Bu <emphasis>qidiruv panelini</emphasis> oçiş orqali fayl va jildlarni to"
-"pişga "
+"<para>Bu <emphasis>qidiruv panelini</emphasis> oçiş orqali fayl va jildlarni "
+"topişga "
 "yordam beradi. U yerda qidiruv sözlarini kiritişingiz va qidirayotgan "
 "elementlaringizni topiş uçun sozlamalarni belgilaşingiz mumkin.</para>"
 
@@ -2576,7 +2576,7 @@ msgstr "\"%1\""
 msgctxt ""
 "Textual representation of two files. %1 and %2 are names of files/folders."
 msgid "\"%1\" and \"%2\""
-msgstr "\"%1\" and \"%2\""
+msgstr "\"%1\" va \"%2\""
 
 #: kitemviews/kfileitemlisttostring.cpp:32
 #, kde-format
@@ -2584,7 +2584,7 @@ msgctxt ""
 "Textual representation of three files. %1, %2 and %3 are names of files/"
 "folders."
 msgid "\"%1\", \"%2\" and \"%3\""
-msgstr "\"%1\", \"%2\" and \"%3\""
+msgstr "\"%1\", \"%2\" va \"%3\""
 
 #: kitemviews/kfileitemlisttostring.cpp:39
 #, kde-format
@@ -2592,7 +2592,7 @@ msgctxt ""
 "Textual representation of four files. %1, %2, %3 and %4 are names of files/"
 "folders."
 msgid "\"%1\", \"%2\", \"%3\" and \"%4\""
-msgstr "\"%1\", \"%2\", \"%3\" and \"%4\""
+msgstr "\"%1\", \"%2\", \"%3\" va \"%4\""
 
 #: kitemviews/kfileitemlisttostring.cpp:47
 #, kde-format
@@ -2600,7 +2600,7 @@ msgctxt ""
 "Textual representation of five files. %1, %2, %3, %4 and %5 are names of "
 "files/folders."
 msgid "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
-msgstr "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
+msgstr "\"%1\", \"%2\", \"%3\", \"%4\" va \"%5\""
 
 #: kitemviews/kfileitemlisttostring.cpp:67
 #, kde-format
@@ -7031,7 +7031,6 @@ msgstr ""
 "Har bir katalog darajasi çapdan öngga qarab gorizontal "
 "ravişda öz ustunida körsatiladi.</para><para>Jildni tanlaş "
 "uning tarkibini öng tomondagi keyingi ustunda oçadi.</para> "
-"Change View Mode - Köriniş rejimini özgartiriş"
 
 #: views/dolphinviewactionhandler.cpp:239
 #, kde-format

@@ -1,10 +1,10 @@
 Could not load page content - Sahifa kontentini yuklab bölmadi
-Technical details: The <command>%1</command> tool is required to display this page, but could not be found. You may be able to install it using your package manager; either way, please report this packaging issue to %2. - Texnik tafsilotlar: Bu sahifani körsatiş uçun <command>%1</command> vositasi talab qilinadi, ammo topilmadi.
+Technical details: The <command>%1</command> tool is required to display this page, but could not be found. You may be able to install it using your package manager; either way, please report this packaging issue to %2. - Texnik tafsilotlar: Bu sahifani körsatiş uçun <command>%1</command> vositasi talab qilinadi, ammo topilmadi. Uni paket menejeringiz orqali örnatişingiz mumkin; har qanday holatda ham, uşbu paketlaş muammosi haqida %2 ga xabar bering.
 Technical details: the <command>%1</command> tool crashed while generating page content. - Texnik tafsilotlar: sahifa kontentini yaratişda <command>%1</command> vositasi halokatga uçradi.
 No text matching the filter - Filtrga mos keladigan matn yöq
 No data available - Maʼlumot mavjud emas
 Report to %1 - %1 ga xabar beriş
-Filter… - Jild
+Filter… - Filtr…
 Filter - Filtr
 Close - Yopiş
 Pause Refreshing - Yangilaşni pauza qiliş
